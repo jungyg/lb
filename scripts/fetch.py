@@ -86,6 +86,16 @@ def money(value) -> float | None:
         return None
 
 
+def pick_image(images: list[dict]) -> str | None:
+    """Prefer the studio bottle shot; later images are usually the label or lifestyle photos."""
+    srcs = [img.get("src") for img in sorted(images, key=lambda i: i.get("position") or 0) if img.get("src")]
+    for src in srcs:
+        name = src.rsplit("/", 1)[-1].lower()
+        if "bottleshot" in name and "marathon" not in name:
+            return src
+    return srcs[0] if srcs else None
+
+
 def normalize(p: dict) -> dict:
     tags = parse_tags(p.get("tags"))
     variants = p.get("variants") or [{}]
@@ -94,7 +104,6 @@ def normalize(p: dict) -> dict:
     price, retail = money(v.get("price")), money(v.get("compare_at_price"))
     discount = round(100 * (1 - price / retail)) if price and retail and retail > price else None
     vintages = VINTAGE.findall(p["title"])
-    images = p.get("images") or []
     return {
         "id": p["id"],
         "title": p["title"].strip(),
@@ -111,7 +120,7 @@ def normalize(p: dict) -> dict:
         "vendor": p.get("vendor"),
         "sku": v.get("sku"),
         "variant_id": v.get("id"),
-        "image": images[0]["src"] if images else None,
+        "image": pick_image(p.get("images") or []),
         "published_at": p.get("published_at"),
         "tags": tags,
     }
