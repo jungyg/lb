@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Last Bottle catalog</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600&family=Spectral:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #ECEEEA;
+    --field: #F7F8F5;
+    --ink: #2A1621;
+    --claret: #7B1631;
+    --claret-soft: #E7C6CF;
+    --glass: #2E5A43;
+    --muted: #675E6B;
+    --rule: #C9C4C6;
+    --serif: "Spectral", Georgia, serif;
+    --sans: "Public Sans", system-ui, -apple-system, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--paper); color: var(--ink); }
+  body { margin: 0; font: 400 16px/1.5 var(--sans); -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--claret); outline-offset: 3px; border-radius: 2px; }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 0 24px; }
+
+  .top { padding-top: 44px; padding-bottom: 28px; }
+  h1 { font: 500 2.6rem/1.1 var(--serif); letter-spacing: -0.01em; margin: 0 0 10px; }
+  .status { margin: 0; color: var(--muted); max-width: 62ch; }
+
+  /* Today's offer: the one loud element on the page */
+  .offer { background: var(--claret); color: #FBF1F3; }
+  .offer .wrap { padding-top: 30px; padding-bottom: 34px; }
+  .offer h2 { font: italic 400 1.2rem/1.2 var(--serif); color: var(--claret-soft); margin: 0 0 20px; }
+  .offer-items { display: grid; gap: 28px 40px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr)); }
+  .offer-item { display: grid; grid-template-columns: 112px 1fr; gap: 20px; align-items: start; }
+  .offer-item img, .offer-item .noimg { width: 112px; height: 136px; object-fit: contain; background: #fff; border-radius: 3px; }
+  .offer-name { font: 500 1.3rem/1.25 var(--serif); margin: 0 0 8px; }
+  .offer-name a { text-decoration: none; }
+  .offer-name a:hover { text-decoration: underline; text-underline-offset: 3px; }
+  .offer-price { font: 400 2.8rem/1 var(--serif); font-variant-numeric: lining-nums; }
+  .offer .meta { color: var(--claret-soft); margin-top: 8px; }
+  .offer .meta .off { color: #fff; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 12px 16px; align-items: center; padding: 28px 0 4px; }
+  .views { display: inline-flex; border: 1px solid var(--ink); border-radius: 999px; overflow: hidden; }
+  .views button { font: 500 0.9rem var(--sans); color: var(--ink); background: none; border: 0; padding: 7px 15px; cursor: pointer; }
+  .views button + button { border-left: 1px solid var(--ink); }
+  .views button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+  .controls input, .controls select { font: inherit; font-size: 0.95rem; color: var(--ink); background: var(--field); border: 1px solid var(--rule); border-radius: 4px; padding: 7px 10px; }
+  .controls input { flex: 1 1 220px; }
+
+  .group { padding: 30px 0 6px; }
+  .group h2 { font: 500 1.55rem/1.2 var(--serif); margin: 0; }
+  .group h2 .count { font: 400 1rem var(--sans); color: var(--muted); margin-left: 6px; }
+  .group .note { margin: 4px 0 14px; color: var(--muted); font-size: 0.92rem; }
+  .list { list-style: none; margin: 0; padding: 0; }
+  .row { padding: 9px 0 11px; }
+
+  /* Wine-list line: name, dotted leader, price */
+  .line { display: flex; align-items: flex-end; align-items: last baseline; gap: 8px; }
+  .name { font: 400 1.12rem/1.35 var(--serif); max-width: 46ch; }
+  .name a { text-decoration: none; }
+  .name a:hover { text-decoration: underline; text-decoration-color: var(--claret); text-underline-offset: 3px; }
+  .leader { flex: 1 1 24px; min-width: 24px; border-bottom: 2px dotted var(--rule); transform: translateY(-5px); }
+  .price { font: 500 1.12rem/1.35 var(--serif); font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; }
+  .meta { display: flex; flex-wrap: wrap; gap: 2px 16px; font-size: 0.86rem; color: var(--muted); margin-top: 2px; }
+  .meta .off { color: var(--claret); font-weight: 600; }
+  .meta .new { color: var(--glass); font-weight: 600; }
+  .row.sold .name, .row.sold .price { color: var(--muted); }
+
+  .message { padding: 36px 0; color: var(--muted); max-width: 60ch; }
+  .message button { font: inherit; color: var(--claret); background: none; border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
+  footer { margin-top: 48px; padding-top: 24px; padding-bottom: 48px; color: var(--muted); font-size: 0.85rem; }
+  footer p { margin: 0; max-width: 70ch; }
+
+  @media (max-width: 560px) {
+    h1 { font-size: 2.1rem; }
+    .offer-item { grid-template-columns: 84px 1fr; gap: 16px; }
+    .offer-item img, .offer-item .noimg { width: 84px; height: 102px; }
+    .offer-price { font-size: 2.2rem; }
+    .views { width: 100%; }
+    .views button { flex: 1; padding: 7px 8px; }
+  }
+</style>
+</head>
+<body>
+  <header class="top wrap">
+    <h1>Last Bottle catalog</h1>
+    <p class="status"><span id="status">Loading the store feed…</span> <span id="updated"></span></p>
+  </header>
+
+  <section class="offer" id="offer" hidden aria-labelledby="offer-title">
+    <div class="wrap">
+      <h2 id="offer-title">Today’s offer</h2>
+      <div class="offer-items" id="offer-items"></div>
+    </div>
+  </section>
+
+  <main class="wrap">
+    <div class="controls">
+      <div class="views" role="group" aria-label="Show">
+        <button type="button" data-view="orderable" aria-pressed="true">Orderable</button>
+        <button type="button" data-view="past" aria-pressed="false">Past offers</button>
+        <button type="button" data-view="all" aria-pressed="false">All</button>
+      </div>
+      <input id="q" type="search" placeholder="Search by producer, grape, or region" aria-label="Search wines">
+      <select id="sort" aria-label="Sort">
+        <option value="newest">Newest first</option>
+        <option value="discount">Biggest discount</option>
+        <option value="price_low">Lowest price</option>
+        <option value="price_high">Highest price</option>
+        <option value="vintage">Oldest vintage</option>
+      </select>
+    </div>
+    <div id="list"></div>
+  </main>
+
+  <footer class="wrap">
+    <p>Prices and availability come from Last Bottle’s public product feed and refresh about every 30 minutes, so confirm on the product page before ordering. “Retail” and “% off” use Last Bottle’s own list price. Not affiliated with Last Bottle.</p>
+  </footer>
+
+<script>
+const STORE = "https://lastbottlewines.com/products/";
+const CDN = "https://cdn.shopify.com/";
+const NEW_FOR_MS = 3 * 24 * 3600e3;
+const state = { data: null, view: "orderable", q: "", sort: "newest" };
+const $ = (s) => document.querySelector(s);
+
+function el(tag, props = {}, ...kids) {
+  const node = document.createElement(tag);
+  for (const [k, v] of Object.entries(props)) {
+    if (v == null || v === false) continue;
+    if (k === "class") node.className = v;
+    else node.setAttribute(k, v === true ? "" : v);
+  }
+  for (const kid of kids.flat()) {
+    if (kid == null || kid === false) continue;
+    node.append(kid instanceof Node ? kid : document.createTextNode(String(kid)));
+  }
+  return node;
+}
+
+const money = (v) => (v == null ? "" : "$" + (Number.isInteger(v) ? v : v.toFixed(2)));
+const plural = (n, word) => `${n} ${word}${n === 1 ? "" : "s"}`;
+function ago(iso) {
+  const min = Math.round((Date.now() - Date.parse(iso)) / 60000);
+  if (min < 1) return "just now";
+  if (min < 60) return plural(min, "minute") + " ago";
+  const hr = Math.round(min / 60);
+  return hr < 48 ? plural(hr, "hour") + " ago" : plural(Math.round(hr / 24), "day") + " ago";
+}
+const fold = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+const safeUrl = (p) => (p.url && p.url.startsWith(STORE) ? p.url : null);
+const thumb = (src, w) => (src && src.startsWith(CDN) ? `${src}${src.includes("?") ? "&" : "?"}width=${w}` : null);
+const isNew = (p) => p.first_seen && Date.now() - Date.parse(p.first_seen) < NEW_FOR_MS;
+
+function groupOf(p) {
+  if (p.status === "dailyoffer") return "daily";
+  if (p.status === "pdp" && p.is_wine) return "pdp";
+  if (p.status === "pastoffer") return "past";
+  return "extras";
+}
+
+const GROUPS = [
+  { key: "pdp", title: "Also orderable", note: "Not shown on Last Bottle’s homepage, but you can buy them from their product pages." },
+  { key: "extras", title: "Other items", note: "Samples, cool packs, and gift cards." },
+  { key: "past", title: "Past offers", note: "Sold out. Last Bottle keeps these pages up as an archive." },
+];
+const VIEWS = { orderable: ["pdp", "extras"], past: ["past"], all: ["pdp", "extras", "past"] };
+
+const SORTS = {
+  newest: (a, b) => (b.published_at || "").localeCompare(a.published_at || ""),
+  discount: (a, b) => (b.discount ?? -1) - (a.discount ?? -1),
+  price_low: (a, b) => (a.price ?? Infinity) - (b.price ?? Infinity),
+  price_high: (a, b) => (b.price ?? -1) - (a.price ?? -1),
+  vintage: (a, b) => (a.vintage ?? 9999) - (b.vintage ?? 9999),
+};
+
+function metaBits(p) {
+  return [
+    p.retail && el("span", {}, `Retail ${money(p.retail)}`),
+    p.discount && el("span", { class: "off" }, `${p.discount}% off`),
+    p.free_ship && el("span", {}, p.free_ship === 1 ? "Ships free" : `Ships free with ${p.free_ship} bottles`),
+    !p.available && el("span", {}, "Sold out"),
+    isNew(p) && el("span", { class: "new" }, `Added ${ago(p.first_seen)}`),
+  ];
+}
+
+function nameNode(p) {
+  const url = safeUrl(p);
+  return url ? el("a", { href: url, target: "_blank", rel: "noopener" }, p.title) : p.title;
+}
+
+function renderOffer(items) {
+  $("#offer").hidden = items.length === 0;
+  $("#offer-items").replaceChildren(...items.map((p) => {
+    const img = thumb(p.image, 300);
+    return el("article", { class: "offer-item" },
+      img ? el("img", { src: img, alt: "", width: 112, height: 136 }) : el("div", { class: "noimg" }),
+      el("div", {},
+        el("h3", { class: "offer-name" }, nameNode(p)),
+        el("div", { class: "offer-price" }, money(p.price)),
+        el("div", { class: "meta" }, metaBits(p))));
+  }));
+}
+
+function renderList() {
+  const terms = fold(state.q).split(/\s+/).filter(Boolean);
+  const matches = (p) => terms.every((t) => fold(`${p.title} ${p.vendor || ""}`).includes(t));
+  const pool = state.data.products.filter(matches);
+  const sections = VIEWS[state.view].map((key) => {
+    const g = GROUPS.find((x) => x.key === key);
+    const items = pool.filter((p) => groupOf(p) === key && (key !== "extras" || p.available)).sort(SORTS[state.sort]);
+    if (!items.length) return null;
+    return el("section", { class: "group" },
+      el("h2", {}, g.title, el("span", { class: "count" }, items.length)),
+      el("p", { class: "note" }, g.note),
+      el("ol", { class: "list" }, items.map((p) =>
+        el("li", { class: p.available ? "row" : "row sold" },
+          el("div", { class: "line" },
+            el("span", { class: "name" }, nameNode(p)),
+            el("span", { class: "leader", "aria-hidden": "true" }),
+            el("span", { class: "price" }, money(p.price))),
+          el("div", { class: "meta" }, metaBits(p))))));
+  }).filter(Boolean);
+
+  if (sections.length) return $("#list").replaceChildren(...sections);
+  const clear = el("button", { type: "button" }, "Clear the search");
+  clear.addEventListener("click", () => { $("#q").value = ""; state.q = ""; renderList(); $("#q").focus(); });
+  $("#list").replaceChildren(el("p", { class: "message" },
+    terms.length ? [`No products match “${state.q}” in this view. `, clear, "."] : "Nothing in this view right now."));
+}
+
+function renderStatus() {
+  const { products, updated } = state.data;
+  const orderable = products.filter((p) => p.is_wine && p.available && p.status !== "pastoffer").length;
+  $("#status").textContent = `${products.length} products in the store feed, ${plural(orderable, "wine")} you can order now.`;
+  $("#updated").textContent = `Updated ${ago(updated)}.`;
+  $("#updated").title = new Date(updated).toLocaleString();
+}
+
+function render() {
+  renderStatus();
+  renderOffer(state.data.products.filter((p) => p.status === "dailyoffer"));
+  renderList();
+}
+
+async function load() {
+  try {
+    const res = await fetch(`products.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    if (state.data && state.data.updated === data.updated) return;
+    state.data = data;
+    render();
+  } catch (err) {
+    if (state.data) return; // keep showing the last good copy
+    $("#status").textContent = "The catalog data couldn’t be loaded.";
+    $("#list").replaceChildren(el("p", { class: "message" },
+      `products.json is missing or unreadable (${err.message}). On a new site, open the repository’s Actions tab and run the “Update catalog” workflow once.`));
+  }
+}
+
+document.querySelectorAll(".views button").forEach((btn) => btn.addEventListener("click", () => {
+  state.view = btn.dataset.view;
+  document.querySelectorAll(".views button").forEach((b) => b.setAttribute("aria-pressed", String(b === btn)));
+  if (state.data) renderList();
+}));
+$("#q").addEventListener("input", (e) => { state.q = e.target.value; if (state.data) renderList(); });
+$("#sort").addEventListener("change", (e) => { state.sort = e.target.value; if (state.data) renderList(); });
+
+load();
+setInterval(load, 10 * 60e3);
+setInterval(() => state.data && renderStatus(), 60e3);
+</script>
+</body>
+</html>

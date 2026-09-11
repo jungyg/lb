@@ -1,0 +1,55 @@
+name: Update catalog
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"   # every 30 min, off the top of the hour when GitHub's queue is busiest
+  workflow_dispatch:           # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]           # redeploy when you edit the page
+
+permissions:
+  contents: write              # commit data/catalog.json
+  pages: write
+  id-token: write
+
+concurrency:
+  group: catalog
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch products
+        run: python scripts/fetch.py
+
+      - name: Commit catalog changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/catalog.json
+          if git diff --staged --quiet; then
+            echo "No catalog changes"
+          else
+            git commit -m "Catalog update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
