@@ -121,7 +121,8 @@
     "collection:swirl",
     "freeship:2",
     "NCD",
-    "status:pdp"
+    "status:pdp",
+    "status:pdp_ad"
    ],
    "first_seen": null
   },
