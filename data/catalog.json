@@ -103,7 +103,7 @@
    "title": "Head High Syrah Sonoma County 2023",
    "handle": "head-high-syrah-sonoma-county-2023",
    "url": "https://lastbottlewines.com/products/head-high-syrah-sonoma-county-2023",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 13.0,
    "retail": 26.0,
@@ -118,6 +118,7 @@
    "published_at": "2026-09-10T13:49:26-07:00",
    "tags": [
     "freeship:6",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
