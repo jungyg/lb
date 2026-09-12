@@ -1,6 +1,55 @@
 {
  "products": [
   {
+   "id": 10824218411292,
+   "title": "Domaine de l'Accent Rouge Una Notte France 2023",
+   "handle": "domaine-de-laccent-rouge-una-notte-france-2023",
+   "url": "https://lastbottlewines.com/products/domaine-de-laccent-rouge-una-notte-france-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 14.0,
+   "retail": 30.0,
+   "discount": 53,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013978",
+   "variant_id": 54066828607772,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_de_l_Accent_Rouge_Una_Notte_France_2023_1013978_LB_BottleShot.jpg?v=1788189371",
+   "published_at": "2026-09-12T10:00:19-07:00",
+   "tags": [
+    "backup",
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-12T17:00:20Z"
+  },
+  {
+   "id": 10938535215388,
+   "title": "Furthermore Wines Pinot Noir Russian River Valley 2022",
+   "handle": "furthermore-wines-pinot-noir-russian-river-valley-2022",
+   "url": "https://lastbottlewines.com/products/furthermore-wines-pinot-noir-russian-river-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 19.0,
+   "retail": 50.0,
+   "discount": 62,
+   "free_ship": 6,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000228",
+   "variant_id": 54418775310620,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Furthermore_PNR22_RRV_2000228_LB_BottleShot.jpg?v=1788213482",
+   "published_at": "2026-09-12T09:56:03-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-12T17:00:20Z"
+  },
+  {
    "id": 10936559042844,
    "title": "Grape Culture Chardonnay Sangiacomo Roberts Road Vineyard Sonoma Coast 2023",
    "handle": "grape-culture-chardonnay-sangiacomo-roberts-road-vineyard-sonoma-coast-2023",
@@ -22,54 +71,6 @@
     "freeship:4",
     "status:pdp",
     "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10950060409116,
-   "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
-   "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
-   "url": "https://lastbottlewines.com/products/adversity-cellars-red-blend-rileys-napa-valley-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 225.0,
-   "discount": 56,
-   "free_ship": 1,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000051",
-   "variant_id": 54452850819356,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000051.jpg?v=1787504542",
-   "published_at": "2026-09-11T10:02:14-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10950060278044,
-   "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
-   "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
-   "url": "https://lastbottlewines.com/products/adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 89.0,
-   "retail": 225.0,
-   "discount": 60,
-   "free_ship": 1,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000052",
-   "variant_id": 54452850589980,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_1.jpg?v=1788883083",
-   "published_at": "2026-09-11T09:56:07-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
    ],
    "first_seen": null
   },
