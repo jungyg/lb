@@ -1,31 +1,6 @@
 {
  "products": [
   {
-   "id": 10824218411292,
-   "title": "Domaine de l'Accent Rouge Una Notte France 2023",
-   "handle": "domaine-de-laccent-rouge-una-notte-france-2023",
-   "url": "https://lastbottlewines.com/products/domaine-de-laccent-rouge-una-notte-france-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 30.0,
-   "discount": 53,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013978",
-   "variant_id": 54066828607772,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_de_l_Accent_Rouge_Una_Notte_France_2023_1013978_LB_BottleShot.jpg?v=1788189371",
-   "published_at": "2026-09-12T10:00:19-07:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-12T17:00:20Z"
-  },
-  {
    "id": 10936559042844,
    "title": "Grape Culture Chardonnay Sangiacomo Roberts Road Vineyard Sonoma Coast 2023",
    "handle": "grape-culture-chardonnay-sangiacomo-roberts-road-vineyard-sonoma-coast-2023",
