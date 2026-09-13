@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10934917824796,
+   "title": "Château Gracia Saint-Émilion Grand Cru 2019",
+   "handle": "chateau-gracia-saint-emilion-grand-cru-2019",
+   "url": "https://lastbottlewines.com/products/chateau-gracia-saint-emilion-grand-cru-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 79.0,
+   "retail": 129.0,
+   "discount": 39,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013726",
+   "variant_id": 54410116792604,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauGraciaSaint-EmilionGrandCru2019_1013726_LB_BottleShot.jpg?v=1789152324",
+   "published_at": "2026-09-13T09:56:02-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-13T16:56:44Z"
+  },
+  {
    "id": 10936559042844,
    "title": "Grape Culture Chardonnay Sangiacomo Roberts Road Vineyard Sonoma Coast 2023",
    "handle": "grape-culture-chardonnay-sangiacomo-roberts-road-vineyard-sonoma-coast-2023",
