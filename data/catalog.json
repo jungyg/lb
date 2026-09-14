@@ -1,6 +1,78 @@
 {
  "products": [
   {
+   "id": 10744257610012,
+   "title": "Une Femme Sparkling Rosé The Callie California NV",
+   "handle": "une-femme-sparkling-rose-the-callie-california-nv",
+   "url": "https://lastbottlewines.com/products/une-femme-sparkling-rose-the-callie-california-nv",
+   "status": "other",
+   "available": true,
+   "price": 12.0,
+   "retail": 29.0,
+   "discount": 59,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012994",
+   "variant_id": 53796680761628,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Une_Femme_Sparkling_Rose_The_Callie_California_NV_1012994_LB_BottleShot.jpg?v=1788214777",
+   "published_at": "2026-09-14T09:56:06-07:00",
+   "tags": [
+    "freeship:6"
+   ],
+   "first_seen": "2026-09-14T16:56:06Z"
+  },
+  {
+   "id": 10751094522140,
+   "title": "Castello Romitorio Brunello di Montalcino Riserva 2016",
+   "handle": "castello-di-romitorio-brunello-di-montalcino-riserva-2016",
+   "url": "https://lastbottlewines.com/products/castello-di-romitorio-brunello-di-montalcino-riserva-2016",
+   "status": "pdp",
+   "available": true,
+   "price": 199.0,
+   "retail": 300.0,
+   "discount": 34,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012443",
+   "variant_id": 53854455496988,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012443_LB_BottleShot.jpg?v=1778103365",
+   "published_at": "2026-09-14T09:54:36-07:00",
+   "tags": [
+    "display:no-seo",
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-14T16:56:06Z"
+  },
+  {
+   "id": 10828336267548,
+   "title": "Montetondo Luigi Vino Rosso Italia 2025",
+   "handle": "montetondo-luigi-vino-rosso-italia-2023",
+   "url": "https://lastbottlewines.com/products/montetondo-luigi-vino-rosso-italia-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 13.0,
+   "retail": 25.0,
+   "discount": 48,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Montetondo",
+   "sku": "1013376",
+   "variant_id": 54078041850140,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MontetondoLuigi_1013376_LB_BottleShot_2.jpg?v=1782507901",
+   "published_at": "2026-09-14T09:51:47-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-14T16:56:06Z"
+  },
+  {
    "id": 10873372475676,
    "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
    "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
