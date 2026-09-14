@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10796522733852,
+   "title": "Argyle Rosé Estate Reserve Brut Willamette Valley 2021",
+   "handle": "argyle-rose-brut-willamette-valley-2021",
+   "url": "https://lastbottlewines.com/products/argyle-rose-brut-willamette-valley-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 22.0,
+   "retail": 52.0,
+   "discount": 58,
+   "free_ship": 6,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Beyerman",
+   "sku": "1013798",
+   "variant_id": 53990991495452,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Argyle_1013798_LB_BottleShot.jpg?v=1783097741",
+   "published_at": "2026-09-14T10:00:28-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-14T17:15:20Z"
+  },
+  {
    "id": 10744257610012,
    "title": "Une Femme Sparkling Rosé The Callie California NV",
    "handle": "une-femme-sparkling-rose-the-callie-california-nv",
@@ -72,30 +96,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-14T16:56:06Z"
-  },
-  {
-   "id": 10873372475676,
-   "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
-   "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "url": "https://lastbottlewines.com/products/chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "status": "other",
-   "available": true,
-   "price": 30.0,
-   "retail": 60.0,
-   "discount": 50,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Joanne SAS",
-   "sku": "1013592",
-   "variant_id": 54216133509404,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rol_Valentin_Saint-Emilion_Grand_Cru_2023_1013592_LB_BottleShot-4.jpg?v=1787589713",
-   "published_at": "2026-09-13T10:00:10-07:00",
-   "tags": [
-    "backup",
-    "freeship:6"
-   ],
-   "first_seen": "2026-09-13T17:00:22Z"
   },
   {
    "id": 10936559042844,
