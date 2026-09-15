@@ -49,30 +49,6 @@
    "first_seen": "2026-09-15T17:15:17Z"
   },
   {
-   "id": 10940401844508,
-   "title": "Bold Wine Co. Pinot Noir Monterey 2024",
-   "handle": "bold-pinot-noir-monterey-2024",
-   "url": "https://lastbottlewines.com/products/bold-pinot-noir-monterey-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 12.0,
-   "retail": 30.0,
-   "discount": 60,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000108",
-   "variant_id": 54423195517212,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Bold_PNR24_Monterey_2000108_LB_BottleShot.jpg?v=1789400331",
-   "published_at": "2026-09-15T09:56:21-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-15T17:00:21Z"
-  },
-  {
    "id": 10751094522140,
    "title": "Castello Romitorio Brunello di Montalcino Riserva 2016",
    "handle": "castello-di-romitorio-brunello-di-montalcino-riserva-2016",
