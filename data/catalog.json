@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10940402073884,
+   "title": "Bold Wine Co. Pinot Noir Monterey 2023",
+   "handle": "bold-pinot-noir-monterey-2023",
+   "url": "https://lastbottlewines.com/products/bold-pinot-noir-monterey-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 30.0,
+   "discount": 60,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000107",
+   "variant_id": 54423195779356,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Bold_PNR23_Monterey_2000107_LB_BottleShot.jpg?v=1789401276",
+   "published_at": "2026-09-15T10:00:28-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-15T17:15:17Z"
+  },
+  {
+   "id": 10940402172188,
+   "title": "Bold Wine Co. Pinot Noir Monterey 2022",
+   "handle": "bold-pinot-noir-monterey-2022",
+   "url": "https://lastbottlewines.com/products/bold-pinot-noir-monterey-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 30.0,
+   "discount": 60,
+   "free_ship": 6,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000106",
+   "variant_id": 54423195943196,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Bold_PNR22_Monterey_2000106_LB_BottleShot.jpg?v=1789400611",
+   "published_at": "2026-09-15T10:00:26-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-15T17:15:17Z"
+  },
+  {
    "id": 10940401844508,
    "title": "Bold Wine Co. Pinot Noir Monterey 2024",
    "handle": "bold-pinot-noir-monterey-2024",
@@ -2261,7 +2309,7 @@
    "handle": "rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "status": "pastoffer",
-   "available": false,
+   "available": true,
    "price": 39.0,
    "retail": 132.0,
    "discount": 70,
