@@ -719,7 +719,8 @@
    "tags": [
     "freeship:4",
     "product:welcome_flow",
-    "status:pdp"
+    "status:pdp",
+    "status:pdp_ad"
    ],
    "first_seen": null
   },
