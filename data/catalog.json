@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10938543145244,
+   "title": "Pangloss Cellars Merlot Moon Mountain District 2022",
+   "handle": "pangloss-cellars-merlot-moon-mountain-district-2022",
+   "url": "https://lastbottlewines.com/products/pangloss-cellars-merlot-moon-mountain-district-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 19.0,
+   "retail": 75.0,
+   "discount": 75,
+   "free_ship": 6,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000206",
+   "variant_id": 54418800902428,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Pangloss_MER22_Moon_Mountain_District_2000206_LB_BottleShot.jpg?v=1789410650",
+   "published_at": "2026-09-16T10:15:07-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-16T17:15:16Z"
+  },
+  {
+   "id": 10795566891292,
+   "title": "Tenuta Degli Dei Cavalli Toscana 2022",
+   "handle": "tenuta-degli-dei-cavalli-toscana-2022",
+   "url": "https://lastbottlewines.com/products/tenuta-degli-dei-cavalli-toscana-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Continent Wines Inc.",
+   "sku": "1013670",
+   "variant_id": 53987091349788,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013670_LB_BottleShot.jpg?v=1773851501",
+   "published_at": "2026-09-16T10:00:48-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-16T17:15:16Z"
+  },
+  {
    "id": 10660897423644,
    "title": "Conn Creek Anthology Red Blend Etched Napa Valley 2010 (Double Magnum 3L)",
    "handle": "conn-creek-anthology-red-blend-etched-napa-valley-2010-double-magnum-3l",
