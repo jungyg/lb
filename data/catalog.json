@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10962810601756,
+   "title": "Txakoli Primo Zarautz Spain 2024",
+   "handle": "txakoli-primo-zarautz-spain-2024",
+   "url": "https://lastbottlewines.com/products/txakoli-primo-zarautz-spain-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 13.0,
+   "retail": 36.0,
+   "discount": 64,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015455",
+   "variant_id": 54490177274140,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015455.jpg?v=1789573138",
+   "published_at": "2026-09-17T09:56:32-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-17T17:00:21Z"
+  },
+  {
    "id": 10938543145244,
    "title": "Pangloss Cellars Merlot Moon Mountain District 2022",
    "handle": "pangloss-cellars-merlot-moon-mountain-district-2022",
@@ -95,30 +119,6 @@
     "collection:CCKLargeFormatSale",
     "freeship:1",
     "status:pdp"
-   ],
-   "first_seen": "2026-09-16T17:00:22Z"
-  },
-  {
-   "id": 10820831052060,
-   "title": "Sleeper Brunello di Montalcino 2020",
-   "handle": "sleeper-brunello-di-montalcino-2020",
-   "url": "https://lastbottlewines.com/products/sleeper-brunello-di-montalcino-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 36.0,
-   "retail": 89.0,
-   "discount": 60,
-   "free_ship": 4,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "ASSETING S.R.L.",
-   "sku": "1012494",
-   "variant_id": 54055822983452,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Sleeper_Brunello_di_Montalcino_2020_1012494_LB_BottleShot.jpg?v=1789090425",
-   "published_at": "2026-09-16T09:56:05-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-09-16T17:00:22Z"
   },
