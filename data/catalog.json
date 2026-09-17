@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10873372246300,
+   "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
+   "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
+   "url": "https://lastbottlewines.com/products/ovis-sauvignon-blanc-high-valley-lake-county-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 21.0,
+   "retail": 45.0,
+   "discount": 53,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015605",
+   "variant_id": 54216133214492,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Ovis_SBL23_1015605_LB_BottleShot_1.jpg?v=1788213003",
+   "published_at": "2026-09-17T10:00:31-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-17T17:15:17Z"
+  },
+  {
    "id": 10962810601756,
    "title": "Txakoli Primo Zarautz Spain 2024",
    "handle": "txakoli-primo-zarautz-spain-2024",
@@ -45,30 +69,6 @@
    "tags": [
     "freeship:6",
     "status:pdp"
-   ],
-   "first_seen": "2026-09-16T17:15:16Z"
-  },
-  {
-   "id": 10795566891292,
-   "title": "Tenuta Degli Dei Cavalli Toscana 2022",
-   "handle": "tenuta-degli-dei-cavalli-toscana-2022",
-   "url": "https://lastbottlewines.com/products/tenuta-degli-dei-cavalli-toscana-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 2,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Continent Wines Inc.",
-   "sku": "1013670",
-   "variant_id": 53987091349788,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013670_LB_BottleShot.jpg?v=1773851501",
-   "published_at": "2026-09-16T10:00:48-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-09-16T17:15:16Z"
   },
