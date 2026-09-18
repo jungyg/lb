@@ -5,7 +5,7 @@
    "title": "V. Vineyards Cabernet Sauvignon Audace Ruby Vineyard Sonoma County 2023",
    "handle": "v-vineyards-audace-ruby-vineyard-sonoma-county-2023",
    "url": "https://lastbottlewines.com/products/v-vineyards-audace-ruby-vineyard-sonoma-county-2023",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 49.0,
    "retail": 125.0,
@@ -20,8 +20,7 @@
    "published_at": "2026-09-18T10:00:14-07:00",
    "tags": [
     "backup",
-    "freeship:3",
-    "status:dailyoffer"
+    "freeship:3"
    ],
    "first_seen": "2026-09-18T17:02:04Z"
   },
@@ -2611,7 +2610,7 @@
    "handle": "rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "status": "pastoffer",
-   "available": true,
+   "available": false,
    "price": 39.0,
    "retail": 132.0,
    "discount": 70,
