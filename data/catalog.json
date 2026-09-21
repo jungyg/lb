@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10980422877468,
+   "title": "KHK Cabernet Sauvignon Napa Valley 2024",
+   "handle": "khk-cabernet-sauvignon-napa-valley-2024-1",
+   "url": "https://lastbottlewines.com/products/khk-cabernet-sauvignon-napa-valley-2024-1",
+   "status": "pdp",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 4,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000511-009",
+   "variant_id": 54576984916252,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/KHK_CSV24_NV_2000511_BottleShot.jpg?v=1789752467",
+   "published_at": "2026-09-21T09:20:37-07:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-21T16:30:19Z"
+  },
+  {
+   "id": 10978025275676,
+   "title": "KHK Cabernet Sauvignon Napa Valley 2024",
+   "handle": "khk-cabernet-sauvignon-napa-valley-2024",
+   "url": "https://lastbottlewines.com/products/khk-cabernet-sauvignon-napa-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 3,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000511",
+   "variant_id": 54569441526044,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/KHK_CSV24_NV_2000511_BottleShot_e983935e-11ba-4f71-8b2a-658e863fa79e.jpg?v=1789752496",
+   "published_at": "2026-09-21T09:17:01-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-21T16:30:19Z"
+  },
+  {
    "id": 10660919574812,
    "title": "Marchesi Antinori Tenuta Guado al Tasso Bolgheri 2022",
    "handle": "marchesi-antinori-tenuta-guado-al-tasso-bolgheri-2022",
