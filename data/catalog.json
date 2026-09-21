@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10660919574812,
+   "title": "Marchesi Antinori Tenuta Guado al Tasso Bolgheri 2022",
+   "handle": "marchesi-antinori-tenuta-guado-al-tasso-bolgheri-2022",
+   "url": "https://lastbottlewines.com/products/marchesi-antinori-tenuta-guado-al-tasso-bolgheri-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 124.0,
+   "retail": 190.0,
+   "discount": 35,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011495",
+   "variant_id": 53345823981852,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011495-941315.jpg?v=1763797874",
+   "published_at": "2026-09-21T09:08:07-07:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-21T16:15:18Z"
+  },
+  {
    "id": 10958487421212,
    "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
    "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
