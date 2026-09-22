@@ -1,11 +1,58 @@
 {
  "products": [
   {
+   "id": 10978488320284,
+   "title": "Mystery Cabernet Franc Beckstoffer To Kalon Vineyard Oakville Napa Valley 2022",
+   "handle": "mystery-cabernet-franc-beckstoffer-to-kalon-vineyard-oakville-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-beckstoffer-to-kalon-vineyard-oakville-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 89.0,
+   "retail": 240.0,
+   "discount": 63,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000671",
+   "variant_id": 54571929370908,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_3_a455c4a2-cae5-4c48-a956-02ca239933e5.jpg?v=1790028940",
+   "published_at": "2026-09-22T10:01:12-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-22T17:15:17Z"
+  },
+  {
+   "id": 10978488254748,
+   "title": "Mystery Cabernet Franc Sleeping Lady Vineyard Yountville Napa Valley 2022",
+   "handle": "mystery-cabernet-franc-sleeping-lady-vineyard-yountville-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-sleeping-lady-vineyard-yountville-napa-valley-2022",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 240.0,
+   "discount": 63,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000670",
+   "variant_id": 54571929305372,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064_3.jpg?v=1790028928",
+   "published_at": "2026-09-22T10:01:10-07:00",
+   "tags": [
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-22T17:15:17Z"
+  },
+  {
    "id": 10978488189212,
    "title": "Mystery Cabernet Franc Napa Valley 2022 3-Pack Horizontal",
    "handle": "mystery-cabernet-franc-napa-valley-2022-3-pack-horizontal",
    "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-napa-valley-2022-3-pack-horizontal",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 279.0,
    "retail": 725.0,
@@ -19,7 +66,8 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008906-300019_3b6297c1-b722-4113-942a-65bc156325e7.jpg?v=1790014979",
    "published_at": "2026-09-22T09:56:02-07:00",
    "tags": [
-    "freeship:1"
+    "freeship:1",
+    "status:dailyoffer"
    ],
    "first_seen": "2026-09-22T17:00:21Z"
   },
@@ -44,30 +92,6 @@
    "tags": [
     "freeship:4",
     "status:pdp"
-   ],
-   "first_seen": "2026-09-21T16:30:19Z"
-  },
-  {
-   "id": 10978025275676,
-   "title": "KHK Cabernet Sauvignon Napa Valley 2024",
-   "handle": "khk-cabernet-sauvignon-napa-valley-2024",
-   "url": "https://lastbottlewines.com/products/khk-cabernet-sauvignon-napa-valley-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 3,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000511",
-   "variant_id": 54569441526044,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/KHK_CSV24_NV_2000511_BottleShot_e983935e-11ba-4f71-8b2a-658e863fa79e.jpg?v=1789752496",
-   "published_at": "2026-09-21T09:17:01-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-09-21T16:30:19Z"
   },
