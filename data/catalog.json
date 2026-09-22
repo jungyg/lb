@@ -28,7 +28,7 @@
    "title": "Mystery Cabernet Franc Sleeping Lady Vineyard Yountville Napa Valley 2022",
    "handle": "mystery-cabernet-franc-sleeping-lady-vineyard-yountville-napa-valley-2022",
    "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-sleeping-lady-vineyard-yountville-napa-valley-2022",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 89.0,
    "retail": 240.0,
@@ -42,33 +42,10 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064_3.jpg?v=1790028928",
    "published_at": "2026-09-22T10:01:10-07:00",
    "tags": [
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-22T17:15:17Z"
-  },
-  {
-   "id": 10978488189212,
-   "title": "Mystery Cabernet Franc Napa Valley 2022 3-Pack Horizontal",
-   "handle": "mystery-cabernet-franc-napa-valley-2022-3-pack-horizontal",
-   "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-napa-valley-2022-3-pack-horizontal",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 279.0,
-   "retail": 725.0,
-   "discount": 62,
-   "free_ship": 1,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000669",
-   "variant_id": 54571929239836,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008906-300019_3b6297c1-b722-4113-942a-65bc156325e7.jpg?v=1790014979",
-   "published_at": "2026-09-22T09:56:02-07:00",
-   "tags": [
-    "freeship:1",
+    "freeship:2",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-09-22T17:00:21Z"
+   "first_seen": "2026-09-22T17:15:17Z"
   },
   {
    "id": 10980422877468,
