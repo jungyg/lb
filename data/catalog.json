@@ -5,7 +5,7 @@
    "title": "Mystery Cabernet Franc Beckstoffer To Kalon Vineyard Oakville Napa Valley 2022",
    "handle": "mystery-cabernet-franc-beckstoffer-to-kalon-vineyard-oakville-napa-valley-2022",
    "url": "https://lastbottlewines.com/products/mystery-cabernet-franc-beckstoffer-to-kalon-vineyard-oakville-napa-valley-2022",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 89.0,
    "retail": 240.0,
@@ -19,8 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_3_a455c4a2-cae5-4c48-a956-02ca239933e5.jpg?v=1790028940",
    "published_at": "2026-09-22T10:01:12-07:00",
    "tags": [
-    "freeship:2",
-    "status:dailyoffer"
+    "freeship:2"
    ],
    "first_seen": "2026-09-22T17:15:17Z"
   },
