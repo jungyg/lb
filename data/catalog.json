@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10947759472924,
+   "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
+   "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
+   "url": "https://lastbottlewines.com/products/grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 14.0,
+   "retail": 45.0,
+   "discount": 69,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000043",
+   "variant_id": 54445253361948,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Grace_Grit_Sauvignon_Blanc_Dry_Creek_Valley_2025_2000043_LB_BottleShot.jpg?v=1788798563",
+   "published_at": "2026-09-23T10:00:45-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-23T17:15:20Z"
+  },
+  {
    "id": 10934925099292,
    "title": "Famiglia Fusi Tenute Fusi Vermentino Toscana 2025",
    "handle": "famiglia-fusi-tenute-fusi-vermentino-toscana-2025",
@@ -23,56 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-09-23T17:00:24Z"
-  },
-  {
-   "id": 10837300773148,
-   "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
-   "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/decades-5-cabernet-sauvignon-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 175.0,
-   "discount": 72,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015436",
-   "variant_id": 54106838761756,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015436_LB_BottleShot.jpg?v=1778695542",
-   "published_at": "2026-09-22T23:18:12-07:00",
-   "tags": [
-    "backup",
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-23T06:30:20Z"
-  },
-  {
-   "id": 10942787715356,
-   "title": "Rudius Cabernet Sauvignon K.E. Oakville Napa Valley 2023",
-   "handle": "rudius-cabernet-sauvignon-k-e-oakville-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/rudius-cabernet-sauvignon-k-e-oakville-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 142.0,
-   "discount": 73,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000244",
-   "variant_id": 54429008331036,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Rudius_CSV23_K_E_Oakville_NV_2000244_LB_BottleShot.jpg?v=1787354234",
-   "published_at": "2026-09-22T14:52:50-07:00",
-   "tags": [
-    "backup",
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-22T22:00:21Z"
   },
   {
    "id": 10980422877468,
