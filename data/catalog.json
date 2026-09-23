@@ -2612,7 +2612,7 @@
    "handle": "rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/rudius-cabernet-sauvignon-howell-mountain-napa-valley-2023",
    "status": "pastoffer",
-   "available": false,
+   "available": true,
    "price": 39.0,
    "retail": 132.0,
    "discount": 70,
