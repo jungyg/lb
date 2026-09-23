@@ -1,29 +1,29 @@
 {
  "products": [
   {
-   "id": 10914400469276,
-   "title": "Mystery Cabernet Sauvignon Napa Icon Napa Valley 2022",
-   "handle": "mystery-cabernet-sauvignon-napa-icon-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-napa-icon-napa-valley-2022",
+   "id": 10837300773148,
+   "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
+   "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/decades-5-cabernet-sauvignon-napa-valley-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 129.0,
-   "retail": 300.0,
-   "discount": 57,
+   "price": 49.0,
+   "retail": 175.0,
+   "discount": 72,
    "free_ship": 2,
-   "vintage": 2022,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "2000271",
-   "variant_id": 54349987053852,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064.jpg?v=1781283637",
-   "published_at": "2026-09-22T14:55:15-07:00",
+   "sku": "1015436",
+   "variant_id": 54106838761756,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015436_LB_BottleShot.jpg?v=1778695542",
+   "published_at": "2026-09-22T23:18:12-07:00",
    "tags": [
+    "backup",
     "freeship:2",
-    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-09-22T22:00:21Z"
+   "first_seen": "2026-09-23T06:30:20Z"
   },
   {
    "id": 10942787715356,
