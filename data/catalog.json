@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10934925099292,
+   "title": "Famiglia Fusi Tenute Fusi Vermentino Toscana 2025",
+   "handle": "famiglia-fusi-tenute-fusi-vermentino-toscana-2025",
+   "url": "https://lastbottlewines.com/products/famiglia-fusi-tenute-fusi-vermentino-toscana-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 16.0,
+   "retail": 30.0,
+   "discount": 47,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014119",
+   "variant_id": 54410141008156,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FamigliaFusiTenuteFusiVermentinoToscana2025_1014119_LB_BottleShot.jpg?v=1790030998",
+   "published_at": "2026-09-23T09:11:40-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-23T16:15:17Z"
+  },
+  {
    "id": 10837300773148,
    "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
    "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
