@@ -27,7 +27,11 @@
   :focus-visible { outline: 2px solid var(--claret); outline-offset: 3px; border-radius: 2px; }
   .wrap { max-width: 920px; margin: 0 auto; padding: 0 24px; }
 
-  .top { padding-top: 44px; padding-bottom: 28px; }
+  .top { padding-top: 28px; padding-bottom: 28px; }
+  .stores { display: flex; gap: 20px; margin: 0 0 22px; font-size: 0.95rem; }
+  .stores a { color: var(--muted); text-decoration: none; padding-bottom: 3px; border-bottom: 2px solid transparent; }
+  .stores a:hover { color: var(--ink); }
+  .stores a[aria-current="page"] { color: var(--ink); font-weight: 600; border-bottom-color: var(--claret); }
   h1 { font: 500 2.6rem/1.1 var(--serif); letter-spacing: -0.01em; margin: 0 0 10px; }
   .status { margin: 0; color: var(--muted); max-width: 62ch; }
 
@@ -102,7 +106,11 @@
 </head>
 <body>
   <header class="top wrap">
-    <h1>Last Bottle catalog</h1>
+    <nav class="stores" aria-label="Store">
+      <a href="./" data-store="bottle">Last Bottle</a>
+      <a href="./?store=bubbles" data-store="bubbles">Last Bubbles</a>
+    </nav>
+    <h1 id="title">Last Bottle catalog</h1>
     <p class="status"><span id="status">Loading the store feed…</span> <span id="updated"></span></p>
   </header>
 
@@ -133,14 +141,21 @@
   </main>
 
   <footer class="wrap">
-    <p>Prices and availability come from Last Bottle’s public product feed and refresh about every 30 minutes, so confirm on the product page before ordering. “Retail” and “% off” use Last Bottle’s own list price. Not affiliated with Last Bottle.</p>
+    <p id="footnote">Prices and availability come from Last Bottle’s public product feed and refresh about every 30 minutes, so confirm on the product page before ordering. “Retail” and “% off” use Last Bottle’s own list price. Not affiliated with Last Bottle.</p>
   </footer>
 
 <script>
-const STORE = "https://lastbottlewines.com/products/";
+const STORES = {
+  bottle: { name: "Last Bottle", owner: "Last Bottle’s", origin: "https://lastbottlewines.com", data: "products.json" },
+  bubbles: { name: "Last Bubbles", owner: "Last Bubbles’", origin: "https://lastbubbles.com", data: "bubbles.json" },
+};
+const storeKey = new URLSearchParams(location.search).get("store") in STORES
+  ? new URLSearchParams(location.search).get("store") : "bottle";
+const SHOP = STORES[storeKey];
+const STORE = SHOP.origin + "/products/";
 const CDN = "https://cdn.shopify.com/";
 const NEW_FOR_MS = 3 * 24 * 3600e3;
-const state = { data: null, view: "orderable", q: "", sort: "newest" };
+const state = { data: null, offers: new Set(), view: "orderable", q: "", sort: "newest" };
 const $ = (s) => document.querySelector(s);
 
 function el(tag, props = {}, ...kids) {
@@ -171,17 +186,26 @@ const safeUrl = (p) => (p.url && p.url.startsWith(STORE) ? p.url : null);
 const thumb = (src, w) => (src && src.startsWith(CDN) ? `${src}${src.includes("?") ? "&" : "?"}width=${w}` : null);
 const isNew = (p) => p.first_seen && Date.now() - Date.parse(p.first_seen) < NEW_FOR_MS;
 
+// Last Bubbles leaves status:dailyoffer on old offers, so only the latest in-stock batch counts as today's.
+const OFFER_WINDOW_MS = 20 * 3600e3;
+function todaysOffers(products) {
+  const offers = products.filter((p) => p.status === "dailyoffer" && p.available && p.published_at);
+  const newest = Math.max(...offers.map((p) => Date.parse(p.published_at)));
+  return new Set(offers.filter((p) => newest - Date.parse(p.published_at) < OFFER_WINDOW_MS));
+}
+
 function groupOf(p) {
-  if (p.status === "dailyoffer") return "daily";
+  if (state.offers.has(p)) return "daily";
+  if (p.status === "dailyoffer") return p.available ? "pdp" : "past";
   if (p.status === "pdp" && p.is_wine) return "pdp";
   if (p.status === "pastoffer") return "past";
   return "extras";
 }
 
 const GROUPS = [
-  { key: "pdp", title: "Also orderable", note: "Not shown on Last Bottle’s homepage, but you can buy them from their product pages." },
-  { key: "extras", title: "Other items", note: "Samples, cool packs, and gift cards." },
-  { key: "past", title: "Past offers", note: "Sold out. Last Bottle keeps these pages up as an archive." },
+  { key: "pdp", title: "Also orderable", note: `Not shown on ${SHOP.owner} homepage, but you can buy them from their product pages.` },
+  { key: "extras", title: "Other items", note: "Samples, untagged listings, cool packs, and gift cards." },
+  { key: "past", title: "Past offers", note: `Sold out. ${SHOP.name} keeps these pages up as an archive.` },
 ];
 const VIEWS = { orderable: ["pdp", "extras"], past: ["past"], all: ["pdp", "extras", "past"] };
 
@@ -277,13 +301,14 @@ function renderStatus() {
 
 function render() {
   renderStatus();
-  renderOffer(state.data.products.filter((p) => p.status === "dailyoffer"));
+  state.offers = todaysOffers(state.data.products);
+  renderOffer([...state.offers]);
   renderList();
 }
 
 async function load() {
   try {
-    const res = await fetch(`products.json?t=${Date.now()}`, { cache: "no-store" });
+    const res = await fetch(`${SHOP.data}?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     if (state.data && state.data.updated === data.updated) return;
@@ -293,9 +318,14 @@ async function load() {
     if (state.data) return; // keep showing the last good copy
     $("#status").textContent = "The catalog data couldn’t be loaded.";
     $("#list").replaceChildren(el("p", { class: "message" },
-      `products.json is missing or unreadable (${err.message}). On a new site, open the repository’s Actions tab and run the “Update catalog” workflow once.`));
+      `${SHOP.data} is missing or unreadable (${err.message}). On a new site, open the repository’s Actions tab and run the “Update catalog” workflow once.`));
   }
 }
+
+document.title = `${SHOP.name} catalog`;
+$("#title").textContent = document.title;
+$("#footnote").textContent = `Prices and availability come from ${SHOP.owner} public product feed and refresh about every 30 minutes, so confirm on the product page before ordering. “Retail” and “% off” use ${SHOP.owner} own list price. Not affiliated with ${SHOP.name}.`;
+document.querySelectorAll(".stores a").forEach((a) => a.dataset.store === storeKey && a.setAttribute("aria-current", "page"));
 
 document.querySelectorAll(".views button").forEach((btn) => btn.addEventListener("click", () => {
   state.view = btn.dataset.view;

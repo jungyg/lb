@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Fetch Last Bottle's public Shopify product feed.
+"""Fetch the public Shopify product feeds of Last Bottle and Last Bubbles.
 
-Writes two files:
-  data/catalog.json   stable fields only; committed, so git history records every change
-  site/products.json  same data plus a fetch timestamp; deployed to GitHub Pages
+Writes two files per store:
+  data/<catalog>.json   stable fields only; committed, so git history records every change
+  site/<site>.json      same data plus a fetch timestamp; deployed to GitHub Pages
 """
 from __future__ import annotations
 
@@ -16,10 +16,12 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-STORE = "https://lastbottlewines.com"
 ROOT = Path(__file__).resolve().parent.parent
-CATALOG = ROOT / "data" / "catalog.json"
-SITE_DATA = ROOT / "site" / "products.json"
+# (store URL, committed catalog, deployed site data)
+STORES = {
+    "bottle": ("https://lastbottlewines.com", ROOT / "data" / "catalog.json", ROOT / "site" / "products.json"),
+    "bubbles": ("https://lastbubbles.com", ROOT / "data" / "bubbles.json", ROOT / "site" / "bubbles.json"),
+}
 HEADERS = {"User-Agent": "Mozilla/5.0 (lb-catalog; GitHub Actions)", "Accept": "application/json"}
 PAGE_SIZE = 250
 MAX_PAGES = 40
@@ -27,8 +29,8 @@ STATUS_ORDER = ["dailyoffer", "pdp", "pastoffer", "upsell", "buyable"]
 VINTAGE = re.compile(r"\b(19[5-9]\d|20[0-4]\d)\b")
 
 
-def fetch_page(page: int, attempts: int = 4) -> list[dict]:
-    url = f"{STORE}/products.json?limit={PAGE_SIZE}&page={page}"
+def fetch_page(store: str, page: int, attempts: int = 4) -> list[dict]:
+    url = f"{store}/products.json?limit={PAGE_SIZE}&page={page}"
     for attempt in range(attempts):
         try:
             req = urllib.request.Request(url, headers=HEADERS)
@@ -44,11 +46,11 @@ def fetch_page(page: int, attempts: int = 4) -> list[dict]:
     raise RuntimeError("unreachable")
 
 
-def fetch_all() -> list[dict]:
+def fetch_all(store: str) -> list[dict]:
     products: list[dict] = []
     seen: set[int] = set()
     for page in range(1, MAX_PAGES + 1):
-        batch = fetch_page(page)
+        batch = fetch_page(store, page)
         fresh = [p for p in batch if p["id"] not in seen]
         if not fresh:  # empty page, or the store ignores ?page= and repeats page 1
             break
@@ -96,7 +98,13 @@ def pick_image(images: list[dict]) -> str | None:
     return srcs[0] if srcs else None
 
 
-def normalize(p: dict) -> dict:
+def is_wine(product_type: str, status: str) -> bool:
+    """Last Bubbles leaves product_type blank on many of its wines, so blank counts as wine unless it's an add-on."""
+    kind = product_type.lower()
+    return "wine" in kind or "sparkling" in kind or (not kind and status not in ("upsell", "buyable"))
+
+
+def normalize(p: dict, store: str) -> dict:
     tags = parse_tags(p.get("tags"))
     variants = p.get("variants") or [{}]
     in_stock = [v for v in variants if v.get("available")]
@@ -104,19 +112,20 @@ def normalize(p: dict) -> dict:
     price, retail = money(v.get("price")), money(v.get("compare_at_price"))
     discount = round(100 * (1 - price / retail)) if price and retail and retail > price else None
     vintages = VINTAGE.findall(p["title"])
+    status = status_of(tags)
     return {
         "id": p["id"],
         "title": p["title"].strip(),
         "handle": p["handle"],
-        "url": f"{STORE}/products/{p['handle']}",
-        "status": status_of(tags),
+        "url": f"{store}/products/{p['handle']}",
+        "status": status,
         "available": bool(in_stock),
         "price": price,
         "retail": retail,
         "discount": discount,
         "free_ship": free_ship_min(tags),
         "vintage": int(vintages[-1]) if vintages else None,
-        "is_wine": "wine" in (p.get("product_type") or "").lower(),
+        "is_wine": is_wine(p.get("product_type") or "", status),
         "vendor": p.get("vendor"),
         "sku": v.get("sku"),
         "variant_id": v.get("id"),
@@ -126,35 +135,41 @@ def normalize(p: dict) -> dict:
     }
 
 
-def main() -> int:
-    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    raw = fetch_all()
+def update(name: str, store: str, catalog: Path, site_data: Path, now: str) -> bool:
+    raw = fetch_all(store)
     if not raw:
-        print("The feed returned no products; keeping the previous data.", file=sys.stderr)
-        return 1
+        print(f"{name}: the feed returned no products; keeping the previous data.", file=sys.stderr)
+        return False
 
     previous: dict[int, dict] = {}
-    if CATALOG.exists():
-        previous = {p["id"]: p for p in json.loads(CATALOG.read_text())["products"]}
+    if catalog.exists():
+        previous = {p["id"]: p for p in json.loads(catalog.read_text())["products"]}
 
     products = []
-    for item in map(normalize, raw):
+    for item in (normalize(p, store) for p in raw):
         prior = previous.get(item["id"])
         # On the very first run nothing counts as new; afterwards, unseen ids get a timestamp.
         item["first_seen"] = prior.get("first_seen") if prior else (now if previous else None)
         products.append(item)
     products.sort(key=lambda p: (p["published_at"] or "", p["id"]), reverse=True)
 
-    CATALOG.parent.mkdir(parents=True, exist_ok=True)
-    CATALOG.write_text(json.dumps({"products": products}, indent=1, ensure_ascii=False) + "\n")
-    SITE_DATA.parent.mkdir(parents=True, exist_ok=True)
-    SITE_DATA.write_text(json.dumps({"updated": now, "products": products}, ensure_ascii=False))
+    catalog.parent.mkdir(parents=True, exist_ok=True)
+    catalog.write_text(json.dumps({"products": products}, indent=1, ensure_ascii=False) + "\n")
+    site_data.parent.mkdir(parents=True, exist_ok=True)
+    site_data.write_text(json.dumps({"updated": now, "products": products}, ensure_ascii=False))
 
     counts: dict[str, int] = {}
     for p in products:
         counts[p["status"]] = counts.get(p["status"], 0) + 1
-    print(f"{len(products)} products: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
-    return 0
+    print(f"{name}: {len(products)} products: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
+    return True
+
+
+def main() -> int:
+    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
+    # Every store must succeed: a partial deploy would drop the failed store's page data.
+    ok = [update(name, *paths, now) for name, paths in STORES.items()]
+    return 0 if all(ok) else 1
 
 
 if __name__ == "__main__":
