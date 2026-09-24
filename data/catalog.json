@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10980422910236,
+   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
+   "handle": "rose-arrow-pinot-noir-willamette-valley-2022-1",
+   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-willamette-valley-2022-1",
+   "status": "pdp",
+   "available": true,
+   "price": 29.0,
+   "retail": 70.0,
+   "discount": 59,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000482-009",
+   "variant_id": 54576984949020,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot_2.jpg?v=1790195410",
+   "published_at": "2026-09-24T09:08:19-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-24T16:15:16Z"
+  },
+  {
    "id": 10947759472924,
    "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
    "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
