@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10958487421212,
+   "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
+   "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
+   "url": "https://lastbottlewines.com/products/hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 22.0,
+   "retail": 64.0,
+   "discount": 66,
+   "free_ship": 6,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015631",
+   "variant_id": 54475251745052,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/HylandEstates_PNR22_CouryClone_McMinnville_1015631_LB_BottleShot-16.jpg?v=1789752125",
+   "published_at": "2026-09-24T10:00:11-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-24T17:01:09Z"
+  },
+  {
+   "id": 10976368951580,
+   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
+   "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 70.0,
+   "discount": 59,
+   "free_ship": 3,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000482",
+   "variant_id": 54564002726172,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
+   "published_at": "2026-09-24T09:56:37-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-24T17:01:09Z"
+  },
+  {
    "id": 10940402041116,
    "title": "Seabold Chardonnay Eden Rift Vineyard Cienega Valley 2023",
    "handle": "seabold-chardonnay-eden-rift-vineyard-cienega-valley-2023",
@@ -47,54 +95,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-24T16:15:16Z"
-  },
-  {
-   "id": 10947759472924,
-   "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
-   "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
-   "url": "https://lastbottlewines.com/products/grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 45.0,
-   "discount": 69,
-   "free_ship": 4,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000043",
-   "variant_id": 54445253361948,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Grace_Grit_Sauvignon_Blanc_Dry_Creek_Valley_2025_2000043_LB_BottleShot.jpg?v=1788798563",
-   "published_at": "2026-09-23T10:00:45-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-23T17:15:20Z"
-  },
-  {
-   "id": 10934925099292,
-   "title": "Famiglia Fusi Tenute Fusi Vermentino Toscana 2025",
-   "handle": "famiglia-fusi-tenute-fusi-vermentino-toscana-2025",
-   "url": "https://lastbottlewines.com/products/famiglia-fusi-tenute-fusi-vermentino-toscana-2025",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 16.0,
-   "retail": 30.0,
-   "discount": 47,
-   "free_ship": 6,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014119",
-   "variant_id": 54410141008156,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FamigliaFusiTenuteFusiVermentinoToscana2025_1014119_LB_BottleShot.jpg?v=1790030998",
-   "published_at": "2026-09-23T09:56:02-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-23T17:00:24Z"
   },
   {
    "id": 10980422877468,
