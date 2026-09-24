@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10940402041116,
+   "title": "Seabold Chardonnay Eden Rift Vineyard Cienega Valley 2023",
+   "handle": "seabold-chardonnay-eden-rift-vineyard-cienega-valley-2023",
+   "url": "https://lastbottlewines.com/products/seabold-chardonnay-eden-rift-vineyard-cienega-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 16.0,
+   "retail": 45.0,
+   "discount": 64,
+   "free_ship": 4,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000112",
+   "variant_id": 54423195746588,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Seabold_CHA23_Eden_Rift_Vineyard_Cienega_Valley_2000112_LB_BottleShot.jpg?v=1790031562",
+   "published_at": "2026-09-24T09:18:05-07:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-24T16:30:19Z"
+  },
+  {
    "id": 10980422910236,
    "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
    "handle": "rose-arrow-pinot-noir-willamette-valley-2022-1",
