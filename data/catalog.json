@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10950060278044,
+   "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
+   "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
+   "url": "https://lastbottlewines.com/products/adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 89.0,
+   "retail": 225.0,
+   "discount": 60,
+   "free_ship": 1,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000052",
+   "variant_id": 54452850589980,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_1.jpg?v=1788883083",
+   "published_at": "2026-09-24T10:52:09-07:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-09-24T18:00:24Z"
+  },
+  {
    "id": 10958487421212,
    "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
    "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
