@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10897459642652,
+   "title": "Château Clos de Sarpe Saint-Émilion Grand Cru 2022",
+   "handle": "chateau-clos-de-sarpe-saint-emilion-grand-cru-2022",
+   "url": "https://lastbottlewines.com/products/chateau-clos-de-sarpe-saint-emilion-grand-cru-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 96.0,
+   "discount": 39,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013691",
+   "variant_id": 54298091061532,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Clos_de_Sarpe_Saint-Emilion_Grand_Cru_2022_1013691_LB_BottleShot.jpg?v=1790031993",
+   "published_at": "2026-09-25T09:56:05-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-25T17:00:24Z"
+  },
+  {
    "id": 10950060278044,
    "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
    "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
@@ -24,54 +48,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-09-24T18:00:24Z"
-  },
-  {
-   "id": 10958487421212,
-   "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
-   "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
-   "url": "https://lastbottlewines.com/products/hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 64.0,
-   "discount": 66,
-   "free_ship": 6,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015631",
-   "variant_id": 54475251745052,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/HylandEstates_PNR22_CouryClone_McMinnville_1015631_LB_BottleShot-16.jpg?v=1789752125",
-   "published_at": "2026-09-24T10:00:11-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-24T17:01:09Z"
-  },
-  {
-   "id": 10976368951580,
-   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
-   "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
-   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 29.0,
-   "retail": 70.0,
-   "discount": 59,
-   "free_ship": 3,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000482",
-   "variant_id": 54564002726172,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
-   "published_at": "2026-09-24T09:56:37-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-24T17:01:09Z"
   },
   {
    "id": 10940402041116,
