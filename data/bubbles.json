@@ -1,27 +1,119 @@
 {
  "products": [
   {
-   "id": 15335901757809,
-   "title": "Champagne Gardet Origine 1895 Brut NV (Half Bottle 375mL)",
-   "handle": "champagne-gardet-origine-1895-brut-nv-half-bottle-375ml",
-   "url": "https://lastbubbles.com/products/champagne-gardet-origine-1895-brut-nv-half-bottle-375ml",
+   "id": 15363492741489,
+   "title": "Champagne Paul Berthelot Eminence Brut Premier Cru NV (Half bottle 375mL)",
+   "handle": "champagne-paul-berthelot-eminence-brut-premier-cru-nv-half-bottle-375ml",
+   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-eminence-brut-premier-cru-nv-half-bottle-375ml",
    "status": "other",
    "available": true,
-   "price": 27.0,
+   "price": 28.0,
    "retail": 40.0,
-   "discount": 32,
+   "discount": 30,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1010096",
-   "variant_id": 62708816445809,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7785-15.jpg?v=1779403320",
-   "published_at": "2026-09-25T14:00:00-07:00",
+   "sku": "1008931",
+   "variant_id": 62817189986673,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7300.jpg?v=1770926497",
+   "published_at": "2026-09-25T14:11:51-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T21:00:23Z"
+   "first_seen": "2026-09-25T21:15:18Z"
+  },
+  {
+   "id": 11394522906993,
+   "title": "Champagne Fluteau Coeur de Cuvée Extra Brut NV (Half Bottle 375mL)",
+   "handle": "champagne-fluteau-coeur-de-cuvee-extra-brut-nv-half-bottle-375ml",
+   "url": "https://lastbubbles.com/products/champagne-fluteau-coeur-de-cuvee-extra-brut-nv-half-bottle-375ml",
+   "status": "other",
+   "available": true,
+   "price": 24.0,
+   "retail": 40.0,
+   "discount": 40,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000206-001",
+   "variant_id": 50374752436593,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1007211_BottleShot.jpg?v=1731346192",
+   "published_at": "2026-09-25T14:08:09-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:15:18Z"
+  },
+  {
+   "id": 15539512607089,
+   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d'Alphaël Extra Brut Grand Cru NV (Half Bottle 375mL) (nd)",
+   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-extra-brut-grand-cru-nv-half-bottle-375ml-nd",
+   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-extra-brut-grand-cru-nv-half-bottle-375ml-nd",
+   "status": "other",
+   "available": true,
+   "price": 29.0,
+   "retail": 47.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000702-002",
+   "variant_id": 63553133314417,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PhilippeGlavier_1007176_BottleShot.jpg?v=1732235775",
+   "published_at": "2026-09-25T14:04:23-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:15:18Z"
+  },
+  {
+   "id": 15581223616881,
+   "title": "Champagne Monmarthe Secret de Famille Brut Premier Cru NV (Half Bottle 375mL)",
+   "handle": "champagne-monmarthe-secret-de-famille-brut-premier-cru-nv-half-bottle-375ml-nd",
+   "url": "https://lastbubbles.com/products/champagne-monmarthe-secret-de-famille-brut-premier-cru-nv-half-bottle-375ml-nd",
+   "status": "other",
+   "available": true,
+   "price": 25.0,
+   "retail": 40.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007909-001",
+   "variant_id": 63680419037553,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-12.jpg?v=1789177056",
+   "published_at": "2026-09-25T14:00:29-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:15:18Z"
+  },
+  {
+   "id": 15386232586609,
+   "title": "Champagne Antoine Derigny Rosé Brut NV (Half Bottle 375mL)",
+   "handle": "champagne-antoine-derigny-rose-brut-nv-half-bottle-375ml",
+   "url": "https://lastbubbles.com/products/champagne-antoine-derigny-rose-brut-nv-half-bottle-375ml",
+   "status": "other",
+   "available": true,
+   "price": 29.0,
+   "retail": 50.0,
+   "discount": 42,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010018",
+   "variant_id": 62906506215793,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7774-10.jpg?v=1779402940",
+   "published_at": "2026-09-25T14:00:27-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:15:18Z"
   },
   {
    "id": 9564316074299,
@@ -43,79 +135,9 @@
    "published_at": "2026-09-25T13:57:53-07:00",
    "tags": [
     "App Exclusive",
-    "fizz-fest",
     "freeship:1"
    ],
    "first_seen": "2026-09-25T21:00:23Z"
-  },
-  {
-   "id": 15523470541169,
-   "title": "Champagne Billecart-Salmon Blanc de Blancs Cuvée Louis Salmon Brut 2013",
-   "handle": "champagne-billecart-salmon-blanc-de-blancs-cuvee-louis-salmon-brut-2013",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-blanc-de-blancs-cuvee-louis-salmon-brut-2013",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 265.0,
-   "discount": 25,
-   "free_ship": null,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014038",
-   "variant_id": 63504760275313,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-29.jpg?v=1789179369",
-   "published_at": "2026-09-25T13:54:15-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 15439515713905,
-   "title": "Champagne Louis Roederer Cristal Vinothèque Edition Brut 2004 (Magnum 1.5L)",
-   "handle": "champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 2049.0,
-   "retail": 2999.0,
-   "discount": 32,
-   "free_ship": null,
-   "vintage": 2004,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013437",
-   "variant_id": 63209318744433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7863-48.jpg?v=1779476901",
-   "published_at": "2026-09-25T13:54:13-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 9564316107067,
-   "title": "Champagne Ulysse Collin Blanc de Blancs Les Pierrières Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 399.0,
-   "retail": 500.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000605",
-   "variant_id": 48908098666811,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000605_BottleShot.jpg?v=1731614435",
-   "published_at": "2026-09-25T13:38:25-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
   },
   {
    "id": 15251852722545,
