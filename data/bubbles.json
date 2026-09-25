@@ -1,50 +1,121 @@
 {
  "products": [
   {
-   "id": 15363492741489,
-   "title": "Champagne Paul Berthelot Eminence Brut Premier Cru NV (Half bottle 375mL)",
-   "handle": "champagne-paul-berthelot-eminence-brut-premier-cru-nv-half-bottle-375ml",
-   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-eminence-brut-premier-cru-nv-half-bottle-375ml",
+   "id": 15523470475633,
+   "title": "Ridgeview Bloomsbury Brut Sussex NV",
+   "handle": "ridgeview-bloomsbury-brut-sussex-nv",
+   "url": "https://lastbubbles.com/products/ridgeview-bloomsbury-brut-sussex-nv",
    "status": "other",
    "available": true,
-   "price": 28.0,
-   "retail": 40.0,
-   "discount": 30,
-   "free_ship": null,
+   "price": 35.0,
+   "retail": 60.0,
+   "discount": 42,
+   "free_ship": 4,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008931",
-   "variant_id": 62817189986673,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7300.jpg?v=1770926497",
-   "published_at": "2026-09-25T14:11:51-07:00",
+   "sku": "1014147",
+   "variant_id": 63504760242545,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1014147_BUB_BottleShot.jpg?v=1779295960",
+   "published_at": "2026-09-25T14:30:30-07:00",
    "tags": [
-    "fizz-fest"
+    "fizz-fest",
+    "freeship:4",
+    "last-bottle-credit-awarded"
    ],
-   "first_seen": "2026-09-25T21:15:18Z"
+   "first_seen": "2026-09-25T21:30:56Z"
   },
   {
-   "id": 11394522906993,
-   "title": "Champagne Fluteau Coeur de Cuvée Extra Brut NV (Half Bottle 375mL)",
-   "handle": "champagne-fluteau-coeur-de-cuvee-extra-brut-nv-half-bottle-375ml",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-coeur-de-cuvee-extra-brut-nv-half-bottle-375ml",
+   "id": 15461615501681,
+   "title": "Champagne Gondé-Rousseaux Chapitre V Blanc de Fût Brut Premier Cru 2017 (Magnum 1.5L)",
+   "handle": "champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-magnum-1-5l",
    "status": "other",
    "available": true,
-   "price": 24.0,
-   "retail": 40.0,
-   "discount": 40,
+   "price": 199.0,
+   "retail": 300.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": 2017,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012823",
+   "variant_id": 63257098682737,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7837-37.jpg?v=1779476025",
+   "published_at": "2026-09-25T14:30:28-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:30:56Z"
+  },
+  {
+   "id": 15891834077553,
+   "title": "Champagne Gonet Médeville Blanc de Noirs Brut Premier Cru NV",
+   "handle": "champagne-gonet-medeville-blanc-de-noirs-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-gonet-medeville-blanc-de-noirs-brut-premier-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 49.0,
+   "retail": 89.0,
+   "discount": 45,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000206-001",
-   "variant_id": 50374752436593,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1007211_BottleShot.jpg?v=1731346192",
-   "published_at": "2026-09-25T14:08:09-07:00",
+   "sku": "1014636",
+   "variant_id": 64162136621425,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-55.jpg?v=1789186727",
+   "published_at": "2026-09-25T14:30:26-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T21:15:18Z"
+   "first_seen": "2026-09-25T21:30:56Z"
+  },
+  {
+   "id": 14820710449521,
+   "title": "Champagne Domaine Nowack Les Terres Bleues Autre Cru Brut Nature 2020",
+   "handle": "champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
+   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
+   "status": "other",
+   "available": true,
+   "price": 85.0,
+   "retail": 105.0,
+   "discount": 19,
+   "free_ship": null,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007163",
+   "variant_id": 51900390474097,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5276.jpg?v=1740507996",
+   "published_at": "2026-09-25T14:30:24-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:30:56Z"
+  },
+  {
+   "id": 15539513065841,
+   "title": "Ca'Erto La Pink Diva Bollicina Corvina Frizzante Verona 2024",
+   "handle": "caerto-la-pink-diva-bollicina-corvina-frizzante-verona-2024",
+   "url": "https://lastbubbles.com/products/caerto-la-pink-diva-bollicina-corvina-frizzante-verona-2024",
+   "status": "other",
+   "available": true,
+   "price": 16.0,
+   "retail": 28.0,
+   "discount": 43,
+   "free_ship": null,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013389",
+   "variant_id": 63553133740401,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CaErtoLaPinkDivaBollicinaCorvinaFrizzanteVerona2024_1013389_BUB_BottleShot.jpg?v=1785601611",
+   "published_at": "2026-09-25T14:30:01-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:30:56Z"
   },
   {
    "id": 15539512607089,
@@ -63,7 +134,7 @@
    "sku": "1000702-002",
    "variant_id": 63553133314417,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PhilippeGlavier_1007176_BottleShot.jpg?v=1732235775",
-   "published_at": "2026-09-25T14:04:23-07:00",
+   "published_at": "2026-09-25T14:28:27-07:00",
    "tags": [
     "fizz-fest"
    ],
@@ -86,7 +157,7 @@
    "sku": "1007909-001",
    "variant_id": 63680419037553,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-12.jpg?v=1789177056",
-   "published_at": "2026-09-25T14:00:29-07:00",
+   "published_at": "2026-09-25T14:24:19-07:00",
    "tags": [
     "fizz-fest"
    ],
@@ -109,11 +180,34 @@
    "sku": "1010018",
    "variant_id": 62906506215793,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7774-10.jpg?v=1779402940",
-   "published_at": "2026-09-25T14:00:27-07:00",
+   "published_at": "2026-09-25T14:23:40-07:00",
    "tags": [
     "fizz-fest"
    ],
    "first_seen": "2026-09-25T21:15:18Z"
+  },
+  {
+   "id": 15386232848753,
+   "title": "Champagne Philippe Clerget Cuvée Reserve Brut NV (Half Bottles 375mL)",
+   "handle": "champagne-philippe-clerget-cuvee-reserve-brut-nv-half-bottles-375ml",
+   "url": "https://lastbubbles.com/products/champagne-philippe-clerget-cuvee-reserve-brut-nv-half-bottles-375ml",
+   "status": "other",
+   "available": true,
+   "price": 24.0,
+   "retail": 40.0,
+   "discount": 40,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008788",
+   "variant_id": 62906506477937,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-18.jpg?v=1789177566",
+   "published_at": "2026-09-25T14:19:38-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T21:30:56Z"
   },
   {
    "id": 9564316074299,
