@@ -1,6 +1,75 @@
 {
  "products": [
   {
+   "id": 9700033134907,
+   "title": "Champagne Petit & Bajan Ambrosie Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-petit-bajan-ambrosie-brut-grand-cru-nv-magnum-1-5l-disg-may-2024",
+   "url": "https://lastbubbles.com/products/champagne-petit-bajan-ambrosie-brut-grand-cru-nv-magnum-1-5l-disg-may-2024",
+   "status": "other",
+   "available": true,
+   "price": 139.0,
+   "retail": 199.0,
+   "discount": 30,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000696-001",
+   "variant_id": 49257727689019,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000696-001_52878267-ba02-409e-b835-8e9d8769a5cf.jpg?v=1762992524",
+   "published_at": "2026-09-25T16:42:42-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T23:45:15Z"
+  },
+  {
+   "id": 9564294119739,
+   "title": "Champagne Victor Charlot Les Terres de la Grève Brut NV",
+   "handle": "champagne-victor-charlot-les-terres-de-la-greve-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-victor-charlot-les-terres-de-la-greve-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 49.0,
+   "retail": 100.0,
+   "discount": 51,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000619",
+   "variant_id": 48908065177915,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/VictorCharlot_1000619_BottleShot.jpg?v=1727365899",
+   "published_at": "2026-09-25T16:38:20-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T23:45:15Z"
+  },
+  {
+   "id": 9564307161403,
+   "title": "Domaine Jean-Marc Bernhard Cremant d'Alsace Rosé Brut Réserve NV",
+   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
+   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
+   "status": "other",
+   "available": true,
+   "price": 20.0,
+   "retail": 36.0,
+   "discount": 44,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000173",
+   "variant_id": 48908087853371,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Domaine-JeanMarc-Bernhard-Cremant-dAlsace-Brut-Rose-NV-product-image-676-large.jpg?v=1717804588",
+   "published_at": "2026-09-25T16:37:28-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T23:45:15Z"
+  },
+  {
    "id": 14996330479985,
    "title": "Champagne LeClerc Briant Les Monts Ferrés Extra Brut Vertus Premier Cru 2018",
    "handle": "champagne-leclerc-briant-les-monts-ferres-extra-brut-vertus-premier-cru-2018",
@@ -21,78 +90,6 @@
    "tags": [
     "fizz-fest",
     "freeship:1"
-   ],
-   "first_seen": "2026-09-25T23:30:20Z"
-  },
-  {
-   "id": 15491207627121,
-   "title": "Champagne Christophe Dechannes Cuvée Spéciale Brut Les Riceys NV",
-   "handle": "champagne-christophe-dechannes-cuvee-speciale-brut-les-riceys-nv",
-   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-cuvee-speciale-brut-les-riceys-nv",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 70.0,
-   "discount": 30,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012883",
-   "variant_id": 63378448712049,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannes_1012883_BUB_BottleShot.jpg?v=1782922816",
-   "published_at": "2026-09-25T16:25:27-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-25T23:30:20Z"
-  },
-  {
-   "id": 9564309094715,
-   "title": "Champagne Marteaux Guillaume Esprit Terroir Brut Nature NV",
-   "handle": "champagne-marteaux-guilluame-esprit-terroir-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-marteaux-guilluame-esprit-terroir-brut-nature-nv",
-   "status": "other",
-   "available": true,
-   "price": 69.0,
-   "retail": 100.0,
-   "discount": 31,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000386",
-   "variant_id": 48908090605883,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/MarteauxGuillaume_1000386_BottleShot.jpg?v=1736179571",
-   "published_at": "2026-09-25T16:23:27-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-25T23:30:20Z"
-  },
-  {
-   "id": 15040784826737,
-   "title": "Champagne Larmandier-Bernier Blanc de Blancs Terre de Vertus Brut Nature Premier Cru 2017",
-   "handle": "champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2017",
-   "url": "https://lastbubbles.com/products/champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2017",
-   "status": "other",
-   "available": true,
-   "price": 109.0,
-   "retail": 140.0,
-   "discount": 22,
-   "free_ship": 2,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008142",
-   "variant_id": 55304605761905,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Larmandier-BernierBDBTerredeVertusBrutNaturePremierCru2017_1008142_BottleShot.jpg?v=1754626856",
-   "published_at": "2026-09-25T16:17:16-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
    ],
    "first_seen": "2026-09-25T23:30:20Z"
   },
@@ -1299,7 +1296,9 @@
    "variant_id": 63504760308081,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/NoLoveLost_1014156_BUB_BottleShot.jpg?v=1781714068",
    "published_at": "2026-07-20T17:09:21-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
