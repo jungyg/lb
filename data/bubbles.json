@@ -30,7 +30,7 @@
    "handle": "champagne-jerome-blin-les-ports-complantation-brut-nature-nv",
    "url": "https://lastbubbles.com/products/champagne-jerome-blin-les-ports-complantation-brut-nature-nv",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 89.0,
    "retail": 103.0,
    "discount": 14,
@@ -290,7 +290,7 @@
    "title": "Champagne Piollot Cuvée de Reserve Brut NV",
    "handle": "champagne-piollot-cuvee-de-reserve-brut-nv",
    "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-de-reserve-brut-nv",
-   "status": "upsell",
+   "status": "other",
    "available": true,
    "price": 59.0,
    "retail": 80.0,
@@ -303,9 +303,7 @@
    "variant_id": 55681457029489,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Piollot_Cuvee_de_Reserve_Brut_NV_1008825.jpg?v=1759162754",
    "published_at": "2026-09-16T16:03:41-07:00",
-   "tags": [
-    "status:upsell"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
@@ -313,7 +311,7 @@
    "title": "Champagne LeClerc Briant Les Basses Prières Extra Brut Hautvillers Premier Cru 2018",
    "handle": "champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
    "url": "https://lastbubbles.com/products/champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
-   "status": "upsell",
+   "status": "other",
    "available": true,
    "price": 139.0,
    "retail": 190.0,
@@ -326,9 +324,7 @@
    "variant_id": 55173377917297,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Les_Basses_Prieres_Extra_Brut_Hautvillers_Premier_Cru_2018_1008010_BUB_BottleShot.jpg?v=1788106779",
    "published_at": "2026-09-16T16:03:16-07:00",
-   "tags": [
-    "status:upsell"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
@@ -914,7 +910,7 @@
    "title": "Champagne Francis Orban Meunier Cuvée Parcellaire Les Hauts Beugnets Brut 2016",
    "handle": "champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
    "url": "https://lastbubbles.com/products/champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
-   "status": "upsell",
+   "status": "other",
    "available": true,
    "price": 95.0,
    "retail": 150.0,
@@ -927,9 +923,7 @@
    "variant_id": 51641485623665,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_76.jpg?v=1754412246",
    "published_at": "2026-08-26T17:04:45-07:00",
-   "tags": [
-    "status:upsell"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
@@ -1939,8 +1933,7 @@
    "published_at": "2026-07-13T17:05:00-07:00",
    "tags": [
     "shop-collection",
-    "status:pdp",
-    "status:upsell"
+    "status:pdp"
    ],
    "first_seen": null
   },
