@@ -1,98 +1,98 @@
 {
  "products": [
   {
-   "id": 9564314173755,
-   "title": "Champagne Larmandier-Bernier Blanc de Blancs Terre de Vertus Brut Nature Premier Cru 2016",
-   "handle": "champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2016",
-   "url": "https://lastbubbles.com/products/champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2016",
+   "id": 15204897292657,
+   "title": "Champagne J. Lassalle Special Club Brut Premier Cru 2014",
+   "handle": "champagne-j-lassalle-special-club-brut-premier-cru-2014",
+   "url": "https://lastbubbles.com/products/champagne-j-lassalle-special-club-brut-premier-cru-2014",
    "status": "other",
    "available": true,
-   "price": 109.0,
-   "retail": 140.0,
-   "discount": 22,
+   "price": 119.0,
+   "retail": 165.0,
+   "discount": 28,
    "free_ship": 2,
-   "vintage": 2016,
+   "vintage": 2014,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000339",
-   "variant_id": 48908096504123,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-LarmandierBernier-Blanc-de-Blancs-Terre-de-Vertus-Brut-Nature-Premier-Cru-2016-product-image-755-large.jpg?v=1717804609",
-   "published_at": "2026-09-25T12:26:48-07:00",
+   "sku": "1008799",
+   "variant_id": 55681456865649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/J_Lassalle_Special_Club_Brut_Premier_Cru_2014_1008799_BottleShot.jpg?v=1761582361",
+   "published_at": "2026-09-25T12:41:41-07:00",
    "tags": [
     "fizz-fest",
     "freeship:2"
    ],
-   "first_seen": "2026-09-25T19:30:18Z"
+   "first_seen": "2026-09-25T19:45:15Z"
   },
   {
-   "id": 15225447874929,
-   "title": "Tenuta Pederzana Lambrusco Grasparossa Castelvetro Spiriti Folletti Secco NV",
-   "handle": "tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
-   "url": "https://lastbubbles.com/products/tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
+   "id": 15029020983665,
+   "title": "Champagne Billecart-Salmon Brut Nature NV",
+   "handle": "champagne-billecart-salmon-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-brut-nature-nv",
    "status": "other",
    "available": true,
-   "price": 19.0,
-   "retail": 30.0,
-   "discount": 37,
-   "free_ship": null,
+   "price": 59.0,
+   "retail": 90.0,
+   "discount": 34,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007064-001",
-   "variant_id": 55745085505905,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_14.jpg?v=1761674067",
-   "published_at": "2026-09-25T12:22:28-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T19:30:18Z"
-  },
-  {
-   "id": 15064703861105,
-   "title": "Champagne Bollinger Special Cuvée Brut NV",
-   "handle": "champagne-bollinger-special-cuvee-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-bollinger-special-cuvee-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 65.0,
-   "retail": 89.0,
-   "discount": 27,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1001127-002",
-   "variant_id": 55616547422577,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_b2a65c1c-46cf-4701-a790-b3cac8c72bfd.jpg?v=1772126729",
-   "published_at": "2026-09-25T12:19:23-07:00",
+   "sku": "1008008",
+   "variant_id": 55274113040753,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_59.jpg?v=1753151967",
+   "published_at": "2026-09-25T12:40:37-07:00",
    "tags": [
     "fizz-fest",
-    "freeship:2"
+    "freeship:3"
    ],
-   "first_seen": "2026-09-25T19:30:18Z"
+   "first_seen": "2026-09-25T19:45:15Z"
   },
   {
-   "id": 14820710515057,
-   "title": "Champagne Domaine Nowack Blanc de Noirs Les Bauchets Extra Brut 2019",
-   "handle": "champagne-domaine-nowack-blanc-de-noirs-les-bauchets-extra-brut-2019-disg-january-2024",
-   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-blanc-de-noirs-les-bauchets-extra-brut-2019-disg-january-2024",
+   "id": 14625852457329,
+   "title": "Tenuta Carretta Airali Alta Langa Metodo Classico Brut 2020",
+   "handle": "tenuta-carretta-airali-alta-langa-metodo-classico-brut-2020",
+   "url": "https://lastbubbles.com/products/tenuta-carretta-airali-alta-langa-metodo-classico-brut-2020",
    "status": "other",
    "available": true,
-   "price": 79.0,
-   "retail": 100.0,
-   "discount": 21,
+   "price": 27.0,
+   "retail": 50.0,
+   "discount": 46,
    "free_ship": null,
-   "vintage": 2019,
+   "vintage": 2020,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007162",
-   "variant_id": 51900390539633,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5117.jpg?v=1740080543",
-   "published_at": "2026-09-25T12:15:03-07:00",
+   "sku": "1007136",
+   "variant_id": 51643016872305,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Tenuta_Carretta_Airali_Alta_Langa_Metodo_Classico_Brut_2020_1007136_BottleShot.jpg?v=1748359019",
+   "published_at": "2026-09-25T12:35:13-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T19:15:15Z"
+   "first_seen": "2026-09-25T19:45:15Z"
+  },
+  {
+   "id": 9777225990459,
+   "title": "Champagne Laurent-Perrier Grand Siècle Iteration #23 Brut NV (Magnum 1.5L)",
+   "handle": "champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 429.0,
+   "retail": 600.0,
+   "discount": 29,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007196",
+   "variant_id": 49385988391227,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaurentPerrier_1007196_BottleShot.jpg?v=1726145620",
+   "published_at": "2026-09-25T12:34:27-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T19:45:15Z"
   },
   {
    "id": 15251852722545,
@@ -398,29 +398,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Piollot_Cuvee_de_Reserve_Brut_NV_1008825.jpg?v=1759162754",
    "published_at": "2026-09-16T16:03:41-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 14996330348913,
-   "title": "Champagne LeClerc Briant Les Basses Prières Extra Brut Hautvillers Premier Cru 2018",
-   "handle": "champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 139.0,
-   "retail": 190.0,
-   "discount": 27,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008010",
-   "variant_id": 55173377917297,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Les_Basses_Prieres_Extra_Brut_Hautvillers_Premier_Cru_2018_1008010_BUB_BottleShot.jpg?v=1788106779",
-   "published_at": "2026-09-16T16:03:16-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
    "first_seen": null
   },
   {
@@ -1060,7 +1037,9 @@
    "variant_id": 62539474141553,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008894_BUB_BottleShot.jpg?v=1779810016",
    "published_at": "2026-08-23T08:22:27-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
