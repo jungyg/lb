@@ -2359,14 +2359,14 @@
    "title": "Last Bubbles eGift Card",
    "handle": "last-bubbles-gift-card",
    "url": "https://lastbubbles.com/products/last-bubbles-gift-card",
-   "status": "upsell",
+   "status": "other",
    "available": true,
    "price": 50.0,
    "retail": null,
    "discount": null,
    "free_ship": null,
    "vintage": null,
-   "is_wine": false,
+   "is_wine": true,
    "vendor": "Last Bubbles",
    "sku": null,
    "variant_id": 49426304893243,
@@ -2374,14 +2374,13 @@
    "published_at": "2026-06-01T09:54:16-07:00",
    "tags": [
     "freeship:skip",
-    "klaviyo_reviews_exclude",
-    "status:upsell"
+    "klaviyo_reviews_exclude"
    ],
    "first_seen": null
   },
   {
    "id": 9564572385595,
-   "title": "Cool-Pack",
+   "title": "Cool-Pack  **(Add to First Order Only!)**",
    "handle": "ice-pack-shipping",
    "url": "https://lastbubbles.com/products/ice-pack-shipping",
    "status": "upsell",
