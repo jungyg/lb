@@ -1,6 +1,29 @@
 {
  "products": [
   {
+   "id": 14887259537777,
+   "title": "Champagne Eric Rodez Cuvée des Grandes Vintages Extra Brut Grand Cru NV",
+   "handle": "champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-november-2022",
+   "url": "https://lastbubbles.com/products/champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-november-2022",
+   "status": "other",
+   "available": true,
+   "price": 119.0,
+   "retail": 160.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007122-002",
+   "variant_id": 52012155896177,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SummerSpritz_2025-03_1.jpg?v=1747935802",
+   "published_at": "2026-09-25T09:00:22-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T16:00:24Z"
+  },
+  {
    "id": 15004196045169,
    "title": "Champagne Gounel Lassalle Les Noues Brut Nature Chigny Les Rosés Premier Cru NV",
    "handle": "champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv",
@@ -1180,7 +1203,7 @@
    "title": "La Maison du Crémant Prestige Crémant de Bourgogne Brut NV",
    "handle": "la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
    "url": "https://lastbubbles.com/products/la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
-   "status": "pdp",
+   "status": "other",
    "available": true,
    "price": 19.0,
    "retail": 36.0,
@@ -1193,9 +1216,7 @@
    "variant_id": 48908075761979,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaMaisonDuCremant_1000322_BottleShot.jpg?v=1736266289",
    "published_at": "2026-08-18T08:15:44-07:00",
-   "tags": [
-    "status:pdp"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
@@ -1635,30 +1656,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Jean-Marc_Bernhard_1000174-001_BUB_BottleShot.jpg?v=1784220169",
    "published_at": "2026-07-20T17:06:47-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 15029018460529,
-   "title": "Domaine Bernhard Crémant d'Alsace Brut Réserve NV",
-   "handle": "domaine-bernhard-cremant-dalsace-brut-reserve-nv",
-   "url": "https://lastbubbles.com/products/domaine-bernhard-cremant-dalsace-brut-reserve-nv",
-   "status": "other",
-   "available": true,
-   "price": 21.0,
-   "retail": 28.0,
-   "discount": 25,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000672-001",
-   "variant_id": 55274111172977,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_18.jpg?v=1776183471",
-   "published_at": "2026-07-16T10:47:50-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6"
-   ],
    "first_seen": null
   },
   {
