@@ -93,29 +93,6 @@
    "first_seen": "2026-09-25T21:45:16Z"
   },
   {
-   "id": 15891833618801,
-   "title": "Champagne Bollinger La Grande Année Brut 2005",
-   "handle": "champagne-bollinger-la-grande-annee-brut-2005",
-   "url": "https://lastbubbles.com/products/champagne-bollinger-la-grande-annee-brut-2005",
-   "status": "other",
-   "available": true,
-   "price": 149.0,
-   "retail": 220.0,
-   "discount": 32,
-   "free_ship": null,
-   "vintage": 2005,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014944",
-   "variant_id": 64162136162673,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-58.jpg?v=1789187083",
-   "published_at": "2026-09-25T14:33:40-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T21:45:16Z"
-  },
-  {
    "id": 9564316074299,
    "title": "Champagne Ulysse Collin Blanc de Blancs Les Enfers Extra Brut NV (2016 Base)",
    "handle": "champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
@@ -1173,7 +1150,9 @@
    "variant_id": 64192733544817,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-33.jpg?v=1789179681",
    "published_at": "2026-08-14T11:34:44-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
