@@ -1,99 +1,97 @@
 {
  "products": [
   {
-   "id": 15204897587569,
-   "title": "Champagne J M Seleque Solessence Extra Brut NV",
-   "handle": "champagne-j-m-seleque-solessence-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-j-m-seleque-solessence-extra-brut-nv",
+   "id": 15891833422193,
+   "title": "Champagne Billecart-Salmon Les Rendez-Vous de Billecart-Salmon N°3 Extra Brut NV",
+   "handle": "champagne-billecart-salmon-les-rendez-vous-de-billecart-salmon-n3-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-les-rendez-vous-de-billecart-salmon-n3-extra-brut-nv",
    "status": "other",
    "available": true,
-   "price": 62.0,
-   "retail": 90.0,
-   "discount": 31,
-   "free_ship": 3,
+   "price": 79.0,
+   "retail": 110.0,
+   "discount": 28,
+   "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008784",
-   "variant_id": 55681457160561,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5_2.jpg?v=1779817970",
-   "published_at": "2026-09-25T10:57:37-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-25T18:00:22Z"
-  },
-  {
-   "id": 15907786293617,
-   "title": "Champagne Taittinger Comtes de Champagne Blanc de Blancs Brut 2006",
-   "handle": "champagne-taittinger-comtes-de-champagne-blanc-de-blancs-brut-2006",
-   "url": "https://lastbubbles.com/products/champagne-taittinger-comtes-de-champagne-blanc-de-blancs-brut-2006",
-   "status": "other",
-   "available": true,
-   "price": 169.0,
-   "retail": 300.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": 2006,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014653",
-   "variant_id": 64192737902961,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-44.jpg?v=1789183775",
-   "published_at": "2026-09-25T10:53:54-07:00",
+   "sku": "1014943",
+   "variant_id": 64162135966065,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-19.jpg?v=1789177629",
+   "published_at": "2026-09-25T11:12:50-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T18:00:22Z"
+   "first_seen": "2026-09-25T18:15:17Z"
   },
   {
-   "id": 15501172343153,
-   "title": "Ezio Poggio Lunatico Bianco Frizzante Colli Tortonesei 2024",
-   "handle": "ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
-   "url": "https://lastbubbles.com/products/ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
+   "id": 15064703762801,
+   "title": "Aquilini Cabernet Sauvignon Sparkling Rosé Gia Bella Brut Red Mountain 2021",
+   "handle": "aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
+   "url": "https://lastbubbles.com/products/aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
    "status": "other",
    "available": true,
    "price": 14.0,
-   "retail": 28.0,
-   "discount": 50,
+   "retail": 40.0,
+   "discount": 65,
    "free_ship": 6,
-   "vintage": 2024,
+   "vintage": 2021,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1013977",
-   "variant_id": 63415188849009,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/EzioPoggio_1013977_BUB_BottleShot.jpg?v=1784825038",
-   "published_at": "2026-09-25T10:49:30-07:00",
+   "sku": "1011505",
+   "variant_id": 55616547324273,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_74.jpg?v=1754257147",
+   "published_at": "2026-09-25T11:07:54-07:00",
    "tags": [
     "fizz-fest",
     "freeship:6"
    ],
-   "first_seen": "2026-09-25T18:00:22Z"
+   "first_seen": "2026-09-25T18:15:17Z"
   },
   {
-   "id": 9777225564475,
-   "title": "Champagne Éphémère 022 Blanc de Blancs Extra Brut Les Brousses Premier Cru 2015",
-   "handle": "champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2015",
-   "url": "https://lastbubbles.com/products/champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2015",
+   "id": 15386232881521,
+   "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Magum 1.5L)",
+   "handle": "champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
    "status": "other",
    "available": true,
-   "price": 74.0,
-   "retail": 100.0,
-   "discount": 26,
-   "free_ship": 3,
+   "price": 84.0,
+   "retail": 120.0,
+   "discount": 30,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010019",
+   "variant_id": 62906506510705,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7257.jpg?v=1770922279",
+   "published_at": "2026-09-25T11:06:55-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T18:15:17Z"
+  },
+  {
+   "id": 15928967168369,
+   "title": "Champagne Diebolt-Vallois Blanc de Blancs Fleur de Passion Cramant Brut Grand Cru 2015",
+   "handle": "champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015",
+   "url": "https://lastbubbles.com/products/champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015",
+   "status": "other",
+   "available": true,
+   "price": 175.0,
+   "retail": 225.0,
+   "discount": 22,
+   "free_ship": null,
    "vintage": 2015,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1006940",
-   "variant_id": 49385987965243,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Dremont_Pere_Fils_Ephemere_022_S1006940_BUB_BottleShot.jpg?v=1785351890",
-   "published_at": "2026-09-25T10:46:14-07:00",
+   "sku": "1012948",
+   "variant_id": 64259770974577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-14.jpg?v=1789177270",
+   "published_at": "2026-09-25T11:02:34-07:00",
    "tags": [
-    "fizz-fest",
-    "freeship:3"
+    "fizz-fest"
    ],
-   "first_seen": "2026-09-25T18:00:22Z"
+   "first_seen": "2026-09-25T18:15:17Z"
   },
   {
    "id": 15251852722545,
@@ -1132,27 +1130,6 @@
    "first_seen": null
   },
   {
-   "id": 9564299821371,
-   "title": "La Maison du Crémant Prestige Crémant de Bourgogne Brut NV",
-   "handle": "la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
-   "url": "https://lastbubbles.com/products/la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 19.0,
-   "retail": 36.0,
-   "discount": 47,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000322",
-   "variant_id": 48908075761979,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaMaisonDuCremant_1000322_BottleShot.jpg?v=1736266289",
-   "published_at": "2026-08-18T08:15:44-07:00",
-   "tags": [],
-   "first_seen": null
-  },
-  {
    "id": 15941060166001,
    "title": "Sparkling Summer Mystery Case (12-pack)",
    "handle": "sparkling-summer-mystery-case-12-pack",
@@ -1837,7 +1814,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_cb3fea9b-b8ef-4ddd-ade5-db44791c682c.jpg?v=1765816797",
    "published_at": "2026-07-13T17:05:29-07:00",
    "tags": [
-    "fizz-fest",
     "shop-collection",
     "status:pdp"
    ],
@@ -2508,7 +2484,9 @@
    "variant_id": 48908071502139,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000471_cff4d15c-bc8a-4e94-b97e-e54e4ce1aaa5.jpg?v=1762993453",
    "published_at": "2024-06-03T19:18:36-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
