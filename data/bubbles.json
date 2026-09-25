@@ -1,51 +1,121 @@
 {
  "products": [
   {
-   "id": 15030554689905,
-   "title": "Champagne Daniel Hulin et Fils Ambonnay Brut Tradition Grand Cru NV",
-   "handle": "champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-new-disgorgement",
-   "status": "other",
+   "id": 15386218037617,
+   "title": "Champagne Philippe Clerget Cuvée Reserve Brut NV",
+   "handle": "champagne-philippe-clerget-cuvee-reserve-brut-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-philippe-clerget-cuvee-reserve-brut-nv-nd",
+   "status": "pdp",
    "available": true,
    "price": 39.0,
-   "retail": 72.0,
-   "discount": 46,
+   "retail": 70.0,
+   "discount": 44,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000135-001",
-   "variant_id": 55280377987441,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DanielHulin_1000517_BottleShot_ca5aa39e-ee09-442a-b354-d82f423c0849.jpg?v=1751397472",
-   "published_at": "2026-09-25T15:22:54-07:00",
+   "sku": "1007203-001",
+   "variant_id": 62906469319025,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Philippe_Clerget_Cuvee_Reserve_Brut_NV_ND_regen__1007203-001_BUB_BottleShot.jpg?v=1786506288",
+   "published_at": "2026-09-25T15:41:50-07:00",
    "tags": [
-    "fizz-fest"
+    "fizz-fest",
+    "shop-collection",
+    "status:pdp"
    ],
-   "first_seen": "2026-09-25T22:30:17Z"
+   "first_seen": "2026-09-25T22:45:15Z"
   },
   {
-   "id": 15427381395825,
-   "title": "Champagne Roland Boulard & Filles Les Racines de Roland Brut NV",
-   "handle": "champagne-roland-boulard-filles-les-recines-de-roland-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-les-recines-de-roland-brut-nv",
+   "id": 15491207037297,
+   "title": "Champagne Christophe Dechannes Tradition Brut Les Riceys NV",
+   "handle": "champagne-christophe-dechannes-tradition-brut-les-riceys-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-tradition-brut-les-riceys-nv-nd",
    "status": "other",
    "available": true,
    "price": 39.0,
    "retail": 70.0,
    "discount": 44,
-   "free_ship": 4,
+   "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1013669",
-   "variant_id": 63180368216433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/RolandBoulardFilles_1013669_BUB_BottleShot.jpg?v=1785861889",
-   "published_at": "2026-09-25T15:22:10-07:00",
+   "sku": "1000122-002",
+   "variant_id": 63378447499633,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannes_1000122_BottleShot_ea79e239-c48c-4ec4-9e3b-510b27e9d814.jpg?v=1775847191",
+   "published_at": "2026-09-25T15:40:42-07:00",
    "tags": [
-    "fizz-fest",
-    "freeship:4"
+    "fizz-fest"
    ],
-   "first_seen": "2026-09-25T22:30:17Z"
+   "first_seen": "2026-09-25T22:45:15Z"
+  },
+  {
+   "id": 14998460498289,
+   "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
+   "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 37.0,
+   "retail": 60.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007481",
+   "variant_id": 55177177825649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007481_BUB_Bottleshot.jpg?v=1773366720",
+   "published_at": "2026-09-25T15:39:25-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T22:45:15Z"
+  },
+  {
+   "id": 14887259472241,
+   "title": "Champagne Domaine Bauchet Origine Brut NV",
+   "handle": "champagne-domaine-bauchet-origine-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-domaine-bauchet-origine-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 60.0,
+   "discount": 35,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007132",
+   "variant_id": 52012155830641,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBauchet_BRT_NV1007132_BottleShot.jpg?v=1747328340",
+   "published_at": "2026-09-25T15:35:05-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T22:45:15Z"
+  },
+  {
+   "id": 15381248868721,
+   "title": "Champagne Laurent Lequart Reserve Brut Valle de la Marne Autre Cru NV",
+   "handle": "champagne-laurent-lequart-prestige-brut-valle-de-la-marne-autre-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-laurent-lequart-prestige-brut-valle-de-la-marne-autre-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 70.0,
+   "discount": 44,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008878",
+   "variant_id": 62889625452913,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_12_09f8209e-4e9e-4745-94c1-60b4298d9239.jpg?v=1774485252",
+   "published_at": "2026-09-25T15:30:56-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T22:45:15Z"
   },
   {
    "id": 9564316074299,
@@ -860,30 +930,6 @@
    "first_seen": null
   },
   {
-   "id": 15225447907697,
-   "title": "Champagne Philippe Gonet Grande Réserve NV",
-   "handle": "champagne-philippe-gonet-grande-reserve-nv-disg-june-2024",
-   "url": "https://lastbubbles.com/products/champagne-philippe-gonet-grande-reserve-nv-disg-june-2024",
-   "status": "pdp",
-   "available": true,
-   "price": 36.0,
-   "retail": 70.0,
-   "discount": 49,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000486-001",
-   "variant_id": 55745085473137,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Philippe_Gonet_GRNV_1000486-001_BottleShot.jpg?v=1767636421",
-   "published_at": "2026-08-25T12:13:22-07:00",
-   "tags": [
-    "fizz-fest",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15539512574321,
    "title": "Champagne Philippe Glavier Rosé Idylle Céleste Extra Brut Grand Cru NV (nd)",
    "handle": "champagne-philippe-glavier-rose-idylle-celeste-extra-brut-grand-cru-nv-nd",
@@ -1338,31 +1384,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007473_BUB_BottleShot.jpg?v=1771260356",
    "published_at": "2026-07-14T14:46:53-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 15501117849969,
-   "title": "Champagne Fluteau Coeur de Cuvee Extra Brut NV",
-   "handle": "champagne-fluteau-coeur-de-cuvee-extra-brut-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-coeur-de-cuvee-extra-brut-nv-nd",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 70.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000209-001",
-   "variant_id": 63414963601777,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1000209_BottleShot_cb035e5a-7062-4ff2-9a53-e6c09059ffad.jpg?v=1742248500",
-   "published_at": "2026-07-13T17:08:14-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
    "first_seen": null
   },
   {
@@ -2017,29 +2038,6 @@
     "klaviyo_reviews_exclude",
     "limit-upsell:1",
     "status:upsell"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 9627900838203,
-   "title": "Champagne Baudry Heritage Brut NV",
-   "handle": "champagne-baudry-heritage-brut-nv-disg-july-2023",
-   "url": "https://lastbubbles.com/products/champagne-baudry-heritage-brut-nv-disg-july-2023",
-   "status": "other",
-   "available": true,
-   "price": 35.0,
-   "retail": 65.0,
-   "discount": 46,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006548",
-   "variant_id": 49071993651515,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Baudry_1006548_BottleShot_c02cba21-002b-436f-a4f9-dd1ac54dfe72.jpg?v=1736970484",
-   "published_at": "2024-07-02T13:16:15-07:00",
-   "tags": [
-    "fizz-fest"
    ],
    "first_seen": null
   },
