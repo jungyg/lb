@@ -1,6 +1,75 @@
 {
  "products": [
   {
+   "id": 15381249130865,
+   "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant de Alsace NV",
+   "handle": "cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
+   "url": "https://lastbubbles.com/products/cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
+   "status": "other",
+   "available": true,
+   "price": 21.0,
+   "retail": 30.0,
+   "discount": 30,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010000",
+   "variant_id": 62889625715057,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_9.jpg?v=1774023707",
+   "published_at": "2026-09-25T10:29:10-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T17:30:20Z"
+  },
+  {
+   "id": 14820710613361,
+   "title": "Champagne Domaine Nowack Blanc de Blancs La Tuilerie Extra Brut 2019",
+   "handle": "champagne-domaine-nowack-blanc-de-blancs-la-tuilerie-extra-brut-2019-disg-january-2024",
+   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-blanc-de-blancs-la-tuilerie-extra-brut-2019-disg-january-2024",
+   "status": "other",
+   "available": true,
+   "price": 79.0,
+   "retail": 100.0,
+   "discount": 21,
+   "free_ship": null,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007161",
+   "variant_id": 51900390637937,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5272.jpg?v=1740507460",
+   "published_at": "2026-09-25T10:20:37-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T17:30:20Z"
+  },
+  {
+   "id": 15283232833905,
+   "title": "Iris Vineyards Arete Blanc de Blancs Brut Willamette Valley 2022",
+   "handle": "iris-vineyards-arete-blanc-de-noirs-brut-willamette-valley-2022",
+   "url": "https://lastbubbles.com/products/iris-vineyards-arete-blanc-de-noirs-brut-willamette-valley-2022",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 38.0,
+   "discount": 50,
+   "free_ship": null,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012370",
+   "variant_id": 62532564451697,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7379_5e7177bd-e057-46b3-8798-b2a28bce586a.jpg?v=1771361573",
+   "published_at": "2026-09-25T10:17:21-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T17:30:20Z"
+  },
+  {
    "id": 15284404486513,
    "title": "Champagne Copin-Cautel Coup de Crayon Extra Brut Blanc de Noir NV",
    "handle": "champagne-copin-cautel-coup-de-crayon-extra-brut-blanc-de-noir-nv",
@@ -21,101 +90,6 @@
    "tags": [
     "fizz-fest",
     "freeship:3"
-   ],
-   "first_seen": "2026-09-25T17:15:18Z"
-  },
-  {
-   "id": 15928967037297,
-   "title": "Champagne Étienne Calsac Blanc de Blancs Les Rocheforts Extra Brut Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-etienne-calsac-blanc-de-blancs-les-rocheforts-extra-brut-premier-cru-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-etienne-calsac-blanc-de-blancs-les-rocheforts-extra-brut-premier-cru-nv-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 250.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012898",
-   "variant_id": 64259770745201,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-39.jpg?v=1789180322",
-   "published_at": "2026-09-25T10:13:20-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T17:15:18Z"
-  },
-  {
-   "id": 14930812305777,
-   "title": "Champagne Gondé-Rousseaux Chapitre I TS 17 Extra Brut Premier Cru NV",
-   "handle": "champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 99.0,
-   "discount": 40,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007152",
-   "variant_id": 52095776686449,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gonde-Rousseaux_Chapitre_TS_17_Extra_Brut_Premier_Cru_NV_1007152_BottleShot.jpg?v=1750707892",
-   "published_at": "2026-09-25T10:08:58-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-25T17:15:18Z"
-  },
-  {
-   "id": 15335901856113,
-   "title": "Hiller Rosé Blanc de Noirs Reserve Brut 2022",
-   "handle": "hiller-rose-blanc-de-noirs-reserve-brut-2022",
-   "url": "https://lastbubbles.com/products/hiller-rose-blanc-de-noirs-reserve-brut-2022",
-   "status": "other",
-   "available": true,
-   "price": 36.0,
-   "retail": 60.0,
-   "discount": 40,
-   "free_ship": 4,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010005",
-   "variant_id": 62708816544113,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1010005_BUB_BottleShot.jpg?v=1781540616",
-   "published_at": "2026-09-25T10:05:46-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
-   ],
-   "first_seen": "2026-09-25T17:15:18Z"
-  },
-  {
-   "id": 9627901002043,
-   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
-   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
-   "status": "other",
-   "available": true,
-   "price": 64.0,
-   "retail": 90.0,
-   "discount": 29,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006519-001",
-   "variant_id": 49071993815355,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
-   "published_at": "2026-09-25T10:02:30-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
    ],
    "first_seen": "2026-09-25T17:15:18Z"
   },
