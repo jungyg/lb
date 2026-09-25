@@ -1,96 +1,99 @@
 {
  "products": [
   {
-   "id": 9764716118331,
-   "title": "Champagne Lecomte Père & Fils Blanc de Blancs Brut NV",
-   "handle": "champagne-lecomte-pere-fils-blanc-de-blancs-tradition-nv",
-   "url": "https://lastbubbles.com/products/champagne-lecomte-pere-fils-blanc-de-blancs-tradition-nv",
+   "id": 14906516242801,
+   "title": "Champagne Louis Dousset Original Rosé Brut Nature NV",
+   "handle": "champagne-louis-dousset-original-rose-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-louis-dousset-original-rose-brut-nature-nv",
    "status": "other",
+   "available": true,
+   "price": 29.0,
+   "retail": 55.0,
+   "discount": 47,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008555",
+   "variant_id": 52057946194289,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5261.jpg?v=1740440410",
+   "published_at": "2026-09-25T15:13:28-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T22:15:15Z"
+  },
+  {
+   "id": 14998532555121,
+   "title": "Champagne Chaudron Pinot Meunier Grains de Noirs Extra Brut NV",
+   "handle": "champagne-chaudron-pinot-meunier-grains-de-noirs-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-chaudron-pinot-meunier-grains-de-noirs-extra-brut-nv",
+   "status": "pdp",
    "available": true,
    "price": 39.0,
    "retail": 75.0,
    "discount": 48,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007472",
+   "variant_id": 55177353101681,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007472_BUB_BottleShot.jpg?v=1775751279",
+   "published_at": "2026-09-25T15:08:24-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-25T22:15:15Z"
+  },
+  {
+   "id": 14622655250801,
+   "title": "Champagne Camille Jacquet Tradition A Le Mesnil-sur-Oger Brut NV",
+   "handle": "champagne-camille-jacquet-tradition-a-le-mesnil-sur-oger-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-tradition-a-le-mesnil-sur-oger-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 70.0,
+   "discount": 44,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007115",
+   "variant_id": 51639828808049,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007115_BottleShot_2.jpg?v=1743085058",
+   "published_at": "2026-09-25T15:07:24-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-25T22:15:15Z"
+  },
+  {
+   "id": 14998532489585,
+   "title": "Champagne Michel Genet Chardonnay MG BB Chouilly Grand Cru Brut NV",
+   "handle": "champagne-michel-genet-chardonnay-mg-bb-chouilly-grand-cru-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-michel-genet-chardonnay-mg-bb-chouilly-grand-cru-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 65.0,
+   "discount": 40,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007049",
-   "variant_id": 49352666743099,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Lecomte_1007049_BottleShot.jpg?v=1743539773",
-   "published_at": "2026-09-25T15:00:00-07:00",
+   "sku": "1007761",
+   "variant_id": 55177353134449,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Michel_Genet_CHD_MG_BB_Chouilly_GC_BRT_NV_1007761_BottleShot.jpg?v=1768237104",
+   "published_at": "2026-09-25T15:03:03-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T22:00:22Z"
-  },
-  {
-   "id": 15204897685873,
-   "title": "Champagne Domaine Nowack Meunier La Fontinette Extra Brut 2019",
-   "handle": "champagne-domaine-nowack-meunier-la-fontinette-extra-brut-2019",
-   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-meunier-la-fontinette-extra-brut-2019",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 120.0,
-   "discount": 26,
-   "free_ship": null,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008958",
-   "variant_id": 55681457258865,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6133.jpg?v=1759801720",
-   "published_at": "2026-09-25T14:58:57-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T22:00:22Z"
-  },
-  {
-   "id": 15004196143473,
-   "title": "Champagne Gounel Lassalle Les Noues Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 149.0,
-   "retail": 199.0,
-   "discount": 25,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008036",
-   "variant_id": 55202940715377,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6070.jpg?v=1759798852",
-   "published_at": "2026-09-25T14:55:04-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T22:00:22Z"
-  },
-  {
-   "id": 9564282847547,
-   "title": "Frank Family Vineyards Rosé Lady Edythe Premiere Los Carneros Napa Valley 2012",
-   "handle": "frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
-   "url": "https://lastbubbles.com/products/frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 250.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000131",
-   "variant_id": 48908045025595,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Frank-Family-Vineyards-Ros-Lady-Edythe-Premiere-Napa-Valley-Los-Carneros-2012-product-image-131-large.png?v=1717457249",
-   "published_at": "2026-09-25T14:50:59-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T22:00:22Z"
+   "first_seen": "2026-09-25T22:15:15Z"
   },
   {
    "id": 9564316074299,
@@ -817,30 +820,6 @@
    "first_seen": null
   },
   {
-   "id": 15386218037617,
-   "title": "Champagne Philippe Clerget Cuvée Reserve Brut NV",
-   "handle": "champagne-philippe-clerget-cuvee-reserve-brut-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-philippe-clerget-cuvee-reserve-brut-nv-nd",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 70.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007203-001",
-   "variant_id": 62906469319025,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Philippe_Clerget_Cuvee_Reserve_Brut_NV_ND_regen__1007203-001_BUB_BottleShot.jpg?v=1786506288",
-   "published_at": "2026-09-01T09:37:57-07:00",
-   "tags": [
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15386232684913,
    "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Half Bottle 375mL)",
    "handle": "champagne-louis-chalvon-carte-blanche-nv-half-bottle-375ml",
@@ -1272,6 +1251,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gallimard_Pere_Fils__1010586-001_BUB_BottleShot.jpg?v=1784329014",
    "published_at": "2026-08-03T12:35:22-07:00",
    "tags": [
+    "fizz-fest",
     "shop-collection",
     "status:pdp"
    ],
@@ -2237,9 +2217,7 @@
    "variant_id": 48908074123579,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Crt-Chamberlin-Blanc-des-Blancs-Les-Mazaux-Premier-Cru-2014-product-image-458-large.jpg?v=1717804568",
    "published_at": "2024-06-03T19:18:33-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
