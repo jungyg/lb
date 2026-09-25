@@ -1,96 +1,96 @@
 {
  "products": [
   {
-   "id": 14887259406705,
-   "title": "Champagne Testulat Cuvée Prestige Brut Premier Cru NV",
-   "handle": "champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
+   "id": 9764716118331,
+   "title": "Champagne Lecomte Père & Fils Blanc de Blancs Brut NV",
+   "handle": "champagne-lecomte-pere-fils-blanc-de-blancs-tradition-nv",
+   "url": "https://lastbubbles.com/products/champagne-lecomte-pere-fils-blanc-de-blancs-tradition-nv",
    "status": "other",
    "available": true,
-   "price": 42.0,
-   "retail": 65.0,
-   "discount": 35,
+   "price": 39.0,
+   "retail": 75.0,
+   "discount": 48,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007141",
-   "variant_id": 52012155765105,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Testulat_1007141_BottleShot.jpg?v=1736373175",
-   "published_at": "2026-09-25T14:40:07-07:00",
+   "sku": "1007049",
+   "variant_id": 49352666743099,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Lecomte_1007049_BottleShot.jpg?v=1743539773",
+   "published_at": "2026-09-25T15:00:00-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T21:45:16Z"
+   "first_seen": "2026-09-25T22:00:22Z"
   },
   {
-   "id": 9564303032635,
-   "title": "Champagne Legras & Haas Blanc de Blancs Les Sillons Grand Cru Brut 2014",
-   "handle": "champagne-legras-and-haas-blanc-de-blancs-les-sillons-grand-cru-brut-2014",
-   "url": "https://lastbubbles.com/products/champagne-legras-and-haas-blanc-de-blancs-les-sillons-grand-cru-brut-2014",
-   "status": "other",
-   "available": true,
-   "price": 109.0,
-   "retail": 175.0,
-   "discount": 38,
-   "free_ship": null,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000345",
-   "variant_id": 48908079497531,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Legras_Haas_1000345_BottleShot.jpg?v=1741368017",
-   "published_at": "2026-09-25T14:40:05-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T21:45:16Z"
-  },
-  {
-   "id": 15004201288049,
-   "title": "Champagne Monmarthe Privilège Brut Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-monmarthe-privlege-brut-premier-cru-nv-magnum-1-5l-new",
-   "url": "https://lastbubbles.com/products/champagne-monmarthe-privlege-brut-premier-cru-nv-magnum-1-5l-new",
+   "id": 15204897685873,
+   "title": "Champagne Domaine Nowack Meunier La Fontinette Extra Brut 2019",
+   "handle": "champagne-domaine-nowack-meunier-la-fontinette-extra-brut-2019",
+   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-meunier-la-fontinette-extra-brut-2019",
    "status": "other",
    "available": true,
    "price": 89.0,
-   "retail": 140.0,
-   "discount": 36,
+   "retail": 120.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008958",
+   "variant_id": 55681457258865,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6133.jpg?v=1759801720",
+   "published_at": "2026-09-25T14:58:57-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T22:00:22Z"
+  },
+  {
+   "id": 15004196143473,
+   "title": "Champagne Gounel Lassalle Les Noues Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 149.0,
+   "retail": 199.0,
+   "discount": 25,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007205-001",
-   "variant_id": 55202961785201,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneMonmarthePrivlegeBrutPremierCruNV_Magnum1.5L_1007205.jpg?v=1748189935",
-   "published_at": "2026-09-25T14:39:18-07:00",
+   "sku": "1008036",
+   "variant_id": 55202940715377,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6070.jpg?v=1759798852",
+   "published_at": "2026-09-25T14:55:04-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T21:45:16Z"
+   "first_seen": "2026-09-25T22:00:22Z"
   },
   {
-   "id": 14820710580593,
-   "title": "Champagne Domaine Nowack Meunier La Fontinette Brut Nature 2020",
-   "handle": "champagne-domaine-nowack-meunier-la-fontinette-brut-nature-2020-disg-january-2024",
-   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-meunier-la-fontinette-brut-nature-2020-disg-january-2024",
+   "id": 9564282847547,
+   "title": "Frank Family Vineyards Rosé Lady Edythe Premiere Los Carneros Napa Valley 2012",
+   "handle": "frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
+   "url": "https://lastbubbles.com/products/frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
    "status": "other",
    "available": true,
-   "price": 79.0,
-   "retail": 105.0,
-   "discount": 25,
+   "price": 199.0,
+   "retail": 250.0,
+   "discount": 20,
    "free_ship": null,
-   "vintage": 2020,
+   "vintage": 2012,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007160",
-   "variant_id": 51900390572401,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5269.jpg?v=1740440754",
-   "published_at": "2026-09-25T14:39:16-07:00",
+   "sku": "1000131",
+   "variant_id": 48908045025595,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Frank-Family-Vineyards-Ros-Lady-Edythe-Premiere-Napa-Valley-Los-Carneros-2012-product-image-131-large.png?v=1717457249",
+   "published_at": "2026-09-25T14:50:59-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T21:45:16Z"
+   "first_seen": "2026-09-25T22:00:22Z"
   },
   {
    "id": 9564316074299,
@@ -817,30 +817,6 @@
    "first_seen": null
   },
   {
-   "id": 9564319973691,
-   "title": "Champagne Domaine Petit & Bajan Ambrosie Brut Grand Cru NV",
-   "handle": "champagne-domaine-petit-and-bajan-ambrosie-brut-grand-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-petit-and-bajan-ambrosie-brut-grand-cru-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 59.0,
-   "retail": 90.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000468",
-   "variant_id": 48908105843003,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PetitBajan_1000468_BottleShot.jpg?v=1737593307",
-   "published_at": "2026-09-01T09:43:18-07:00",
-   "tags": [
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15386218037617,
    "title": "Champagne Philippe Clerget Cuvée Reserve Brut NV",
    "handle": "champagne-philippe-clerget-cuvee-reserve-brut-nv-nd",
@@ -1130,29 +1106,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008392.jpg?v=1762301658",
    "published_at": "2026-08-14T11:36:55-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 15907784065393,
-   "title": "Champagne Krug Grande Cuvée 167ème Édition Brut NV",
-   "handle": "champagne-krug-grande-cuvee-167eme-edition-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-krug-grande-cuvee-167eme-edition-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 300.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1015196",
-   "variant_id": 64192733544817,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-33.jpg?v=1789179681",
-   "published_at": "2026-08-14T11:34:44-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
    "first_seen": null
   },
   {
@@ -2284,7 +2237,9 @@
    "variant_id": 48908074123579,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Crt-Chamberlin-Blanc-des-Blancs-Les-Mazaux-Premier-Cru-2014-product-image-458-large.jpg?v=1717804568",
    "published_at": "2024-06-03T19:18:33-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
