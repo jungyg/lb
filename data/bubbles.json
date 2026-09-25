@@ -1,6 +1,75 @@
 {
  "products": [
   {
+   "id": 15004196045169,
+   "title": "Champagne Gounel Lassalle Les Noues Brut Nature Chigny Les Rosés Premier Cru NV",
+   "handle": "champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-les-noues-brut-nature-chigny-les-roses-premier-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 74.0,
+   "retail": 99.0,
+   "discount": 25,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008035",
+   "variant_id": 55202940617073,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalle_SKU_BUB_BottleShot-8.jpg?v=1783960590",
+   "published_at": "2026-09-25T08:30:36-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T15:45:16Z"
+  },
+  {
+   "id": 14881497710961,
+   "title": "Champagne Veuve Clicquot Vintage Brut 2015",
+   "handle": "champagne-veuve-clicquot-vintage-brut-2015-disg-march-2022",
+   "url": "https://lastbubbles.com/products/champagne-veuve-clicquot-vintage-brut-2015-disg-march-2022",
+   "status": "other",
+   "available": true,
+   "price": 79.0,
+   "retail": 130.0,
+   "discount": 39,
+   "free_ship": null,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006540",
+   "variant_id": 51978044998001,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/VeuveCliquot_1006540_BottleShot.jpg?v=1732899341",
+   "published_at": "2026-09-25T08:30:34-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T15:45:16Z"
+  },
+  {
+   "id": 15204897718641,
+   "title": "Champagne Paul Bara Rosé Brut Bouzy Grand Cru NV",
+   "handle": "champagne-paul-bara-rose-brut-bouzy-grand-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-paul-bara-rose-brut-bouzy-grand-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 89.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008795",
+   "variant_id": 55681457291633,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6331.jpg?v=1759803139",
+   "published_at": "2026-09-25T08:30:31-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T15:45:16Z"
+  },
+  {
    "id": 15251852722545,
    "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
    "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
@@ -968,6 +1037,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaCentariaBrutReservaCava2023_1012770_BUB_BottleShot.jpg?v=1786034631",
    "published_at": "2026-08-25T12:10:05-07:00",
    "tags": [
+    "fizz-fest",
     "shop-collection",
     "status:pdp"
    ],
@@ -1586,6 +1656,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_18.jpg?v=1776183471",
    "published_at": "2026-07-16T10:47:50-07:00",
    "tags": [
+    "fizz-fest",
     "freeship:6"
    ],
    "first_seen": null
