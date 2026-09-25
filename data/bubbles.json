@@ -1,6 +1,77 @@
 {
  "products": [
   {
+   "id": 9564314173755,
+   "title": "Champagne Larmandier-Bernier Blanc de Blancs Terre de Vertus Brut Nature Premier Cru 2016",
+   "handle": "champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2016",
+   "url": "https://lastbubbles.com/products/champagne-larmandier-bernier-blanc-de-blancs-terre-de-vertus-brut-nature-premier-cru-2016",
+   "status": "other",
+   "available": true,
+   "price": 109.0,
+   "retail": 140.0,
+   "discount": 22,
+   "free_ship": 2,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000339",
+   "variant_id": 48908096504123,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-LarmandierBernier-Blanc-de-Blancs-Terre-de-Vertus-Brut-Nature-Premier-Cru-2016-product-image-755-large.jpg?v=1717804609",
+   "published_at": "2026-09-25T12:26:48-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-25T19:30:18Z"
+  },
+  {
+   "id": 15225447874929,
+   "title": "Tenuta Pederzana Lambrusco Grasparossa Castelvetro Spiriti Folletti Secco NV",
+   "handle": "tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
+   "url": "https://lastbubbles.com/products/tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 30.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007064-001",
+   "variant_id": 55745085505905,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_14.jpg?v=1761674067",
+   "published_at": "2026-09-25T12:22:28-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T19:30:18Z"
+  },
+  {
+   "id": 15064703861105,
+   "title": "Champagne Bollinger Special Cuvée Brut NV",
+   "handle": "champagne-bollinger-special-cuvee-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-bollinger-special-cuvee-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 65.0,
+   "retail": 89.0,
+   "discount": 27,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1001127-002",
+   "variant_id": 55616547422577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_b2a65c1c-46cf-4701-a790-b3cac8c72bfd.jpg?v=1772126729",
+   "published_at": "2026-09-25T12:19:23-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-25T19:30:18Z"
+  },
+  {
    "id": 14820710515057,
    "title": "Champagne Domaine Nowack Blanc de Noirs Les Bauchets Extra Brut 2019",
    "handle": "champagne-domaine-nowack-blanc-de-noirs-les-bauchets-extra-brut-2019-disg-january-2024",
@@ -18,53 +89,6 @@
    "variant_id": 51900390539633,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5117.jpg?v=1740080543",
    "published_at": "2026-09-25T12:15:03-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T19:15:15Z"
-  },
-  {
-   "id": 15565543047537,
-   "title": "Rhys Vineyards Perpetual Réserve California NV",
-   "handle": "rhys-vineyards-perpetual-reserve-california-nv",
-   "url": "https://lastbubbles.com/products/rhys-vineyards-perpetual-reserve-california-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 80.0,
-   "discount": 26,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000527-001",
-   "variant_id": 63627730714993,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Rhys_1000527-001_BUB_BottleShot.jpg?v=1785169386",
-   "published_at": "2026-09-25T12:08:10-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-25T19:15:15Z"
-  },
-  {
-   "id": 15539512902001,
-   "title": "Champagne Egly-Ouriet Les Vignes de Vrigny Extra Brut Premier Cru NV",
-   "handle": "champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
-   "status": "other",
-   "available": true,
-   "price": 99.0,
-   "retail": 130.0,
-   "discount": 24,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000731-002",
-   "variant_id": 63553133576561,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000731-001_BUB_BottleShot.jpg?v=1773178820",
-   "published_at": "2026-09-25T12:04:53-07:00",
    "tags": [
     "fizz-fest"
    ],
@@ -1476,29 +1500,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/NoLoveLost_1014156_BUB_BottleShot.jpg?v=1781714068",
    "published_at": "2026-07-20T17:09:21-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 15381249032561,
-   "title": "Domaine Jean-Marc Bernhard Crémant d'Alsace Brut Rosé NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
-   "status": "other",
-   "available": true,
-   "price": 24.0,
-   "retail": 36.0,
-   "discount": 33,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000174-001",
-   "variant_id": 62889625616753,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Jean-Marc_Bernhard_1000174-001_BUB_BottleShot.jpg?v=1784220169",
-   "published_at": "2026-07-20T17:06:47-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
    "first_seen": null
   },
   {
