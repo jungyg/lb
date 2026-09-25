@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10873372475676,
+   "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
+   "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
+   "url": "https://lastbottlewines.com/products/chateau-rol-valentin-saint-emilion-grand-cru-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 30.0,
+   "retail": 60.0,
+   "discount": 50,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Joanne SAS",
+   "sku": "1013592",
+   "variant_id": 54216133509404,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rol_Valentin_Saint-Emilion_Grand_Cru_2023_1013592_LB_BottleShot-4.jpg?v=1787589713",
+   "published_at": "2026-09-25T10:00:27-07:00",
+   "tags": [
+    "backup",
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-25T17:15:18Z"
+  },
+  {
    "id": 10897459642652,
    "title": "Château Clos de Sarpe Saint-Émilion Grand Cru 2022",
    "handle": "chateau-clos-de-sarpe-saint-emilion-grand-cru-2022",
