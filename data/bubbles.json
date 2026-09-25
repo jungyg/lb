@@ -1,58 +1,33 @@
 {
  "products": [
   {
-   "id": 14906516242801,
-   "title": "Champagne Louis Dousset Original Rosé Brut Nature NV",
-   "handle": "champagne-louis-dousset-original-rose-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-louis-dousset-original-rose-brut-nature-nv",
+   "id": 15030554689905,
+   "title": "Champagne Daniel Hulin et Fils Ambonnay Brut Tradition Grand Cru NV",
+   "handle": "champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-new-disgorgement",
    "status": "other",
    "available": true,
-   "price": 29.0,
-   "retail": 55.0,
-   "discount": 47,
+   "price": 39.0,
+   "retail": 72.0,
+   "discount": 46,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008555",
-   "variant_id": 52057946194289,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5261.jpg?v=1740440410",
-   "published_at": "2026-09-25T15:13:28-07:00",
+   "sku": "1000135-001",
+   "variant_id": 55280377987441,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DanielHulin_1000517_BottleShot_ca5aa39e-ee09-442a-b354-d82f423c0849.jpg?v=1751397472",
+   "published_at": "2026-09-25T15:22:54-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T22:15:15Z"
+   "first_seen": "2026-09-25T22:30:17Z"
   },
   {
-   "id": 14998532555121,
-   "title": "Champagne Chaudron Pinot Meunier Grains de Noirs Extra Brut NV",
-   "handle": "champagne-chaudron-pinot-meunier-grains-de-noirs-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-chaudron-pinot-meunier-grains-de-noirs-extra-brut-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 75.0,
-   "discount": 48,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007472",
-   "variant_id": 55177353101681,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007472_BUB_BottleShot.jpg?v=1775751279",
-   "published_at": "2026-09-25T15:08:24-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-25T22:15:15Z"
-  },
-  {
-   "id": 14622655250801,
-   "title": "Champagne Camille Jacquet Tradition A Le Mesnil-sur-Oger Brut NV",
-   "handle": "champagne-camille-jacquet-tradition-a-le-mesnil-sur-oger-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-tradition-a-le-mesnil-sur-oger-brut-nv",
+   "id": 15427381395825,
+   "title": "Champagne Roland Boulard & Filles Les Racines de Roland Brut NV",
+   "handle": "champagne-roland-boulard-filles-les-recines-de-roland-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-les-recines-de-roland-brut-nv",
    "status": "other",
    "available": true,
    "price": 39.0,
@@ -62,38 +37,15 @@
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007115",
-   "variant_id": 51639828808049,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007115_BottleShot_2.jpg?v=1743085058",
-   "published_at": "2026-09-25T15:07:24-07:00",
+   "sku": "1013669",
+   "variant_id": 63180368216433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/RolandBoulardFilles_1013669_BUB_BottleShot.jpg?v=1785861889",
+   "published_at": "2026-09-25T15:22:10-07:00",
    "tags": [
     "fizz-fest",
     "freeship:4"
    ],
-   "first_seen": "2026-09-25T22:15:15Z"
-  },
-  {
-   "id": 14998532489585,
-   "title": "Champagne Michel Genet Chardonnay MG BB Chouilly Grand Cru Brut NV",
-   "handle": "champagne-michel-genet-chardonnay-mg-bb-chouilly-grand-cru-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-michel-genet-chardonnay-mg-bb-chouilly-grand-cru-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 39.0,
-   "retail": 65.0,
-   "discount": 40,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007761",
-   "variant_id": 55177353134449,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Michel_Genet_CHD_MG_BB_Chouilly_GC_BRT_NV_1007761_BottleShot.jpg?v=1768237104",
-   "published_at": "2026-09-25T15:03:03-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T22:15:15Z"
+   "first_seen": "2026-09-25T22:30:17Z"
   },
   {
    "id": 9564316074299,
@@ -926,6 +878,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Philippe_Gonet_GRNV_1000486-001_BottleShot.jpg?v=1767636421",
    "published_at": "2026-08-25T12:13:22-07:00",
    "tags": [
+    "fizz-fest",
     "status:pdp"
    ],
    "first_seen": null
@@ -1233,31 +1186,6 @@
    "first_seen": null
   },
   {
-   "id": 15491207758193,
-   "title": "Champagne Gallimard Père & Fils Blanc de Noirs Cuvée de Réserve Les Riceys Brut NV",
-   "handle": "champagne-gallimard-pere-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-gallimard-pere-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-nd",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 75.0,
-   "discount": 48,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010586-001",
-   "variant_id": 63378448843121,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gallimard_Pere_Fils__1010586-001_BUB_BottleShot.jpg?v=1784329014",
-   "published_at": "2026-08-03T12:35:22-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15491207070065,
    "title": "Champagne Christophe Dechannes Tradition Brut Les Riceys NV (Magnum 1.5L) (nd)",
    "handle": "champagne-christophe-dechannes-tradition-brut-les-riceys-nv-magnum-1-5l-nd",
@@ -1431,6 +1359,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1000209_BottleShot_cb035e5a-7062-4ff2-9a53-e6c09059ffad.jpg?v=1742248500",
    "published_at": "2026-07-13T17:08:14-07:00",
    "tags": [
+    "fizz-fest",
     "shop-collection",
     "status:pdp"
    ],
@@ -2109,7 +2038,9 @@
    "variant_id": 49071993651515,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Baudry_1006548_BottleShot_c02cba21-002b-436f-a4f9-dd1ac54dfe72.jpg?v=1736970484",
    "published_at": "2024-07-02T13:16:15-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {

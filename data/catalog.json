@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 10942787715356,
+   "title": "Rudius Cabernet Sauvignon K.E. Oakville Napa Valley 2023",
+   "handle": "rudius-cabernet-sauvignon-k-e-oakville-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/rudius-cabernet-sauvignon-k-e-oakville-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 39.0,
+   "retail": 142.0,
+   "discount": 73,
+   "free_ship": 3,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000244",
+   "variant_id": 54429008331036,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Rudius_CSV23_K_E_Oakville_NV_2000244_LB_BottleShot.jpg?v=1787354234",
+   "published_at": "2026-09-25T15:25:50-07:00",
+   "tags": [
+    "backup",
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-09-25T22:30:17Z"
+  },
+  {
    "id": 10873372475676,
    "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
    "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
