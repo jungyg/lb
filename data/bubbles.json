@@ -1,121 +1,74 @@
 {
  "products": [
   {
-   "id": 15501172343153,
-   "title": "Ezio Poggio Lunatico Bianco Frizzante Colli Tortonesei 2024",
-   "handle": "ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
-   "url": "https://lastbubbles.com/products/ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
+   "id": 14820710515057,
+   "title": "Champagne Domaine Nowack Blanc de Noirs Les Bauchets Extra Brut 2019",
+   "handle": "champagne-domaine-nowack-blanc-de-noirs-les-bauchets-extra-brut-2019-disg-january-2024",
+   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-blanc-de-noirs-les-bauchets-extra-brut-2019-disg-january-2024",
    "status": "other",
    "available": true,
-   "price": 14.0,
-   "retail": 28.0,
-   "discount": 50,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013977",
-   "variant_id": 63415188849009,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/EzioPoggio_1013977_BUB_BottleShot.jpg?v=1784825038",
-   "published_at": "2026-09-25T12:00:20-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6"
-   ],
-   "first_seen": "2026-09-25T19:00:23Z"
-  },
-  {
-   "id": 15386232881521,
-   "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Magum 1.5L)",
-   "handle": "champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 84.0,
-   "retail": 120.0,
-   "discount": 30,
+   "price": 79.0,
+   "retail": 100.0,
+   "discount": 21,
    "free_ship": null,
-   "vintage": null,
+   "vintage": 2019,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1010019",
-   "variant_id": 62906506510705,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7257.jpg?v=1770922279",
-   "published_at": "2026-09-25T11:55:42-07:00",
+   "sku": "1007162",
+   "variant_id": 51900390539633,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5117.jpg?v=1740080543",
+   "published_at": "2026-09-25T12:15:03-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T19:00:23Z"
+   "first_seen": "2026-09-25T19:15:15Z"
   },
   {
-   "id": 15928967168369,
-   "title": "Champagne Diebolt-Vallois Blanc de Blancs Fleur de Passion Cramant Brut Grand Cru 2015",
-   "handle": "champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015",
-   "url": "https://lastbubbles.com/products/champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015",
+   "id": 15565543047537,
+   "title": "Rhys Vineyards Perpetual Réserve California NV",
+   "handle": "rhys-vineyards-perpetual-reserve-california-nv",
+   "url": "https://lastbubbles.com/products/rhys-vineyards-perpetual-reserve-california-nv",
    "status": "other",
    "available": true,
-   "price": 175.0,
-   "retail": 225.0,
-   "discount": 22,
-   "free_ship": null,
-   "vintage": 2015,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012948",
-   "variant_id": 64259770974577,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-14.jpg?v=1789177270",
-   "published_at": "2026-09-25T11:55:05-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T19:00:23Z"
-  },
-  {
-   "id": 15491207397745,
-   "title": "Champagne Christophe Dechannes Rosé Brut Les Riceys NV",
-   "handle": "champagne-christophe-dechannes-rose-brut-les-riceys-nv",
-   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-rose-brut-les-riceys-nv",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
+   "price": 59.0,
    "retail": 80.0,
-   "discount": 39,
+   "discount": 26,
    "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1012884",
-   "variant_id": 63378448449905,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannesRose_1012884_BUB_BottleShot.jpg?v=1787767810",
-   "published_at": "2026-09-25T11:53:25-07:00",
+   "sku": "1000527-001",
+   "variant_id": 63627730714993,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Rhys_1000527-001_BUB_BottleShot.jpg?v=1785169386",
+   "published_at": "2026-09-25T12:08:10-07:00",
    "tags": [
     "fizz-fest",
     "freeship:3"
    ],
-   "first_seen": "2026-09-25T19:00:23Z"
+   "first_seen": "2026-09-25T19:15:15Z"
   },
   {
-   "id": 9564299821371,
-   "title": "La Maison du Crémant Prestige Crémant de Bourgogne Brut NV",
-   "handle": "la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
-   "url": "https://lastbubbles.com/products/la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
+   "id": 15539512902001,
+   "title": "Champagne Egly-Ouriet Les Vignes de Vrigny Extra Brut Premier Cru NV",
+   "handle": "champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
    "status": "other",
    "available": true,
-   "price": 19.0,
-   "retail": 36.0,
-   "discount": 47,
+   "price": 99.0,
+   "retail": 130.0,
+   "discount": 24,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000322",
-   "variant_id": 48908075761979,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaMaisonDuCremant_1000322_BottleShot.jpg?v=1736266289",
-   "published_at": "2026-09-25T11:47:11-07:00",
+   "sku": "1000731-002",
+   "variant_id": 63553133576561,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000731-001_BUB_BottleShot.jpg?v=1773178820",
+   "published_at": "2026-09-25T12:04:53-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T19:00:23Z"
+   "first_seen": "2026-09-25T19:15:15Z"
   },
   {
    "id": 15251852722545,
@@ -441,7 +394,9 @@
    "variant_id": 55173377917297,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Les_Basses_Prieres_Extra_Brut_Hautvillers_Premier_Cru_2018_1008010_BUB_BottleShot.jpg?v=1788106779",
    "published_at": "2026-09-16T16:03:16-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
@@ -1541,7 +1496,9 @@
    "variant_id": 62889625616753,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Jean-Marc_Bernhard_1000174-001_BUB_BottleShot.jpg?v=1784220169",
    "published_at": "2026-07-20T17:06:47-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
@@ -1796,30 +1753,6 @@
    "first_seen": null
   },
   {
-   "id": 11394522349937,
-   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d'Alphaël Brut Nature Grand Cru NV",
-   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-brut-nature-grand-cru-nv-disg-march-2024",
-   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-brut-nature-grand-cru-nv-disg-march-2024",
-   "status": "pdp",
-   "available": true,
-   "price": 53.0,
-   "retail": 75.0,
-   "discount": 29,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007174",
-   "variant_id": 50374751912305,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_cb3fea9b-b8ef-4ddd-ade5-db44791c682c.jpg?v=1765816797",
-   "published_at": "2026-07-13T17:05:29-07:00",
-   "tags": [
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15004195881329,
    "title": "Champagne Fluteau Symbiose Extra Brut 2015",
    "handle": "champagne-fluteau-symbiosis-extra-brut-2015",
@@ -1861,30 +1794,6 @@
    "variant_id": 62402447573361,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_1_b62afe69-22a9-4588-a31f-2a68785c0258.jpg?v=1760543477",
    "published_at": "2026-07-13T17:05:09-07:00",
-   "tags": [
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15004195914097,
-   "title": "Champagne Gounel Lassalle Esprit Voyageur Brut Nature Chigny Les Rosés Premier Cru NV",
-   "handle": "champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 75.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008029",
-   "variant_id": 55202940486001,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalle_BRT_1008029_BottleShot.jpg?v=1747328207",
-   "published_at": "2026-07-13T17:05:00-07:00",
    "tags": [
     "shop-collection",
     "status:pdp"
