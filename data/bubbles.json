@@ -1,6 +1,100 @@
 {
  "products": [
   {
+   "id": 15204897849713,
+   "title": "Champagne Bollinger Rosé Brut NV",
+   "handle": "champagne-bollinger-rose-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-bollinger-rose-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 95.0,
+   "retail": 150.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008828",
+   "variant_id": 55681457422705,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_2.jpg?v=1759508370",
+   "published_at": "2026-09-25T09:42:46-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T16:45:16Z"
+  },
+  {
+   "id": 9627900772667,
+   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
+   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006523",
+   "variant_id": 49071993585979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
+   "published_at": "2026-09-25T09:38:46-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T16:45:16Z"
+  },
+  {
+   "id": 15386232815985,
+   "title": "Champagne Camille Jacquet Rosé Brut NV",
+   "handle": "champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
+   "status": "pdp",
+   "available": true,
+   "price": 44.0,
+   "retail": 80.0,
+   "discount": 45,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007114-001",
+   "variant_id": 62906506445169,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007114_BottleShot_c9a867ed-3e59-4eac-a713-0e3053821b04.jpg?v=1773434505",
+   "published_at": "2026-09-25T09:37:39-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-25T16:45:16Z"
+  },
+  {
+   "id": 15040784859505,
+   "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
+   "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-new-disg",
+   "url": "https://lastbubbles.com/products/giusti-prosecco-asolo-prosecco-superiore-brut-nv-new-disg",
+   "status": "other",
+   "available": true,
+   "price": 16.0,
+   "retail": 25.0,
+   "discount": 36,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000255-001",
+   "variant_id": 55304605794673,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_77.jpg?v=1755050697",
+   "published_at": "2026-09-25T09:33:37-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-25T16:45:16Z"
+  },
+  {
    "id": 14624223854961,
    "title": "Champagne Francis Orban Brut Millésime 2018",
    "handle": "chamapgne-francis-orban-brut-millesime-2018",
@@ -21,99 +115,6 @@
    "tags": [
     "fizz-fest",
     "freeship:2"
-   ],
-   "first_seen": "2026-09-25T16:30:22Z"
-  },
-  {
-   "id": 14625852490097,
-   "title": "Champagne Billecart-Salmon Rosé Cuvée Elisabeth Salmon Extra Brut 2012",
-   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
-   "status": "other",
-   "available": true,
-   "price": 219.0,
-   "retail": 279.0,
-   "discount": 22,
-   "free_ship": 2,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007129",
-   "variant_id": 51643016905073,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BillecartSalmon_1007129_BottleShot.jpg?v=1744651774",
-   "published_at": "2026-09-25T09:29:10-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-25T16:30:22Z"
-  },
-  {
-   "id": 14906516177265,
-   "title": "Onirique Cider Recolte Automnale Dry Sparkling Hard Cider Sonoma County 2023",
-   "handle": "onirique-cider-recolte-automnale-dry-sparkling-hard-cider-sonoma-county-2023",
-   "url": "https://lastbubbles.com/products/onirique-cider-recolte-automnale-dry-sparkling-hard-cider-sonoma-county-2023",
-   "status": "other",
-   "available": true,
-   "price": 22.0,
-   "retail": 30.0,
-   "discount": 27,
-   "free_ship": null,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008368",
-   "variant_id": 52057946095985,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Onrique_1008368_BottleShot_2.jpg?v=1739493318",
-   "published_at": "2026-09-25T09:25:06-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T16:30:22Z"
-  },
-  {
-   "id": 15029018591601,
-   "title": "Champagne Marc Hébrart Special Club Brut Premier Cru 2019 (Magnum 1.5L)",
-   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 260.0,
-   "discount": 23,
-   "free_ship": null,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007154",
-   "variant_id": 55274111271281,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_65.jpg?v=1753717663",
-   "published_at": "2026-09-25T09:21:03-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T16:30:22Z"
-  },
-  {
-   "id": 9564300575035,
-   "title": "Damien Pinon Vouvray Le Brut de Brut NV",
-   "handle": "damien-pinon-vouvray-le-brut-de-brut-nv",
-   "url": "https://lastbubbles.com/products/damien-pinon-vouvray-le-brut-de-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 19.0,
-   "retail": 29.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000134",
-   "variant_id": 48908076646715,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DamienPinon_1000134_BottleShot.jpg?v=1733960429",
-   "published_at": "2026-09-25T09:20:38-07:00",
-   "tags": [
-    "fizz-fest"
    ],
    "first_seen": "2026-09-25T16:30:22Z"
   },
