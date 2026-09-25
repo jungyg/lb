@@ -1,27 +1,52 @@
 {
  "products": [
   {
-   "id": 15439515713905,
-   "title": "Champagne Louis Roederer Cristal Vinothèque Edition Brut 2004 (Magnum 1.5L)",
-   "handle": "champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
+   "id": 15335901757809,
+   "title": "Champagne Gardet Origine 1895 Brut NV (Half Bottle 375mL)",
+   "handle": "champagne-gardet-origine-1895-brut-nv-half-bottle-375ml",
+   "url": "https://lastbubbles.com/products/champagne-gardet-origine-1895-brut-nv-half-bottle-375ml",
    "status": "other",
    "available": true,
-   "price": 2049.0,
-   "retail": 2999.0,
+   "price": 27.0,
+   "retail": 40.0,
    "discount": 32,
    "free_ship": null,
-   "vintage": 2004,
+   "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1013437",
-   "variant_id": 63209318744433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7863-48.jpg?v=1779476901",
-   "published_at": "2026-09-25T13:43:48-07:00",
+   "sku": "1010096",
+   "variant_id": 62708816445809,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7785-15.jpg?v=1779403320",
+   "published_at": "2026-09-25T14:00:00-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-25T20:45:15Z"
+   "first_seen": "2026-09-25T21:00:23Z"
+  },
+  {
+   "id": 9564316074299,
+   "title": "Champagne Ulysse Collin Blanc de Blancs Les Enfers Extra Brut NV (2016 Base)",
+   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
+   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
+   "status": "other",
+   "available": true,
+   "price": 599.0,
+   "retail": 850.0,
+   "discount": 30,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000604",
+   "variant_id": 48908098634043,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ulysse_Collin_1000604_BUB_BottleShot.jpg?v=1781121649",
+   "published_at": "2026-09-25T13:57:53-07:00",
+   "tags": [
+    "App Exclusive",
+    "fizz-fest",
+    "freeship:1"
+   ],
+   "first_seen": "2026-09-25T21:00:23Z"
   },
   {
    "id": 15523470541169,
@@ -40,104 +65,32 @@
    "sku": "1014038",
    "variant_id": 63504760275313,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-29.jpg?v=1789179369",
-   "published_at": "2026-09-25T13:43:04-07:00",
+   "published_at": "2026-09-25T13:54:15-07:00",
    "tags": [
     "fizz-fest"
    ],
    "first_seen": "2026-09-25T20:45:15Z"
   },
   {
-   "id": 15907784458609,
-   "title": "Champagne Laurent-Perrier Grand Siècle Itération N°26 Brut NV",
-   "handle": "champagne-laurent-perrier-grand-siecle-iteration-n26-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-laurent-perrier-grand-siecle-iteration-n26-brut-nv",
+   "id": 15439515713905,
+   "title": "Champagne Louis Roederer Cristal Vinothèque Edition Brut 2004 (Magnum 1.5L)",
+   "handle": "champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
    "status": "other",
    "available": true,
-   "price": 199.0,
-   "retail": 299.0,
-   "discount": 33,
+   "price": 2049.0,
+   "retail": 2999.0,
+   "discount": 32,
    "free_ship": null,
-   "vintage": null,
+   "vintage": 2004,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1014608",
-   "variant_id": 64192733970801,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1014608_FizzFest_U.jpg?v=1790119469",
-   "published_at": "2026-09-25T13:41:16-07:00",
+   "sku": "1013437",
+   "variant_id": 63209318744433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7863-48.jpg?v=1779476901",
+   "published_at": "2026-09-25T13:54:13-07:00",
    "tags": [
     "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 9564304277819,
-   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
-   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
-   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
-   "status": "other",
-   "available": true,
-   "price": 3485.0,
-   "retail": 4500.0,
-   "discount": 23,
-   "free_ship": 1,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000286",
-   "variant_id": 48908080808251,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
-   "published_at": "2026-09-25T13:41:14-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:1"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 15891833323889,
-   "title": "Champagne Billecart-Salmon Cuvée Nicolas François Billecart Brut 2002",
-   "handle": "champagne-billecart-salmon-cuvee-nicolas-francois-billecart-brut-2002-1",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-cuvee-nicolas-francois-billecart-brut-2002-1",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 250.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2002,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014899",
-   "variant_id": 64162135867761,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-45.jpg?v=1789185187",
-   "published_at": "2026-09-25T13:38:41-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 14587459174769,
-   "title": "Champagne André Robert Blanc de Blancs Les Jardins du Mesnil Brut Nature Grand Cru NV",
-   "handle": "champagne-andre-robert-blanc-de-blancs-les-jardins-du-mesnil-brut-nature-grand-cru-nv-disg-december-2023",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-jardins-du-mesnil-brut-nature-grand-cru-nv-disg-december-2023",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 149.0,
-   "discount": 40,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000142-001",
-   "variant_id": 51571733791089,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/AndreRobert_1000142_BottleShot_5c049cbc-488b-4a67-9610-a9e1e186bac3.jpg?v=1747928982",
-   "published_at": "2026-09-25T13:38:27-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2",
-    "last-bottle-credit-awarded"
    ],
    "first_seen": "2026-09-25T20:45:15Z"
   },
@@ -161,30 +114,6 @@
    "published_at": "2026-09-25T13:38:25-07:00",
    "tags": [
     "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T20:45:15Z"
-  },
-  {
-   "id": 9564316008763,
-   "title": "Champagne Ulysse Collin Le Jardin d'Ulysse Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 599.0,
-   "retail": 750.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000611",
-   "variant_id": 48908098535739,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000611_BottleShot.jpg?v=1744305221",
-   "published_at": "2026-09-25T13:37:41-07:00",
-   "tags": [
-    "fizz-fest",
-    "Segmented Offer"
    ],
    "first_seen": "2026-09-25T20:45:15Z"
   },
@@ -1437,29 +1366,6 @@
     "freeship:6",
     "last-bottle-credit-awarded",
     "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15439515943281,
-   "title": "Champagne Louis Roederer Cristal Rosé Brut 2009",
-   "handle": "champagne-louis-roederer-cristal-rose-brut-2009",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-rose-brut-2009",
-   "status": "other",
-   "available": true,
-   "price": 749.0,
-   "retail": 999.0,
-   "discount": 25,
-   "free_ship": null,
-   "vintage": 2009,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013439",
-   "variant_id": 63209318908273,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7484.jpg?v=1772045344",
-   "published_at": "2026-07-22T11:34:26-07:00",
-   "tags": [
-    "fizz-fest"
    ],
    "first_seen": null
   },
