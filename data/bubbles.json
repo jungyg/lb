@@ -1,6 +1,53 @@
 {
  "products": [
   {
+   "id": 9564303524155,
+   "title": "Champagne Domaine Petit & Bajan Blanc de Noirs Obsidienne Brut Grand Cru NV",
+   "handle": "champagne-domaine-petit-and-bajan-blanc-de-noirs-obsidienne-brut-grand-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-domaine-petit-and-bajan-blanc-de-noirs-obsidienne-brut-grand-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 72.0,
+   "retail": 110.0,
+   "discount": 35,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000470",
+   "variant_id": 48908080021819,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PetitBajan_1000470_BottleShot.jpg?v=1733958037",
+   "published_at": "2026-09-26T03:58:40-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T11:00:23Z"
+  },
+  {
+   "id": 14951641153905,
+   "title": "Champagne Maurice Vesselle La Cuvée 53 Brut Grand Cru NV",
+   "handle": "champagne-maurice-vesselle-la-cuvee-53-extra-brut-grand-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-maurice-vesselle-la-cuvee-53-extra-brut-grand-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 45.0,
+   "retail": 90.0,
+   "discount": 50,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007151",
+   "variant_id": 52142600782193,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/MauriceVesselle_1007151_BottleShot.jpg?v=1741720817",
+   "published_at": "2026-09-26T03:51:09-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T11:00:23Z"
+  },
+  {
    "id": 9564282847547,
    "title": "Frank Family Vineyards Rosé Lady Edythe Premiere Los Carneros Napa Valley 2012",
    "handle": "frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
@@ -69,54 +116,6 @@
     "freeship:1"
    ],
    "first_seen": "2026-09-26T10:30:17Z"
-  },
-  {
-   "id": 15004195881329,
-   "title": "Champagne Fluteau Symbiose Extra Brut 2015",
-   "handle": "champagne-fluteau-symbiosis-extra-brut-2015",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-symbiosis-extra-brut-2015",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 75.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": 2015,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007988",
-   "variant_id": 55202940453233,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FluteauSymbiosisExtraBrut2015_1007988_BottleShot.jpg?v=1766191811",
-   "published_at": "2026-09-26T03:22:35-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T10:30:17Z"
-  },
-  {
-   "id": 14887259406705,
-   "title": "Champagne Testulat Cuvée Prestige Brut Premier Cru NV",
-   "handle": "champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 42.0,
-   "retail": 65.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007141",
-   "variant_id": 52012155765105,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Testulat_1007141_BottleShot.jpg?v=1736373175",
-   "published_at": "2026-09-26T03:15:03-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T10:15:16Z"
   },
   {
    "id": 15251852722545,
