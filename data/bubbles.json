@@ -1,6 +1,99 @@
 {
  "products": [
   {
+   "id": 15225447874929,
+   "title": "Tenuta Pederzana Lambrusco Grasparossa Castelvetro Spiriti Folletti Secco NV",
+   "handle": "tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
+   "url": "https://lastbubbles.com/products/tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 30.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007064-001",
+   "variant_id": 55745085505905,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_14.jpg?v=1761674067",
+   "published_at": "2026-09-25T20:59:24-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T04:00:19Z"
+  },
+  {
+   "id": 14996330348913,
+   "title": "Champagne LeClerc Briant Les Basses Prières Extra Brut Hautvillers Premier Cru 2018",
+   "handle": "champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
+   "url": "https://lastbubbles.com/products/champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
+   "status": "other",
+   "available": true,
+   "price": 139.0,
+   "retail": 190.0,
+   "discount": 27,
+   "free_ship": null,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008010",
+   "variant_id": 55173377917297,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Les_Basses_Prieres_Extra_Brut_Hautvillers_Premier_Cru_2018_1008010_BUB_BottleShot.jpg?v=1788106779",
+   "published_at": "2026-09-25T20:56:19-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T04:00:19Z"
+  },
+  {
+   "id": 15565543047537,
+   "title": "Rhys Vineyards Perpetual Réserve California NV",
+   "handle": "rhys-vineyards-perpetual-reserve-california-nv",
+   "url": "https://lastbubbles.com/products/rhys-vineyards-perpetual-reserve-california-nv",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 80.0,
+   "discount": 26,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000527-001",
+   "variant_id": 63627730714993,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Rhys_1000527-001_BUB_BottleShot.jpg?v=1785169386",
+   "published_at": "2026-09-25T20:51:58-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T04:00:19Z"
+  },
+  {
+   "id": 15381249032561,
+   "title": "Domaine Jean-Marc Bernhard Crémant d'Alsace Brut Rosé NV",
+   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
+   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
+   "status": "other",
+   "available": true,
+   "price": 24.0,
+   "retail": 36.0,
+   "discount": 33,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000174-001",
+   "variant_id": 62889625616753,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Jean-Marc_Bernhard_1000174-001_BUB_BottleShot.jpg?v=1784220169",
+   "published_at": "2026-09-25T20:47:57-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T04:00:19Z"
+  },
+  {
    "id": 15539512902001,
    "title": "Champagne Egly-Ouriet Les Vignes de Vrigny Extra Brut Premier Cru NV",
    "handle": "champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
@@ -22,103 +115,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T03:45:15Z"
-  },
-  {
-   "id": 15004195914097,
-   "title": "Champagne Gounel Lassalle Esprit Voyageur Brut Nature Chigny Les Rosés Premier Cru NV",
-   "handle": "champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 75.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008029",
-   "variant_id": 55202940486001,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalle_BRT_1008029_BottleShot.jpg?v=1747328207",
-   "published_at": "2026-09-25T20:40:22-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T03:45:15Z"
-  },
-  {
-   "id": 15204897587569,
-   "title": "Champagne J M Seleque Solessence Extra Brut NV",
-   "handle": "champagne-j-m-seleque-solessence-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-j-m-seleque-solessence-extra-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 62.0,
-   "retail": 90.0,
-   "discount": 31,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008784",
-   "variant_id": 55681457160561,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5_2.jpg?v=1779817970",
-   "published_at": "2026-09-25T20:36:11-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-26T03:45:15Z"
-  },
-  {
-   "id": 9564304507195,
-   "title": "Champagne Pehu-Simonet Blanc de Blancs Fins Lieux n°6 Les Pisse Renards Verzenay Grand Cru 2013",
-   "handle": "champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
-   "url": "https://lastbubbles.com/products/champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 140.0,
-   "discount": 36,
-   "free_ship": 2,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000459",
-   "variant_id": 48908081365307,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Pehu-Simonet-Blanc-de-Blancs-Fins-Lieux-n6-Les-Pisse-Renards-Verzenay-Grand-Cru-2013-product-image-636-large.jpg?v=1717804586",
-   "published_at": "2026-09-25T20:32:17-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T03:45:15Z"
-  },
-  {
-   "id": 15539512639857,
-   "title": "Montetondo Lessini Durello Riserva Metodo Classico Zero Dosaggio 2020",
-   "handle": "montetondo-lessini-durello-riserva-metodo-classico-zero-dossaggio-2020-nd",
-   "url": "https://lastbubbles.com/products/montetondo-lessini-durello-riserva-metodo-classico-zero-dossaggio-2020-nd",
-   "status": "other",
-   "available": true,
-   "price": 38.0,
-   "retail": 65.0,
-   "discount": 42,
-   "free_ship": 4,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006539-001",
-   "variant_id": 63553133347185,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Montetondo_1006539-001_BUB_BottleShot.jpg?v=1783008816",
-   "published_at": "2026-09-25T20:28:13-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
-   ],
-   "first_seen": "2026-09-26T03:30:20Z"
   },
   {
    "id": 9564316074299,
