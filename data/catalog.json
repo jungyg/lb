@@ -5,7 +5,7 @@
    "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
    "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
    "url": "https://lastbottlewines.com/products/grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 14.0,
    "retail": 45.0,
@@ -19,8 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Grace_Grit_Sauvignon_Blanc_Dry_Creek_Valley_2025_2000043_LB_BottleShot.jpg?v=1788798563",
    "published_at": "2026-09-26T10:00:11-07:00",
    "tags": [
-    "freeship:4",
-    "status:dailyoffer"
+    "freeship:4"
    ],
    "first_seen": "2026-09-26T17:00:18Z"
   },
