@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 9627900772667,
+   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
+   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006523",
+   "variant_id": 49071993585979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
+   "published_at": "2026-09-26T04:55:52-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T12:00:21Z"
+  },
+  {
+   "id": 11394522939761,
+   "title": "Champagne Francis Orban Extra Brut NV",
+   "handle": "champagne-francis-orban-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-francis-orban-extra-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 75.0,
+   "discount": 48,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007244",
+   "variant_id": 50374752502129,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007244_BottleShot.jpg?v=1747243780",
+   "published_at": "2026-09-26T04:48:51-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T12:00:21Z"
+  },
+  {
    "id": 9564305817915,
    "title": "Champagne Gallimard Père et Fils Blanc de Noirs Les Meurgers Extra Brut NV",
    "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
@@ -70,53 +116,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T11:30:16Z"
-  },
-  {
-   "id": 9564307161403,
-   "title": "Domaine Jean-Marc Bernhard Cremant d'Alsace Rosé Brut Réserve NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "status": "other",
-   "available": true,
-   "price": 20.0,
-   "retail": 36.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000173",
-   "variant_id": 48908087853371,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Domaine-JeanMarc-Bernhard-Cremant-dAlsace-Brut-Rose-NV-product-image-676-large.jpg?v=1717804588",
-   "published_at": "2026-09-26T04:19:42-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T11:30:16Z"
-  },
-  {
-   "id": 9564317385019,
-   "title": "Champagne Domaine Les Monts Fournois Grande Vallee Mareuil Sur Ay De Luxe Extra Brut Premier Cru NV",
-   "handle": "champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000739",
-   "variant_id": 48908102697275,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fourneois_BBMKRIR1_BottleShot.jpg?v=1719284243",
-   "published_at": "2026-09-26T04:12:42-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T11:15:16Z"
   },
   {
    "id": 15251852722545,
