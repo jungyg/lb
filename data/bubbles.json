@@ -1,6 +1,77 @@
 {
  "products": [
   {
+   "id": 15284404486513,
+   "title": "Champagne Copin-Cautel Coup de Crayon Extra Brut Blanc de Noir NV",
+   "handle": "champagne-copin-cautel-coup-de-crayon-extra-brut-blanc-de-noir-nv",
+   "url": "https://lastbubbles.com/products/champagne-copin-cautel-coup-de-crayon-extra-brut-blanc-de-noir-nv",
+   "status": "other",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008893",
+   "variant_id": 62539474076017,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_3_c2ea044d-8f94-4a1c-857c-d4eabd81db36.jpg?v=1772643914",
+   "published_at": "2026-09-25T20:12:02-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T03:15:14Z"
+  },
+  {
+   "id": 9627901002043,
+   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
+   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "status": "other",
+   "available": true,
+   "price": 64.0,
+   "retail": 90.0,
+   "discount": 29,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006519-001",
+   "variant_id": 49071993815355,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
+   "published_at": "2026-09-25T20:08:00-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T03:15:14Z"
+  },
+  {
+   "id": 15928967037297,
+   "title": "Champagne Étienne Calsac Blanc de Blancs Les Rocheforts Extra Brut Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-etienne-calsac-blanc-de-blancs-les-rocheforts-extra-brut-premier-cru-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-etienne-calsac-blanc-de-blancs-les-rocheforts-extra-brut-premier-cru-nv-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 199.0,
+   "retail": 250.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012898",
+   "variant_id": 64259770745201,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-39.jpg?v=1789180322",
+   "published_at": "2026-09-25T20:04:55-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T03:15:14Z"
+  },
+  {
    "id": 14930812305777,
    "title": "Champagne Gondé-Rousseaux Chapitre I TS 17 Extra Brut Premier Cru NV",
    "handle": "champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
@@ -47,78 +118,6 @@
     "freeship:4"
    ],
    "first_seen": "2026-09-26T03:00:22Z"
-  },
-  {
-   "id": 15381248967025,
-   "title": "Champagne Vincent Testulat Blanc de Blancs Brut Nature NV",
-   "handle": "champagne-vincent-testulat-blanc-de-blancs-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-vincent-testulat-blanc-de-blancs-brut-nature-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 70.0,
-   "discount": 30,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010002",
-   "variant_id": 62889625551217,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Vincent_Testulat_BDB_1010002_BUB_BottleShot.jpg?v=1785349801",
-   "published_at": "2026-09-25T19:52:30-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T03:00:22Z"
-  },
-  {
-   "id": 15029018591601,
-   "title": "Champagne Marc Hébrart Special Club Brut Premier Cru 2019 (Magnum 1.5L)",
-   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 260.0,
-   "discount": 23,
-   "free_ship": null,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007154",
-   "variant_id": 55274111271281,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_65.jpg?v=1753717663",
-   "published_at": "2026-09-25T19:47:46-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T03:00:22Z"
-  },
-  {
-   "id": 14932095140209,
-   "title": "Tenuta Carretta Blanc de Blanc Airali Alta Langa Extra Brut 2021",
-   "handle": "tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
-   "url": "https://lastbubbles.com/products/tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
-   "status": "other",
-   "available": true,
-   "price": 32.0,
-   "retail": 50.0,
-   "discount": 36,
-   "free_ship": 4,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007139",
-   "variant_id": 52099051127153,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/TenutaCarretta_1007139_BottleShot.jpg?v=1742327697",
-   "published_at": "2026-09-25T19:43:41-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
-   ],
-   "first_seen": "2026-09-26T02:45:18Z"
   },
   {
    "id": 9564316074299,
