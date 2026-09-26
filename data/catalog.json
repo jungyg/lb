@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10796522602780,
+   "title": "Grape Culture Cabernet Sauvignon GC22 Napa Valley 2022",
+   "handle": "grape-culture-cabernet-sauvignon-reserve-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/grape-culture-cabernet-sauvignon-reserve-napa-valley-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 89.0,
+   "retail": 225.0,
+   "discount": 60,
+   "free_ship": 1,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "WineBid",
+   "sku": "1013786",
+   "variant_id": 53990991397148,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013786.jpg?v=1788369708",
+   "published_at": "2026-09-26T09:31:18-07:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T16:45:14Z"
+  },
+  {
    "id": 10942787715356,
    "title": "Rudius Cabernet Sauvignon K.E. Oakville Napa Valley 2023",
    "handle": "rudius-cabernet-sauvignon-k-e-oakville-napa-valley-2023",
