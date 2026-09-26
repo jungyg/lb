@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 15381248868721,
+   "title": "Champagne Laurent Lequart Reserve Brut Valle de la Marne Autre Cru NV",
+   "handle": "champagne-laurent-lequart-prestige-brut-valle-de-la-marne-autre-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-laurent-lequart-prestige-brut-valle-de-la-marne-autre-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 70.0,
+   "discount": 44,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008878",
+   "variant_id": 62889625452913,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_12_09f8209e-4e9e-4745-94c1-60b4298d9239.jpg?v=1774485252",
+   "published_at": "2026-09-26T07:59:30-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T15:00:21Z"
+  },
+  {
+   "id": 14820698456433,
+   "title": "Champagne Billecart Salmon Rosé Cuvée Elisabeth Salmon Brut 2012 (Magnum 1.5L)",
+   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 448.0,
+   "retail": 565.0,
+   "discount": 21,
+   "free_ship": null,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007130",
+   "variant_id": 51900326871409,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007130.jpg?v=1762300498",
+   "published_at": "2026-09-26T07:52:14-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T15:00:21Z"
+  },
+  {
    "id": 15581223616881,
    "title": "Champagne Monmarthe Secret de Famille Brut Premier Cru NV (Half Bottle 375mL)",
    "handle": "champagne-monmarthe-secret-de-famille-brut-premier-cru-nv-half-bottle-375ml-nd",
@@ -45,77 +91,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T14:42:43Z"
-  },
-  {
-   "id": 14587459174769,
-   "title": "Champagne André Robert Blanc de Blancs Les Jardins du Mesnil Brut Nature Grand Cru NV",
-   "handle": "champagne-andre-robert-blanc-de-blancs-les-jardins-du-mesnil-brut-nature-grand-cru-nv-disg-december-2023",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-jardins-du-mesnil-brut-nature-grand-cru-nv-disg-december-2023",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 149.0,
-   "discount": 40,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000142-001",
-   "variant_id": 51571733791089,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/AndreRobert_1000142_BottleShot_5c049cbc-488b-4a67-9610-a9e1e186bac3.jpg?v=1747928982",
-   "published_at": "2026-09-26T07:35:53-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2",
-    "last-bottle-credit-awarded"
-   ],
-   "first_seen": "2026-09-26T14:42:43Z"
-  },
-  {
-   "id": 15978572480881,
-   "title": "Et Fille Sparkling Rose Brut Willamette Valley 2021",
-   "handle": "et-fille-sparkling-rose-brut-willamette-valley-2021-clear-glass",
-   "url": "https://lastbubbles.com/products/et-fille-sparkling-rose-brut-willamette-valley-2021-clear-glass",
-   "status": "other",
-   "available": true,
-   "price": 29.0,
-   "retail": 70.0,
-   "discount": 59,
-   "free_ship": null,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "2000448-01",
-   "variant_id": 64449772421489,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-56.jpg?v=1789186811",
-   "published_at": "2026-09-26T07:31:52-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T14:42:43Z"
-  },
-  {
-   "id": 14887259472241,
-   "title": "Champagne Domaine Bauchet Origine Brut NV",
-   "handle": "champagne-domaine-bauchet-origine-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-bauchet-origine-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 39.0,
-   "retail": 60.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007132",
-   "variant_id": 52012155830641,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBauchet_BRT_NV1007132_BottleShot.jpg?v=1747328340",
-   "published_at": "2026-09-26T07:28:47-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T14:30:18Z"
   },
   {
    "id": 15251852722545,
