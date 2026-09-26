@@ -1,98 +1,97 @@
 {
  "products": [
   {
-   "id": 9564317679931,
-   "title": "Champagne Domaine Les Monts Fournois Montagne Extra Brut Grand Cru 2013",
-   "handle": "champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
-   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
+   "id": 15204897325425,
+   "title": "Champagne Piollot Cuvée Colas Robin Extra Brut NV",
+   "handle": "champagne-piollot-cuvee-colas-robin-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-colas-robin-extra-brut-nv",
    "status": "other",
    "available": true,
-   "price": 119.0,
-   "retail": 200.0,
-   "discount": 40,
-   "free_ship": null,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000740",
-   "variant_id": 48908103418171,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5161.jpg?v=1740082030",
-   "published_at": "2026-09-25T18:58:46-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:00:20Z"
-  },
-  {
-   "id": 9564308439355,
-   "title": "Domaine Gilles & Romain Collet Cremant de Bourgogne NV",
-   "handle": "domaine-gilles-and-romain-collet-cremant-de-bourgogne-nv",
-   "url": "https://lastbubbles.com/products/domaine-gilles-and-romain-collet-cremant-de-bourgogne-nv",
-   "status": "other",
-   "available": true,
-   "price": 27.0,
-   "retail": 40.0,
-   "discount": 32,
+   "price": 59.0,
+   "retail": 108.0,
+   "discount": 45,
    "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000166",
-   "variant_id": 48908089950523,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GillesRomainCollet_1000166_BottleShot.jpg?v=1778003994",
-   "published_at": "2026-09-25T18:54:45-07:00",
+   "sku": "1008826",
+   "variant_id": 55681456898417,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7771-9_f309f540-8110-4b9f-b39c-1bcfd94dd619.jpg?v=1779402876",
+   "published_at": "2026-09-25T19:15:02-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-26T02:00:20Z"
+   "first_seen": "2026-09-26T02:15:16Z"
   },
   {
-   "id": 15040785088881,
-   "title": "Perelada Centenaria Brut Reserva Cava 2022",
-   "handle": "perelada-centario-brut-reserva-cava-2022",
-   "url": "https://lastbubbles.com/products/perelada-centario-brut-reserva-cava-2022",
+   "id": 14951641284977,
+   "title": "Bestheim Rosé Crémant d'Alsace Brut NV",
+   "handle": "bestheim-brut-rose-cremant-dalsace-nv",
+   "url": "https://lastbubbles.com/products/bestheim-brut-rose-cremant-dalsace-nv",
    "status": "other",
    "available": true,
-   "price": 16.0,
-   "retail": 29.0,
-   "discount": 45,
+   "price": 18.0,
+   "retail": 26.0,
+   "discount": 31,
    "free_ship": 6,
-   "vintage": 2022,
+   "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008718",
-   "variant_id": 55304606024049,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaCentarioBrutReservaCava2022_1008718_BottleShot.jpg?v=1752261009",
-   "published_at": "2026-09-25T18:49:39-07:00",
+   "sku": "1007556",
+   "variant_id": 52142600880497,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_90.jpg?v=1771899273",
+   "published_at": "2026-09-25T19:14:07-07:00",
    "tags": [
     "fizz-fest",
-    "freeship:6",
-    "last-bottle-credit-awarded"
+    "freeship:6"
    ],
-   "first_seen": "2026-09-26T02:00:20Z"
+   "first_seen": "2026-09-26T02:15:16Z"
   },
   {
-   "id": 14622655349105,
-   "title": "Champagne Stéphane Coquillette Blanc de Noirs Les Clés Ay Brut Grand Cru NV",
-   "handle": "champagne-stephane-coquillette-blanc-de-noirs-les-cles-chouilly-brut-grand-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-stephane-coquillette-blanc-de-noirs-les-cles-chouilly-brut-grand-cru-nv",
+   "id": 14930812240241,
+   "title": "Ca'Erto Soave Spumante Brut 2023",
+   "handle": "caerto-soave-spumante-brut-2023",
+   "url": "https://lastbubbles.com/products/caerto-soave-spumante-brut-2023",
    "status": "other",
    "available": true,
-   "price": 65.0,
-   "retail": 90.0,
-   "discount": 28,
+   "price": 18.0,
+   "retail": 28.0,
+   "discount": 36,
    "free_ship": null,
-   "vintage": null,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007383",
-   "variant_id": 51639828906353,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/StephaneCoquillette_1007383_BottleShot.jpg?v=1731543594",
-   "published_at": "2026-09-25T18:48:43-07:00",
+   "sku": "1006538",
+   "variant_id": 52095776620913,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ca_Erto_1006538_BottleShot.jpg?v=1746028750",
+   "published_at": "2026-09-25T19:04:52-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-26T02:00:20Z"
+   "first_seen": "2026-09-26T02:15:16Z"
+  },
+  {
+   "id": 15004196274545,
+   "title": "Champagne Doré by Monmarthe Le Clos Blanc de Blancs Extra Brut Ludes Premier Cru 2014",
+   "handle": "champagne-d-le-clos-dore-by-monmarthe-blanc-de-blancs-extra-brut-ludes-premier-cru-2014",
+   "url": "https://lastbubbles.com/products/champagne-d-le-clos-dore-by-monmarthe-blanc-de-blancs-extra-brut-ludes-premier-cru-2014",
+   "status": "other",
+   "available": true,
+   "price": 109.0,
+   "retail": 160.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007908",
+   "variant_id": 55202940846449,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_10.jpg?v=1760803295",
+   "published_at": "2026-09-25T19:03:30-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T02:15:16Z"
   },
   {
    "id": 9564316074299,
@@ -256,7 +255,9 @@
    "variant_id": 48908087755067,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000435_BottleShot.jpg?v=1736971130",
    "published_at": "2026-09-21T10:05:40-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
@@ -1389,29 +1390,6 @@
     "freeship:3",
     "shop-collection",
     "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 11394522448241,
-   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Hakamiah Extra Brut Grand Cru NV",
-   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
-   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
-   "status": "other",
-   "available": true,
-   "price": 69.0,
-   "retail": 102.0,
-   "discount": 32,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000481-001",
-   "variant_id": 50374751977841,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PhilippeGlavier_1000481-001_BottleShot.jpg?v=1739232341",
-   "published_at": "2026-07-13T17:06:17-07:00",
-   "tags": [
-    "fizz-fest"
    ],
    "first_seen": null
   },
