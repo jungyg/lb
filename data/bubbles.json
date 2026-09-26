@@ -1,6 +1,100 @@
 {
  "products": [
   {
+   "id": 14996330414449,
+   "title": "Champagne Carole Haudot Blanc de Blancs Extra Brut NV",
+   "handle": "champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
+   "url": "https://lastbubbles.com/products/champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
+   "status": "other",
+   "available": true,
+   "price": 49.0,
+   "retail": 90.0,
+   "discount": 46,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007990",
+   "variant_id": 55173377950065,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CarolHaudot_BDB_1007990_BottleShot.jpg?v=1749485348",
+   "published_at": "2026-09-26T02:32:37-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T09:45:15Z"
+  },
+  {
+   "id": 14887259701617,
+   "title": "Champagne Eric Rodez Cuvée des Grandes Vintages Extra Brut Grand Cru NV",
+   "handle": "champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-nov-2023",
+   "url": "https://lastbubbles.com/products/champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-nov-2023",
+   "status": "other",
+   "available": true,
+   "price": 119.0,
+   "retail": 160.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007122",
+   "variant_id": 52012156060017,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Eric_Rodez_Cuvee_des_Grandes_Vintages_Extra_Brut_Grand_Cru_NV_1007122_BottleSHot.jpg?v=1755798471",
+   "published_at": "2026-09-26T02:32:35-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:45:15Z"
+  },
+  {
+   "id": 15004196405617,
+   "title": "Casa Setaro Pietrafumante Caprettone Spumante Metodo Classico Brut 2021",
+   "handle": "casa-setaro-pietrafumante-caprettone-spumante-metodo-classico-brut-2021",
+   "url": "https://lastbubbles.com/products/casa-setaro-pietrafumante-caprettone-spumante-metodo-classico-brut-2021",
+   "status": "other",
+   "available": true,
+   "price": 32.0,
+   "retail": 50.0,
+   "discount": 36,
+   "free_ship": 4,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007594",
+   "variant_id": 55202940977521,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_88.jpg?v=1756872813",
+   "published_at": "2026-09-26T02:32:33-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T09:45:15Z"
+  },
+  {
+   "id": 15004196438385,
+   "title": "Champagne Gounel Lassalle Terre d'Ancetres Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 149.0,
+   "retail": 199.0,
+   "discount": 25,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008041",
+   "variant_id": 55202941010289,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bubbles_SKU_BottleShot-26.jpg?v=1762302132",
+   "published_at": "2026-09-26T02:32:31-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:45:15Z"
+  },
+  {
    "id": 14622655349105,
    "title": "Champagne Stéphane Coquillette Blanc de Noirs Les Clés Ay Brut Grand Cru NV",
    "handle": "champagne-stephane-coquillette-blanc-de-noirs-les-cles-chouilly-brut-grand-cru-nv",
@@ -68,52 +162,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T09:15:16Z"
-  },
-  {
-   "id": 9564317679931,
-   "title": "Champagne Domaine Les Monts Fournois Montagne Extra Brut Grand Cru 2013",
-   "handle": "champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
-   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
-   "status": "other",
-   "available": true,
-   "price": 119.0,
-   "retail": 200.0,
-   "discount": 40,
-   "free_ship": null,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000740",
-   "variant_id": 48908103418171,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5161.jpg?v=1740082030",
-   "published_at": "2026-09-26T02:03:15-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T09:15:16Z"
-  },
-  {
-   "id": 15004195520881,
-   "title": "Damien Pinon Chapitre XV Brut Nature Vouvray NV",
-   "handle": "damien-pinon-chapter-xv-brut-nature-vouvray-brut-de-brut-nv",
-   "url": "https://lastbubbles.com/products/damien-pinon-chapter-xv-brut-nature-vouvray-brut-de-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 24.0,
-   "retail": 30.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007998",
-   "variant_id": 55202940092785,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Damien_Pinon_Chapter_XV_Brut_Nature_Vouvray_Brut_de_Brut_NV_1007998.jpg?v=1758304666",
-   "published_at": "2026-09-26T01:56:01-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T09:00:19Z"
   },
   {
    "id": 15251852722545,
