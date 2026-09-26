@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 11394522448241,
+   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Hakamiah Extra Brut Grand Cru NV",
+   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
+   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
+   "status": "other",
+   "available": true,
+   "price": 69.0,
+   "retail": 102.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000481-001",
+   "variant_id": 50374751977841,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PhilippeGlavier_1000481-001_BottleShot.jpg?v=1739232341",
+   "published_at": "2026-09-26T01:13:19-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T08:15:15Z"
+  },
+  {
+   "id": 14820698456433,
+   "title": "Champagne Billecart Salmon Rosé Cuvée Elisabeth Salmon Brut 2012 (Magnum 1.5L)",
+   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 448.0,
+   "retail": 565.0,
+   "discount": 21,
+   "free_ship": null,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007130",
+   "variant_id": 51900326871409,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007130.jpg?v=1762300498",
+   "published_at": "2026-09-26T01:06:03-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T08:15:15Z"
+  },
+  {
    "id": 9564315681083,
    "title": "Champagne Ulysse Collin Blanc de Noirs Les Maillons Extra Brut NV (2017 Base)",
    "handle": "champagne-ulysse-collin-blanc-de-noirs-les-maillons-extra-brut-nv-2017-base",
@@ -68,52 +114,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T07:45:16Z"
-  },
-  {
-   "id": 14820710449521,
-   "title": "Champagne Domaine Nowack Les Terres Bleues Autre Cru Brut Nature 2020",
-   "handle": "champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
-   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
-   "status": "other",
-   "available": true,
-   "price": 85.0,
-   "retail": 105.0,
-   "discount": 19,
-   "free_ship": null,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007163",
-   "variant_id": 51900390474097,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5276.jpg?v=1740507996",
-   "published_at": "2026-09-26T00:36:49-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T07:45:16Z"
-  },
-  {
-   "id": 14951641252209,
-   "title": "Bestheim Chardonnay Crémant d'Alsace Extra Brut NV",
-   "handle": "bestheim-brut-cremant-dalsace-nv",
-   "url": "https://lastbubbles.com/products/bestheim-brut-cremant-dalsace-nv",
-   "status": "other",
-   "available": true,
-   "price": 18.0,
-   "retail": 26.0,
-   "discount": 31,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007557",
-   "variant_id": 52142600913265,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bestheim_Chardonnay_Cremant_dAlsace_Extra_Brut_NV_1007557_BottleShot.jpg?v=1750129898",
-   "published_at": "2026-09-26T00:29:34-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T07:30:19Z"
   },
   {
    "id": 15251852722545,
