@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 9700033134907,
+   "title": "Champagne Petit & Bajan Ambrosie Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-petit-bajan-ambrosie-brut-grand-cru-nv-magnum-1-5l-disg-may-2024",
+   "url": "https://lastbubbles.com/products/champagne-petit-bajan-ambrosie-brut-grand-cru-nv-magnum-1-5l-disg-may-2024",
+   "status": "other",
+   "available": true,
+   "price": 139.0,
+   "retail": 199.0,
+   "discount": 30,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000696-001",
+   "variant_id": 49257727689019,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000696-001_52878267-ba02-409e-b835-8e9d8769a5cf.jpg?v=1762992524",
+   "published_at": "2026-09-26T02:10:15-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:15:16Z"
+  },
+  {
+   "id": 9564317679931,
+   "title": "Champagne Domaine Les Monts Fournois Montagne Extra Brut Grand Cru 2013",
+   "handle": "champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
+   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-montagne-extra-brut-grand-cru-2013",
+   "status": "other",
+   "available": true,
+   "price": 119.0,
+   "retail": 200.0,
+   "discount": 40,
+   "free_ship": null,
+   "vintage": 2013,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000740",
+   "variant_id": 48908103418171,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5161.jpg?v=1740082030",
+   "published_at": "2026-09-26T02:03:15-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:15:16Z"
+  },
+  {
    "id": 15004195520881,
    "title": "Damien Pinon Chapitre XV Brut Nature Vouvray NV",
    "handle": "damien-pinon-chapter-xv-brut-nature-vouvray-brut-de-brut-nv",
@@ -66,53 +112,6 @@
    "published_at": "2026-09-26T01:27:22-07:00",
    "tags": [
     "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T08:30:19Z"
-  },
-  {
-   "id": 14887259472241,
-   "title": "Champagne Domaine Bauchet Origine Brut NV",
-   "handle": "champagne-domaine-bauchet-origine-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-bauchet-origine-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 39.0,
-   "retail": 60.0,
-   "discount": 35,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007132",
-   "variant_id": 52012155830641,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBauchet_BRT_NV1007132_BottleShot.jpg?v=1747328340",
-   "published_at": "2026-09-26T01:20:23-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T08:30:19Z"
-  },
-  {
-   "id": 9564316008763,
-   "title": "Champagne Ulysse Collin Le Jardin d'Ulysse Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 599.0,
-   "retail": 750.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000611",
-   "variant_id": 48908098535739,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000611_BottleShot.jpg?v=1744305221",
-   "published_at": "2026-09-26T01:20:21-07:00",
-   "tags": [
-    "fizz-fest",
-    "Segmented Offer"
    ],
    "first_seen": "2026-09-26T08:30:19Z"
   },
