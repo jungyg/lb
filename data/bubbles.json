@@ -1,6 +1,55 @@
 {
  "products": [
   {
+   "id": 15004195914097,
+   "title": "Champagne Gounel Lassalle Esprit Voyageur Brut Nature Chigny Les Rosés Premier Cru NV",
+   "handle": "champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 75.0,
+   "discount": 35,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008029",
+   "variant_id": 55202940486001,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalle_BRT_1008029_BottleShot.jpg?v=1747328207",
+   "published_at": "2026-09-25T23:24:34-07:00",
+   "tags": [
+    "fizz-fest",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T06:30:18Z"
+  },
+  {
+   "id": 14625852490097,
+   "title": "Champagne Billecart-Salmon Rosé Cuvée Elisabeth Salmon Extra Brut 2012",
+   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
+   "status": "other",
+   "available": true,
+   "price": 219.0,
+   "retail": 279.0,
+   "discount": 22,
+   "free_ship": 2,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007129",
+   "variant_id": 51643016905073,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BillecartSalmon_1007129_BottleShot.jpg?v=1744651774",
+   "published_at": "2026-09-25T23:17:38-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T06:30:18Z"
+  },
+  {
    "id": 9564316107067,
    "title": "Champagne Ulysse Collin Blanc de Blancs Les Pierrières Extra Brut NV (2016 Base)",
    "handle": "champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
@@ -70,54 +119,6 @@
     "freeship:3"
    ],
    "first_seen": "2026-09-26T06:00:56Z"
-  },
-  {
-   "id": 14996330283377,
-   "title": "Champagne LeClerc Briant Blanc de Meuniers Extra Brut 2016",
-   "handle": "champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 99.0,
-   "retail": 199.0,
-   "discount": 50,
-   "free_ship": 2,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008012",
-   "variant_id": 55173377818993,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClercBriantBDMExtraBrut2016_1008012_BottleShot.jpg?v=1754770365",
-   "published_at": "2026-09-25T22:48:26-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T06:00:56Z"
-  },
-  {
-   "id": 9627901002043,
-   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
-   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
-   "status": "other",
-   "available": true,
-   "price": 64.0,
-   "retail": 90.0,
-   "discount": 29,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006519-001",
-   "variant_id": 49071993815355,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
-   "published_at": "2026-09-25T22:41:25-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
-   ],
-   "first_seen": "2026-09-26T05:45:14Z"
   },
   {
    "id": 9564316074299,
