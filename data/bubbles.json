@@ -1,6 +1,76 @@
 {
  "products": [
   {
+   "id": 15907783803249,
+   "title": "Champagne Krug Brut 2002",
+   "handle": "champagne-krug-brut-2002",
+   "url": "https://lastbubbles.com/products/champagne-krug-brut-2002",
+   "status": "other",
+   "available": true,
+   "price": 399.0,
+   "retail": 800.0,
+   "discount": 50,
+   "free_ship": null,
+   "vintage": 2002,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1015195",
+   "variant_id": 64192733282673,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-47.jpg?v=1789185800",
+   "published_at": "2026-09-25T18:29:28-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T01:30:18Z"
+  },
+  {
+   "id": 14625852621169,
+   "title": "Tenuta Carretta Airali Alta Langa Metodo Classico Pas Dosé 2020",
+   "handle": "tenuta-carretta-airali-alta-langa-metodo-classico-pas-dose-2020",
+   "url": "https://lastbubbles.com/products/tenuta-carretta-airali-alta-langa-metodo-classico-pas-dose-2020",
+   "status": "other",
+   "available": true,
+   "price": 27.0,
+   "retail": 50.0,
+   "discount": 46,
+   "free_ship": 6,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007137",
+   "variant_id": 51643017003377,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/TenutaCarretta_1007137_BottleShot.jpg?v=1730410753",
+   "published_at": "2026-09-25T18:26:23-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:6"
+   ],
+   "first_seen": "2026-09-26T01:30:18Z"
+  },
+  {
+   "id": 15029018493297,
+   "title": "Paul Mittnacht Crémant d'Alsace Brut NV",
+   "handle": "paul-mittnacht-cremant-dalsace-brut-nv",
+   "url": "https://lastbubbles.com/products/paul-mittnacht-cremant-dalsace-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 16.0,
+   "retail": 30.0,
+   "discount": 47,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008186",
+   "variant_id": 55274111140209,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008186_BUB_BottleShot.jpg?v=1769959634",
+   "published_at": "2026-09-25T18:20:18-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T01:30:18Z"
+  },
+  {
    "id": 14996330414449,
    "title": "Champagne Carole Haudot Blanc de Blancs Extra Brut NV",
    "handle": "champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
@@ -21,75 +91,6 @@
    "tags": [
     "fizz-fest",
     "freeship:3"
-   ],
-   "first_seen": "2026-09-26T01:15:16Z"
-  },
-  {
-   "id": 15565543145841,
-   "title": "Champagne Taittinger Blanc de Blancs Comtes de Champagne Brut Grand Cru 2014",
-   "handle": "champagne-taittinger-blanc-de-blancs-comtes-de-champagne-brut-grand-cru-2014",
-   "url": "https://lastbubbles.com/products/champagne-taittinger-blanc-de-blancs-comtes-de-champagne-brut-grand-cru-2014",
-   "status": "other",
-   "available": true,
-   "price": 219.0,
-   "retail": 299.0,
-   "discount": 27,
-   "free_ship": null,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012179",
-   "variant_id": 63627730813297,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1012179_BUB_BottleShot.jpg?v=1780157428",
-   "published_at": "2026-09-25T18:14:25-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T01:15:16Z"
-  },
-  {
-   "id": 15040784761201,
-   "title": "Riverbench Blanc de Blancs Brut Santa Maria Valley 2018",
-   "handle": "riverbench-blanc-de-blancs-brut-santa-maria-valley-2018",
-   "url": "https://lastbubbles.com/products/riverbench-blanc-de-blancs-brut-santa-maria-valley-2018",
-   "status": "other",
-   "available": true,
-   "price": 22.0,
-   "retail": 48.0,
-   "discount": 54,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1011259",
-   "variant_id": 55304605663601,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_48_73b4be29-a02e-4a23-bd13-4cc81ca991e6.jpg?v=1752453146",
-   "published_at": "2026-09-25T18:10:30-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T01:15:16Z"
-  },
-  {
-   "id": 15439516041585,
-   "title": "Champagne Laherte Frères Pinot Meunier Extra Brut Les Vignes d'Autrefois 2019",
-   "handle": "champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
-   "url": "https://lastbubbles.com/products/champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 135.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013497",
-   "variant_id": 63209319072113,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013497_BUB_BottleShot.jpg?v=1774973627",
-   "published_at": "2026-09-25T18:06:24-07:00",
-   "tags": [
-    "fizz-fest"
    ],
    "first_seen": "2026-09-26T01:15:16Z"
   },
@@ -2013,29 +2014,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Le-Gallais-Cuve-du-Manoir-Brut-NV-product-image-449-large.jpg?v=1717804566",
    "published_at": "2024-06-03T19:18:59-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 9564295954747,
-   "title": "Bride Valley Vineyard Rosé Bella Brut 2016",
-   "handle": "bride-valley-vineyard-rose-bella-brut-2016",
-   "url": "https://lastbubbles.com/products/bride-valley-vineyard-rose-bella-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000074",
-   "variant_id": 48908067111227,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BrideValley_1000074_BottleShot_1.jpg?v=1741124040",
-   "published_at": "2024-06-03T19:18:21-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
    "first_seen": null
   }
  ]
