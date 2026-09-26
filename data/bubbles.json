@@ -1,6 +1,101 @@
 {
  "products": [
   {
+   "id": 14624223822193,
+   "title": "Champagne Francis Orban Meunier Cuvée Parcellaire Les Hauts Beugnets Brut 2016",
+   "handle": "champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
+   "url": "https://lastbubbles.com/products/champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
+   "status": "other",
+   "available": true,
+   "price": 95.0,
+   "retail": 150.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007380",
+   "variant_id": 51641485623665,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_76.jpg?v=1754412246",
+   "published_at": "2026-09-26T08:14:41-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T15:15:17Z"
+  },
+  {
+   "id": 9564316074299,
+   "title": "Champagne Ulysse Collin Blanc de Blancs Les Enfers Extra Brut NV (2016 Base)",
+   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
+   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
+   "status": "other",
+   "available": true,
+   "price": 599.0,
+   "retail": 850.0,
+   "discount": 30,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000604",
+   "variant_id": 48908098634043,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ulysse_Collin_1000604_BUB_BottleShot.jpg?v=1781121649",
+   "published_at": "2026-09-26T08:10:22-07:00",
+   "tags": [
+    "App Exclusive",
+    "fizz-fest",
+    "freeship:1"
+   ],
+   "first_seen": "2026-09-26T15:15:17Z"
+  },
+  {
+   "id": 16016089317745,
+   "title": "Champagne Louis Roederer Cristal Brut 2008 (missing wrapper)",
+   "handle": "champagne-louis-roederer-cristal-brut-2008-missing-wrapper",
+   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2008-missing-wrapper",
+   "status": "other",
+   "available": true,
+   "price": 296.1,
+   "retail": 400.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": 2008,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1001379-01",
+   "variant_id": 64620711936369,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-6_1.jpg?v=1789754621",
+   "published_at": "2026-09-26T08:09:49-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T15:15:17Z"
+  },
+  {
+   "id": 9564304277819,
+   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
+   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
+   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
+   "status": "other",
+   "available": true,
+   "price": 3485.0,
+   "retail": 4500.0,
+   "discount": 23,
+   "free_ship": 1,
+   "vintage": 2008,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000286",
+   "variant_id": 48908080808251,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
+   "published_at": "2026-09-26T08:05:37-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:1"
+   ],
+   "first_seen": "2026-09-26T15:15:17Z"
+  },
+  {
    "id": 15381248868721,
    "title": "Champagne Laurent Lequart Reserve Brut Valle de la Marne Autre Cru NV",
    "handle": "champagne-laurent-lequart-prestige-brut-valle-de-la-marne-autre-cru-nv",
@@ -22,75 +117,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T15:00:21Z"
-  },
-  {
-   "id": 14820698456433,
-   "title": "Champagne Billecart Salmon Rosé Cuvée Elisabeth Salmon Brut 2012 (Magnum 1.5L)",
-   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-brut-2012-magnum-1-5l-disg-2023",
-   "status": "other",
-   "available": true,
-   "price": 448.0,
-   "retail": 565.0,
-   "discount": 21,
-   "free_ship": null,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007130",
-   "variant_id": 51900326871409,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007130.jpg?v=1762300498",
-   "published_at": "2026-09-26T07:52:14-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T15:00:21Z"
-  },
-  {
-   "id": 15581223616881,
-   "title": "Champagne Monmarthe Secret de Famille Brut Premier Cru NV (Half Bottle 375mL)",
-   "handle": "champagne-monmarthe-secret-de-famille-brut-premier-cru-nv-half-bottle-375ml-nd",
-   "url": "https://lastbubbles.com/products/champagne-monmarthe-secret-de-famille-brut-premier-cru-nv-half-bottle-375ml-nd",
-   "status": "other",
-   "available": true,
-   "price": 25.0,
-   "retail": 40.0,
-   "discount": 38,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007909-001",
-   "variant_id": 63680419037553,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-12.jpg?v=1789177056",
-   "published_at": "2026-09-26T07:35:57-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T14:42:43Z"
-  },
-  {
-   "id": 9564316107067,
-   "title": "Champagne Ulysse Collin Blanc de Blancs Les Pierrières Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 399.0,
-   "retail": 500.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000605",
-   "variant_id": 48908098666811,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000605_BottleShot.jpg?v=1731614435",
-   "published_at": "2026-09-26T07:35:55-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T14:42:43Z"
   },
   {
    "id": 15251852722545,
