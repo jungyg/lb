@@ -1,27 +1,28 @@
 {
  "products": [
   {
-   "id": 14820710449521,
-   "title": "Champagne Domaine Nowack Les Terres Bleues Autre Cru Brut Nature 2020",
-   "handle": "champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
-   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
-   "status": "other",
+   "id": 15565543080305,
+   "title": "Champagne Taittinger Comtes de Champagne Rosé Brut Grand Cru 2012",
+   "handle": "champagne-taittinger-comtes-de-champagne-rose-brut-grand-cru-2012",
+   "url": "https://lastbubbles.com/products/champagne-taittinger-comtes-de-champagne-rose-brut-grand-cru-2012",
+   "status": "dailyoffer",
    "available": true,
-   "price": 85.0,
-   "retail": 105.0,
-   "discount": 19,
-   "free_ship": null,
-   "vintage": 2020,
+   "price": 299.0,
+   "retail": 425.0,
+   "discount": 30,
+   "free_ship": 1,
+   "vintage": 2012,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007163",
-   "variant_id": 51900390474097,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5276.jpg?v=1740507996",
-   "published_at": "2026-09-26T10:15:04-07:00",
+   "sku": "1012178",
+   "variant_id": 63627730780529,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-2_1.jpg?v=1779826609",
+   "published_at": "2026-09-26T10:23:08-07:00",
    "tags": [
-    "fizz-fest"
+    "freeship:1",
+    "status:dailyoffer"
    ],
-   "first_seen": "2026-09-26T17:15:14Z"
+   "first_seen": "2026-09-26T17:30:19Z"
   },
   {
    "id": 14936893227377,
@@ -46,101 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-09-26T17:15:14Z"
-  },
-  {
-   "id": 9564282847547,
-   "title": "Frank Family Vineyards Rosé Lady Edythe Premiere Los Carneros Napa Valley 2012",
-   "handle": "frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
-   "url": "https://lastbubbles.com/products/frank-family-vineyards-rose-lady-edythe-premiere-los-carneros-napa-valley-2012",
-   "status": "other",
-   "available": true,
-   "price": 199.0,
-   "retail": 250.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000131",
-   "variant_id": 48908045025595,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Frank-Family-Vineyards-Ros-Lady-Edythe-Premiere-Napa-Valley-Los-Carneros-2012-product-image-131-large.png?v=1717457249",
-   "published_at": "2026-09-26T10:10:44-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T17:15:14Z"
-  },
-  {
-   "id": 15539512639857,
-   "title": "Montetondo Lessini Durello Riserva Metodo Classico Zero Dosaggio 2020",
-   "handle": "montetondo-lessini-durello-riserva-metodo-classico-zero-dossaggio-2020-nd",
-   "url": "https://lastbubbles.com/products/montetondo-lessini-durello-riserva-metodo-classico-zero-dossaggio-2020-nd",
-   "status": "other",
-   "available": true,
-   "price": 38.0,
-   "retail": 65.0,
-   "discount": 42,
-   "free_ship": 4,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006539-001",
-   "variant_id": 63553133347185,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Montetondo_1006539-001_BUB_BottleShot.jpg?v=1783008816",
-   "published_at": "2026-09-26T10:08:05-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4"
-   ],
-   "first_seen": "2026-09-26T17:15:14Z"
-  },
-  {
-   "id": 15386232815985,
-   "title": "Champagne Camille Jacquet Rosé Brut NV",
-   "handle": "champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
-   "status": "pdp",
-   "available": true,
-   "price": 44.0,
-   "retail": 80.0,
-   "discount": 45,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007114-001",
-   "variant_id": 62906506445169,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007114_BottleShot_c9a867ed-3e59-4eac-a713-0e3053821b04.jpg?v=1773434505",
-   "published_at": "2026-09-26T10:04:07-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T17:15:14Z"
-  },
-  {
-   "id": 15204897325425,
-   "title": "Champagne Piollot Cuvée Colas Robin Extra Brut NV",
-   "handle": "champagne-piollot-cuvee-colas-robin-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-colas-robin-extra-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 108.0,
-   "discount": 45,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008826",
-   "variant_id": 55681456898417,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7771-9_f309f540-8110-4b9f-b39c-1bcfd94dd619.jpg?v=1779402876",
-   "published_at": "2026-09-26T09:59:30-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T17:00:18Z"
   },
   {
    "id": 15251852722545,
