@@ -1,6 +1,55 @@
 {
  "products": [
   {
+   "id": 15581223682417,
+   "title": "Perelada Centenaria Brut Reserva Cava 2023",
+   "handle": "perelada-centaria-brut-reserva-cava-2023",
+   "url": "https://lastbubbles.com/products/perelada-centaria-brut-reserva-cava-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 16.0,
+   "retail": 25.0,
+   "discount": 36,
+   "free_ship": null,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012770",
+   "variant_id": 63680419070321,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaCentariaBrutReservaCava2023_1012770_BUB_BottleShot.jpg?v=1786034631",
+   "published_at": "2026-09-25T17:40:03-07:00",
+   "tags": [
+    "fizz-fest",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T00:45:15Z"
+  },
+  {
+   "id": 15565543113073,
+   "title": "Champagne Chavost Paradoxe Brut Nature NV",
+   "handle": "champagne-chavost-paradoxe-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-chavost-paradoxe-brut-nature-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 64.0,
+   "retail": 80.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012599",
+   "variant_id": 63627730747761,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneChavostParadoxeBrutNatureNV_1012599_BUB_BottleShot.jpg?v=1786983432",
+   "published_at": "2026-09-25T17:37:52-07:00",
+   "tags": [
+    "fizz-fest",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T00:45:15Z"
+  },
+  {
    "id": 15386232815985,
    "title": "Champagne Camille Jacquet Rosé Brut NV",
    "handle": "champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
@@ -24,99 +73,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-26T00:34:41Z"
-  },
-  {
-   "id": 15539512541553,
-   "title": "Champagne Gounel Lassalle Rosé 29 Parcelles Brut Nature Chigny-lès-Rosés Premier Cru NV",
-   "handle": "champagne-gounel-lassalle-rose-29-parcelles-brut-nature-chigny-les-roses-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-rose-29-parcelles-brut-nature-chigny-les-roses-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 85.0,
-   "discount": 31,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013009",
-   "variant_id": 63553133216113,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-8.jpg?v=1789176719",
-   "published_at": "2026-09-25T17:29:24-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T00:30:18Z"
-  },
-  {
-   "id": 15004196209009,
-   "title": "Champagne Roland Boulard & Filles Cuvée Julie Brut NV",
-   "handle": "champagne-roland-boulard-filles-cuvee-julie-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-cuvee-julie-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 45.0,
-   "retail": 90.0,
-   "discount": 50,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007958",
-   "variant_id": 55202940780913,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007958_BUB_BottleShot.jpg?v=1780676240",
-   "published_at": "2026-09-25T17:28:05-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-26T00:30:18Z"
-  },
-  {
-   "id": 14887259701617,
-   "title": "Champagne Eric Rodez Cuvée des Grandes Vintages Extra Brut Grand Cru NV",
-   "handle": "champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-nov-2023",
-   "url": "https://lastbubbles.com/products/champagne-eric-rodez-cuvee-des-grandes-vintages-extra-brut-grand-cru-nv-disg-nov-2023",
-   "status": "other",
-   "available": true,
-   "price": 119.0,
-   "retail": 160.0,
-   "discount": 26,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007122",
-   "variant_id": 52012156060017,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Eric_Rodez_Cuvee_des_Grandes_Vintages_Extra_Brut_Grand_Cru_NV_1007122_BottleSHot.jpg?v=1755798471",
-   "published_at": "2026-09-25T17:26:57-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T00:30:18Z"
-  },
-  {
-   "id": 16016089317745,
-   "title": "Champagne Louis Roederer Cristal Brut 2008 (missing wrapper)",
-   "handle": "champagne-louis-roederer-cristal-brut-2008-missing-wrapper",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2008-missing-wrapper",
-   "status": "other",
-   "available": true,
-   "price": 296.1,
-   "retail": 400.0,
-   "discount": 26,
-   "free_ship": null,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1001379-01",
-   "variant_id": 64620711936369,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-6_1.jpg?v=1789754621",
-   "published_at": "2026-09-25T17:22:32-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T00:30:18Z"
   },
   {
    "id": 9564297331003,
@@ -605,7 +561,9 @@
    "variant_id": 62906506150257,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Philippe_Clerget_1008789_BUB_BottleShot_2.jpg?v=1782316319",
    "published_at": "2026-09-10T13:32:47-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
