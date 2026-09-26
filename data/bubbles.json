@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 15386232815985,
+   "title": "Champagne Camille Jacquet Rosé Brut NV",
+   "handle": "champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-rose-brut-nv-new-disgorgement",
+   "status": "pdp",
+   "available": true,
+   "price": 44.0,
+   "retail": 80.0,
+   "discount": 45,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007114-001",
+   "variant_id": 62906506445169,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007114_BottleShot_c9a867ed-3e59-4eac-a713-0e3053821b04.jpg?v=1773434505",
+   "published_at": "2026-09-25T17:33:44-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T00:34:41Z"
+  },
+  {
    "id": 15539512541553,
    "title": "Champagne Gounel Lassalle Rosé 29 Parcelles Brut Nature Chigny-lès-Rosés Premier Cru NV",
    "handle": "champagne-gounel-lassalle-rose-29-parcelles-brut-nature-chigny-les-roses-premier-cru-nv",
@@ -2034,31 +2059,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Le-Gallais-Cuve-du-Manoir-Brut-NV-product-image-449-large.jpg?v=1717804566",
    "published_at": "2024-06-03T19:18:59-07:00",
    "tags": [],
-   "first_seen": null
-  },
-  {
-   "id": 9564297953595,
-   "title": "Champagne Fluteau Rétrospective Extra Brut NV",
-   "handle": "champagne-fluteau-retrospective-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-retrospective-extra-brut-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 54.0,
-   "retail": 100.0,
-   "discount": 46,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000210",
-   "variant_id": 48908070748475,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Fluteau-Rtrospective-Extra-Brut-NV-product-image-443-large.jpg?v=1717804566",
-   "published_at": "2024-06-03T19:18:41-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
    "first_seen": null
   },
   {
