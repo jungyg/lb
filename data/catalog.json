@@ -29,7 +29,7 @@
    "title": "Pope Valley Winery Sauvignon Blanc Parcel 3 Napa Valley 2025",
    "handle": "pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2025",
    "url": "https://lastbottlewines.com/products/pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2025",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 12.0,
    "retail": 32.0,
@@ -43,8 +43,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Pope_Valley_SBL25_Parcel_3_NV_2000064_LB_BottleShot.jpg?v=1790032783",
    "published_at": "2026-09-26T10:00:10-07:00",
    "tags": [
-    "freeship:4",
-    "status:dailyoffer"
+    "freeship:4"
    ],
    "first_seen": "2026-09-26T17:00:18Z"
   },
