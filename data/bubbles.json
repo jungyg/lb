@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 15004195520881,
+   "title": "Damien Pinon Chapitre XV Brut Nature Vouvray NV",
+   "handle": "damien-pinon-chapter-xv-brut-nature-vouvray-brut-de-brut-nv",
+   "url": "https://lastbubbles.com/products/damien-pinon-chapter-xv-brut-nature-vouvray-brut-de-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 24.0,
+   "retail": 30.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007998",
+   "variant_id": 55202940092785,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Damien_Pinon_Chapter_XV_Brut_Nature_Vouvray_Brut_de_Brut_NV_1007998.jpg?v=1758304666",
+   "published_at": "2026-09-26T01:56:01-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:00:19Z"
+  },
+  {
+   "id": 9564299821371,
+   "title": "La Maison du Crémant Prestige Crémant de Bourgogne Brut NV",
+   "handle": "la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
+   "url": "https://lastbubbles.com/products/la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 36.0,
+   "discount": 47,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000322",
+   "variant_id": 48908075761979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaMaisonDuCremant_1000322_BottleShot.jpg?v=1736266289",
+   "published_at": "2026-09-26T01:49:40-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T09:00:19Z"
+  },
+  {
    "id": 14887259341169,
    "title": "Côté Cairn Ambel Blanc Pétillant Naturel Brut NV",
    "handle": "cote-cairn-ambel-blanc-petillant-naturel-brut-nv",
@@ -69,53 +115,6 @@
     "Segmented Offer"
    ],
    "first_seen": "2026-09-26T08:30:19Z"
-  },
-  {
-   "id": 9564304507195,
-   "title": "Champagne Pehu-Simonet Blanc de Blancs Fins Lieux n°6 Les Pisse Renards Verzenay Grand Cru 2013",
-   "handle": "champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
-   "url": "https://lastbubbles.com/products/champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 140.0,
-   "discount": 36,
-   "free_ship": 2,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000459",
-   "variant_id": 48908081365307,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Pehu-Simonet-Blanc-de-Blancs-Fins-Lieux-n6-Les-Pisse-Renards-Verzenay-Grand-Cru-2013-product-image-636-large.jpg?v=1717804586",
-   "published_at": "2026-09-26T01:20:19-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T08:30:19Z"
-  },
-  {
-   "id": 11394522448241,
-   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Hakamiah Extra Brut Grand Cru NV",
-   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
-   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
-   "status": "other",
-   "available": true,
-   "price": 69.0,
-   "retail": 102.0,
-   "discount": 32,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000481-001",
-   "variant_id": 50374751977841,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PhilippeGlavier_1000481-001_BottleShot.jpg?v=1739232341",
-   "published_at": "2026-09-26T01:13:19-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T08:15:15Z"
   },
   {
    "id": 15251852722545,
