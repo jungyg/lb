@@ -1,6 +1,78 @@
 {
  "products": [
   {
+   "id": 10947759472924,
+   "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
+   "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
+   "url": "https://lastbottlewines.com/products/grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 14.0,
+   "retail": 45.0,
+   "discount": 69,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000043",
+   "variant_id": 54445253361948,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Grace_Grit_Sauvignon_Blanc_Dry_Creek_Valley_2025_2000043_LB_BottleShot.jpg?v=1788798563",
+   "published_at": "2026-09-26T10:00:11-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-26T17:00:18Z"
+  },
+  {
+   "id": 10931066339612,
+   "title": "Pope Valley Winery Sauvignon Blanc Parcel 3 Napa Valley 2025",
+   "handle": "pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2025",
+   "url": "https://lastbottlewines.com/products/pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 32.0,
+   "discount": 62,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000064",
+   "variant_id": 54400515113244,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Pope_Valley_SBL25_Parcel_3_NV_2000064_LB_BottleShot.jpg?v=1790032783",
+   "published_at": "2026-09-26T10:00:10-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-26T17:00:18Z"
+  },
+  {
+   "id": 10931066274076,
+   "title": "Pope Valley Winery Sauvignon Blanc Parcel 3 Napa Valley 2024",
+   "handle": "pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2024",
+   "url": "https://lastbottlewines.com/products/pope-valley-winery-sauvignon-blanc-parcel-3-napa-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 32.0,
+   "discount": 62,
+   "free_ship": 4,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000066",
+   "variant_id": 54400515014940,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Pope_Valley_Winery_SBL24_Parcel_3_NV_2000066_LB_BottleShot.jpg?v=1790032650",
+   "published_at": "2026-09-26T09:56:04-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-26T17:00:18Z"
+  },
+  {
    "id": 10796522602780,
    "title": "Grape Culture Cabernet Sauvignon GC22 Napa Valley 2022",
    "handle": "grape-culture-cabernet-sauvignon-reserve-napa-valley-2022",
@@ -50,55 +122,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-09-25T22:30:17Z"
-  },
-  {
-   "id": 10873372475676,
-   "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
-   "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "url": "https://lastbottlewines.com/products/chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 30.0,
-   "retail": 60.0,
-   "discount": 50,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Joanne SAS",
-   "sku": "1013592",
-   "variant_id": 54216133509404,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rol_Valentin_Saint-Emilion_Grand_Cru_2023_1013592_LB_BottleShot-4.jpg?v=1787589713",
-   "published_at": "2026-09-25T10:00:27-07:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-25T17:15:18Z"
-  },
-  {
-   "id": 10897459642652,
-   "title": "Château Clos de Sarpe Saint-Émilion Grand Cru 2022",
-   "handle": "chateau-clos-de-sarpe-saint-emilion-grand-cru-2022",
-   "url": "https://lastbottlewines.com/products/chateau-clos-de-sarpe-saint-emilion-grand-cru-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 96.0,
-   "discount": 39,
-   "free_ship": 2,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013691",
-   "variant_id": 54298091061532,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Clos_de_Sarpe_Saint-Emilion_Grand_Cru_2022_1013691_LB_BottleShot.jpg?v=1790031993",
-   "published_at": "2026-09-25T09:56:05-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-25T17:00:24Z"
   },
   {
    "id": 10950060278044,

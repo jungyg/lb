@@ -1,28 +1,73 @@
 {
  "products": [
   {
-   "id": 15204897587569,
-   "title": "Champagne J M Seleque Solessence Extra Brut NV",
-   "handle": "champagne-j-m-seleque-solessence-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-j-m-seleque-solessence-extra-brut-nv",
+   "id": 15204897325425,
+   "title": "Champagne Piollot Cuvée Colas Robin Extra Brut NV",
+   "handle": "champagne-piollot-cuvee-colas-robin-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-colas-robin-extra-brut-nv",
    "status": "other",
    "available": true,
-   "price": 62.0,
-   "retail": 90.0,
-   "discount": 31,
-   "free_ship": 3,
+   "price": 59.0,
+   "retail": 108.0,
+   "discount": 45,
+   "free_ship": null,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008784",
-   "variant_id": 55681457160561,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5_2.jpg?v=1779817970",
-   "published_at": "2026-09-26T09:44:42-07:00",
+   "sku": "1008826",
+   "variant_id": 55681456898417,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7771-9_f309f540-8110-4b9f-b39c-1bcfd94dd619.jpg?v=1779402876",
+   "published_at": "2026-09-26T09:59:30-07:00",
    "tags": [
-    "fizz-fest",
-    "freeship:3"
+    "fizz-fest"
    ],
-   "first_seen": "2026-09-26T16:45:14Z"
+   "first_seen": "2026-09-26T17:00:18Z"
+  },
+  {
+   "id": 15386232553841,
+   "title": "Champagne Philippe Clerget Cuvée Ancestral Extra Brut NV",
+   "handle": "champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008790",
+   "variant_id": 62906506183025,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008790_BUB_BottleShot.jpg?v=1774281792",
+   "published_at": "2026-09-26T09:55:48-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T17:00:18Z"
+  },
+  {
+   "id": 15539512902001,
+   "title": "Champagne Egly-Ouriet Les Vignes de Vrigny Extra Brut Premier Cru NV",
+   "handle": "champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
+   "status": "other",
+   "available": true,
+   "price": 99.0,
+   "retail": 130.0,
+   "discount": 24,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000731-002",
+   "variant_id": 63553133576561,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000731-001_BUB_BottleShot.jpg?v=1773178820",
+   "published_at": "2026-09-26T09:50:43-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T17:00:18Z"
   },
   {
    "id": 15439516041585,
@@ -65,52 +110,6 @@
    "variant_id": 62539474141553,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008894_BUB_BottleShot.jpg?v=1779810016",
    "published_at": "2026-09-26T09:38:40-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T16:45:14Z"
-  },
-  {
-   "id": 15439515976049,
-   "title": "Champagne Louis Roederer Cristal Rosé Brut 2007 (Magnum 1.5L)",
-   "handle": "champagne-louis-roederer-cristal-rose-brut-2007-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-rose-brut-2007-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 1659.0,
-   "retail": 2100.0,
-   "discount": 21,
-   "free_ship": null,
-   "vintage": 2007,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013438",
-   "variant_id": 63209319006577,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7471.jpg?v=1772045381",
-   "published_at": "2026-09-26T09:34:49-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T16:45:14Z"
-  },
-  {
-   "id": 15381249032561,
-   "title": "Domaine Jean-Marc Bernhard Crémant d'Alsace Brut Rosé NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv-nd",
-   "status": "other",
-   "available": true,
-   "price": 24.0,
-   "retail": 36.0,
-   "discount": 33,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000174-001",
-   "variant_id": 62889625616753,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Jean-Marc_Bernhard_1000174-001_BUB_BottleShot.jpg?v=1784220169",
-   "published_at": "2026-09-26T09:31:33-07:00",
    "tags": [
     "fizz-fest"
    ],
