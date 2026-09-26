@@ -1,6 +1,98 @@
 {
  "products": [
   {
+   "id": 14887259472241,
+   "title": "Champagne Domaine Bauchet Origine Brut NV",
+   "handle": "champagne-domaine-bauchet-origine-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-domaine-bauchet-origine-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 60.0,
+   "discount": 35,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007132",
+   "variant_id": 52012155830641,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBauchet_BRT_NV1007132_BottleShot.jpg?v=1747328340",
+   "published_at": "2026-09-26T07:28:47-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T14:30:18Z"
+  },
+  {
+   "id": 15386232881521,
+   "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Magum 1.5L)",
+   "handle": "champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-louis-chalvon-carte-blanche-nv-magum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 84.0,
+   "retail": 120.0,
+   "discount": 30,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010019",
+   "variant_id": 62906506510705,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7257.jpg?v=1770922279",
+   "published_at": "2026-09-26T07:27:29-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T14:30:18Z"
+  },
+  {
+   "id": 15439515713905,
+   "title": "Champagne Louis Roederer Cristal Vinothèque Edition Brut 2004 (Magnum 1.5L)",
+   "handle": "champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-vinotheque-edition-brut-2004-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 2049.0,
+   "retail": 2999.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": 2004,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013437",
+   "variant_id": 63209318744433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7863-48.jpg?v=1779476901",
+   "published_at": "2026-09-26T07:23:48-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T14:30:18Z"
+  },
+  {
+   "id": 9564299821371,
+   "title": "La Maison du Crémant Prestige Crémant de Bourgogne Brut NV",
+   "handle": "la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
+   "url": "https://lastbubbles.com/products/la-maison-du-cremant-cremant-de-bourgogne-prestige-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 36.0,
+   "discount": 47,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000322",
+   "variant_id": 48908075761979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaMaisonDuCremant_1000322_BottleShot.jpg?v=1736266289",
+   "published_at": "2026-09-26T07:16:15-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T14:30:18Z"
+  },
+  {
    "id": 15928967168369,
    "title": "Champagne Diebolt-Vallois Blanc de Blancs Fleur de Passion Cramant Brut Grand Cru 2015",
    "handle": "champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015",
@@ -20,78 +112,6 @@
    "published_at": "2026-09-26T07:12:12-07:00",
    "tags": [
     "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T14:15:18Z"
-  },
-  {
-   "id": 15064703762801,
-   "title": "Aquilini Cabernet Sauvignon Sparkling Rosé Gia Bella Brut Red Mountain 2021",
-   "handle": "aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
-   "url": "https://lastbubbles.com/products/aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
-   "status": "other",
-   "available": true,
-   "price": 14.0,
-   "retail": 40.0,
-   "discount": 65,
-   "free_ship": 6,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1011505",
-   "variant_id": 55616547324273,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_74.jpg?v=1754257147",
-   "published_at": "2026-09-26T07:08:58-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6"
-   ],
-   "first_seen": "2026-09-26T14:15:18Z"
-  },
-  {
-   "id": 14996330283377,
-   "title": "Champagne LeClerc Briant Blanc de Meuniers Extra Brut 2016",
-   "handle": "champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 99.0,
-   "retail": 199.0,
-   "discount": 50,
-   "free_ship": 2,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008012",
-   "variant_id": 55173377818993,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClercBriantBDMExtraBrut2016_1008012_BottleShot.jpg?v=1754770365",
-   "published_at": "2026-09-26T07:00:28-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T14:15:18Z"
-  },
-  {
-   "id": 15491207397745,
-   "title": "Champagne Christophe Dechannes Rosé Brut Les Riceys NV",
-   "handle": "champagne-christophe-dechannes-rose-brut-les-riceys-nv",
-   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-rose-brut-les-riceys-nv",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012884",
-   "variant_id": 63378448449905,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannesRose_1012884_BUB_BottleShot.jpg?v=1787767810",
-   "published_at": "2026-09-26T07:00:27-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
    ],
    "first_seen": "2026-09-26T14:15:18Z"
   },
