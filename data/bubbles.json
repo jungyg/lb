@@ -1,6 +1,53 @@
 {
  "products": [
   {
+   "id": 9564316107067,
+   "title": "Champagne Ulysse Collin Blanc de Blancs Les Pierrières Extra Brut NV (2016 Base)",
+   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
+   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
+   "status": "other",
+   "available": true,
+   "price": 399.0,
+   "retail": 500.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000605",
+   "variant_id": 48908098666811,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000605_BottleShot.jpg?v=1731614435",
+   "published_at": "2026-09-25T23:10:22-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T06:15:16Z"
+  },
+  {
+   "id": 9564304277819,
+   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
+   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
+   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
+   "status": "other",
+   "available": true,
+   "price": 3485.0,
+   "retail": 4500.0,
+   "discount": 23,
+   "free_ship": 1,
+   "vintage": 2008,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000286",
+   "variant_id": 48908080808251,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
+   "published_at": "2026-09-25T23:03:55-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:1"
+   ],
+   "first_seen": "2026-09-26T06:15:16Z"
+  },
+  {
    "id": 14930812305777,
    "title": "Champagne Gondé-Rousseaux Chapitre I TS 17 Extra Brut Premier Cru NV",
    "handle": "champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
@@ -71,52 +118,6 @@
     "freeship:4"
    ],
    "first_seen": "2026-09-26T05:45:14Z"
-  },
-  {
-   "id": 9627900772667,
-   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
-   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
-   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006523",
-   "variant_id": 49071993585979,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
-   "published_at": "2026-09-25T22:34:25-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T05:45:14Z"
-  },
-  {
-   "id": 11394522939761,
-   "title": "Champagne Francis Orban Extra Brut NV",
-   "handle": "champagne-francis-orban-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-francis-orban-extra-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 39.0,
-   "retail": 75.0,
-   "discount": 48,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007244",
-   "variant_id": 50374752502129,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007244_BottleShot.jpg?v=1747243780",
-   "published_at": "2026-09-25T22:26:55-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T05:30:16Z"
   },
   {
    "id": 9564316074299,
