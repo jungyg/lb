@@ -1,6 +1,29 @@
 {
  "products": [
   {
+   "id": 11394522939761,
+   "title": "Champagne Francis Orban Extra Brut NV",
+   "handle": "champagne-francis-orban-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-francis-orban-extra-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 75.0,
+   "discount": 48,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007244",
+   "variant_id": 50374752502129,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007244_BottleShot.jpg?v=1747243780",
+   "published_at": "2026-09-25T22:26:55-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T05:30:16Z"
+  },
+  {
    "id": 9564305817915,
    "title": "Champagne Gallimard Père et Fils Blanc de Noirs Les Meurgers Extra Brut NV",
    "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
@@ -91,30 +114,6 @@
    "published_at": "2026-09-25T21:58:21-07:00",
    "tags": [
     "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T05:00:24Z"
-  },
-  {
-   "id": 9564317385019,
-   "title": "Champagne Domaine Les Monts Fournois Grande Vallee Mareuil Sur Ay De Luxe Extra Brut Premier Cru NV",
-   "handle": "champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000739",
-   "variant_id": 48908102697275,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fourneois_BBMKRIR1_BottleShot.jpg?v=1719284243",
-   "published_at": "2026-09-25T21:51:22-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
    ],
    "first_seen": "2026-09-26T05:00:24Z"
   },
