@@ -1,6 +1,102 @@
 {
  "products": [
   {
+   "id": 14930812305777,
+   "title": "Champagne Gondé-Rousseaux Chapitre I TS 17 Extra Brut Premier Cru NV",
+   "handle": "champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 99.0,
+   "discount": 40,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007152",
+   "variant_id": 52095776686449,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gonde-Rousseaux_Chapitre_TS_17_Extra_Brut_Premier_Cru_NV_1007152_BottleShot.jpg?v=1750707892",
+   "published_at": "2026-09-25T19:59:56-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T03:00:22Z"
+  },
+  {
+   "id": 15335901856113,
+   "title": "Hiller Rosé Blanc de Noirs Reserve Brut 2022",
+   "handle": "hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "url": "https://lastbubbles.com/products/hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "status": "other",
+   "available": true,
+   "price": 36.0,
+   "retail": 60.0,
+   "discount": 40,
+   "free_ship": 4,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010005",
+   "variant_id": 62708816544113,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1010005_BUB_BottleShot.jpg?v=1781540616",
+   "published_at": "2026-09-25T19:55:50-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T03:00:22Z"
+  },
+  {
+   "id": 15381248967025,
+   "title": "Champagne Vincent Testulat Blanc de Blancs Brut Nature NV",
+   "handle": "champagne-vincent-testulat-blanc-de-blancs-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-vincent-testulat-blanc-de-blancs-brut-nature-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 70.0,
+   "discount": 30,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010002",
+   "variant_id": 62889625551217,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Vincent_Testulat_BDB_1010002_BUB_BottleShot.jpg?v=1785349801",
+   "published_at": "2026-09-25T19:52:30-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T03:00:22Z"
+  },
+  {
+   "id": 15029018591601,
+   "title": "Champagne Marc Hébrart Special Club Brut Premier Cru 2019 (Magnum 1.5L)",
+   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 199.0,
+   "retail": 260.0,
+   "discount": 23,
+   "free_ship": null,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007154",
+   "variant_id": 55274111271281,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_65.jpg?v=1753717663",
+   "published_at": "2026-09-25T19:47:46-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T03:00:22Z"
+  },
+  {
    "id": 14932095140209,
    "title": "Tenuta Carretta Blanc de Blanc Airali Alta Langa Extra Brut 2021",
    "handle": "tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
@@ -23,99 +119,6 @@
     "freeship:4"
    ],
    "first_seen": "2026-09-26T02:45:18Z"
-  },
-  {
-   "id": 15501172310385,
-   "title": "Sinnet Extended Tirage Extra Brut North Coast 2018",
-   "handle": "sinnet-extended-tirage-extra-brut-north-coast-2018",
-   "url": "https://lastbubbles.com/products/sinnet-extended-tirage-extra-brut-north-coast-2018",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013989",
-   "variant_id": 63415188816241,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Sinnet_1013989_BUB_BottleShot.jpg?v=1783959746",
-   "published_at": "2026-09-25T19:42:00-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:45:18Z"
-  },
-  {
-   "id": 14624223854961,
-   "title": "Champagne Francis Orban Brut Millésime 2018",
-   "handle": "chamapgne-francis-orban-brut-millesime-2018",
-   "url": "https://lastbubbles.com/products/chamapgne-francis-orban-brut-millesime-2018",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 125.0,
-   "discount": 29,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007382",
-   "variant_id": 51641485656433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007382_BottleShot.jpg?v=1741367056",
-   "published_at": "2026-09-25T19:39:01-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T02:45:18Z"
-  },
-  {
-   "id": 9564300575035,
-   "title": "Damien Pinon Vouvray Le Brut de Brut NV",
-   "handle": "damien-pinon-vouvray-le-brut-de-brut-nv",
-   "url": "https://lastbubbles.com/products/damien-pinon-vouvray-le-brut-de-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 19.0,
-   "retail": 29.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000134",
-   "variant_id": 48908076646715,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DamienPinon_1000134_BottleShot.jpg?v=1733960429",
-   "published_at": "2026-09-25T19:32:42-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:45:18Z"
-  },
-  {
-   "id": 14905365594481,
-   "title": "Champagne Paul Déthune Blanc de Noirs 'Le Bout du Clos' Extra Brut Ambonnay Grand Cru 2018",
-   "handle": "champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 159.0,
-   "retail": 199.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008094",
-   "variant_id": 52056013111665,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_4.jpg?v=1772732043",
-   "published_at": "2026-09-25T19:28:18-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:30:56Z"
   },
   {
    "id": 9564316074299,
