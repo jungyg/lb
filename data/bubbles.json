@@ -1,6 +1,53 @@
 {
  "products": [
   {
+   "id": 14625852621169,
+   "title": "Tenuta Carretta Airali Alta Langa Metodo Classico Pas Dosé 2020",
+   "handle": "tenuta-carretta-airali-alta-langa-metodo-classico-pas-dose-2020",
+   "url": "https://lastbubbles.com/products/tenuta-carretta-airali-alta-langa-metodo-classico-pas-dose-2020",
+   "status": "other",
+   "available": true,
+   "price": 27.0,
+   "retail": 50.0,
+   "discount": 46,
+   "free_ship": 6,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007137",
+   "variant_id": 51643017003377,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/TenutaCarretta_1007137_BottleShot.jpg?v=1730410753",
+   "published_at": "2026-09-26T06:38:05-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:6"
+   ],
+   "first_seen": "2026-09-26T13:45:16Z"
+  },
+  {
+   "id": 14905365594481,
+   "title": "Champagne Paul Déthune Blanc de Noirs 'Le Bout du Clos' Extra Brut Ambonnay Grand Cru 2018",
+   "handle": "champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
+   "status": "other",
+   "available": true,
+   "price": 159.0,
+   "retail": 199.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008094",
+   "variant_id": 52056013111665,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_4.jpg?v=1772732043",
+   "published_at": "2026-09-26T06:30:43-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T13:45:16Z"
+  },
+  {
    "id": 14624223854961,
    "title": "Champagne Francis Orban Brut Millésime 2018",
    "handle": "chamapgne-francis-orban-brut-millesime-2018",
@@ -48,77 +95,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-26T13:30:16Z"
-  },
-  {
-   "id": 9564297953595,
-   "title": "Champagne Fluteau Rétrospective Extra Brut NV",
-   "handle": "champagne-fluteau-retrospective-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-retrospective-extra-brut-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 54.0,
-   "retail": 100.0,
-   "discount": 46,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000210",
-   "variant_id": 48908070748475,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Fluteau-Rtrospective-Extra-Brut-NV-product-image-443-large.jpg?v=1717804566",
-   "published_at": "2026-09-26T06:08:28-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T13:15:13Z"
-  },
-  {
-   "id": 9564307063099,
-   "title": "Champagne Paul Déthune Blanc de Blancs Extra Brut Millesime Grand Cru 2016",
-   "handle": "champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
-   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
-   "status": "other",
-   "available": true,
-   "price": 109.0,
-   "retail": 160.0,
-   "discount": 32,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000435",
-   "variant_id": 48908087755067,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000435_BottleShot.jpg?v=1736971130",
-   "published_at": "2026-09-26T06:01:09-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T13:15:13Z"
-  },
-  {
-   "id": 14998460498289,
-   "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
-   "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-victor-charlot-instinct-premier-50-50-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 37.0,
-   "retail": 60.0,
-   "discount": 38,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007481",
-   "variant_id": 55177177825649,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007481_BUB_Bottleshot.jpg?v=1773366720",
-   "published_at": "2026-09-26T05:54:10-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T13:00:39Z"
   },
   {
    "id": 15251852722545,
