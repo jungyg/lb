@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 14996330283377,
+   "title": "Champagne LeClerc Briant Blanc de Meuniers Extra Brut 2016",
+   "handle": "champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
+   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-blanc-de-meuniers-extra-brut-2016",
+   "status": "other",
+   "available": true,
+   "price": 99.0,
+   "retail": 199.0,
+   "discount": 50,
+   "free_ship": 2,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008012",
+   "variant_id": 55173377818993,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClercBriantBDMExtraBrut2016_1008012_BottleShot.jpg?v=1754770365",
+   "published_at": "2026-09-26T05:11:09-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T12:15:14Z"
+  },
+  {
+   "id": 9627901002043,
+   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
+   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "status": "other",
+   "available": true,
+   "price": 64.0,
+   "retail": 90.0,
+   "discount": 29,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006519-001",
+   "variant_id": 49071993815355,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
+   "published_at": "2026-09-26T05:03:37-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T12:15:14Z"
+  },
+  {
    "id": 9627900772667,
    "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
    "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
@@ -70,52 +118,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-26T11:45:15Z"
-  },
-  {
-   "id": 14996330348913,
-   "title": "Champagne LeClerc Briant Les Basses Prières Extra Brut Hautvillers Premier Cru 2018",
-   "handle": "champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-les-basses-prieres-extra-brut-hautvillers-premier-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 139.0,
-   "retail": 190.0,
-   "discount": 27,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008010",
-   "variant_id": 55173377917297,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Les_Basses_Prieres_Extra_Brut_Hautvillers_Premier_Cru_2018_1008010_BUB_BottleShot.jpg?v=1788106779",
-   "published_at": "2026-09-26T04:34:36-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T11:45:15Z"
-  },
-  {
-   "id": 9564295954747,
-   "title": "Bride Valley Vineyard Rosé Bella Brut 2016",
-   "handle": "bride-valley-vineyard-rose-bella-brut-2016",
-   "url": "https://lastbubbles.com/products/bride-valley-vineyard-rose-bella-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000074",
-   "variant_id": 48908067111227,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BrideValley_1000074_BottleShot_1.jpg?v=1741124040",
-   "published_at": "2026-09-26T04:27:20-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T11:30:16Z"
   },
   {
    "id": 15251852722545,
