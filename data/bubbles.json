@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 15539512672625,
+   "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
+   "handle": "champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
+   "url": "https://lastbubbles.com/products/champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
+   "status": "other",
+   "available": true,
+   "price": 129.0,
+   "retail": 165.0,
+   "discount": 22,
+   "free_ship": 2,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008093-001",
+   "variant_id": 63553133281649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_69.jpg?v=1754066996",
+   "published_at": "2026-09-26T08:41:24-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T15:45:15Z"
+  },
+  {
+   "id": 14625852490097,
+   "title": "Champagne Billecart-Salmon Rosé Cuvée Elisabeth Salmon Extra Brut 2012",
+   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
+   "status": "other",
+   "available": true,
+   "price": 219.0,
+   "retail": 279.0,
+   "discount": 22,
+   "free_ship": 2,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007129",
+   "variant_id": 51643016905073,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BillecartSalmon_1007129_BottleShot.jpg?v=1744651774",
+   "published_at": "2026-09-26T08:37:06-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T15:45:15Z"
+  },
+  {
    "id": 9564317385019,
    "title": "Champagne Domaine Les Monts Fournois Grande Vallee Mareuil Sur Ay De Luxe Extra Brut Premier Cru NV",
    "handle": "champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
@@ -70,54 +118,6 @@
     "freeship:2"
    ],
    "first_seen": "2026-09-26T15:30:53Z"
-  },
-  {
-   "id": 14624223822193,
-   "title": "Champagne Francis Orban Meunier Cuvée Parcellaire Les Hauts Beugnets Brut 2016",
-   "handle": "champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 95.0,
-   "retail": 150.0,
-   "discount": 37,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007380",
-   "variant_id": 51641485623665,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_76.jpg?v=1754412246",
-   "published_at": "2026-09-26T08:14:41-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T15:15:17Z"
-  },
-  {
-   "id": 9564316074299,
-   "title": "Champagne Ulysse Collin Blanc de Blancs Les Enfers Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 599.0,
-   "retail": 850.0,
-   "discount": 30,
-   "free_ship": 1,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000604",
-   "variant_id": 48908098634043,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ulysse_Collin_1000604_BUB_BottleShot.jpg?v=1781121649",
-   "published_at": "2026-09-26T08:10:22-07:00",
-   "tags": [
-    "App Exclusive",
-    "fizz-fest",
-    "freeship:1"
-   ],
-   "first_seen": "2026-09-26T15:15:17Z"
   },
   {
    "id": 15251852722545,
