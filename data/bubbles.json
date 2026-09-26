@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 9777225597243,
+   "title": "Champagne Drémont Père & Fils Éphémère 022 Blanc de Blancs Extra Brut Les Brousses Premier Cru 2018",
+   "handle": "champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
+   "url": "https://lastbubbles.com/products/champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
+   "status": "other",
+   "available": true,
+   "price": 74.0,
+   "retail": 100.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006941",
+   "variant_id": 49385988030779,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5162.jpg?v=1740082089",
+   "published_at": "2026-09-26T00:44:08-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T07:45:16Z"
+  },
+  {
+   "id": 14820710449521,
+   "title": "Champagne Domaine Nowack Les Terres Bleues Autre Cru Brut Nature 2020",
+   "handle": "champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
+   "url": "https://lastbubbles.com/products/champagne-domaine-nowack-les-terres-bleues-autre-cru-brut-nature-2020-disg-january-2024",
+   "status": "other",
+   "available": true,
+   "price": 85.0,
+   "retail": 105.0,
+   "discount": 19,
+   "free_ship": null,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007163",
+   "variant_id": 51900390474097,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5276.jpg?v=1740507996",
+   "published_at": "2026-09-26T00:36:49-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T07:45:16Z"
+  },
+  {
    "id": 14951641252209,
    "title": "Bestheim Chardonnay Crémant d'Alsace Extra Brut NV",
    "handle": "bestheim-brut-cremant-dalsace-nv",
@@ -44,53 +90,6 @@
    "tags": [
     "fizz-fest",
     "freeship:6"
-   ],
-   "first_seen": "2026-09-26T07:15:15Z"
-  },
-  {
-   "id": 14905365594481,
-   "title": "Champagne Paul Déthune Blanc de Noirs 'Le Bout du Clos' Extra Brut Ambonnay Grand Cru 2018",
-   "handle": "champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 159.0,
-   "retail": 199.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008094",
-   "variant_id": 52056013111665,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_4.jpg?v=1772732043",
-   "published_at": "2026-09-26T00:07:34-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T07:15:15Z"
-  },
-  {
-   "id": 14624223854961,
-   "title": "Champagne Francis Orban Brut Millésime 2018",
-   "handle": "chamapgne-francis-orban-brut-millesime-2018",
-   "url": "https://lastbubbles.com/products/chamapgne-francis-orban-brut-millesime-2018",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 125.0,
-   "discount": 29,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007382",
-   "variant_id": 51641485656433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007382_BottleShot.jpg?v=1741367056",
-   "published_at": "2026-09-26T00:00:35-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
    ],
    "first_seen": "2026-09-26T07:15:15Z"
   },
