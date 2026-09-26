@@ -1,119 +1,97 @@
 {
  "products": [
   {
-   "id": 14930812273009,
-   "title": "Chioccioli Blanc de Noirs Cuvée della Terra Metodo Classico Pas Dosé NV",
-   "handle": "chioccioli-blanc-de-noirs-cuvee-della-terra-metodo-classico-pas-dose-nv",
-   "url": "https://lastbubbles.com/products/chioccioli-blanc-de-noirs-cuvee-della-terra-metodo-classico-pas-dose-nv",
-   "status": "other",
-   "available": true,
-   "price": 22.0,
-   "retail": 40.0,
-   "discount": 45,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007147",
-   "variant_id": 52095776653681,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Chioccioli_1007147_BottleShot.jpg?v=1738008739",
-   "published_at": "2026-09-25T18:00:04-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6",
-    "last-bottle-credit-awarded"
-   ],
-   "first_seen": "2026-09-26T01:00:22Z"
-  },
-  {
-   "id": 14624223822193,
-   "title": "Champagne Francis Orban Meunier Cuvée Parcellaire Les Hauts Beugnets Brut 2016",
-   "handle": "champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-francis-orban-meunier-cuvee-parcellaire-les-hauts-beugnets-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 95.0,
-   "retail": 150.0,
-   "discount": 37,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007380",
-   "variant_id": 51641485623665,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_76.jpg?v=1754412246",
-   "published_at": "2026-09-25T17:57:46-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T01:00:22Z"
-  },
-  {
-   "id": 15491207463281,
-   "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV",
-   "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-new-disgorgement",
+   "id": 14996330414449,
+   "title": "Champagne Carole Haudot Blanc de Blancs Extra Brut NV",
+   "handle": "champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
+   "url": "https://lastbubbles.com/products/champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
    "status": "other",
    "available": true,
    "price": 49.0,
-   "retail": 75.0,
-   "discount": 35,
-   "free_ship": null,
+   "retail": 90.0,
+   "discount": 46,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000414-002",
-   "variant_id": 63378448580977,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Odyssee319_1000414_BottleShot.jpg?v=1731705417",
-   "published_at": "2026-09-25T17:53:39-07:00",
+   "sku": "1007990",
+   "variant_id": 55173377950065,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CarolHaudot_BDB_1007990_BottleShot.jpg?v=1749485348",
+   "published_at": "2026-09-25T18:15:10-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T01:15:16Z"
+  },
+  {
+   "id": 15565543145841,
+   "title": "Champagne Taittinger Blanc de Blancs Comtes de Champagne Brut Grand Cru 2014",
+   "handle": "champagne-taittinger-blanc-de-blancs-comtes-de-champagne-brut-grand-cru-2014",
+   "url": "https://lastbubbles.com/products/champagne-taittinger-blanc-de-blancs-comtes-de-champagne-brut-grand-cru-2014",
+   "status": "other",
+   "available": true,
+   "price": 219.0,
+   "retail": 299.0,
+   "discount": 27,
+   "free_ship": null,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012179",
+   "variant_id": 63627730813297,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1012179_BUB_BottleShot.jpg?v=1780157428",
+   "published_at": "2026-09-25T18:14:25-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-26T01:00:22Z"
+   "first_seen": "2026-09-26T01:15:16Z"
   },
   {
-   "id": 15501172244849,
-   "title": "Le Vigne di Alice Col Albi Brut Rive di Collalbrigo Prosecco Superiore Valdobbiadene 2023",
-   "handle": "le-vigne-di-alice-col-albi-brut-rive-di-collalbrigo-prosecco-superiore-valdobbiadene-2023",
-   "url": "https://lastbubbles.com/products/le-vigne-di-alice-col-albi-brut-rive-di-collalbrigo-prosecco-superiore-valdobbiadene-2023",
+   "id": 15040784761201,
+   "title": "Riverbench Blanc de Blancs Brut Santa Maria Valley 2018",
+   "handle": "riverbench-blanc-de-blancs-brut-santa-maria-valley-2018",
+   "url": "https://lastbubbles.com/products/riverbench-blanc-de-blancs-brut-santa-maria-valley-2018",
    "status": "other",
    "available": true,
-   "price": 16.0,
-   "retail": 30.0,
-   "discount": 47,
+   "price": 22.0,
+   "retail": 48.0,
+   "discount": 54,
    "free_ship": null,
-   "vintage": 2023,
+   "vintage": 2018,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1013979",
-   "variant_id": 63415188750705,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013979_BUB_BottleShot.jpg?v=1778024160",
-   "published_at": "2026-09-25T17:49:40-07:00",
+   "sku": "1011259",
+   "variant_id": 55304605663601,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_48_73b4be29-a02e-4a23-bd13-4cc81ca991e6.jpg?v=1752453146",
+   "published_at": "2026-09-25T18:10:30-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-26T01:00:22Z"
+   "first_seen": "2026-09-26T01:15:16Z"
   },
   {
-   "id": 9564297331003,
-   "title": "Champagne Paul Déthune Princesse des Thunes Prestige Extra Brut Grand Cru NV",
-   "handle": "champagne-paul-dethune-princesse-des-thunes-prestige-extra-brut-grand-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-paul-dethune-princesse-des-thunes-prestige-extra-brut-grand-cru-nv",
+   "id": 15439516041585,
+   "title": "Champagne Laherte Frères Pinot Meunier Extra Brut Les Vignes d'Autrefois 2019",
+   "handle": "champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
+   "url": "https://lastbubbles.com/products/champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
    "status": "other",
    "available": true,
-   "price": 78.0,
-   "retail": 115.0,
-   "discount": 32,
+   "price": 89.0,
+   "retail": 135.0,
+   "discount": 34,
    "free_ship": null,
-   "vintage": null,
+   "vintage": 2019,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1000434",
-   "variant_id": 48908069699899,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000445_BottleShot.jpg?v=1724172563",
-   "published_at": "2026-09-25T16:48:00-07:00",
-   "tags": [],
-   "first_seen": "2026-09-26T00:00:22Z"
+   "sku": "1013497",
+   "variant_id": 63209319072113,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013497_BUB_BottleShot.jpg?v=1774973627",
+   "published_at": "2026-09-25T18:06:24-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T01:15:16Z"
   },
   {
    "id": 9564316074299,
@@ -581,9 +559,7 @@
    "variant_id": 62906506150257,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Philippe_Clerget_1008789_BUB_BottleShot_2.jpg?v=1782316319",
    "published_at": "2026-09-10T13:32:47-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
+   "tags": [],
    "first_seen": null
   },
   {
@@ -2057,7 +2033,9 @@
    "variant_id": 48908067111227,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BrideValley_1000074_BottleShot_1.jpg?v=1741124040",
    "published_at": "2024-06-03T19:18:21-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   }
  ]
