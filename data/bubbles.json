@@ -1,6 +1,53 @@
 {
  "products": [
   {
+   "id": 9627901002043,
+   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
+   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "status": "other",
+   "available": true,
+   "price": 64.0,
+   "retail": 90.0,
+   "discount": 29,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006519-001",
+   "variant_id": 49071993815355,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
+   "published_at": "2026-09-25T22:41:25-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T05:45:14Z"
+  },
+  {
+   "id": 9627900772667,
+   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
+   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006523",
+   "variant_id": 49071993585979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
+   "published_at": "2026-09-25T22:34:25-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T05:45:14Z"
+  },
+  {
    "id": 11394522939761,
    "title": "Champagne Francis Orban Extra Brut NV",
    "handle": "champagne-francis-orban-extra-brut-nv",
@@ -70,52 +117,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T05:15:14Z"
-  },
-  {
-   "id": 9564295954747,
-   "title": "Bride Valley Vineyard Rosé Bella Brut 2016",
-   "handle": "bride-valley-vineyard-rose-bella-brut-2016",
-   "url": "https://lastbubbles.com/products/bride-valley-vineyard-rose-bella-brut-2016",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000074",
-   "variant_id": 48908067111227,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BrideValley_1000074_BottleShot_1.jpg?v=1741124040",
-   "published_at": "2026-09-25T22:05:25-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T05:15:14Z"
-  },
-  {
-   "id": 9564307161403,
-   "title": "Domaine Jean-Marc Bernhard Cremant d'Alsace Rosé Brut Réserve NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "status": "other",
-   "available": true,
-   "price": 20.0,
-   "retail": 36.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000173",
-   "variant_id": 48908087853371,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Domaine-JeanMarc-Bernhard-Cremant-dAlsace-Brut-Rose-NV-product-image-676-large.jpg?v=1717804588",
-   "published_at": "2026-09-25T21:58:21-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T05:00:24Z"
   },
   {
    "id": 9564316074299,
