@@ -1,6 +1,100 @@
 {
  "products": [
   {
+   "id": 9777225990459,
+   "title": "Champagne Laurent-Perrier Grand Siècle Iteration #23 Brut NV (Magnum 1.5L)",
+   "handle": "champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "status": "other",
+   "available": true,
+   "price": 429.0,
+   "retail": 600.0,
+   "discount": 29,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007196",
+   "variant_id": 49385988391227,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaurentPerrier_1007196_BottleShot.jpg?v=1726145620",
+   "published_at": "2026-09-26T09:13:43-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T16:15:15Z"
+  },
+  {
+   "id": 15335901856113,
+   "title": "Hiller Rosé Blanc de Noirs Reserve Brut 2022",
+   "handle": "hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "url": "https://lastbubbles.com/products/hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "status": "other",
+   "available": true,
+   "price": 36.0,
+   "retail": 60.0,
+   "discount": 40,
+   "free_ship": 4,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010005",
+   "variant_id": 62708816544113,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1010005_BUB_BottleShot.jpg?v=1781540616",
+   "published_at": "2026-09-26T09:10:32-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T16:15:15Z"
+  },
+  {
+   "id": 14996330479985,
+   "title": "Champagne LeClerc Briant Les Monts Ferrés Extra Brut Vertus Premier Cru 2018",
+   "handle": "champagne-leclerc-briant-les-monts-ferres-extra-brut-vertus-premier-cru-2018",
+   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-les-monts-ferres-extra-brut-vertus-premier-cru-2018",
+   "status": "other",
+   "available": true,
+   "price": 179.0,
+   "retail": 320.0,
+   "discount": 44,
+   "free_ship": 1,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008009",
+   "variant_id": 55173378048369,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_28.jpg?v=1764002680",
+   "published_at": "2026-09-26T09:06:14-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:1"
+   ],
+   "first_seen": "2026-09-26T16:15:15Z"
+  },
+  {
+   "id": 9627900772667,
+   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
+   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006523",
+   "variant_id": 49071993585979,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
+   "published_at": "2026-09-26T09:01:48-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T16:15:15Z"
+  },
+  {
    "id": 14996330414449,
    "title": "Champagne Carole Haudot Blanc de Blancs Extra Brut NV",
    "handle": "champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
@@ -23,101 +117,6 @@
     "freeship:3"
    ],
    "first_seen": "2026-09-26T16:00:20Z"
-  },
-  {
-   "id": 15501172343153,
-   "title": "Ezio Poggio Lunatico Bianco Frizzante Colli Tortonesei 2024",
-   "handle": "ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
-   "url": "https://lastbubbles.com/products/ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
-   "status": "other",
-   "available": true,
-   "price": 14.0,
-   "retail": 28.0,
-   "discount": 50,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013977",
-   "variant_id": 63415188849009,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/EzioPoggio_1013977_BUB_BottleShot.jpg?v=1784825038",
-   "published_at": "2026-09-26T08:53:39-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6"
-   ],
-   "first_seen": "2026-09-26T16:00:20Z"
-  },
-  {
-   "id": 14998460498289,
-   "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
-   "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-victor-charlot-instinct-premier-50-50-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 37.0,
-   "retail": 60.0,
-   "discount": 38,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007481",
-   "variant_id": 55177177825649,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007481_BUB_Bottleshot.jpg?v=1773366720",
-   "published_at": "2026-09-26T08:48:41-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T16:00:20Z"
-  },
-  {
-   "id": 15539512672625,
-   "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
-   "handle": "champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
-   "url": "https://lastbubbles.com/products/champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
-   "status": "other",
-   "available": true,
-   "price": 129.0,
-   "retail": 165.0,
-   "discount": 22,
-   "free_ship": 2,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008093-001",
-   "variant_id": 63553133281649,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_69.jpg?v=1754066996",
-   "published_at": "2026-09-26T08:41:24-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T15:45:15Z"
-  },
-  {
-   "id": 14625852490097,
-   "title": "Champagne Billecart-Salmon Rosé Cuvée Elisabeth Salmon Extra Brut 2012",
-   "handle": "champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-rose-cuvee-elisabeth-salmon-extra-brut-2012",
-   "status": "other",
-   "available": true,
-   "price": 219.0,
-   "retail": 279.0,
-   "discount": 22,
-   "free_ship": 2,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007129",
-   "variant_id": 51643016905073,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BillecartSalmon_1007129_BottleShot.jpg?v=1744651774",
-   "published_at": "2026-09-26T08:37:06-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T15:45:15Z"
   },
   {
    "id": 15251852722545,
