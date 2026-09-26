@@ -1,6 +1,102 @@
 {
  "products": [
   {
+   "id": 15539512902001,
+   "title": "Champagne Egly-Ouriet Les Vignes de Vrigny Extra Brut Premier Cru NV",
+   "handle": "champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-egly-ouriet-les-vignes-de-vrigny-extra-brut-premier-cru-nv-nd",
+   "status": "other",
+   "available": true,
+   "price": 99.0,
+   "retail": 130.0,
+   "discount": 24,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000731-002",
+   "variant_id": 63553133576561,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000731-001_BUB_BottleShot.jpg?v=1773178820",
+   "published_at": "2026-09-25T20:44:25-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T03:45:15Z"
+  },
+  {
+   "id": 15004195914097,
+   "title": "Champagne Gounel Lassalle Esprit Voyageur Brut Nature Chigny Les Rosés Premier Cru NV",
+   "handle": "champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 75.0,
+   "discount": 35,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008029",
+   "variant_id": 55202940486001,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalle_BRT_1008029_BottleShot.jpg?v=1747328207",
+   "published_at": "2026-09-25T20:40:22-07:00",
+   "tags": [
+    "fizz-fest",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T03:45:15Z"
+  },
+  {
+   "id": 15204897587569,
+   "title": "Champagne J M Seleque Solessence Extra Brut NV",
+   "handle": "champagne-j-m-seleque-solessence-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-j-m-seleque-solessence-extra-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 62.0,
+   "retail": 90.0,
+   "discount": 31,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008784",
+   "variant_id": 55681457160561,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5_2.jpg?v=1779817970",
+   "published_at": "2026-09-25T20:36:11-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T03:45:15Z"
+  },
+  {
+   "id": 9564304507195,
+   "title": "Champagne Pehu-Simonet Blanc de Blancs Fins Lieux n°6 Les Pisse Renards Verzenay Grand Cru 2013",
+   "handle": "champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
+   "url": "https://lastbubbles.com/products/champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 140.0,
+   "discount": 36,
+   "free_ship": 2,
+   "vintage": 2013,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000459",
+   "variant_id": 48908081365307,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Pehu-Simonet-Blanc-de-Blancs-Fins-Lieux-n6-Les-Pisse-Renards-Verzenay-Grand-Cru-2013-product-image-636-large.jpg?v=1717804586",
+   "published_at": "2026-09-25T20:32:17-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T03:45:15Z"
+  },
+  {
    "id": 15539512639857,
    "title": "Montetondo Lessini Durello Riserva Metodo Classico Zero Dosaggio 2020",
    "handle": "montetondo-lessini-durello-riserva-metodo-classico-zero-dossaggio-2020-nd",
@@ -23,99 +119,6 @@
     "freeship:4"
    ],
    "first_seen": "2026-09-26T03:30:20Z"
-  },
-  {
-   "id": 9777225597243,
-   "title": "Champagne Drémont Père & Fils Éphémère 022 Blanc de Blancs Extra Brut Les Brousses Premier Cru 2018",
-   "handle": "champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 74.0,
-   "retail": 100.0,
-   "discount": 26,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006941",
-   "variant_id": 49385988030779,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5162.jpg?v=1740082089",
-   "published_at": "2026-09-25T20:24:11-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T03:30:20Z"
-  },
-  {
-   "id": 15381249130865,
-   "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant de Alsace NV",
-   "handle": "cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
-   "url": "https://lastbubbles.com/products/cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
-   "status": "other",
-   "available": true,
-   "price": 21.0,
-   "retail": 30.0,
-   "discount": 30,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010000",
-   "variant_id": 62889625715057,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_9.jpg?v=1774023707",
-   "published_at": "2026-09-25T20:20:09-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T03:30:20Z"
-  },
-  {
-   "id": 15283232833905,
-   "title": "Iris Vineyards Arete Blanc de Blancs Brut Willamette Valley 2022",
-   "handle": "iris-vineyards-arete-blanc-de-noirs-brut-willamette-valley-2022",
-   "url": "https://lastbubbles.com/products/iris-vineyards-arete-blanc-de-noirs-brut-willamette-valley-2022",
-   "status": "other",
-   "available": true,
-   "price": 19.0,
-   "retail": 38.0,
-   "discount": 50,
-   "free_ship": null,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012370",
-   "variant_id": 62532564451697,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7379_5e7177bd-e057-46b3-8798-b2a28bce586a.jpg?v=1771361573",
-   "published_at": "2026-09-25T20:15:49-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T03:30:20Z"
-  },
-  {
-   "id": 15284404486513,
-   "title": "Champagne Copin-Cautel Coup de Crayon Extra Brut Blanc de Noir NV",
-   "handle": "champagne-copin-cautel-coup-de-crayon-extra-brut-blanc-de-noir-nv",
-   "url": "https://lastbubbles.com/products/champagne-copin-cautel-coup-de-crayon-extra-brut-blanc-de-noir-nv",
-   "status": "other",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008893",
-   "variant_id": 62539474076017,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_3_c2ea044d-8f94-4a1c-857c-d4eabd81db36.jpg?v=1772643914",
-   "published_at": "2026-09-25T20:12:02-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-26T03:15:14Z"
   },
   {
    "id": 9564316074299,
