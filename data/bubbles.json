@@ -1,6 +1,100 @@
 {
  "products": [
   {
+   "id": 14887259341169,
+   "title": "Côté Cairn Ambel Blanc Pétillant Naturel Brut NV",
+   "handle": "cote-cairn-ambel-blanc-petillant-naturel-brut-nv",
+   "url": "https://lastbubbles.com/products/cote-cairn-ambel-blanc-petillant-naturel-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 29.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007142",
+   "variant_id": 52012155699569,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CoteCairn_1007142_BottleShot.jpg?v=1741060696",
+   "published_at": "2026-09-26T01:27:22-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T08:30:19Z"
+  },
+  {
+   "id": 14887259472241,
+   "title": "Champagne Domaine Bauchet Origine Brut NV",
+   "handle": "champagne-domaine-bauchet-origine-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-domaine-bauchet-origine-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 39.0,
+   "retail": 60.0,
+   "discount": 35,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007132",
+   "variant_id": 52012155830641,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBauchet_BRT_NV1007132_BottleShot.jpg?v=1747328340",
+   "published_at": "2026-09-26T01:20:23-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T08:30:19Z"
+  },
+  {
+   "id": 9564316008763,
+   "title": "Champagne Ulysse Collin Le Jardin d'Ulysse Extra Brut NV (2016 Base)",
+   "handle": "champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
+   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-le-jardin-dulysse-extra-brut-nv-2016-base",
+   "status": "other",
+   "available": true,
+   "price": 599.0,
+   "retail": 750.0,
+   "discount": 20,
+   "free_ship": null,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000611",
+   "variant_id": 48908098535739,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000611_BottleShot.jpg?v=1744305221",
+   "published_at": "2026-09-26T01:20:21-07:00",
+   "tags": [
+    "fizz-fest",
+    "Segmented Offer"
+   ],
+   "first_seen": "2026-09-26T08:30:19Z"
+  },
+  {
+   "id": 9564304507195,
+   "title": "Champagne Pehu-Simonet Blanc de Blancs Fins Lieux n°6 Les Pisse Renards Verzenay Grand Cru 2013",
+   "handle": "champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
+   "url": "https://lastbubbles.com/products/champagne-pehu-simonet-blanc-de-blancs-fins-lieux-n6-les-pisse-renards-verzenay-grand-cru-2013",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 140.0,
+   "discount": 36,
+   "free_ship": 2,
+   "vintage": 2013,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000459",
+   "variant_id": 48908081365307,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Pehu-Simonet-Blanc-de-Blancs-Fins-Lieux-n6-Les-Pisse-Renards-Verzenay-Grand-Cru-2013-product-image-636-large.jpg?v=1717804586",
+   "published_at": "2026-09-26T01:20:19-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T08:30:19Z"
+  },
+  {
    "id": 11394522448241,
    "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Hakamiah Extra Brut Grand Cru NV",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-hakamiah-extra-brut-nv-disg-march-2024",
@@ -68,52 +162,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T08:00:22Z"
-  },
-  {
-   "id": 9564304703803,
-   "title": "Champagne Pehu-Simonet Blanc de Noirs Fins Lieux N°1 Les Perthois Verzenay Grand Cru 2014",
-   "handle": "champagne-pehu-simonet-blanc-de-noirs-fins-lieux-n1-les-perthois-verzenay-grand-cru-2014",
-   "url": "https://lastbubbles.com/products/champagne-pehu-simonet-blanc-de-noirs-fins-lieux-n1-les-perthois-verzenay-grand-cru-2014",
-   "status": "other",
-   "available": true,
-   "price": 75.0,
-   "retail": 119.0,
-   "discount": 37,
-   "free_ship": null,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000456",
-   "variant_id": 48908081561915,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Pehu-Simonet-Blanc-de-Noirs-Fins-Lieux-n1-Les-Perthois-Verzenay-Grand-Cru-2014-product-image-638-large.jpg?v=1717804595",
-   "published_at": "2026-09-26T00:51:05-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T08:00:22Z"
-  },
-  {
-   "id": 9777225597243,
-   "title": "Champagne Drémont Père & Fils Éphémère 022 Blanc de Blancs Extra Brut Les Brousses Premier Cru 2018",
-   "handle": "champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
-   "url": "https://lastbubbles.com/products/champagne-dremont-pere-fils-ephemere-022-blanc-de-blancs-extra-brut-premier-cru-2018",
-   "status": "other",
-   "available": true,
-   "price": 74.0,
-   "retail": 100.0,
-   "discount": 26,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006941",
-   "variant_id": 49385988030779,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A5162.jpg?v=1740082089",
-   "published_at": "2026-09-26T00:44:08-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T07:45:16Z"
   },
   {
    "id": 15251852722545,
