@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 9564297953595,
+   "title": "Champagne Fluteau Rétrospective Extra Brut NV",
+   "handle": "champagne-fluteau-retrospective-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-fluteau-retrospective-extra-brut-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 54.0,
+   "retail": 100.0,
+   "discount": 46,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000210",
+   "variant_id": 48908070748475,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Fluteau-Rtrospective-Extra-Brut-NV-product-image-443-large.jpg?v=1717804566",
+   "published_at": "2026-09-26T06:08:28-07:00",
+   "tags": [
+    "fizz-fest",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-26T13:15:13Z"
+  },
+  {
+   "id": 9564307063099,
+   "title": "Champagne Paul Déthune Blanc de Blancs Extra Brut Millesime Grand Cru 2016",
+   "handle": "champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
+   "status": "other",
+   "available": true,
+   "price": 109.0,
+   "retail": 160.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000435",
+   "variant_id": 48908087755067,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000435_BottleShot.jpg?v=1736971130",
+   "published_at": "2026-09-26T06:01:09-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T13:15:13Z"
+  },
+  {
    "id": 14998460498289,
    "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
    "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
@@ -71,53 +119,6 @@
     "freeship:2"
    ],
    "first_seen": "2026-09-26T12:45:14Z"
-  },
-  {
-   "id": 9564316107067,
-   "title": "Champagne Ulysse Collin Blanc de Blancs Les Pierrières Extra Brut NV (2016 Base)",
-   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-pierrieres-extra-brut-nv-2016-base",
-   "status": "other",
-   "available": true,
-   "price": 399.0,
-   "retail": 500.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000605",
-   "variant_id": 48908098666811,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/UlysseCollin_1000605_BottleShot.jpg?v=1731614435",
-   "published_at": "2026-09-26T05:33:47-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T12:45:14Z"
-  },
-  {
-   "id": 9564304277819,
-   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
-   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
-   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
-   "status": "other",
-   "available": true,
-   "price": 3485.0,
-   "retail": 4500.0,
-   "discount": 23,
-   "free_ship": 1,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000286",
-   "variant_id": 48908080808251,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
-   "published_at": "2026-09-26T05:25:32-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:1"
-   ],
-   "first_seen": "2026-09-26T12:30:19Z"
   },
   {
    "id": 15251852722545,
