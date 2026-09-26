@@ -1,6 +1,100 @@
 {
  "products": [
   {
+   "id": 14932095140209,
+   "title": "Tenuta Carretta Blanc de Blanc Airali Alta Langa Extra Brut 2021",
+   "handle": "tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
+   "url": "https://lastbubbles.com/products/tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
+   "status": "other",
+   "available": true,
+   "price": 32.0,
+   "retail": 50.0,
+   "discount": 36,
+   "free_ship": 4,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007139",
+   "variant_id": 52099051127153,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/TenutaCarretta_1007139_BottleShot.jpg?v=1742327697",
+   "published_at": "2026-09-25T19:43:41-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:4"
+   ],
+   "first_seen": "2026-09-26T02:45:18Z"
+  },
+  {
+   "id": 15501172310385,
+   "title": "Sinnet Extended Tirage Extra Brut North Coast 2018",
+   "handle": "sinnet-extended-tirage-extra-brut-north-coast-2018",
+   "url": "https://lastbubbles.com/products/sinnet-extended-tirage-extra-brut-north-coast-2018",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": null,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013989",
+   "variant_id": 63415188816241,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Sinnet_1013989_BUB_BottleShot.jpg?v=1783959746",
+   "published_at": "2026-09-25T19:42:00-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T02:45:18Z"
+  },
+  {
+   "id": 14624223854961,
+   "title": "Champagne Francis Orban Brut Millésime 2018",
+   "handle": "chamapgne-francis-orban-brut-millesime-2018",
+   "url": "https://lastbubbles.com/products/chamapgne-francis-orban-brut-millesime-2018",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 125.0,
+   "discount": 29,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007382",
+   "variant_id": 51641485656433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FrancisOrban_1007382_BottleShot.jpg?v=1741367056",
+   "published_at": "2026-09-25T19:39:01-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T02:45:18Z"
+  },
+  {
+   "id": 9564300575035,
+   "title": "Damien Pinon Vouvray Le Brut de Brut NV",
+   "handle": "damien-pinon-vouvray-le-brut-de-brut-nv",
+   "url": "https://lastbubbles.com/products/damien-pinon-vouvray-le-brut-de-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 19.0,
+   "retail": 29.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000134",
+   "variant_id": 48908076646715,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DamienPinon_1000134_BottleShot.jpg?v=1733960429",
+   "published_at": "2026-09-25T19:32:42-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T02:45:18Z"
+  },
+  {
    "id": 14905365594481,
    "title": "Champagne Paul Déthune Blanc de Noirs 'Le Bout du Clos' Extra Brut Ambonnay Grand Cru 2018",
    "handle": "champagne-paul-dethune-blanc-de-noirs-le-bout-du-clos-extra-brut-ambonnay-grand-cru-2018",
@@ -22,102 +116,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T02:30:56Z"
-  },
-  {
-   "id": 9564305817915,
-   "title": "Champagne Gallimard Père et Fils Blanc de Noirs Les Meurgers Extra Brut NV",
-   "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 42.0,
-   "retail": 70.0,
-   "discount": 40,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000228-001",
-   "variant_id": 48908085363003,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gallimard_1000228_BottleShot.jpg?v=1741292948",
-   "published_at": "2026-09-25T19:26:22-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T02:30:56Z"
-  },
-  {
-   "id": 15262251811185,
-   "title": "Argyle Estate Reserve Brut Willamette Valley 2018",
-   "handle": "argyle-estate-reserve-brut-willamette-valley-2018",
-   "url": "https://lastbubbles.com/products/argyle-estate-reserve-brut-willamette-valley-2018",
-   "status": "pdp",
-   "available": true,
-   "price": 24.0,
-   "retail": 50.0,
-   "discount": 52,
-   "free_ship": null,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012255",
-   "variant_id": 62402307621233,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1012255_BUB_BottleShot_339af2bd-7d4f-4a22-bedd-5dd716898bab.jpg?v=1776958868",
-   "published_at": "2026-09-25T19:22:34-07:00",
-   "tags": [
-    "fizz-fest",
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-26T02:30:56Z"
-  },
-  {
-   "id": 15204897718641,
-   "title": "Champagne Paul Bara Rosé Brut Bouzy Grand Cru NV",
-   "handle": "champagne-paul-bara-rose-brut-bouzy-grand-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-paul-bara-rose-brut-bouzy-grand-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 89.0,
-   "discount": 34,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008795",
-   "variant_id": 55681457291633,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A6331.jpg?v=1759803139",
-   "published_at": "2026-09-25T19:18:10-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:30:56Z"
-  },
-  {
-   "id": 15204897325425,
-   "title": "Champagne Piollot Cuvée Colas Robin Extra Brut NV",
-   "handle": "champagne-piollot-cuvee-colas-robin-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-colas-robin-extra-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 108.0,
-   "discount": 45,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008826",
-   "variant_id": 55681456898417,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7771-9_f309f540-8110-4b9f-b39c-1bcfd94dd619.jpg?v=1779402876",
-   "published_at": "2026-09-25T19:15:02-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T02:15:16Z"
   },
   {
    "id": 9564316074299,
