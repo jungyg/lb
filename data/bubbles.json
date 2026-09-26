@@ -1,6 +1,77 @@
 {
  "products": [
   {
+   "id": 14996330414449,
+   "title": "Champagne Carole Haudot Blanc de Blancs Extra Brut NV",
+   "handle": "champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
+   "url": "https://lastbubbles.com/products/champagne-carol-haudot-blanc-de-blancs-extra-brut-nv-disg-2022",
+   "status": "other",
+   "available": true,
+   "price": 49.0,
+   "retail": 90.0,
+   "discount": 46,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007990",
+   "variant_id": 55173377950065,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CarolHaudot_BDB_1007990_BottleShot.jpg?v=1749485348",
+   "published_at": "2026-09-26T08:57:14-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T16:00:20Z"
+  },
+  {
+   "id": 15501172343153,
+   "title": "Ezio Poggio Lunatico Bianco Frizzante Colli Tortonesei 2024",
+   "handle": "ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
+   "url": "https://lastbubbles.com/products/ezio-poggio-lunatico-bianco-frizzante-colli-tortonesei-2024",
+   "status": "other",
+   "available": true,
+   "price": 14.0,
+   "retail": 28.0,
+   "discount": 50,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013977",
+   "variant_id": 63415188849009,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/EzioPoggio_1013977_BUB_BottleShot.jpg?v=1784825038",
+   "published_at": "2026-09-26T08:53:39-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:6"
+   ],
+   "first_seen": "2026-09-26T16:00:20Z"
+  },
+  {
+   "id": 14998460498289,
+   "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
+   "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 37.0,
+   "retail": 60.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007481",
+   "variant_id": 55177177825649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007481_BUB_Bottleshot.jpg?v=1773366720",
+   "published_at": "2026-09-26T08:48:41-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T16:00:20Z"
+  },
+  {
    "id": 15539512672625,
    "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
    "handle": "champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
@@ -47,77 +118,6 @@
     "freeship:2"
    ],
    "first_seen": "2026-09-26T15:45:15Z"
-  },
-  {
-   "id": 9564317385019,
-   "title": "Champagne Domaine Les Monts Fournois Grande Vallee Mareuil Sur Ay De Luxe Extra Brut Premier Cru NV",
-   "handle": "champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000739",
-   "variant_id": 48908102697275,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fourneois_BBMKRIR1_BottleShot.jpg?v=1719284243",
-   "published_at": "2026-09-26T08:29:47-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T15:30:53Z"
-  },
-  {
-   "id": 15501172244849,
-   "title": "Le Vigne di Alice Col Albi Brut Rive di Collalbrigo Prosecco Superiore Valdobbiadene 2023",
-   "handle": "le-vigne-di-alice-col-albi-brut-rive-di-collalbrigo-prosecco-superiore-valdobbiadene-2023",
-   "url": "https://lastbubbles.com/products/le-vigne-di-alice-col-albi-brut-rive-di-collalbrigo-prosecco-superiore-valdobbiadene-2023",
-   "status": "other",
-   "available": true,
-   "price": 16.0,
-   "retail": 30.0,
-   "discount": 47,
-   "free_ship": null,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013979",
-   "variant_id": 63415188750705,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013979_BUB_BottleShot.jpg?v=1778024160",
-   "published_at": "2026-09-26T08:25:56-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-26T15:30:53Z"
-  },
-  {
-   "id": 9564303524155,
-   "title": "Champagne Domaine Petit & Bajan Blanc de Noirs Obsidienne Brut Grand Cru NV",
-   "handle": "champagne-domaine-petit-and-bajan-blanc-de-noirs-obsidienne-brut-grand-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-domaine-petit-and-bajan-blanc-de-noirs-obsidienne-brut-grand-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 72.0,
-   "retail": 110.0,
-   "discount": 35,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000470",
-   "variant_id": 48908080021819,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PetitBajan_1000470_BottleShot.jpg?v=1733958037",
-   "published_at": "2026-09-26T08:18:59-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:2"
-   ],
-   "first_seen": "2026-09-26T15:30:53Z"
   },
   {
    "id": 15251852722545,
