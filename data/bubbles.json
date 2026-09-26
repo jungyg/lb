@@ -1,51 +1,98 @@
 {
  "products": [
   {
-   "id": 15004195619185,
-   "title": "Bois-Mozé Blanc Tradition Crémant de Loire Brut NV",
-   "handle": "bois-moze-blanc-tradition-cremant-de-loire-brut-nv",
-   "url": "https://lastbubbles.com/products/bois-moze-blanc-tradition-cremant-de-loire-brut-nv",
-   "status": "other",
-   "available": true,
-   "price": 19.0,
-   "retail": 30.0,
-   "discount": 37,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007999",
-   "variant_id": 55202940191089,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bois-Moze_Blanc_Tradition_Cremant_de_Loire_Brut_NV.jpg?v=1769272660",
-   "published_at": "2026-09-25T16:56:18-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:6"
-   ],
-   "first_seen": "2026-09-26T00:00:22Z"
-  },
-  {
-   "id": 15386232553841,
-   "title": "Champagne Philippe Clerget Cuvée Ancestral Extra Brut NV",
-   "handle": "champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
+   "id": 14887259603313,
+   "title": "Champagne Paul Berthelot Blanc de Noirs Extra Brut Premier Cru NV",
+   "handle": "champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv",
    "status": "other",
    "available": true,
    "price": 59.0,
    "retail": 100.0,
    "discount": 41,
-   "free_ship": null,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1008790",
-   "variant_id": 62906506183025,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008790_BUB_BottleShot.jpg?v=1774281792",
-   "published_at": "2026-09-25T16:52:15-07:00",
+   "sku": "1007126",
+   "variant_id": 52012155961713,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulBerthelot_1007126_BottleShot.jpg?v=1736970529",
+   "published_at": "2026-09-25T17:14:11-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:3"
+   ],
+   "first_seen": "2026-09-26T00:15:16Z"
+  },
+  {
+   "id": 9564317385019,
+   "title": "Champagne Domaine Les Monts Fournois Grande Vallee Mareuil Sur Ay De Luxe Extra Brut Premier Cru NV",
+   "handle": "champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-domaine-les-monts-fournois-grande-vallee-mareuil-sur-ay-deluxe-extra-brut-premier-cru-nv",
+   "status": "other",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000739",
+   "variant_id": 48908102697275,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fourneois_BBMKRIR1_BottleShot.jpg?v=1719284243",
+   "published_at": "2026-09-25T17:10:10-07:00",
+   "tags": [
+    "fizz-fest",
+    "freeship:2"
+   ],
+   "first_seen": "2026-09-26T00:15:16Z"
+  },
+  {
+   "id": 15225447809393,
+   "title": "Castello di Meleto Rosé Metodo Classico Brut 2019",
+   "handle": "casetello-di-meleto-rose-metodo-classico-brut-2019",
+   "url": "https://lastbubbles.com/products/casetello-di-meleto-rose-metodo-classico-brut-2019",
+   "status": "other",
+   "available": true,
+   "price": 25.0,
+   "retail": 40.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010022",
+   "variant_id": 55745085407601,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1010022_BUB_BottleShot.jpg?v=1777003995",
+   "published_at": "2026-09-25T17:05:49-07:00",
    "tags": [
     "fizz-fest"
    ],
-   "first_seen": "2026-09-26T00:00:22Z"
+   "first_seen": "2026-09-26T00:15:16Z"
+  },
+  {
+   "id": 9564316041531,
+   "title": "Champagne Ulysse Collin Blanc de Blancs Les Enfers Extra Brut NV (2015 Base)",
+   "handle": "champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2015-base",
+   "url": "https://lastbubbles.com/products/champagne-ulysse-collin-blanc-de-blancs-les-enfers-extra-brut-nv-2015-base",
+   "status": "other",
+   "available": true,
+   "price": 599.0,
+   "retail": 699.0,
+   "discount": 14,
+   "free_ship": null,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000603",
+   "variant_id": 48908098568507,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A0577.jpg?v=1729625277",
+   "published_at": "2026-09-25T17:04:14-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T00:15:16Z"
   },
   {
    "id": 9564297331003,
@@ -65,33 +112,8 @@
    "variant_id": 48908069699899,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000445_BottleShot.jpg?v=1724172563",
    "published_at": "2026-09-25T16:48:00-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
+   "tags": [],
    "first_seen": "2026-09-26T00:00:22Z"
-  },
-  {
-   "id": 9564307161403,
-   "title": "Domaine Jean-Marc Bernhard Cremant d'Alsace Rosé Brut Réserve NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-dalsace-brut-rose-nv",
-   "status": "other",
-   "available": true,
-   "price": 20.0,
-   "retail": 36.0,
-   "discount": 44,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000173",
-   "variant_id": 48908087853371,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Domaine-JeanMarc-Bernhard-Cremant-dAlsace-Brut-Rose-NV-product-image-676-large.jpg?v=1717804588",
-   "published_at": "2026-09-25T16:37:28-07:00",
-   "tags": [
-    "fizz-fest"
-   ],
-   "first_seen": "2026-09-25T23:45:15Z"
   },
   {
    "id": 9564316074299,
@@ -770,30 +792,6 @@
    "first_seen": null
   },
   {
-   "id": 15565543113073,
-   "title": "Champagne Chavost Paradoxe Brut Nature NV",
-   "handle": "champagne-chavost-paradoxe-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-chavost-paradoxe-brut-nature-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 64.0,
-   "retail": 80.0,
-   "discount": 20,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012599",
-   "variant_id": 63627730747761,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneChavostParadoxeBrutNatureNV_1012599_BUB_BottleShot.jpg?v=1786983432",
-   "published_at": "2026-09-01T12:47:18-07:00",
-   "tags": [
-    "fizz-fest",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15262251843953,
    "title": "Champagne Billecart-Salmon Cuvee Nicolas-Francois Salmon Brut 2012",
    "handle": "champagne-billecart-salmon-cuvee-nicolas-francois-salmon-brut-2012",
@@ -903,7 +901,9 @@
    "variant_id": 51641485623665,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_76.jpg?v=1754412246",
    "published_at": "2026-08-26T17:04:45-07:00",
-   "tags": [],
+   "tags": [
+    "fizz-fest"
+   ],
    "first_seen": null
   },
   {
