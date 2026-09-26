@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 9564307063099,
+   "title": "Champagne Paul Déthune Blanc de Blancs Extra Brut Millesime Grand Cru 2016",
+   "handle": "champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-blancs-extra-brut-millesime-grand-cru-2016",
+   "status": "other",
+   "available": true,
+   "price": 109.0,
+   "retail": 160.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000435",
+   "variant_id": 48908087755067,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000435_BottleShot.jpg?v=1736971130",
+   "published_at": "2026-09-25T23:38:39-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T06:45:14Z"
+  },
+  {
+   "id": 14998460498289,
+   "title": "Champagne Victor Charlot Instinct Premier 50/50 Brut NV",
+   "handle": "champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-victor-charlot-instinct-premier-50-50-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 37.0,
+   "retail": 60.0,
+   "discount": 38,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007481",
+   "variant_id": 55177177825649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007481_BUB_Bottleshot.jpg?v=1773366720",
+   "published_at": "2026-09-25T23:31:36-07:00",
+   "tags": [
+    "fizz-fest"
+   ],
+   "first_seen": "2026-09-26T06:45:14Z"
+  },
+  {
    "id": 15004195914097,
    "title": "Champagne Gounel Lassalle Esprit Voyageur Brut Nature Chigny Les Rosés Premier Cru NV",
    "handle": "champagne-gounel-lassalle-wine-rider-esprit-voyageur-brut-nature-chingy-les-roses-premier-cru-nv",
@@ -71,54 +117,6 @@
     "fizz-fest"
    ],
    "first_seen": "2026-09-26T06:15:16Z"
-  },
-  {
-   "id": 9564304277819,
-   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
-   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
-   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
-   "status": "other",
-   "available": true,
-   "price": 3485.0,
-   "retail": 4500.0,
-   "discount": 23,
-   "free_ship": 1,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000286",
-   "variant_id": 48908080808251,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
-   "published_at": "2026-09-25T23:03:55-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:1"
-   ],
-   "first_seen": "2026-09-26T06:15:16Z"
-  },
-  {
-   "id": 14930812305777,
-   "title": "Champagne Gondé-Rousseaux Chapitre I TS 17 Extra Brut Premier Cru NV",
-   "handle": "champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-i-ts-17-extra-brut-premier-cru-nv",
-   "status": "other",
-   "available": true,
-   "price": 59.0,
-   "retail": 99.0,
-   "discount": 40,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007152",
-   "variant_id": 52095776686449,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gonde-Rousseaux_Chapitre_TS_17_Extra_Brut_Premier_Cru_NV_1007152_BottleShot.jpg?v=1750707892",
-   "published_at": "2026-09-25T22:55:32-07:00",
-   "tags": [
-    "fizz-fest",
-    "freeship:3"
-   ],
-   "first_seen": "2026-09-26T06:00:56Z"
   },
   {
    "id": 9564316074299,
