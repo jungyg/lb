@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 15565542883697,
+   "title": "Champagne Pol Roger Brut 2018",
+   "handle": "champagne-pol-roger-brut-2018",
+   "url": "https://lastbubbles.com/products/champagne-pol-roger-brut-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 140.0,
+   "discount": 29,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012189",
+   "variant_id": 63627730551153,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5-2.jpg?v=1779817697",
+   "published_at": "2026-09-27T08:55:29-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-27T16:00:22Z"
+  },
+  {
+   "id": 9777225957691,
+   "title": "Champagne Delamotte Blanc de Blancs Brut 2018",
+   "handle": "champagne-delamotte-blanc-de-blancs-brut-2018",
+   "url": "https://lastbubbles.com/products/champagne-delamotte-blanc-de-blancs-brut-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 170.0,
+   "discount": 42,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006942",
+   "variant_id": 49385988358459,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3.jpg?v=1779817500",
+   "published_at": "2026-09-27T08:47:47-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-27T16:00:22Z"
+  },
+  {
    "id": 15565543080305,
    "title": "Champagne Taittinger Comtes de Champagne Rosé Brut Grand Cru 2012",
    "handle": "champagne-taittinger-comtes-de-champagne-rose-brut-grand-cru-2012",
