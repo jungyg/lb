@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 15565542883697,
-   "title": "Champagne Pol Roger Brut 2018",
-   "handle": "champagne-pol-roger-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-pol-roger-brut-2018",
+   "id": 15928966906225,
+   "title": "Champagne Savart x Alexandre Chartogne Éphémère 029 Extra Brut Grand Cru NV",
+   "handle": "champagne-savart-ephemere-029-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-savart-ephemere-029-extra-brut-nv",
    "status": "dailyoffer",
    "available": true,
-   "price": 99.0,
-   "retail": 140.0,
-   "discount": 29,
-   "free_ship": 2,
-   "vintage": 2018,
+   "price": 79.0,
+   "retail": 125.0,
+   "discount": 37,
+   "free_ship": 3,
+   "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1012189",
-   "variant_id": 63627730551153,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5-2.jpg?v=1779817697",
-   "published_at": "2026-09-27T08:55:29-07:00",
+   "sku": "1012595",
+   "variant_id": 64259770614129,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneSavartEphemere029ExtraBrutNV_1012595_BUB_BottleShot.jpg?v=1790611784",
+   "published_at": "2026-09-28T09:33:33-07:00",
    "tags": [
-    "freeship:2",
+    "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-09-27T16:00:22Z"
+   "first_seen": "2026-09-28T16:45:16Z"
   },
   {
    "id": 9777225957691,
@@ -49,30 +49,6 @@
    "first_seen": "2026-09-27T16:00:22Z"
   },
   {
-   "id": 15565543080305,
-   "title": "Champagne Taittinger Comtes de Champagne Rosé Brut Grand Cru 2012",
-   "handle": "champagne-taittinger-comtes-de-champagne-rose-brut-grand-cru-2012",
-   "url": "https://lastbubbles.com/products/champagne-taittinger-comtes-de-champagne-rose-brut-grand-cru-2012",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 299.0,
-   "retail": 425.0,
-   "discount": 30,
-   "free_ship": 1,
-   "vintage": 2012,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012178",
-   "variant_id": 63627730780529,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-2_1.jpg?v=1779826609",
-   "published_at": "2026-09-26T10:23:08-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-26T17:30:19Z"
-  },
-  {
    "id": 14936893227377,
    "title": "Champagne Taittinger Grand Crus Blanc de Blancs Comtes de Champagne Brut 2011",
    "handle": "champagne-taittinger-grand-crus-blanc-de-blancs-comtes-de-champagne-brut-2011",
@@ -95,30 +71,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-09-26T17:15:14Z"
-  },
-  {
-   "id": 15251852722545,
-   "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
-   "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 89.0,
-   "retail": 103.0,
-   "discount": 14,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012181",
-   "variant_id": 62370715369841,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Jerome_Blin_Meuniers_Sur_Sable_Brut_Nature_NV_1012181_BUB_BottleShot.jpg?v=1790267675",
-   "published_at": "2026-09-24T09:35:43-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
   },
   {
    "id": 15251852853617,
@@ -145,54 +97,6 @@
    "first_seen": null
   },
   {
-   "id": 15381248999793,
-   "title": "Champagne Vincent Testulat Les Rennes de Pierry Extra Brut NV",
-   "handle": "champagne-vincent-testulat-les-rennes-de-pierry-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-vincent-testulat-les-rennes-de-pierry-extra-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 64.0,
-   "retail": 100.0,
-   "discount": 36,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010001",
-   "variant_id": 62889625583985,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1010001_BUB_BottleShot.jpg?v=1778024204",
-   "published_at": "2026-09-23T08:35:01-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15491207692657,
-   "title": "Trione Vineyards Sparkling Brut River Road Ranch Russian River Valley 2019",
-   "handle": "trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
-   "url": "https://lastbubbles.com/products/trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 24.0,
-   "retail": 40.0,
-   "discount": 40,
-   "free_ship": 6,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013828",
-   "variant_id": 63378448777585,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013828_BUB_BottleShot.jpg?v=1779295726",
-   "published_at": "2026-09-22T08:36:07-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15991332340081,
    "title": "Champagne Anthony & Clemence Toullec Assemblage Brut Premier Cru NV (ND)",
    "handle": "champagne-anthony-clemence-toullec-assemblage-brut-premier-cru-nv-nd",
@@ -213,30 +117,6 @@
    "tags": [
     "shop-collection",
     "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15461615370609,
-   "title": "Champagne Bonnet-Gilmert Millésimé Extra-Brut Grand Cru Blanc de Blancs 2018",
-   "handle": "champagne-bonnet-gilmert-millesime-extra-brut-grand-cru-blanc-de-blancs-2018",
-   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-millesime-extra-brut-grand-cru-blanc-de-blancs-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 79.0,
-   "retail": 130.0,
-   "discount": 39,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008997",
-   "variant_id": 63257098518897,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneBonnet-GilmertMillesimeExtra-BrutGrandCruBDB2018_1008997_BUB_BottleShot.jpg?v=1789767370",
-   "published_at": "2026-09-21T08:51:45-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
    ],
    "first_seen": null
   },
