@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 10837300773148,
+   "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
+   "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/decades-5-cabernet-sauvignon-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 175.0,
+   "discount": 72,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015436",
+   "variant_id": 54106838761756,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015436_LB_BottleShot.jpg?v=1778695542",
+   "published_at": "2026-09-28T14:10:42-07:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-09-28T21:15:16Z"
+  },
+  {
    "id": 9658792968476,
    "title": "Luna Vineyards Pinot Grigio Delle Venezie 2021",
    "handle": "luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
