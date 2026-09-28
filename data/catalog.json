@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10967846715676,
+   "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
+   "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023-1",
+   "url": "https://lastbottlewines.com/products/adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023-1",
+   "status": "pdp",
+   "available": true,
+   "price": 89.0,
+   "retail": 225.0,
+   "discount": 60,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000052-009",
+   "variant_id": 54519324442908,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_2_1.jpg?v=1789074090",
+   "published_at": "2026-09-28T10:42:50-07:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T17:45:19Z"
+  },
+  {
    "id": 10898919457052,
    "title": "Ruth Lewandowski Rosé Cuvée Zero Fox Hill Vineyard Mendocino County 2023",
    "handle": "ruth-lewandowski-rose-cuvee-zero-fox-hill-vineyard-mendocino-county-2023",
@@ -221,30 +245,6 @@
    "first_seen": "2026-09-24T16:15:16Z"
   },
   {
-   "id": 10980422877468,
-   "title": "KHK Cabernet Sauvignon Napa Valley 2024",
-   "handle": "khk-cabernet-sauvignon-napa-valley-2024-1",
-   "url": "https://lastbottlewines.com/products/khk-cabernet-sauvignon-napa-valley-2024-1",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 4,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000511-009",
-   "variant_id": 54576984916252,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/KHK_CSV24_NV_2000511_BottleShot.jpg?v=1789752467",
-   "published_at": "2026-09-21T09:20:37-07:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-21T16:30:19Z"
-  },
-  {
    "id": 10660919574812,
    "title": "Marchesi Antinori Tenuta Guado al Tasso Bolgheri 2022",
    "handle": "marchesi-antinori-tenuta-guado-al-tasso-bolgheri-2022",
@@ -393,31 +393,6 @@
    "first_seen": "2026-09-16T17:00:22Z"
   },
   {
-   "id": 10660897194268,
-   "title": "Conn Creek Anthology Red Blend Etched Napa Valley 2008 (6 Liters)",
-   "handle": "conn-creek-anthology-red-blend-etched-napa-valley-2008-6-liters",
-   "url": "https://lastbottlewines.com/products/conn-creek-anthology-red-blend-etched-napa-valley-2008-6-liters",
-   "status": "pdp",
-   "available": true,
-   "price": 479.0,
-   "retail": 985.0,
-   "discount": 51,
-   "free_ship": 1,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LBCCKY2ZPJ",
-   "variant_id": 53345792753948,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBCCKY2ZPJ-725690_3fc43223-9e5e-4afc-8d5b-2be88c2b1299.jpg?v=1763797763",
-   "published_at": "2026-09-16T09:53:32-07:00",
-   "tags": [
-    "collection:CCKLargeFormatSale",
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-16T17:00:22Z"
-  },
-  {
    "id": 10660896964892,
    "title": "Conn Creek Anthology Red Blend Etched Napa Valley 2007 (6 Liters)",
    "handle": "conn-creek-anthology-red-blend-etched-napa-valley-2007-6-liters",
@@ -535,31 +510,6 @@
    "variant_id": 53345793311004,
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBCCKVW4RG-9964.jpg?v=1769374256",
    "published_at": "2026-09-16T09:45:14-07:00",
-   "tags": [
-    "collection:CCKLargeFormatSale",
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-16T16:45:16Z"
-  },
-  {
-   "id": 10660899815708,
-   "title": "Conn Creek Anthology Cabernet Sauvignon Etched Napa Valley 2016 (6 Liters)",
-   "handle": "conn-creek-anthology-cabernet-sauvignon-etched-napa-valley-2016-6-liters",
-   "url": "https://lastbottlewines.com/products/conn-creek-anthology-cabernet-sauvignon-etched-napa-valley-2016-6-liters",
-   "status": "pdp",
-   "available": true,
-   "price": 379.0,
-   "retail": 825.0,
-   "discount": 54,
-   "free_ship": 1,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LBCCKW9GG1",
-   "variant_id": 53345795473692,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBCCKW9GG1-367309_e0402ae1-441c-4f0a-8e97-e390e0327131.jpg?v=1763797770",
-   "published_at": "2026-09-16T09:42:23-07:00",
    "tags": [
     "collection:CCKLargeFormatSale",
     "freeship:1",
