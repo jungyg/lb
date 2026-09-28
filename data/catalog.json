@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10941575069980,
+   "title": "Domaine du Couvent La Romanée Gevrey-Chambertin Premier Cru 2023",
+   "handle": "domaine-du-couvent-la-romanee-gevrey-chambertin-premier-cru-2023",
+   "url": "https://lastbottlewines.com/products/domaine-du-couvent-la-romanee-gevrey-chambertin-premier-cru-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 119.0,
+   "retail": 185.0,
+   "discount": 36,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000440",
+   "variant_id": 54426762903836,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DomaineduCouventLaRomaneeGevrey-ChambertinPremierCru2023_2000440_LB_BottleShot.jpg?v=1790373533",
+   "published_at": "2026-09-28T09:09:32-07:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T16:15:18Z"
+  },
+  {
    "id": 10938543145244,
    "title": "Pangloss Cellars Merlot Moon Mountain District 2022",
    "handle": "pangloss-cellars-merlot-moon-mountain-district-2022",
