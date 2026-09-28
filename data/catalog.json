@@ -854,7 +854,7 @@
    "title": "Stags' Leap Winery Chardonnay Napa Valley 2022 (Half Bottle 375mL)",
    "handle": "stags-leap-winery-chardonnay-napa-valley-2022-half-bottle-375ml",
    "url": "https://lastbottlewines.com/products/stags-leap-winery-chardonnay-napa-valley-2022-half-bottle-375ml",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 10.0,
    "retail": 20.0,
@@ -871,6 +871,7 @@
     "collection:MOH2026",
     "freeship:4",
     "product:welcome_flow",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
