@@ -1,6 +1,78 @@
 {
  "products": [
   {
+   "id": 15491207233905,
+   "title": "Champagne Gallimard Père et Fils Blanc de Noirs Cuvée de Reserve Les Riceys Brut NV (Magnum 1.5L)(ND)",
+   "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
+   "url": "https://lastbubbles.com/products/champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
+   "status": "pdp",
+   "available": true,
+   "price": 84.0,
+   "retail": 150.0,
+   "discount": 44,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000677-002",
+   "variant_id": 63378447958385,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A0288_335e981d-8f4c-4352-a134-e8bbc5feeda8.jpg?v=1729706639",
+   "published_at": "2026-09-28T12:44:39-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T19:45:18Z"
+  },
+  {
+   "id": 15491207758193,
+   "title": "Champagne Gallimard Père & Fils Blanc de Noirs Cuvée de Réserve Les Riceys Brut NV",
+   "handle": "champagne-gallimard-pere-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-gallimard-pere-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-nd",
+   "status": "pdp",
+   "available": true,
+   "price": 39.0,
+   "retail": 75.0,
+   "discount": 48,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010586-001",
+   "variant_id": 63378448843121,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gallimard_Pere_Fils__1010586-001_BUB_BottleShot.jpg?v=1784329014",
+   "published_at": "2026-09-28T12:44:15-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T19:45:18Z"
+  },
+  {
+   "id": 9564305817915,
+   "title": "Champagne Gallimard Père et Fils Blanc de Noirs Les Meurgers Extra Brut NV",
+   "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-gallimard-pere-et-fils-blanc-de-noirs-les-meurgers-extra-brut-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 42.0,
+   "retail": 70.0,
+   "discount": 40,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000228-001",
+   "variant_id": 48908085363003,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gallimard_1000228_BottleShot.jpg?v=1741292948",
+   "published_at": "2026-09-28T12:44:01-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T19:45:18Z"
+  },
+  {
    "id": 15928966906225,
    "title": "Champagne Savart x Alexandre Chartogne Éphémère 029 Extra Brut Grand Cru NV",
    "handle": "champagne-savart-ephemere-029-extra-brut-nv",
