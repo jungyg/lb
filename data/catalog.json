@@ -1,6 +1,55 @@
 {
  "products": [
   {
+   "id": 10873372442908,
+   "title": "Cricket Farms White Blend Lake County 2025",
+   "handle": "cricket-farms-white-blend-lake-county-2025",
+   "url": "https://lastbottlewines.com/products/cricket-farms-white-blend-lake-county-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 14.0,
+   "retail": 34.0,
+   "discount": 59,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015606",
+   "variant_id": 54216133443868,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CricketFarms_1015606_LB_BottleShot_1.jpg?v=1785166473",
+   "published_at": "2026-09-28T10:00:14-07:00",
+   "tags": [
+    "freeship:6",
+    "last-bottle-credit-awarded",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-28T17:00:24Z"
+  },
+  {
+   "id": 9658792968476,
+   "title": "Luna Vineyards Pinot Grigio Delle Venezie 2021",
+   "handle": "luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
+   "url": "https://lastbottlewines.com/products/luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 25.0,
+   "discount": 52,
+   "free_ship": 6,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1007256",
+   "variant_id": 49890993570076,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBFIKYYX-565040.jpg?v=1726269695",
+   "published_at": "2026-09-28T09:56:02-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-28T17:00:24Z"
+  },
+  {
    "id": 10941575069980,
    "title": "Domaine du Couvent La Romanée Gevrey-Chambertin Premier Cru 2023",
    "handle": "domaine-du-couvent-la-romanee-gevrey-chambertin-premier-cru-2023",
@@ -23,31 +72,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-28T16:15:18Z"
-  },
-  {
-   "id": 10938543145244,
-   "title": "Pangloss Cellars Merlot Moon Mountain District 2022",
-   "handle": "pangloss-cellars-merlot-moon-mountain-district-2022",
-   "url": "https://lastbottlewines.com/products/pangloss-cellars-merlot-moon-mountain-district-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 75.0,
-   "discount": 75,
-   "free_ship": 6,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000206",
-   "variant_id": 54418800902428,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Pangloss_MER22_Moon_Mountain_District_2000206_LB_BottleShot.jpg?v=1789410650",
-   "published_at": "2026-09-27T10:00:08-07:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-27T17:00:21Z"
   },
   {
    "id": 10796522602780,
