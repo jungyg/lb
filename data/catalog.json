@@ -1,6 +1,29 @@
 {
  "products": [
   {
+   "id": 10898919457052,
+   "title": "Ruth Lewandowski Rosé Cuvée Zero Fox Hill Vineyard Mendocino County 2023",
+   "handle": "ruth-lewandowski-rose-cuvee-zero-fox-hill-vineyard-mendocino-county-2023",
+   "url": "https://lastbottlewines.com/products/ruth-lewandowski-rose-cuvee-zero-fox-hill-vineyard-mendocino-county-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 12.0,
+   "retail": 29.0,
+   "discount": 59,
+   "free_ship": null,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000014",
+   "variant_id": 54303900827932,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000014.jpg?v=1788374399",
+   "published_at": "2026-09-28T10:28:47-07:00",
+   "tags": [
+    "status:pdp"
+   ],
+   "first_seen": "2026-09-28T17:30:21Z"
+  },
+  {
    "id": 10873372442908,
    "title": "Cricket Farms White Blend Lake County 2025",
    "handle": "cricket-farms-white-blend-lake-county-2025",
