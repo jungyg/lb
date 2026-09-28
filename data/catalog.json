@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 9658792968476,
+   "title": "Luna Vineyards Pinot Grigio Delle Venezie 2021",
+   "handle": "luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
+   "url": "https://lastbottlewines.com/products/luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 12.0,
+   "retail": 25.0,
+   "discount": 52,
+   "free_ship": 6,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1007256",
+   "variant_id": 49890993570076,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBFIKYYX-565040.jpg?v=1726269695",
+   "published_at": "2026-09-28T11:48:09-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-28T17:00:24Z"
+  },
+  {
    "id": 10978025275676,
    "title": "KHK Cabernet Sauvignon Napa Valley 2024",
    "handle": "khk-cabernet-sauvignon-napa-valley-2024",
@@ -93,30 +117,6 @@
    "tags": [
     "freeship:6",
     "last-bottle-credit-awarded",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-28T17:00:24Z"
-  },
-  {
-   "id": 9658792968476,
-   "title": "Luna Vineyards Pinot Grigio Delle Venezie 2021",
-   "handle": "luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
-   "url": "https://lastbottlewines.com/products/luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 12.0,
-   "retail": 25.0,
-   "discount": 52,
-   "free_ship": 6,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1007256",
-   "variant_id": 49890993570076,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBFIKYYX-565040.jpg?v=1726269695",
-   "published_at": "2026-09-28T09:56:02-07:00",
-   "tags": [
-    "freeship:6",
     "status:dailyoffer"
    ],
    "first_seen": "2026-09-28T17:00:24Z"
