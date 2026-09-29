@@ -25,30 +25,6 @@
    "first_seen": "2026-09-29T17:15:18Z"
   },
   {
-   "id": 10910943150364,
-   "title": "Casanova di Neri Brunello di Montalcino Tenuta Nuova 2021",
-   "handle": "casanova-di-neri-brunello-di-montalcino-tenuta-nuova-2021",
-   "url": "https://lastbottlewines.com/products/casanova-di-neri-brunello-di-montalcino-tenuta-nuova-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 109.0,
-   "retail": 180.0,
-   "discount": 39,
-   "free_ship": 2,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013615",
-   "variant_id": 54340736647452,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013615.jpg?v=1788373477",
-   "published_at": "2026-09-29T09:56:02-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-29T17:00:24Z"
-  },
-  {
    "id": 10950060409116,
    "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
    "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
@@ -374,7 +350,7 @@
    "title": "Castello Romitorio Brunello di Montalcino Riserva 2016",
    "handle": "castello-di-romitorio-brunello-di-montalcino-riserva-2016",
    "url": "https://lastbottlewines.com/products/castello-di-romitorio-brunello-di-montalcino-riserva-2016",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 199.0,
    "retail": 300.0,
@@ -390,6 +366,7 @@
    "tags": [
     "display:no-seo",
     "freeship:1",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-09-14T16:56:06Z"
