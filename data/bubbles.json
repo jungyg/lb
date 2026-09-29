@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14998460858737,
+   "title": "Champagne Briaux Lenique Cuvée Les Semons NV",
+   "handle": "champagne-briaux-lenique-cuvee-les-semons-nv",
+   "url": "https://lastbubbles.com/products/champagne-briaux-lenique-cuvee-les-semons-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 90.0,
+   "discount": 46,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007469",
+   "variant_id": 55177178218865,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BriauxLeniqueCuveeLesSemonsNV_1007469_BottleShot.jpg?v=1767285390",
+   "published_at": "2026-09-29T09:21:12-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-29T16:30:19Z"
+  },
+  {
    "id": 15204897587569,
    "title": "Champagne J M Seleque Solessence Extra Brut NV",
    "handle": "champagne-j-m-seleque-solessence-extra-brut-nv",
