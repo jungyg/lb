@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10910943150364,
+   "title": "Casanova di Neri Brunello di Montalcino Tenuta Nuova 2021",
+   "handle": "casanova-di-neri-brunello-di-montalcino-tenuta-nuova-2021",
+   "url": "https://lastbottlewines.com/products/casanova-di-neri-brunello-di-montalcino-tenuta-nuova-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 109.0,
+   "retail": 180.0,
+   "discount": 39,
+   "free_ship": 2,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013615",
+   "variant_id": 54340736647452,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013615.jpg?v=1788373477",
+   "published_at": "2026-09-29T09:56:02-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-29T17:00:24Z"
+  },
+  {
    "id": 10950060409116,
    "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
    "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
@@ -50,30 +74,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-09-28T21:15:16Z"
-  },
-  {
-   "id": 9658792968476,
-   "title": "Luna Vineyards Pinot Grigio Delle Venezie 2021",
-   "handle": "luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
-   "url": "https://lastbottlewines.com/products/luna-vineyards-pinot-grigio-delle-venezie-2021-10537",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 12.0,
-   "retail": 25.0,
-   "discount": 52,
-   "free_ship": 6,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1007256",
-   "variant_id": 49890993570076,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LBFIKYYX-565040.jpg?v=1726269695",
-   "published_at": "2026-09-28T11:48:09-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-28T17:00:24Z"
   },
   {
    "id": 10978025275676,
@@ -135,7 +135,7 @@
    "price": 12.0,
    "retail": 29.0,
    "discount": 59,
-   "free_ship": null,
+   "free_ship": 6,
    "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
@@ -144,34 +144,10 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000014.jpg?v=1788374399",
    "published_at": "2026-09-28T10:28:47-07:00",
    "tags": [
+    "freeship:6",
     "status:pdp"
    ],
    "first_seen": "2026-09-28T17:30:21Z"
-  },
-  {
-   "id": 10873372442908,
-   "title": "Cricket Farms White Blend Lake County 2025",
-   "handle": "cricket-farms-white-blend-lake-county-2025",
-   "url": "https://lastbottlewines.com/products/cricket-farms-white-blend-lake-county-2025",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 34.0,
-   "discount": 59,
-   "free_ship": 6,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015606",
-   "variant_id": 54216133443868,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CricketFarms_1015606_LB_BottleShot_1.jpg?v=1785166473",
-   "published_at": "2026-09-28T10:00:14-07:00",
-   "tags": [
-    "freeship:6",
-    "last-bottle-credit-awarded",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-28T17:00:24Z"
   },
   {
    "id": 10941575069980,
@@ -898,32 +874,6 @@
     "freeship:1",
     "status:pdp",
     "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10846355652892,
-   "title": "Stags' Leap Winery Chardonnay Napa Valley 2022 (Half Bottle 375mL)",
-   "handle": "stags-leap-winery-chardonnay-napa-valley-2022-half-bottle-375ml",
-   "url": "https://lastbottlewines.com/products/stags-leap-winery-chardonnay-napa-valley-2022-half-bottle-375ml",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 10.0,
-   "retail": 20.0,
-   "discount": 50,
-   "free_ship": 4,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015241",
-   "variant_id": 54134637953308,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/StagsLeap_1015241_LB_BottleShot_2.jpg?v=1782227822",
-   "published_at": "2026-08-20T11:28:31-07:00",
-   "tags": [
-    "freeship:4",
-    "product:welcome_flow",
-    "status:dailyoffer",
-    "status:pdp"
    ],
    "first_seen": null
   },
