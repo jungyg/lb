@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10784467026204,
+   "title": "Mystery Red Blend Spring Mountain District Napa Valley 2017",
+   "handle": "mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2017",
+   "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2017",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 180.0,
+   "discount": 78,
+   "free_ship": 3,
+   "vintage": 2017,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013764",
+   "variant_id": 53955726016796,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011143-681429.jpg?v=1776452727",
+   "published_at": "2026-09-30T12:55:21-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-30T20:00:23Z"
+  },
+  {
    "id": 10846355652892,
    "title": "Stags' Leap Winery Chardonnay Napa Valley 2022 (Half Bottle 375mL)",
    "handle": "stags-leap-winery-chardonnay-napa-valley-2022-half-bottle-375ml",
@@ -2510,7 +2534,7 @@
    "title": "Mystery Red Blend Spring Mountain District Napa Valley 2013",
    "handle": "mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2013",
    "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2013",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 39.0,
    "retail": 180.0,
@@ -2527,7 +2551,6 @@
     "collection:growth",
     "freeship:1",
     "product:welcome_flow",
-    "status:dailyoffer",
     "status:pdp",
     "status:pdp_ad"
    ],
