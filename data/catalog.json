@@ -25,54 +25,6 @@
    "first_seen": "2026-09-30T16:00:24Z"
   },
   {
-   "id": 10978498150684,
-   "title": "Harvest Secret Reserve Collector 6-Bottle Mystery Case",
-   "handle": "harvest-secret-reserve-collector-6-bottle-mystery-case",
-   "url": "https://lastbottlewines.com/products/harvest-secret-reserve-collector-6-bottle-mystery-case",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 399.0,
-   "retail": 1154.0,
-   "discount": 65,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000675",
-   "variant_id": 54571964989724,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/HarvestMystery_6_MIX_63a54412-8e6f-4e49-b1b8-6e4011edf30a.jpg?v=1790705779",
-   "published_at": "2026-09-30T08:56:32-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-30T16:00:24Z"
-  },
-  {
-   "id": 10978498117916,
-   "title": "Harvest Pinot Noir 6-Bottle Mystery Case",
-   "handle": "harvest-pinot-noir-6-bottle-mystery-case",
-   "url": "https://lastbottlewines.com/products/harvest-pinot-noir-6-bottle-mystery-case",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 149.0,
-   "retail": 399.0,
-   "discount": 63,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000674",
-   "variant_id": 54571964956956,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/HarvestMystery_6_PINOTNOIR.jpg?v=1790699829",
-   "published_at": "2026-09-30T08:56:30-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-30T16:00:24Z"
-  },
-  {
    "id": 10950060409116,
    "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
    "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
@@ -2533,7 +2485,7 @@
    "title": "Mystery Red Blend Spring Mountain District Napa Valley 2013",
    "handle": "mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2013",
    "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-spring-mountain-district-napa-valley-2013",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 39.0,
    "retail": 180.0,
@@ -2548,9 +2500,9 @@
    "published_at": "2026-02-06T09:16:53-08:00",
    "tags": [
     "collection:growth",
-    "collection:MOH2026",
     "freeship:1",
     "product:welcome_flow",
+    "status:dailyoffer",
     "status:pdp",
     "status:pdp_ad"
    ],
