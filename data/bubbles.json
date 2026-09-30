@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15539512803697,
+   "title": "Ca'Erto Soave Spumante Brut 2024",
+   "handle": "caerto-soave-spumante-brut-2024",
+   "url": "https://lastbubbles.com/products/caerto-soave-spumante-brut-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 18.0,
+   "retail": 28.0,
+   "discount": 36,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013378",
+   "variant_id": 63553133511025,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CaErtoSoaveSpumanteBrut2024_1013378_BUB_BottleShot.jpg?v=1790719165",
+   "published_at": "2026-09-30T09:39:08-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-09-30T16:45:17Z"
+  },
+  {
    "id": 14998460858737,
    "title": "Champagne Briaux Lenique Cuvée Les Semons NV",
    "handle": "champagne-briaux-lenique-cuvee-les-semons-nv",
