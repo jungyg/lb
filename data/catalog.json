@@ -829,31 +829,6 @@
    "first_seen": null
   },
   {
-   "id": 10795621777692,
-   "title": "Beringer Cabernet Sauvignon Pauli Vineyard Howell Mountain Napa Valley 2017",
-   "handle": "beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2017",
-   "url": "https://lastbottlewines.com/products/beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2017",
-   "status": "pdp",
-   "available": true,
-   "price": 79.0,
-   "retail": 170.0,
-   "discount": 54,
-   "free_ship": 1,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013839",
-   "variant_id": 53987303227676,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Beringer_CSV17_SKU_LB_BottleShot.jpg?v=1781038894",
-   "published_at": "2026-08-24T11:56:50-07:00",
-   "tags": [
-    "display:no-seo",
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 10763757420828,
    "title": "Palazzo Rivolo Brunello di Montalcino 2020",
    "handle": "palazzo-rivolo-brunello-di-montalcino-2020",
