@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15928967135601,
+   "title": "Champagne Georges Laval Cumières Brut Nature Premier Cru NV",
+   "handle": "champagne-georges-laval-cumieres-brut-nature-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-georges-laval-cumieres-brut-nature-premier-cru-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 114.0,
+   "retail": 150.0,
+   "discount": 24,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013022",
+   "variant_id": 64259770941809,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneGeorgesLavalCumieresBrutNaturePremierCruNV_1013022_BUB_BottleShot.jpg?v=1790724655",
+   "published_at": "2026-10-01T09:22:40-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-01T16:30:22Z"
+  },
+  {
    "id": 15539512803697,
    "title": "Ca'Erto Soave Spumante Brut 2024",
    "handle": "caerto-soave-spumante-brut-2024",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-09-30T16:45:17Z"
-  },
-  {
-   "id": 14998460858737,
-   "title": "Champagne Briaux Lenique Cuvée Les Semons NV",
-   "handle": "champagne-briaux-lenique-cuvee-les-semons-nv",
-   "url": "https://lastbubbles.com/products/champagne-briaux-lenique-cuvee-les-semons-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 90.0,
-   "discount": 46,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007469",
-   "variant_id": 55177178218865,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BriauxLeniqueCuveeLesSemonsNV_1007469_BottleShot.jpg?v=1767285390",
-   "published_at": "2026-09-29T09:21:12-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-29T16:30:19Z"
   },
   {
    "id": 15204897587569,
@@ -501,54 +501,6 @@
    "first_seen": "2026-09-28T19:45:18Z"
   },
   {
-   "id": 15928966906225,
-   "title": "Champagne Savart x Alexandre Chartogne Éphémère 029 Extra Brut Grand Cru NV",
-   "handle": "champagne-savart-ephemere-029-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-savart-ephemere-029-extra-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 79.0,
-   "retail": 125.0,
-   "discount": 37,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012595",
-   "variant_id": 64259770614129,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneSavartEphemere029ExtraBrutNV_1012595_BUB_BottleShot.jpg?v=1790611784",
-   "published_at": "2026-09-28T09:33:33-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-28T16:45:16Z"
-  },
-  {
-   "id": 9777225957691,
-   "title": "Champagne Delamotte Blanc de Blancs Brut 2018",
-   "handle": "champagne-delamotte-blanc-de-blancs-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-delamotte-blanc-de-blancs-brut-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 170.0,
-   "discount": 42,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006942",
-   "variant_id": 49385988358459,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3.jpg?v=1779817500",
-   "published_at": "2026-09-27T08:47:47-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-09-27T16:00:22Z"
-  },
-  {
    "id": 14936893227377,
    "title": "Champagne Taittinger Grand Crus Blanc de Blancs Comtes de Champagne Brut 2011",
    "handle": "champagne-taittinger-grand-crus-blanc-de-blancs-comtes-de-champagne-brut-2011",
@@ -621,54 +573,6 @@
    "first_seen": null
   },
   {
-   "id": 15386232652145,
-   "title": "Champagne Antoine Derigny Millesime Brut 2016",
-   "handle": "champagne-antoine-derigny-millesime-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-antoine-derigny-millesime-brut-2016",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 120.0,
-   "discount": 51,
-   "free_ship": 3,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010021",
-   "variant_id": 62906506281329,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/AntoineDerigny_1010021_BUB_BottleShot.jpg?v=1784909443",
-   "published_at": "2026-09-20T08:35:36-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 9564316270907,
-   "title": "Champagne André Robert Blanc de Blancs Terre du Mesnil Brut Grand Cru 2017",
-   "handle": "champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 140.0,
-   "discount": 29,
-   "free_ship": 2,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000145",
-   "variant_id": 48908099027259,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/AndreRobert_1000145_BottleShot_7fe8057e-3437-4277-ba58-4784da98f90b.jpg?v=1731975147",
-   "published_at": "2026-09-19T09:08:01-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15581223584113,
    "title": "Champagne M. Marcoult Roseline Rosé Brut NV",
    "handle": "champagne-m-marcoult-roseline-rose-brut-nv",
@@ -689,30 +593,6 @@
    "tags": [
     "freeship:3",
     "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15381248901489,
-   "title": "Champagne Monmarthe Les Grimpants Extra Brut 2020",
-   "handle": "champagne-monmarthe-les-grimpants-extra-brut-2020",
-   "url": "https://lastbubbles.com/products/champagne-monmarthe-les-grimpants-extra-brut-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 3,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008907",
-   "variant_id": 62889625485681,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Monmarthe_Les_Grimpants_Extra_Brut_Ludes_2020_1008907_BUB_BottleShot.jpg?v=1789680327",
-   "published_at": "2026-09-18T09:34:13-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
    ],
    "first_seen": null
   },
