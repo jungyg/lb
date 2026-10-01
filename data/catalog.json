@@ -17,7 +17,7 @@
    "sku": "1013764",
    "variant_id": 53955726016796,
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011143-681429.jpg?v=1776452727",
-   "published_at": "2026-09-30T12:55:21-07:00",
+   "published_at": "2026-10-01T09:00:04-07:00",
    "tags": [
     "freeship:3",
     "status:dailyoffer"
@@ -151,30 +151,6 @@
    "first_seen": "2026-09-28T17:45:19Z"
   },
   {
-   "id": 10941575069980,
-   "title": "Domaine du Couvent La Romanée Gevrey-Chambertin Premier Cru 2023",
-   "handle": "domaine-du-couvent-la-romanee-gevrey-chambertin-premier-cru-2023",
-   "url": "https://lastbottlewines.com/products/domaine-du-couvent-la-romanee-gevrey-chambertin-premier-cru-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 119.0,
-   "retail": 185.0,
-   "discount": 36,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000440",
-   "variant_id": 54426762903836,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DomaineduCouventLaRomaneeGevrey-ChambertinPremierCru2023_2000440_LB_BottleShot.jpg?v=1790373533",
-   "published_at": "2026-09-28T09:09:32-07:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-28T16:15:18Z"
-  },
-  {
    "id": 10796522602780,
    "title": "Grape Culture Cabernet Sauvignon GC22 Napa Valley 2022",
    "handle": "grape-culture-cabernet-sauvignon-reserve-napa-valley-2022",
@@ -275,30 +251,6 @@
    "first_seen": "2026-09-24T16:30:19Z"
   },
   {
-   "id": 10980422910236,
-   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
-   "handle": "rose-arrow-pinot-noir-willamette-valley-2022-1",
-   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-willamette-valley-2022-1",
-   "status": "pdp",
-   "available": true,
-   "price": 29.0,
-   "retail": 70.0,
-   "discount": 59,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000482-009",
-   "variant_id": 54576984949020,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot_2.jpg?v=1790195410",
-   "published_at": "2026-09-24T09:08:19-07:00",
-   "tags": [
-    "freeship:6",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-24T16:15:16Z"
-  },
-  {
    "id": 10660919574812,
    "title": "Marchesi Antinori Tenuta Guado al Tasso Bolgheri 2022",
    "handle": "marchesi-antinori-tenuta-guado-al-tasso-bolgheri-2022",
@@ -321,30 +273,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-21T16:15:18Z"
-  },
-  {
-   "id": 10967846748444,
-   "title": "Blackbird Vineyard Red Blend Paramour Napa Valley 2017",
-   "handle": "blackbird-vineyard-red-blend-paramour-napa-valley-2017-1",
-   "url": "https://lastbottlewines.com/products/blackbird-vineyard-red-blend-paramour-napa-valley-2017-1",
-   "status": "pdp",
-   "available": true,
-   "price": 69.0,
-   "retail": 215.0,
-   "discount": 68,
-   "free_ship": 3,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015453-009",
-   "variant_id": 54519324475676,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015453-34_486ebcaa-ae2d-4903-aebe-c00ecac7f6d2.jpg?v=1790816420",
-   "published_at": "2026-09-18T09:52:18-07:00",
-   "tags": [
-    "freeship:3",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-18T17:02:04Z"
   },
   {
    "id": 10936559042844,
@@ -446,54 +374,6 @@
     "freeship:3",
     "status:pdp",
     "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10941444784412,
-   "title": "Alphonse Mellot Rouge En Grands Champs Sancerre 2018",
-   "handle": "alphonse-mellot-rouge-en-grands-champs-sancerre-2018",
-   "url": "https://lastbottlewines.com/products/alphonse-mellot-rouge-en-grands-champs-sancerre-2018",
-   "status": "pdp",
-   "available": true,
-   "price": 109.0,
-   "retail": 175.0,
-   "discount": 38,
-   "free_ship": 3,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013883",
-   "variant_id": 54425023283484,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Alphonse_Mellot_Rouge_En_Grands_Champs_Sancerre_2018_1013883_LB_BottleShot.jpg?v=1788710048",
-   "published_at": "2026-09-07T09:57:52-07:00",
-   "tags": [
-    "freeship:3",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10967846617372,
-   "title": "Grace & Grit Wines Sauvignon Blanc Dry Creek Valley 2025",
-   "handle": "grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025-1",
-   "url": "https://lastbottlewines.com/products/grace-grit-wines-sauvignon-blanc-dry-creek-valley-2025-1",
-   "status": "pdp",
-   "available": true,
-   "price": 14.0,
-   "retail": 45.0,
-   "discount": 69,
-   "free_ship": 6,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000043-009",
-   "variant_id": 54519324344604,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/GraceGritSauvignonBlancDryCreekValley2025_2000043_LB_BottleShot.jpg?v=1788572408",
-   "published_at": "2026-09-07T09:41:40-07:00",
-   "tags": [
-    "freeship:6",
-    "status:pdp"
    ],
    "first_seen": null
   },
