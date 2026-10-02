@@ -1,30 +1,6 @@
 {
  "products": [
   {
-   "id": 9777225957691,
-   "title": "Champagne Delamotte Blanc de Blancs Brut 2018",
-   "handle": "champagne-delamotte-blanc-de-blancs-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-delamotte-blanc-de-blancs-brut-2018",
-   "status": "pdp",
-   "available": true,
-   "price": 99.0,
-   "retail": 170.0,
-   "discount": 42,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006942",
-   "variant_id": 49385988358459,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3.jpg?v=1779817500",
-   "published_at": "2026-10-02T09:57:12-07:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-02T17:00:21Z"
-  },
-  {
    "id": 15335901888881,
    "title": "Champagne Gardet Brut Zero Dosage NV",
    "handle": "champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
