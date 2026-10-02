@@ -508,7 +508,7 @@
    "title": "Beringer Vineyards Cabernet Sauvignon Rhine House Cuvée Napa Valley 2023",
    "handle": "beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 29.0,
    "retail": 80.0,
@@ -524,6 +524,7 @@
    "tags": [
     "freeship:2",
     "pdp",
+    "status:dailyoffer",
     "status:pdp",
     "status:pdp_ad"
    ],
