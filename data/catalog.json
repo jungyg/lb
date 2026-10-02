@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10979833872668,
+   "title": "Arbuckle Ridge Red Blend Western Lights Adelaida District Paso Robles 2025",
+   "handle": "arbuckle-ridge-red-blend-western-lights-adelaida-district-paso-robles-2025",
+   "url": "https://lastbottlewines.com/products/arbuckle-ridge-red-blend-western-lights-adelaida-district-paso-robles-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 17.0,
+   "retail": 75.0,
+   "discount": 77,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000540",
+   "variant_id": 54574909227292,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ArbuckleRidgeRedBlendWesternLightsAdelaidaDistrictPasoRobles2025_2000540_LB_BottleShot.jpg?v=1790798988",
+   "published_at": "2026-10-02T09:56:02-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-02T17:00:21Z"
+  },
+  {
    "id": 10861550600476,
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
@@ -20,30 +44,6 @@
    "published_at": "2026-10-01T10:00:16-07:00",
    "tags": [
     "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-01T17:00:21Z"
-  },
-  {
-   "id": 10744256790812,
-   "title": "Meteor Vineyard Cabernet Sauvignon Perseid Napa Valley 2018",
-   "handle": "meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
-   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 195.0,
-   "discount": 70,
-   "free_ship": 3,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012976",
-   "variant_id": 53796679975196,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012976_LB_BottleShot.jpg?v=1787863865",
-   "published_at": "2026-10-01T09:56:02-07:00",
-   "tags": [
-    "freeship:3",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-01T17:00:21Z"
