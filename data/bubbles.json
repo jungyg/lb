@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15335901888881,
+   "title": "Champagne Gardet Brut Zero Dosage NV",
+   "handle": "champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000235-001",
+   "variant_id": 62708816576881,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000235-001_BUB_BottleShot.jpg?v=1777135185",
+   "published_at": "2026-10-02T09:29:09-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-02T16:30:18Z"
+  },
+  {
    "id": 15928967135601,
    "title": "Champagne Georges Laval Cumières Brut Nature Premier Cru NV",
    "handle": "champagne-georges-laval-cumieres-brut-nature-premier-cru-nv",
