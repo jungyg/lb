@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10820831052060,
+   "title": "Sleeper Brunello di Montalcino 2020",
+   "handle": "sleeper-brunello-di-montalcino-2020",
+   "url": "https://lastbottlewines.com/products/sleeper-brunello-di-montalcino-2020",
+   "status": "pdp",
+   "available": true,
+   "price": 36.0,
+   "retail": 89.0,
+   "discount": 60,
+   "free_ship": 3,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "ASSETING S.R.L.",
+   "sku": "1012494",
+   "variant_id": 54055822983452,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Sleeper_Brunello_di_Montalcino_2020_1012494_LB_BottleShot.jpg?v=1789090425",
+   "published_at": "2026-10-02T15:06:56-07:00",
+   "tags": [
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-02T22:15:14Z"
+  },
+  {
    "id": 10792362639644,
    "title": "Skinner Vineyards Grenache El Dorado 2020",
    "handle": "skinner-vineyards-grenache-el-dorado-2020",
