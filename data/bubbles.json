@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15461615337841,
+   "title": "Artesa Sparkling Grand Reserve Baricca Brut Carneros Napa Valley 2016",
+   "handle": "artesa-sparkling-grand-reserve-baricca-brut-carneros-napa-valley-2016",
+   "url": "https://lastbubbles.com/products/artesa-sparkling-grand-reserve-baricca-brut-carneros-napa-valley-2016",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 3,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013742",
+   "variant_id": 63257098551665,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_17.jpg?v=1775578978",
+   "published_at": "2026-10-03T09:44:04-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-03T16:45:16Z"
+  },
+  {
    "id": 15335901888881,
    "title": "Champagne Gardet Brut Zero Dosage NV",
    "handle": "champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
