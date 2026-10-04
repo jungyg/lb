@@ -49,30 +49,6 @@
    "first_seen": "2026-10-04T17:00:18Z"
   },
   {
-   "id": 10992037167388,
-   "title": "Negretti Barolo 2021",
-   "handle": "negretti-barolo-2021-1",
-   "url": "https://lastbottlewines.com/products/negretti-barolo-2021-1",
-   "status": "pdp",
-   "available": true,
-   "price": 32.0,
-   "retail": 60.0,
-   "discount": 47,
-   "free_ship": 4,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014044-009",
-   "variant_id": 54642249236764,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/NegrettiBarolo2021_1014044_LB_BottleShot.jpg?v=1790875211",
-   "published_at": "2026-10-03T09:56:09-07:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-03T17:00:21Z"
-  },
-  {
    "id": 10873394725148,
    "title": "Mongioia Moscato d’Asti 2023",
    "handle": "mongioia-moscato-d-asti-2023",
