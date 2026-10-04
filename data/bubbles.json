@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15975665500529,
+   "title": "Château la Minière Rouge Créative x Inattendu Brut France 2021",
+   "handle": "chateau-la-miniere-rouge-creative-x-inattendu-brut-france-2021",
+   "url": "https://lastbubbles.com/products/chateau-la-miniere-rouge-creative-x-inattendu-brut-france-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 24.0,
+   "retail": 30.0,
+   "discount": 20,
+   "free_ship": 6,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1015247",
+   "variant_id": 64435564904817,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChateaulaMiniereRougeCreativexInattenduBrutFrance2021_1015247_BUB_BottleShot.jpg?v=1790962707",
+   "published_at": "2026-10-04T09:47:46-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-04T17:00:18Z"
+  },
+  {
    "id": 15461615337841,
    "title": "Artesa Sparkling Grand Reserve Baricca Brut Carneros Napa Valley 2016",
    "handle": "artesa-sparkling-grand-reserve-baricca-brut-carneros-napa-valley-2016",
