@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14945363362161,
+   "title": "Champagne Christophe Dechannes Nos Deux Vallons Les Riceys Brut Nature NV",
+   "handle": "champagne-christophe-dechannes-nos-deux-vallons-les-riceys-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-nos-deux-vallons-les-riceys-brut-nature-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 54.0,
+   "retail": 90.0,
+   "discount": 40,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007524",
+   "variant_id": 52129152434545,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannes_1007524_BottleShot_1.jpg?v=1747328373",
+   "published_at": "2026-10-05T09:25:12-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-05T16:30:21Z"
+  },
+  {
    "id": 15225447874929,
    "title": "Tenuta Pederzana Lambrusco Grasparossa Castelvetro Spiriti Folletti Secco NV",
    "handle": "tenuta-pederzana-lambrusco-grasparossa-castelvetro-spiriti-folletti-secco-nv-disg-december-2024",
