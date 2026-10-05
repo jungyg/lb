@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 10868975436060,
+   "title": "Beringer Vineyards Cabernet Sauvignon Rhine House Cuvée Napa Valley 2023",
+   "handle": "beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 29.0,
+   "retail": 80.0,
+   "discount": 64,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015612",
+   "variant_id": 54200027119900,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Beringer_1015612_LB_BottleShot_2.jpg?v=1782929340",
+   "published_at": "2026-10-05T15:42:55-07:00",
+   "tags": [
+    "freeship:2",
+    "pdp",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-05T22:45:17Z"
+  },
+  {
    "id": 10873372344604,
    "title": "V. Vineyards Cabernet Sauvignon Audace Ruby Vineyard Sonoma County 2023",
    "handle": "v-vineyards-audace-ruby-vineyard-sonoma-county-2023",
