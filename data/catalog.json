@@ -26,30 +26,6 @@
    "first_seen": "2026-10-05T17:00:21Z"
   },
   {
-   "id": 10905492422940,
-   "title": "Cortello Cabernet Sauvignon Stags Leap District Napa Valley 2024",
-   "handle": "cortello-cabernet-sauvignon-stags-leap-district-napa-valley-2024",
-   "url": "https://lastbottlewines.com/products/cortello-cabernet-sauvignon-stags-leap-district-napa-valley-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 32.0,
-   "retail": 80.0,
-   "discount": 60,
-   "free_ship": 4,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000024",
-   "variant_id": 54322960728348,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000024.jpg?v=1788373804",
-   "published_at": "2026-10-05T09:56:02-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-05T17:00:21Z"
-  },
-  {
    "id": 10873394725148,
    "title": "Mongioia Moscato d’Asti 2023",
    "handle": "mongioia-moscato-d-asti-2023",
@@ -173,31 +149,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-09-28T18:00:26Z"
-  },
-  {
-   "id": 10967846715676,
-   "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
-   "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023-1",
-   "url": "https://lastbottlewines.com/products/adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023-1",
-   "status": "pdp",
-   "available": false,
-   "price": 89.0,
-   "retail": 225.0,
-   "discount": 60,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000052-009",
-   "variant_id": 54519324442908,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_2_1.jpg?v=1789074090",
-   "published_at": "2026-09-28T10:42:50-07:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": "2026-09-28T17:45:19Z"
   },
   {
    "id": 10796522602780,
