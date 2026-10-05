@@ -330,7 +330,7 @@
    "handle": "cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
    "url": "https://lastbottlewines.com/products/cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
    "status": "pdp",
-   "available": false,
+   "available": true,
    "price": 32.0,
    "retail": 105.0,
    "discount": 70,
