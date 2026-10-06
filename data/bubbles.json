@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15581223518577,
+   "title": "Perelada Stars Touch of Rosé Brut Cava 2024",
+   "handle": "perelada-stars-touch-of-rose-brut-cava-2024",
+   "url": "https://lastbubbles.com/products/perelada-stars-touch-of-rose-brut-cava-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 16.0,
+   "retail": 24.0,
+   "discount": 33,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012771",
+   "variant_id": 63680418972017,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaStars2024_SKU_BUB_BottleShot.jpg?v=1783960273",
+   "published_at": "2026-10-06T09:23:00-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-06T16:30:19Z"
+  },
+  {
    "id": 14945363362161,
    "title": "Champagne Christophe Dechannes Nos Deux Vallons Les Riceys Brut Nature NV",
    "handle": "champagne-christophe-dechannes-nos-deux-vallons-les-riceys-brut-nature-nv",
