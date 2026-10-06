@@ -1,6 +1,27 @@
 {
  "products": [
   {
+   "id": 15804633678193,
+   "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
+   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
+   "status": "other",
+   "available": true,
+   "price": 109.0,
+   "retail": 149.0,
+   "discount": 27,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007730-001",
+   "variant_id": 63988090470769,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007730.jpg?v=1762301110",
+   "published_at": "2026-10-06T10:40:01-07:00",
+   "tags": [],
+   "first_seen": "2026-10-06T17:45:17Z"
+  },
+  {
    "id": 15581223518577,
    "title": "Perelada Stars Touch of Rosé Brut Cava 2024",
    "handle": "perelada-stars-touch-of-rose-brut-cava-2024",
