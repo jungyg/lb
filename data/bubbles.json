@@ -1,11 +1,35 @@
 {
  "products": [
   {
+   "id": 15804632498545,
+   "title": "Champagne Alexandra Sainz Héritage Brut Bouzy Grand Cru NV",
+   "handle": "champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
+   "url": "https://lastbubbles.com/products/champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007774-003",
+   "variant_id": 63988089389425,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Alexandra_Sainz_Heritage_Brut_Bouzy_Grand_Cru_NV_Regen__1007774-003_BUB_BottleShot.jpg?v=1791303138",
+   "published_at": "2026-10-07T09:32:51-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-07T16:45:18Z"
+  },
+  {
    "id": 15804633678193,
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
    "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "status": "other",
+   "status": "pdp",
    "available": true,
    "price": 109.0,
    "retail": 149.0,
@@ -18,7 +42,9 @@
    "variant_id": 63988090470769,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007730.jpg?v=1762301110",
    "published_at": "2026-10-06T10:40:01-07:00",
-   "tags": [],
+   "tags": [
+    "status:pdp"
+   ],
    "first_seen": "2026-10-06T17:45:17Z"
   },
   {
