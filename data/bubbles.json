@@ -1663,7 +1663,7 @@
    "title": "Champagne Philippe Glavier Blanc de Blancs Cramant Emotion Brut Grand Cru 2014",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-cramant-emotion-brut-grand-cru-2014",
    "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-cramant-emotion-brut-grand-cru-2014",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 119.0,
    "retail": 155.0,
@@ -1679,6 +1679,7 @@
    "tags": [
     "freeship:1",
     "shop-collection",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
