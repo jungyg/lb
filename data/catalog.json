@@ -511,7 +511,7 @@
    "handle": "pope-valley-winery-cabernet-sauvignon-reserve-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/pope-valley-winery-cabernet-sauvignon-reserve-napa-valley-2023",
    "status": "pdp",
-   "available": true,
+   "available": false,
    "price": 22.0,
    "retail": 92.0,
    "discount": 76,
@@ -1008,6 +1008,7 @@
    "tags": [
     "collection:growth",
     "collection:MOH2026",
+    "collection:pour",
     "freeship:3",
     "status:pdp"
    ],
