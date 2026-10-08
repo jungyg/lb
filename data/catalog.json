@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10983126204700,
+   "title": "Twomey Pinot Noir Russian River Valley Sonoma County 2023",
+   "handle": "twomey-pinot-noir-russian-river-2023",
+   "url": "https://lastbottlewines.com/products/twomey-pinot-noir-russian-river-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 19.0,
+   "retail": 62.0,
+   "discount": 69,
+   "free_ship": 4,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000713",
+   "variant_id": 54600556413212,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Twomey_PNR23_RRV_2000713_LB_BottleShot.jpg?v=1791241862",
+   "published_at": "2026-10-08T09:56:03-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-08T17:00:23Z"
+  },
+  {
+   "id": 11000435409180,
+   "title": "Twomey Pinot Noir Russian River Valley Sonoma County 2023",
+   "handle": "twomey-pinot-noir-russian-river-valley-sonoma-county-2023",
+   "url": "https://lastbottlewines.com/products/twomey-pinot-noir-russian-river-valley-sonoma-county-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 19.0,
+   "retail": 62.0,
+   "discount": 69,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000713-009",
+   "variant_id": 54665675407644,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Twomey_PNR23_RRV_2000713_LB_BottleShot_0bcfcc7b-0f3f-4e78-8ea3-5bfeac7b98a4.jpg?v=1791477541",
+   "published_at": "2026-10-08T09:53:01-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-08T17:00:23Z"
+  },
+  {
    "id": 10846355161372,
    "title": "V. Vineyards Chardonnay Aurae Kiser Vineyard Sonoma Valley 2022",
    "handle": "v-vineyards-chardonnay-aurae-kaiser-vineyard-sonoma-valley-2022",
@@ -21,30 +69,6 @@
    "tags": [
     "backup",
     "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-07T17:15:18Z"
-  },
-  {
-   "id": 10837256306972,
-   "title": "Domaine Besson Chablis Les Clos Grand Cru 2023",
-   "handle": "domaine-besson-chablis-les-clos-grand-cru-2023",
-   "url": "https://lastbottlewines.com/products/domaine-besson-chablis-les-clos-grand-cru-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 65.0,
-   "retail": 130.0,
-   "discount": 50,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Domaine Besson",
-   "sku": "1013708",
-   "variant_id": 54106726990108,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DomaineBesson_1013708_LB_BottleShot.jpg?v=1784754187",
-   "published_at": "2026-10-07T10:00:10-07:00",
-   "tags": [
-    "freeship:3",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-07T17:15:18Z"
