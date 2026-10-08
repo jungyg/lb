@@ -1617,12 +1617,12 @@
    "title": "Champagne Philippe Glavier Blanc de Blancs Mesnil Emotion Brut Grand Cru 2015",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-mesnil-emotion-brut-grand-cru-2015",
    "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-mesnil-emotion-brut-grand-cru-2015",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 119.0,
    "retail": 180.0,
    "discount": 34,
-   "free_ship": null,
+   "free_ship": 1,
    "vintage": 2015,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -1630,7 +1630,10 @@
    "variant_id": 55202940748145,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_13_1015a485-cdfa-4c1d-810e-18b0830358b7.jpg?v=1774710004",
    "published_at": "2026-07-13T17:06:44-07:00",
-   "tags": [],
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
    "first_seen": null
   },
   {
