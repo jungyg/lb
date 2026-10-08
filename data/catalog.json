@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10976368951580,
+   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
+   "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 70.0,
+   "discount": 59,
+   "free_ship": 3,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000482",
+   "variant_id": 54564002726172,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
+   "published_at": "2026-10-08T10:00:29-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-08T17:15:17Z"
+  },
+  {
    "id": 10983126204700,
    "title": "Twomey Pinot Noir Russian River Valley Sonoma County 2023",
    "handle": "twomey-pinot-noir-russian-river-2023",
@@ -47,31 +71,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-08T17:00:23Z"
-  },
-  {
-   "id": 10846355161372,
-   "title": "V. Vineyards Chardonnay Aurae Kiser Vineyard Sonoma Valley 2022",
-   "handle": "v-vineyards-chardonnay-aurae-kaiser-vineyard-sonoma-valley-2022",
-   "url": "https://lastbottlewines.com/products/v-vineyards-chardonnay-aurae-kaiser-vineyard-sonoma-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 17.0,
-   "retail": 48.0,
-   "discount": 65,
-   "free_ship": 4,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015444",
-   "variant_id": 54134637527324,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/V_CHA22_Aurae_Kiser_1015444_LB_BottleShot.jpg?v=1787591349",
-   "published_at": "2026-10-07T10:00:12-07:00",
-   "tags": [
-    "backup",
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-07T17:15:18Z"
   },
   {
    "id": 10660914954524,
