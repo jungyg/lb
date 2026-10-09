@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10744256987420,
+   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
+   "handle": "cupano-ombrone-santantimo-tuscany-2019",
+   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 150.0,
+   "discount": 54,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011490",
+   "variant_id": 53796680171804,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
+   "published_at": "2026-10-09T06:10:14-07:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-09T13:15:17Z"
+  },
+  {
    "id": 10976368951580,
    "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
    "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
@@ -23,30 +48,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-08T17:15:17Z"
-  },
-  {
-   "id": 10983126204700,
-   "title": "Twomey Pinot Noir Russian River Valley Sonoma County 2023",
-   "handle": "twomey-pinot-noir-russian-river-2023",
-   "url": "https://lastbottlewines.com/products/twomey-pinot-noir-russian-river-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 62.0,
-   "discount": 69,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000713",
-   "variant_id": 54600556413212,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Twomey_PNR23_RRV_2000713_LB_BottleShot.jpg?v=1791241862",
-   "published_at": "2026-10-08T09:56:03-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-08T17:00:23Z"
   },
   {
    "id": 11000435409180,
