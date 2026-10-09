@@ -1,30 +1,6 @@
 {
  "products": [
   {
-   "id": 15804632498545,
-   "title": "Champagne Alexandra Sainz Héritage Brut Bouzy Grand Cru NV",
-   "handle": "champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
-   "url": "https://lastbubbles.com/products/champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007774-003",
-   "variant_id": 63988089389425,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Alexandra_Sainz_Heritage_Brut_Bouzy_Grand_Cru_NV_Regen__1007774-003_BUB_BottleShot.jpg?v=1791303138",
-   "published_at": "2026-10-07T09:32:51-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-07T16:45:18Z"
-  },
-  {
    "id": 15804633678193,
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
@@ -46,54 +22,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-06T17:45:17Z"
-  },
-  {
-   "id": 15581223518577,
-   "title": "Perelada Stars Touch of Rosé Brut Cava 2024",
-   "handle": "perelada-stars-touch-of-rose-brut-cava-2024",
-   "url": "https://lastbubbles.com/products/perelada-stars-touch-of-rose-brut-cava-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 16.0,
-   "retail": 24.0,
-   "discount": 33,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012771",
-   "variant_id": 63680418972017,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaStars2024_SKU_BUB_BottleShot.jpg?v=1783960273",
-   "published_at": "2026-10-06T09:23:00-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-06T16:30:19Z"
-  },
-  {
-   "id": 14945363362161,
-   "title": "Champagne Christophe Dechannes Nos Deux Vallons Les Riceys Brut Nature NV",
-   "handle": "champagne-christophe-dechannes-nos-deux-vallons-les-riceys-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-nos-deux-vallons-les-riceys-brut-nature-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 54.0,
-   "retail": 90.0,
-   "discount": 40,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007524",
-   "variant_id": 52129152434545,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannes_1007524_BottleShot_1.jpg?v=1747328373",
-   "published_at": "2026-10-05T09:25:12-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-05T16:30:21Z"
   },
   {
    "id": 15975665500529,
@@ -1965,12 +1893,12 @@
    "title": "Champagne Goulin-Roualet Cuvée d’Or Brut Premier Cru NV",
    "handle": "champagne-goulin-roualet-cuvee-or-brut-premier-cru-nv",
    "url": "https://lastbubbles.com/products/champagne-goulin-roualet-cuvee-or-brut-premier-cru-nv",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 59.0,
    "retail": 100.0,
    "discount": 41,
-   "free_ship": 2,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -1979,7 +1907,8 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GoulinRoualet_1000679_BottleShot.jpg?v=1744988555",
    "published_at": "2026-07-13T16:56:14-07:00",
    "tags": [
-    "freeship:2",
+    "freeship:3",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
