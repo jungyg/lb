@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10941302604060,
+   "title": "Pope Valley Winery Cabernet Sauvignon Napa Valley 2023",
+   "handle": "pope-valley-winery-cabernet-sauvignon-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/pope-valley-winery-cabernet-sauvignon-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 19.0,
+   "retail": 68.0,
+   "discount": 72,
+   "free_ship": 3,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000078",
+   "variant_id": 54424670601500,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000078.jpg?v=1788894851",
+   "published_at": "2026-10-09T13:01:01-07:00",
+   "tags": [
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-09T20:15:15Z"
+  },
+  {
    "id": 10847014158620,
    "title": "Il Molino di Grace Chianti Classico 2024",
    "handle": "il-molino-di-grace-chianti-classico-2024",
