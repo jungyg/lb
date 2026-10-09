@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10744256987420,
+   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
+   "handle": "cupano-ombrone-santantimo-tuscany-2019",
+   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 150.0,
+   "discount": 54,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011490",
+   "variant_id": 53796680171804,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
+   "published_at": "2026-10-09T14:10:55-07:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-09T21:15:17Z"
+  },
+  {
    "id": 10941302604060,
    "title": "Pope Valley Winery Cabernet Sauvignon Napa Valley 2023",
    "handle": "pope-valley-winery-cabernet-sauvignon-napa-valley-2023",
@@ -45,30 +70,6 @@
    "published_at": "2026-10-09T10:00:16-07:00",
    "tags": [
     "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-09T17:00:21Z"
-  },
-  {
-   "id": 10847014060316,
-   "title": "Il Molino Di Grace Gratius Toscana 2022",
-   "handle": "il-molino-di-grace-gratius-toscana-2022",
-   "url": "https://lastbottlewines.com/products/il-molino-di-grace-gratius-toscana-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 150.0,
-   "discount": 67,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013504",
-   "variant_id": 54137760219420,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Il_Molino_Di_Grace_Gratius_Toscana_2022_1013504_LB_BottleShot.jpg?v=1791312977",
-   "published_at": "2026-10-09T09:56:03-07:00",
-   "tags": [
-    "freeship:3",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-09T17:00:21Z"
