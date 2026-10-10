@@ -1,29 +1,53 @@
 {
  "products": [
   {
-   "id": 10744256987420,
-   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
-   "handle": "cupano-ombrone-santantimo-tuscany-2019",
-   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "id": 10942721229084,
+   "title": "Öömrang Estate Siegerrebe Estate Puget Sound 2023",
+   "handle": "oomrang-estate-siegerrebe-estate-puget-sound-2023",
+   "url": "https://lastbottlewines.com/products/oomrang-estate-siegerrebe-estate-puget-sound-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 69.0,
-   "retail": 150.0,
-   "discount": 54,
-   "free_ship": 2,
-   "vintage": 2019,
+   "price": 15.0,
+   "retail": 65.0,
+   "discount": 77,
+   "free_ship": 6,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1011490",
-   "variant_id": 53796680171804,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
-   "published_at": "2026-10-09T14:10:55-07:00",
+   "sku": "2000234",
+   "variant_id": 54428853174556,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Oomrang_Siegerrebe_Estate_Puget_Sound_2023_SKU_LB_BottleShot.jpg?v=1788189307",
+   "published_at": "2026-10-10T10:00:11-07:00",
    "tags": [
     "backup",
-    "freeship:2",
+    "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-09T21:15:17Z"
+   "first_seen": "2026-10-10T17:00:20Z"
+  },
+  {
+   "id": 10978471182620,
+   "title": "Château Doisy-Védrines Sauternes 2014 (Half Bottle 375mL)",
+   "handle": "chateau-doisy-vedrines-sauternes-2014-half-bottle-375ml",
+   "url": "https://lastbottlewines.com/products/chateau-doisy-vedrines-sauternes-2014-half-bottle-375ml",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 25.0,
+   "retail": 45.0,
+   "discount": 44,
+   "free_ship": 4,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013835",
+   "variant_id": 54571728666908,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Doisy-Vedrines_Sauternes_2014_Half_Bottle_375mL__1013835_LB_BottleShot.jpg?v=1791315248",
+   "published_at": "2026-10-10T09:56:02-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-10T17:00:20Z"
   },
   {
    "id": 10941302604060,
@@ -49,30 +73,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-09T20:15:15Z"
-  },
-  {
-   "id": 10847014158620,
-   "title": "Il Molino di Grace Chianti Classico 2024",
-   "handle": "il-molino-di-grace-chianti-classico-2024",
-   "url": "https://lastbottlewines.com/products/il-molino-di-grace-chianti-classico-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 45.0,
-   "discount": 51,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013503",
-   "variant_id": 54137760317724,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Il_Molino_di_Grace_1013503_LB_BottleShot.jpg?v=1786679677",
-   "published_at": "2026-10-09T10:00:16-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-09T17:00:21Z"
   },
   {
    "id": 10729722970396,
