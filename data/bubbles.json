@@ -6,7 +6,7 @@
    "handle": "champagne-j-m-seleque-solessence-rose-extra-brut-nv",
    "url": "https://lastbubbles.com/products/champagne-j-m-seleque-solessence-rose-extra-brut-nv",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 69.0,
    "retail": 100.0,
    "discount": 31,
@@ -20,6 +20,7 @@
    "published_at": "2026-10-10T09:07:14-07:00",
    "tags": [
     "freeship:3",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-10T16:15:17Z"
