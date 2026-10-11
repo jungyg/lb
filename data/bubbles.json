@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 9564284748091,
+   "title": "Champagne Paul Déthune Blanc de Noirs Les Crayères Extra Brut Grand Cru 2016",
+   "handle": "champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2016",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2016",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 119.0,
+   "retail": 199.0,
+   "discount": 40,
+   "free_ship": 2,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000441",
+   "variant_id": 48908050039099,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000441_BottleShot_74ed0bf3-54bc-49da-8457-4ff55a6abe53.jpg?v=1733510471",
+   "published_at": "2026-10-11T09:21:32-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-11T16:30:17Z"
+  },
+  {
    "id": 15204897227121,
    "title": "Champagne J M Seleque Solessence Rosé Extra Brut NV",
    "handle": "champagne-j-m-seleque-solessence-rose-extra-brut-nv",
