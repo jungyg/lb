@@ -1,29 +1,53 @@
 {
  "products": [
   {
-   "id": 10942721229084,
-   "title": "Öömrang Estate Siegerrebe Estate Puget Sound 2023",
-   "handle": "oomrang-estate-siegerrebe-estate-puget-sound-2023",
-   "url": "https://lastbottlewines.com/products/oomrang-estate-siegerrebe-estate-puget-sound-2023",
+   "id": 10824282767644,
+   "title": "Cascina Adelaide Barolo Cannubi 2021",
+   "handle": "cascina-adelaide-barolo-cannubi-2021",
+   "url": "https://lastbottlewines.com/products/cascina-adelaide-barolo-cannubi-2021",
    "status": "dailyoffer",
    "available": true,
-   "price": 15.0,
-   "retail": 65.0,
-   "discount": 77,
-   "free_ship": 6,
-   "vintage": 2023,
+   "price": 59.0,
+   "retail": 125.0,
+   "discount": 53,
+   "free_ship": 2,
+   "vintage": 2021,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "2000234",
-   "variant_id": 54428853174556,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Oomrang_Siegerrebe_Estate_Puget_Sound_2023_SKU_LB_BottleShot.jpg?v=1788189307",
-   "published_at": "2026-10-10T10:00:11-07:00",
+   "sku": "1012927",
+   "variant_id": 54067013386524,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012927_SKU_LB_BottleShot-15.jpg?v=1787936951",
+   "published_at": "2026-10-11T10:00:09-07:00",
    "tags": [
     "backup",
-    "freeship:6",
+    "freeship:2",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-10T17:00:20Z"
+   "first_seen": "2026-10-11T17:00:20Z"
+  },
+  {
+   "id": 10824282636572,
+   "title": "Cascina Adelaide Barolo Baudana 2021",
+   "handle": "cascina-adelaide-barolo-baudana-2021",
+   "url": "https://lastbottlewines.com/products/cascina-adelaide-barolo-baudana-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 125.0,
+   "discount": 61,
+   "free_ship": 2,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012929",
+   "variant_id": 54067013255452,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012929_SKU_LB_BottleShot.jpg?v=1787937030",
+   "published_at": "2026-10-11T09:56:02-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-11T17:00:20Z"
   },
   {
    "id": 10941302604060,
