@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15251852722545,
+   "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
+   "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 89.0,
+   "retail": 103.0,
+   "discount": 14,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012181",
+   "variant_id": 62370715369841,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Jerome_Blin_Meuniers_Sur_Sable_Brut_Nature_NV_1012181_BUB_BottleShot.jpg?v=1790267675",
+   "published_at": "2026-10-12T10:32:15-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-12T17:45:15Z"
+  },
+  {
    "id": 15491207496049,
    "title": "Champagne William Saintot Millésime Premier Cru 2018",
    "handle": "champagne-william-saintot-millesime-premier-cru-2018",
