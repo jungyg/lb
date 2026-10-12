@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15491207496049,
+   "title": "Champagne William Saintot Millésime Premier Cru 2018",
+   "handle": "champagne-william-saintot-millesime-premier-cru-2018",
+   "url": "https://lastbubbles.com/products/champagne-william-saintot-millesime-premier-cru-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 100.0,
+   "discount": 31,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012870",
+   "variant_id": 63378448548209,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneWilliamSaintotMillesimePremierCru2018_1012870_BUB_BottleShot.jpg?v=1791492582",
+   "published_at": "2026-10-12T09:29:18-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-12T16:30:20Z"
+  },
+  {
    "id": 9564284748091,
    "title": "Champagne Paul Déthune Blanc de Noirs Les Crayères Extra Brut Grand Cru 2016",
    "handle": "champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2016",
