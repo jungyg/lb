@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10660903911708,
+   "title": "Domaine de la Janasse Châteauneuf-du-Pape Vieilles Vignes 2022 (Magnum 1.5L)",
+   "handle": "domaine-de-la-janasse-chateauneuf-du-pape-vielles-vignes-2022-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/domaine-de-la-janasse-chateauneuf-du-pape-vielles-vignes-2022-magnum-1-5l",
+   "status": "pdp",
+   "available": true,
+   "price": 159.0,
+   "retail": 300.0,
+   "discount": 47,
+   "free_ship": 1,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "LBU0PU7I",
+   "variant_id": 53345804976412,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_de_la_Janasse_LBU0PU7I_LB_BottleShot.jpg?v=1791320474",
+   "published_at": "2026-10-12T10:00:50-07:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-12T17:15:16Z"
+  },
+  {
    "id": 10660932124956,
    "title": "Sinnet Cuvée Russian River Valley Brut 2021",
    "handle": "sinnet-cuvee-russian-river-valley-brut-2021",
