@@ -1,27 +1,6 @@
 {
  "products": [
   {
-   "id": 15907784753521,
-   "title": "Champagne Louis Roederer Cristal Brut 2014",
-   "handle": "champagne-louis-roederer-cristal-brut-2014",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2014",
-   "status": "other",
-   "available": true,
-   "price": 279.0,
-   "retail": 400.0,
-   "discount": 30,
-   "free_ship": null,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014661",
-   "variant_id": 64192734298481,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FizzFest-87.jpg?v=1789189963",
-   "published_at": "2026-10-13T12:29:31-07:00",
-   "tags": [],
-   "first_seen": "2026-10-13T19:30:22Z"
-  },
-  {
    "id": 15501117751665,
    "title": "Champagne Fluteau Echo Rosé Extra Brut NV",
    "handle": "champagne-fluteau-echo-rose-extra-brut-nv-nd",
