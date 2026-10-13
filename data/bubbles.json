@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 15501117751665,
+   "title": "Champagne Fluteau Echo Rosé Extra Brut NV",
+   "handle": "champagne-fluteau-echo-rose-extra-brut-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-fluteau-echo-rose-extra-brut-nv-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 42.0,
+   "retail": 80.0,
+   "discount": 48,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007213-001",
+   "variant_id": 63414963503473,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1007213_BottleShot.jpg?v=1729694777",
+   "published_at": "2026-10-13T09:25:45-07:00",
+   "tags": [
+    "freeship:4",
+    "shop-collection",
+    "status:dailyoffer",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-13T16:30:22Z"
+  },
+  {
    "id": 15251852722545,
    "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
    "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
