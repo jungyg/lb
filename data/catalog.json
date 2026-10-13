@@ -1,6 +1,78 @@
 {
  "products": [
   {
+   "id": 10873372246300,
+   "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
+   "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
+   "url": "https://lastbottlewines.com/products/ovis-sauvignon-blanc-high-valley-lake-county-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 21.0,
+   "retail": 45.0,
+   "discount": 53,
+   "free_ship": 4,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015605",
+   "variant_id": 54216133214492,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Ovis_SBL23_1015605_LB_BottleShot_1.jpg?v=1788213003",
+   "published_at": "2026-10-13T09:57:42-07:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-13T17:00:25Z"
+  },
+  {
+   "id": 10660913840412,
+   "title": "Château Romefort Villa Romefort Les Sables Noir Haut-Médoc 2019",
+   "handle": "chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019",
+   "url": "https://lastbottlewines.com/products/chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 16.0,
+   "retail": 40.0,
+   "discount": 60,
+   "free_ship": 4,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1008016",
+   "variant_id": 53345814905116,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008016-316473.jpg?v=1763797847",
+   "published_at": "2026-10-13T09:57:13-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-13T17:00:25Z"
+  },
+  {
+   "id": 11000546296092,
+   "title": "Château Romefort Villa Romefort Les Sables Noir Haut-Médoc 2019",
+   "handle": "chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019-1",
+   "url": "https://lastbottlewines.com/products/chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019-1",
+   "status": "pdp",
+   "available": true,
+   "price": 16.0,
+   "retail": 40.0,
+   "discount": 60,
+   "free_ship": 6,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1008016-009",
+   "variant_id": 54666012492060,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauRomefortVillaRomefortHaut-Medoc2019_1008016_BottleShot.jpg?v=1791854031",
+   "published_at": "2026-10-13T09:49:49-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-13T17:00:25Z"
+  },
+  {
    "id": 10820831052060,
    "title": "Sleeper Brunello di Montalcino 2020",
    "handle": "sleeper-brunello-di-montalcino-2020",
@@ -54,7 +126,7 @@
    "title": "Sinnet Cuvée Russian River Valley Brut 2021",
    "handle": "sinnet-cuvee-russian-river-valley-brut-2021",
    "url": "https://lastbottlewines.com/products/sinnet-cuvee-russian-river-valley-brut-2021",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 19.0,
    "retail": 45.0,
@@ -70,32 +142,7 @@
    "tags": [
     "backup",
     "collection:MOH2026",
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-12T17:00:21Z"
-  },
-  {
-   "id": 10846355194140,
-   "title": "Argyle Reserve Brut Estate Willamette Valley 2021",
-   "handle": "argyle-reserve-brut-estate-willamette-valley-2021",
-   "url": "https://lastbottlewines.com/products/argyle-reserve-brut-estate-willamette-valley-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 50.0,
-   "discount": 62,
-   "free_ship": 4,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "La Bordelaise des Grands Vins",
-   "sku": "1013799",
-   "variant_id": 54134637461788,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013799_LB_BottleShot-4.jpg?v=1787941330",
-   "published_at": "2026-10-12T09:56:02-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
+    "freeship:4"
    ],
    "first_seen": "2026-10-12T17:00:21Z"
   },
