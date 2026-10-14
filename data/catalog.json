@@ -506,30 +506,6 @@
    "first_seen": "2026-09-24T18:00:24Z"
   },
   {
-   "id": 10940402041116,
-   "title": "Seabold Chardonnay Eden Rift Vineyard Cienega Valley 2023",
-   "handle": "seabold-chardonnay-eden-rift-vineyard-cienega-valley-2023",
-   "url": "https://lastbottlewines.com/products/seabold-chardonnay-eden-rift-vineyard-cienega-valley-2023",
-   "status": "pdp",
-   "available": false,
-   "price": 16.0,
-   "retail": 45.0,
-   "discount": 64,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000112",
-   "variant_id": 54423195746588,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Seabold_CHA23_Eden_Rift_Vineyard_Cienega_Valley_2000112_LB_BottleShot.jpg?v=1790031562",
-   "published_at": "2026-09-24T09:18:05-07:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-24T16:30:19Z"
-  },
-  {
    "id": 10936559042844,
    "title": "Grape Culture Chardonnay Sangiacomo Roberts Road Vineyard Sonoma Coast 2023",
    "handle": "grape-culture-chardonnay-sangiacomo-roberts-road-vineyard-sonoma-coast-2023",
@@ -549,33 +525,6 @@
    "published_at": "2026-09-11T10:22:58-07:00",
    "tags": [
     "freeship:4",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10846355554588,
-   "title": "Cornerstone Cellars Cabernet Sauvignon Calistoga Napa Valley 2021",
-   "handle": "cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
-   "url": "https://lastbottlewines.com/products/cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
-   "status": "pdp",
-   "available": false,
-   "price": 32.0,
-   "retail": 105.0,
-   "discount": 70,
-   "free_ship": 2,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1008224",
-   "variant_id": 54134637855004,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008224_LB_BottleShot.jpg?v=1779957360",
-   "published_at": "2026-09-09T09:13:32-07:00",
-   "tags": [
-    "collection:swirl",
-    "freeship:2",
-    "NCD",
     "status:pdp",
     "status:pdp_ad"
    ],
