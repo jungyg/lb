@@ -405,7 +405,7 @@
    "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
    "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/decades-5-cabernet-sauvignon-napa-valley-2023",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 49.0,
    "retail": 175.0,
@@ -421,6 +421,7 @@
    "tags": [
     "backup",
     "freeship:2",
+    "status:dailyoffer",
     "status:pdp",
     "status:pdp_ad"
    ],
