@@ -1,27 +1,6 @@
 {
  "products": [
   {
-   "id": 11005816078620,
-   "title": "Cain Vineyard & Winery Red Blend Cain Five Estate Grown Spring Mountain District Napa Valley 2022",
-   "handle": "cain-vineyard-winery-red-blend-cain-five-estate-grown-spring-mountain-district-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/cain-vineyard-winery-red-blend-cain-five-estate-grown-spring-mountain-district-napa-valley-2022",
-   "status": "other",
-   "available": true,
-   "price": 39.0,
-   "retail": 200.0,
-   "discount": 80,
-   "free_ship": null,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013559",
-   "variant_id": 54681735463196,
-   "image": null,
-   "published_at": "2026-10-13T18:15:14-07:00",
-   "tags": [],
-   "first_seen": "2026-10-14T01:15:16Z"
-  },
-  {
    "id": 10950060409116,
    "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
    "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
