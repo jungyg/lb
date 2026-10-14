@@ -1,30 +1,6 @@
 {
  "products": [
   {
-   "id": 10744256790812,
-   "title": "Meteor Vineyard Cabernet Sauvignon Perseid Napa Valley 2018",
-   "handle": "meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
-   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 195.0,
-   "discount": 70,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012976",
-   "variant_id": 53796679975196,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012976_LB_BottleShot.jpg?v=1787863865",
-   "published_at": "2026-10-14T10:09:25-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-14T17:15:15Z"
-  },
-  {
    "id": 10796091015452,
    "title": "Jean-Luc Colombo Le Rouet Rouge Hermitage 2023",
    "handle": "jean-luc-colombo-le-rouet-rouge-hermitage-2023",
