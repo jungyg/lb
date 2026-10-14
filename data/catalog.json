@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10744256790812,
+   "title": "Meteor Vineyard Cabernet Sauvignon Perseid Napa Valley 2018",
+   "handle": "meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
+   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 195.0,
+   "discount": 70,
+   "free_ship": 3,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012976",
+   "variant_id": 53796679975196,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012976_LB_BottleShot.jpg?v=1787863865",
+   "published_at": "2026-10-14T10:09:25-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-14T17:15:15Z"
+  },
+  {
    "id": 10846355095836,
    "title": "Sixteen by Twenty Cabernet Sauvignon Napa Valley 2018",
    "handle": "sixteen-by-twenty-cabernet-sauvignon-napa-valley-2018",
@@ -74,31 +98,6 @@
    "first_seen": "2026-10-13T20:30:19Z"
   },
   {
-   "id": 10873372475676,
-   "title": "Château Rol Valentin Saint-Émilion Grand Cru 2023",
-   "handle": "chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "url": "https://lastbottlewines.com/products/chateau-rol-valentin-saint-emilion-grand-cru-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 30.0,
-   "retail": 60.0,
-   "discount": 50,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Joanne SAS",
-   "sku": "1013592",
-   "variant_id": 54216133509404,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rol_Valentin_Saint-Emilion_Grand_Cru_2023_1013592_LB_BottleShot-4.jpg?v=1787589713",
-   "published_at": "2026-10-13T10:00:32-07:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-13T17:15:18Z"
-  },
-  {
    "id": 10873372246300,
    "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
    "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
@@ -119,30 +118,6 @@
    "tags": [
     "freeship:4",
     "status:pdp"
-   ],
-   "first_seen": "2026-10-13T17:00:25Z"
-  },
-  {
-   "id": 10660913840412,
-   "title": "Château Romefort Villa Romefort Les Sables Noir Haut-Médoc 2019",
-   "handle": "chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019",
-   "url": "https://lastbottlewines.com/products/chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 16.0,
-   "retail": 40.0,
-   "discount": 60,
-   "free_ship": 4,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1008016",
-   "variant_id": 53345814905116,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008016-316473.jpg?v=1763797847",
-   "published_at": "2026-10-13T09:57:13-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-10-13T17:00:25Z"
   },
