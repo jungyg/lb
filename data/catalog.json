@@ -582,31 +582,6 @@
    "first_seen": null
   },
   {
-   "id": 10941302735132,
-   "title": "Pope Valley Winery Cabernet Sauvignon Reserve Napa Valley 2023",
-   "handle": "pope-valley-winery-cabernet-sauvignon-reserve-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/pope-valley-winery-cabernet-sauvignon-reserve-napa-valley-2023",
-   "status": "pdp",
-   "available": false,
-   "price": 22.0,
-   "retail": 92.0,
-   "discount": 76,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000077",
-   "variant_id": 54424670732572,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000077.jpg?v=1788378003",
-   "published_at": "2026-09-08T15:42:15-07:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 10776263000348,
    "title": "8th Art Cabernet Sauvignon Napa Valley 2024",
    "handle": "8th-art-cabernet-sauvignon-napa-valley-2024",
