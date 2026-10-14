@@ -2425,7 +2425,7 @@
    "handle": "chateau-la-tour-du-pin-figeac-saint-emilion-grand-cru-2016",
    "url": "https://lastbottlewines.com/products/chateau-la-tour-du-pin-figeac-saint-emilion-grand-cru-2016",
    "status": "pastoffer",
-   "available": false,
+   "available": true,
    "price": 32.0,
    "retail": 50.0,
    "discount": 36,
