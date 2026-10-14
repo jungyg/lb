@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15501172277617,
+   "title": "Sinnet Extended Tirage Brut Nature North Coast 2018",
+   "handle": "sinnet-extended-tirage-brut-nature-north-coast-2018",
+   "url": "https://lastbubbles.com/products/sinnet-extended-tirage-brut-nature-north-coast-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013990",
+   "variant_id": 63415188783473,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SinnetExtendedTirageBrutNatureNorthCoast2018_1013990_BUB_BottleShot.jpg?v=1791913923",
+   "published_at": "2026-10-14T09:47:13-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-14T17:00:22Z"
+  },
+  {
    "id": 15501117751665,
    "title": "Champagne Fluteau Echo Rosé Extra Brut NV",
    "handle": "champagne-fluteau-echo-rose-extra-brut-nv-nd",

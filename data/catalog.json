@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10846355095836,
+   "title": "Sixteen by Twenty Cabernet Sauvignon Napa Valley 2018",
+   "handle": "sixteen-by-twenty-cabernet-sauvignon-napa-valley-2018",
+   "url": "https://lastbottlewines.com/products/sixteen-by-twenty-cabernet-sauvignon-napa-valley-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 25.0,
+   "retail": 75.0,
+   "discount": 67,
+   "free_ship": 4,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015522",
+   "variant_id": 54134637363484,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Sixteen_by_Twenty_CSV18_NV_1015522_LB_BottleShot.jpg?v=1791320632",
+   "published_at": "2026-10-14T09:56:03-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-14T17:00:22Z"
+  },
+  {
+   "id": 10796091015452,
+   "title": "Jean-Luc Colombo Le Rouet Rouge Hermitage 2023",
+   "handle": "jean-luc-colombo-le-rouet-rouge-hermitage-2023",
+   "url": "https://lastbottlewines.com/products/jean-luc-colombo-le-rouet-rouge-hermitage-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Vin DiVino LLC dba Gonzalez Byass USA",
+   "sku": "1013737",
+   "variant_id": 53989720424732,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013737_LB_BottleShot.jpg?v=1775580845",
+   "published_at": "2026-10-14T09:55:48-07:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-14T17:00:22Z"
+  },
+  {
    "id": 10950060409116,
    "title": "Adversity Cellars Red Blend Riley’s Napa Valley 2024",
    "handle": "adversity-cellars-red-blend-rileys-napa-valley-2024",
