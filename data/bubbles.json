@@ -1,6 +1,29 @@
 {
  "products": [
   {
+   "id": 14969703825777,
+   "title": "Women Making Bubbles!  (6 Pack)",
+   "handle": "women-in-wine-day-6-pack",
+   "url": "https://lastbubbles.com/products/women-in-wine-day-6-pack",
+   "status": "other",
+   "available": true,
+   "price": 230.0,
+   "retail": 490.0,
+   "discount": 53,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010108",
+   "variant_id": 52195904291185,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/WomenInWine_1010108_BottleShot.jpg?v=1742843091",
+   "published_at": "2026-10-15T10:14:13-07:00",
+   "tags": [
+    "freeship:1"
+   ],
+   "first_seen": "2026-10-15T17:15:17Z"
+  },
+  {
    "id": 15491207889265,
    "title": "Champagne Odyssée 319 Blanc de Blancs Millésime Extra Brut Grand Cru 2017",
    "handle": "champagne-odyssee-319-blanc-de-blancs-millesime-extra-brut-grand-cru-2017-new-disgorgement",
