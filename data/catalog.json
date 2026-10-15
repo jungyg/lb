@@ -1,6 +1,55 @@
 {
  "products": [
   {
+   "id": 10612536541468,
+   "title": "Sleeper Cabernet Sauvignon Vine Cliff Oakville Bench Reserve Napa Valley 2021",
+   "handle": "sleeper-cabernet-sauvignon-vine-cliff-oakville-bench-reserve-napa-valley-2021",
+   "url": "https://lastbottlewines.com/products/sleeper-cabernet-sauvignon-vine-cliff-oakville-bench-reserve-napa-valley-2021",
+   "status": "pdp",
+   "available": true,
+   "price": 99.0,
+   "retail": 200.0,
+   "discount": 50,
+   "free_ship": 1,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "LBSSRV21",
+   "variant_id": 53005978665244,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SleeperCabernetSauvignonVineCliffOakvilleBenchReserveNapaValley2021_LBSSRV21_LB_BottleShot.jpg?v=1791320824",
+   "published_at": "2026-10-15T09:59:20-07:00",
+   "tags": [
+    "backup",
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-15T17:00:22Z"
+  },
+  {
+   "id": 10978499494172,
+   "title": "Öömrang Estate Sylvaner Estate Puget Sound 2023",
+   "handle": "oomrang-estate-sylvaner-estate-puget-sound-2023",
+   "url": "https://lastbottlewines.com/products/oomrang-estate-sylvaner-estate-puget-sound-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 15.0,
+   "retail": 65.0,
+   "discount": 77,
+   "free_ship": 4,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000237",
+   "variant_id": 54571969839388,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/OomrangSylvanerEstatePugetSound2023_2000237_LB_BottleShot.jpg?v=1791320723",
+   "published_at": "2026-10-15T09:56:02-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-15T17:00:22Z"
+  },
+  {
    "id": 10897459446044,
    "title": "Chateau Meyre Rouge Haut-Médoc 2022",
    "handle": "chateau-meyre-rouge-haut-medoc-2022",
@@ -352,33 +401,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-09-30T19:00:25Z"
-  },
-  {
-   "id": 10837300773148,
-   "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
-   "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/decades-5-cabernet-sauvignon-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 175.0,
-   "discount": 72,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015436",
-   "variant_id": 54106838761756,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015436_LB_BottleShot.jpg?v=1778695542",
-   "published_at": "2026-09-28T14:10:42-07:00",
-   "tags": [
-    "backup",
-    "freeship:2",
-    "status:dailyoffer",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": "2026-09-28T21:15:16Z"
   },
   {
    "id": 10978025275676,
