@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 11011225223452,
+   "title": "Cool-Pack Mix and Match",
+   "handle": "cool-pack-mix-and-match",
+   "url": "https://lastbottlewines.com/products/cool-pack-mix-and-match",
+   "status": "upsell",
+   "available": true,
+   "price": 10.0,
+   "retail": null,
+   "discount": null,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": false,
+   "vendor": "Last Bottle Wines",
+   "sku": "ICEPACK",
+   "variant_id": 54705451532572,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/IcepackProductImage.png?v=1768431431",
+   "published_at": "2026-10-15T10:32:53-07:00",
+   "tags": [
+    "freeship:skip",
+    "klaviyo_reviews_exclude",
+    "limit-upsell:1",
+    "status:upsell"
+   ],
+   "first_seen": "2026-10-15T17:44:22Z"
+  },
+  {
    "id": 10837300773148,
    "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
    "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
