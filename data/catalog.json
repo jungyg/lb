@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10873372377372,
+   "title": "Solar Ash Sauvignon Blanc Knights Valley 2025",
+   "handle": "solar-ash-sauvignon-blanc-knights-valley-2025",
+   "url": "https://lastbottlewines.com/products/solar-ash-sauvignon-blanc-knights-valley-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 17.0,
+   "retail": 40.0,
+   "discount": 57,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015608",
+   "variant_id": 54216133378332,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Solar_Ash_1015608_LB_BottleShot.jpg?v=1786291954",
+   "published_at": "2026-10-15T12:19:47-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-15T19:30:21Z"
+  },
+  {
    "id": 11011225223452,
    "title": "Cool-Pack Mix and Match",
    "handle": "cool-pack-mix-and-match",
