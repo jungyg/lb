@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10897459446044,
+   "title": "Chateau Meyre Rouge Haut-Médoc 2022",
+   "handle": "chateau-meyre-rouge-haut-medoc-2022",
+   "url": "https://lastbottlewines.com/products/chateau-meyre-rouge-haut-medoc-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 19.0,
+   "retail": 40.0,
+   "discount": 52,
+   "free_ship": 4,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013690",
+   "variant_id": 54298090799388,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauMeyreRougeHaut-Medoc2022_1013690_LB_BottleShot.jpg?v=1791909791",
+   "published_at": "2026-10-14T22:59:58-07:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-15T06:00:21Z"
+  },
+  {
    "id": 10796091015452,
    "title": "Jean-Luc Colombo Le Rouet Rouge Hermitage 2023",
    "handle": "jean-luc-colombo-le-rouet-rouge-hermitage-2023",
