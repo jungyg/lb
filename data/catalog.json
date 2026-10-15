@@ -10,7 +10,7 @@
    "price": 19.0,
    "retail": 40.0,
    "discount": 52,
-   "free_ship": 4,
+   "free_ship": 6,
    "vintage": 2022,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
@@ -19,7 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauMeyreRougeHaut-Medoc2022_1013690_LB_BottleShot.jpg?v=1791909791",
    "published_at": "2026-10-14T22:59:58-07:00",
    "tags": [
-    "freeship:4",
+    "freeship:6",
     "status:pdp",
     "status:pdp_ad"
    ],
