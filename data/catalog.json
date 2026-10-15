@@ -75,30 +75,6 @@
    "first_seen": "2026-10-13T20:30:19Z"
   },
   {
-   "id": 10873372246300,
-   "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
-   "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
-   "url": "https://lastbottlewines.com/products/ovis-sauvignon-blanc-high-valley-lake-county-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 21.0,
-   "retail": 45.0,
-   "discount": 53,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015605",
-   "variant_id": 54216133214492,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Ovis_SBL23_1015605_LB_BottleShot_1.jpg?v=1788213003",
-   "published_at": "2026-10-13T09:57:42-07:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-13T17:00:25Z"
-  },
-  {
    "id": 11000546296092,
    "title": "Château Romefort Villa Romefort Les Sables Noir Haut-Médoc 2019",
    "handle": "chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019-1",
@@ -146,30 +122,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-13T06:15:15Z"
-  },
-  {
-   "id": 10660903911708,
-   "title": "Domaine de la Janasse Châteauneuf-du-Pape Vieilles Vignes 2022 (Magnum 1.5L)",
-   "handle": "domaine-de-la-janasse-chateauneuf-du-pape-vielles-vignes-2022-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/domaine-de-la-janasse-chateauneuf-du-pape-vielles-vignes-2022-magnum-1-5l",
-   "status": "pdp",
-   "available": true,
-   "price": 159.0,
-   "retail": 300.0,
-   "discount": 47,
-   "free_ship": 1,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LBU0PU7I",
-   "variant_id": 53345804976412,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_de_la_Janasse_LBU0PU7I_LB_BottleShot.jpg?v=1791320474",
-   "published_at": "2026-10-12T10:00:50-07:00",
-   "tags": [
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-12T17:15:16Z"
   },
   {
    "id": 10941302604060,
