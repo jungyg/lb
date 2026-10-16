@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10660913152284,
+   "title": "Angles Cabernet Sauvignon Reserve Calistoga Napa Valley 2022",
+   "handle": "angles-cabernet-sauvignon-reserve-calistoga-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/angles-cabernet-sauvignon-reserve-calistoga-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 130.0,
+   "discount": 70,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1010198",
+   "variant_id": 53345814216988,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010198-392106.jpg?v=1763797840",
+   "published_at": "2026-10-16T10:00:25-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-16T17:15:16Z"
+  },
+  {
+   "id": 10660914954524,
+   "title": "The Vice Cabernet Sauvignon The Waterfall Mt. Veeder Napa Valley 2022",
+   "handle": "the-vice-cabernet-sauivignon-the-waterfall-mt-veeder-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/the-vice-cabernet-sauivignon-the-waterfall-mt-veeder-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 150.0,
+   "discount": 74,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011221",
+   "variant_id": 53345816019228,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/The_Vice_Cabernet_Sauivignon_The_Waterfall_Mt._Veeder_Napa_Valley_2022_1011221_LB_BottleShot-24.jpg?v=1791239991",
+   "published_at": "2026-10-16T10:00:23-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-16T17:15:16Z"
+  },
+  {
    "id": 10978605236508,
    "title": "Delectus Cabernet Sauvignon Bear Crossing Atlas Peak Napa Valley 2023",
    "handle": "delectus-cabernet-sauvignon-bear-crossing-atlas-peak-napa-valley-2023",
@@ -704,7 +752,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013746_LB_BottleShot.jpg?v=1775059531",
    "published_at": "2026-08-28T01:34:14-07:00",
    "tags": [
-    "collection:MnM",
     "freeship:4",
     "product:welcome_flow",
     "status:pdp",
