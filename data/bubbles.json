@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15980497568113,
+   "title": "Domaine Jean-Marc Bernhard Crémant d'Alsace Brut Rosé NV",
+   "handle": "domaine-jean-marc-bernhard-cremant-d-alsace-brut-rose-nv-002",
+   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-d-alsace-brut-rose-nv-002",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 24.0,
+   "retail": 36.0,
+   "discount": 33,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000174-002",
+   "variant_id": 64456765178225,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBernhardCremantdAlsaceBrutRoseNV_1000174-002_BUB_BottleShot.jpg?v=1792010180",
+   "published_at": "2026-10-16T09:25:43-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-16T16:30:20Z"
+  },
+  {
    "id": 15491207889265,
    "title": "Champagne Odyssée 319 Blanc de Blancs Millésime Extra Brut Grand Cru 2017",
    "handle": "champagne-odyssee-319-blanc-de-blancs-millesime-extra-brut-grand-cru-2017-new-disgorgement",
