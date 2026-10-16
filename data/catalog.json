@@ -25,32 +25,6 @@
    "first_seen": "2026-10-16T19:45:16Z"
   },
   {
-   "id": 11011225223452,
-   "title": "Cool-Pack Mix and Match",
-   "handle": "cool-pack-mix-and-match",
-   "url": "https://lastbottlewines.com/products/cool-pack-mix-and-match",
-   "status": "upsell",
-   "available": true,
-   "price": 10.0,
-   "retail": null,
-   "discount": null,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": false,
-   "vendor": "Last Bottle Wines",
-   "sku": "ICEPACK",
-   "variant_id": 54705451532572,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/IcepackProductImage.png?v=1768431431",
-   "published_at": "2026-10-15T10:32:53-07:00",
-   "tags": [
-    "freeship:skip",
-    "klaviyo_reviews_exclude",
-    "limit-upsell:1",
-    "status:upsell"
-   ],
-   "first_seen": "2026-10-15T17:44:22Z"
-  },
-  {
    "id": 10837300773148,
    "title": "Decades 5 Cabernet Sauvignon Napa Valley 2023",
    "handle": "decades-5-cabernet-sauvignon-napa-valley-2023",
@@ -77,31 +51,6 @@
    "first_seen": "2026-10-15T17:30:20Z"
   },
   {
-   "id": 10612536541468,
-   "title": "Sleeper Cabernet Sauvignon Vine Cliff Oakville Bench Reserve Napa Valley 2021",
-   "handle": "sleeper-cabernet-sauvignon-vine-cliff-oakville-bench-reserve-napa-valley-2021",
-   "url": "https://lastbottlewines.com/products/sleeper-cabernet-sauvignon-vine-cliff-oakville-bench-reserve-napa-valley-2021",
-   "status": "pdp",
-   "available": true,
-   "price": 99.0,
-   "retail": 200.0,
-   "discount": 50,
-   "free_ship": 1,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LBSSRV21",
-   "variant_id": 53005978665244,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SleeperCabernetSauvignonVineCliffOakvilleBenchReserveNapaValley2021_LBSSRV21_LB_BottleShot.jpg?v=1791320824",
-   "published_at": "2026-10-15T09:59:20-07:00",
-   "tags": [
-    "backup",
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-15T17:00:22Z"
-  },
-  {
    "id": 10897459446044,
    "title": "Chateau Meyre Rouge Haut-Médoc 2022",
    "handle": "chateau-meyre-rouge-haut-medoc-2022",
@@ -125,30 +74,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-15T06:00:21Z"
-  },
-  {
-   "id": 10796091015452,
-   "title": "Jean-Luc Colombo Le Rouet Rouge Hermitage 2023",
-   "handle": "jean-luc-colombo-le-rouet-rouge-hermitage-2023",
-   "url": "https://lastbottlewines.com/products/jean-luc-colombo-le-rouet-rouge-hermitage-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Vin DiVino LLC dba Gonzalez Byass USA",
-   "sku": "1013737",
-   "variant_id": 53989720424732,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013737_LB_BottleShot.jpg?v=1775580845",
-   "published_at": "2026-10-14T09:55:48-07:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-14T17:00:22Z"
   },
   {
    "id": 10950060409116,
@@ -708,32 +633,6 @@
     "product:welcome_flow",
     "status:pdp",
     "status:pdp_ad"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10957439074588,
-   "title": "Cool-Pack Marathon",
-   "handle": "cool-pack-marathon",
-   "url": "https://lastbottlewines.com/products/cool-pack-marathon",
-   "status": "upsell",
-   "available": true,
-   "price": 10.0,
-   "retail": null,
-   "discount": null,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": false,
-   "vendor": "Last Bottle Wines",
-   "sku": "ICEPACK",
-   "variant_id": 54471241695516,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/IcepackProductImage.png?v=1768431431",
-   "published_at": "2026-08-27T09:08:10-07:00",
-   "tags": [
-    "freeship:skip",
-    "klaviyo_reviews_exclude",
-    "limit-upsell:1",
-    "status:upsell"
    ],
    "first_seen": null
   },
