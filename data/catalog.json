@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10978622243100,
+   "title": "Dolum Estates Cabernet Sauvignon Cask #18 Napa Valley NV",
+   "handle": "dolum-estates-cabernet-sauvignon-cask-18-napa-valley-nv",
+   "url": "https://lastbottlewines.com/products/dolum-estates-cabernet-sauvignon-cask-18-napa-valley-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 19.0,
+   "retail": 90.0,
+   "discount": 79,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000677",
+   "variant_id": 54572275663132,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Dolum_CSV_Cask18_NV_2000677_LB_BottleShot_1.jpg?v=1791907731",
+   "published_at": "2026-10-16T11:06:08-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-16T18:15:17Z"
+  },
+  {
    "id": 10660913152284,
    "title": "Angles Cabernet Sauvignon Reserve Calistoga Napa Valley 2022",
    "handle": "angles-cabernet-sauvignon-reserve-calistoga-napa-valley-2022",
