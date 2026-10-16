@@ -5,7 +5,7 @@
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
    "url": "https://lastbottlewines.com/products/blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 59.0,
    "retail": 185.0,
@@ -19,8 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Blackbird_1015451_LB_BottleShot.jpg?v=1784652300",
    "published_at": "2026-10-16T12:41:53-07:00",
    "tags": [
-    "freeship:2",
-    "status:dailyoffer"
+    "freeship:2"
    ],
    "first_seen": "2026-10-16T19:45:16Z"
   },
