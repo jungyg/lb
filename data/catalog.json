@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 10873372377372,
-   "title": "Solar Ash Sauvignon Blanc Knights Valley 2025",
-   "handle": "solar-ash-sauvignon-blanc-knights-valley-2025",
-   "url": "https://lastbottlewines.com/products/solar-ash-sauvignon-blanc-knights-valley-2025",
+   "id": 10978605236508,
+   "title": "Delectus Cabernet Sauvignon Bear Crossing Atlas Peak Napa Valley 2023",
+   "handle": "delectus-cabernet-sauvignon-bear-crossing-atlas-peak-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/delectus-cabernet-sauvignon-bear-crossing-atlas-peak-napa-valley-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 17.0,
-   "retail": 40.0,
-   "discount": 57,
-   "free_ship": 4,
-   "vintage": 2025,
+   "price": 39.0,
+   "retail": 165.0,
+   "discount": 76,
+   "free_ship": 3,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1015608",
-   "variant_id": 54216133378332,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Solar_Ash_1015608_LB_BottleShot.jpg?v=1786291954",
-   "published_at": "2026-10-15T12:19:47-07:00",
+   "sku": "2000246",
+   "variant_id": 54572215730460,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Delectus_CSV23_BearCrossing_AtlasPeak_NV_2000246_LB_BottleShot.jpg?v=1791320890",
+   "published_at": "2026-10-16T09:56:03-07:00",
    "tags": [
-    "freeship:4",
+    "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-15T19:30:21Z"
+   "first_seen": "2026-10-16T17:00:21Z"
   },
   {
    "id": 11011225223452,
