@@ -5,7 +5,7 @@
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
    "url": "https://lastbottlewines.com/products/blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 59.0,
    "retail": 185.0,
@@ -19,33 +19,10 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Blackbird_1015451_LB_BottleShot.jpg?v=1784652300",
    "published_at": "2026-10-16T12:41:53-07:00",
    "tags": [
-    "freeship:2"
-   ],
-   "first_seen": "2026-10-16T19:45:16Z"
-  },
-  {
-   "id": 10660913152284,
-   "title": "Angles Cabernet Sauvignon Reserve Calistoga Napa Valley 2022",
-   "handle": "angles-cabernet-sauvignon-reserve-calistoga-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/angles-cabernet-sauvignon-reserve-calistoga-napa-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 130.0,
-   "discount": 70,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1010198",
-   "variant_id": 53345814216988,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010198-392106.jpg?v=1763797840",
-   "published_at": "2026-10-16T10:00:25-07:00",
-   "tags": [
-    "freeship:3",
+    "freeship:2",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-16T17:15:16Z"
+   "first_seen": "2026-10-16T19:45:16Z"
   },
   {
    "id": 11011225223452,
