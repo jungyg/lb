@@ -25,54 +25,6 @@
    "first_seen": "2026-10-16T16:30:20Z"
   },
   {
-   "id": 15491207889265,
-   "title": "Champagne Odyssée 319 Blanc de Blancs Millésime Extra Brut Grand Cru 2017",
-   "handle": "champagne-odyssee-319-blanc-de-blancs-millesime-extra-brut-grand-cru-2017-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-millesime-extra-brut-grand-cru-2017-new-disgorgement",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 69.0,
-   "retail": 120.0,
-   "discount": 43,
-   "free_ship": 3,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007685-001",
-   "variant_id": 63378449006961,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Odyssee_319_Blanc_de_Blancs_Millesime_Extra_Brut_Grand_Cru_2017__1007685-001_BUB_BottleShot.jpg?v=1791996302",
-   "published_at": "2026-10-15T09:38:22-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-15T16:45:16Z"
-  },
-  {
-   "id": 15501172277617,
-   "title": "Sinnet Extended Tirage Brut Nature North Coast 2018",
-   "handle": "sinnet-extended-tirage-brut-nature-north-coast-2018",
-   "url": "https://lastbubbles.com/products/sinnet-extended-tirage-brut-nature-north-coast-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013990",
-   "variant_id": 63415188783473,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SinnetExtendedTirageBrutNatureNorthCoast2018_1013990_BUB_BottleShot.jpg?v=1791913923",
-   "published_at": "2026-10-14T09:47:13-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-14T17:00:22Z"
-  },
-  {
    "id": 15204897227121,
    "title": "Champagne J M Seleque Solessence Rosé Extra Brut NV",
    "handle": "champagne-j-m-seleque-solessence-rose-extra-brut-nv",
