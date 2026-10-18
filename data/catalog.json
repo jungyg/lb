@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 10847014158620,
-   "title": "Il Molino di Grace Chianti Classico 2024",
-   "handle": "il-molino-di-grace-chianti-classico-2024",
-   "url": "https://lastbottlewines.com/products/il-molino-di-grace-chianti-classico-2024",
+   "id": 10979806707996,
+   "title": "Los Cerros de San Juan Albariño Familie Lahusen Colonia 2025",
+   "handle": "los-cerros-de-san-juan-albarino-familie-lahusen-colonia-2025",
+   "url": "https://lastbottlewines.com/products/los-cerros-de-san-juan-albarino-familie-lahusen-colonia-2025",
    "status": "dailyoffer",
    "available": true,
-   "price": 22.0,
-   "retail": 45.0,
-   "discount": 51,
-   "free_ship": 4,
-   "vintage": 2024,
+   "price": 15.0,
+   "retail": 35.0,
+   "discount": 57,
+   "free_ship": 6,
+   "vintage": 2025,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1013503",
-   "variant_id": 54137760317724,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Il_Molino_di_Grace_1013503_LB_BottleShot.jpg?v=1786679677",
-   "published_at": "2026-10-17T11:11:09-07:00",
+   "sku": "1014716",
+   "variant_id": 54574823899420,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LosCerrosdeSanJuanAlbarinoFamilieLahusenColonia2025_1014716_LB_BottleShot.jpg?v=1791321045",
+   "published_at": "2026-10-18T09:56:01-07:00",
    "tags": [
-    "freeship:4",
+    "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-17T18:15:13Z"
+   "first_seen": "2026-10-18T17:00:18Z"
   },
   {
    "id": 10837300773148,
