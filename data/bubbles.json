@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14930812141937,
+   "title": "Ca'Erto La Diva Bollicina Verona Garganega Frizzante IGT 2023",
+   "handle": "caerto-la-diva-bollicina-verona-garganega-frizzante-igt-2023",
+   "url": "https://lastbubbles.com/products/caerto-la-diva-bollicina-verona-garganega-frizzante-igt-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 14.0,
+   "retail": 25.0,
+   "discount": 44,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006536",
+   "variant_id": 52095776555377,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CaErtoLaDivaBollicinaVeronaGarganegaFrizzanteIGT2023_1006536_BUB_BottleShot.jpg?v=1792017394",
+   "published_at": "2026-10-18T09:38:44-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-18T16:45:15Z"
+  },
+  {
    "id": 9627900772667,
    "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
    "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
