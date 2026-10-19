@@ -298,6 +298,7 @@
    "published_at": "2026-10-06T11:59:10-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "freeship:6",
     "status:pdp"
    ],
@@ -324,6 +325,7 @@
    "tags": [
     "collection:MnM",
     "collection:MOH2026",
+    "collection:WHAO",
     "freeship:4",
     "status:pdp"
    ],
@@ -810,6 +812,7 @@
    "published_at": "2026-08-24T11:58:42-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "display:no-seo",
     "freeship:2",
     "status:pdp",
