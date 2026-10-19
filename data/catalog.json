@@ -218,6 +218,7 @@
    "published_at": "2026-10-06T12:06:30-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "display:no-seo",
     "freeship:4",
     "status:pdp"
@@ -244,6 +245,7 @@
    "published_at": "2026-10-06T12:05:18-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "display:no-seo",
     "freeship:1",
     "status:pdp"
@@ -270,6 +272,7 @@
    "published_at": "2026-10-06T12:00:17-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "freeship:4",
     "status:pdp"
    ],
@@ -680,6 +683,7 @@
    "published_at": "2026-08-26T10:57:37-07:00",
    "tags": [
     "collection:MnM",
+    "collection:WHAO",
     "freeship:6",
     "status:pdp"
    ],
