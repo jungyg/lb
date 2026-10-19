@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14935918510449,
+   "title": "Champagne Marteaux Guillaume Blanc de Blancs Le Météque Extra Brut NV",
+   "handle": "champagne-marteaux-guillaume-infusion-rose-brut-nv-disg-january-2024",
+   "url": "https://lastbubbles.com/products/champagne-marteaux-guillaume-infusion-rose-brut-nv-disg-january-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 60.0,
+   "retail": 120.0,
+   "discount": 50,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000385-001",
+   "variant_id": 52107303125361,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Marteaux-Guillaume-Blanc-de-Blancs-Le-Mtque-Extra-Brut-NV-product-image-700-large.jpg?v=1717804591",
+   "published_at": "2026-10-19T09:21:23-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-19T16:29:35Z"
+  },
+  {
    "id": 14930812141937,
    "title": "Ca'Erto La Diva Bollicina Verona Garganega Frizzante IGT 2023",
    "handle": "caerto-la-diva-bollicina-verona-garganega-frizzante-igt-2023",
