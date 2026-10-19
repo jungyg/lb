@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10795566891292,
+   "title": "Tenuta Degli Dei Cavalli Toscana 2022",
+   "handle": "tenuta-degli-dei-cavalli-toscana-2022",
+   "url": "https://lastbottlewines.com/products/tenuta-degli-dei-cavalli-toscana-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Continent Wines Inc.",
+   "sku": "1013670",
+   "variant_id": 53987091349788,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013670_LB_BottleShot.jpg?v=1773851501",
+   "published_at": "2026-10-19T12:17:13-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-19T19:30:21Z"
+  },
+  {
    "id": 10941575266588,
    "title": "Champagne Egly-Ouriet Brut Grand Cru 2015",
    "handle": "champagne-egly-ouriet-brut-grand-cru-2015",
