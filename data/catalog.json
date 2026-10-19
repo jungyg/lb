@@ -1,28 +1,52 @@
 {
  "products": [
   {
-   "id": 10979806707996,
-   "title": "Los Cerros de San Juan Albariño Familie Lahusen Colonia 2025",
-   "handle": "los-cerros-de-san-juan-albarino-familie-lahusen-colonia-2025",
-   "url": "https://lastbottlewines.com/products/los-cerros-de-san-juan-albarino-familie-lahusen-colonia-2025",
-   "status": "dailyoffer",
+   "id": 10941575266588,
+   "title": "Champagne Egly-Ouriet Brut Grand Cru 2015",
+   "handle": "champagne-egly-ouriet-brut-grand-cru-2015",
+   "url": "https://lastbottlewines.com/products/champagne-egly-ouriet-brut-grand-cru-2015",
+   "status": "pdp",
    "available": true,
-   "price": 15.0,
-   "retail": 35.0,
-   "discount": 57,
-   "free_ship": 6,
-   "vintage": 2025,
+   "price": 449.0,
+   "retail": 570.0,
+   "discount": 21,
+   "free_ship": 1,
+   "vintage": 2015,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1014716",
-   "variant_id": 54574823899420,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LosCerrosdeSanJuanAlbarinoFamilieLahusenColonia2025_1014716_LB_BottleShot.jpg?v=1791321045",
-   "published_at": "2026-10-18T09:56:01-07:00",
+   "sku": "2000445",
+   "variant_id": 54426763231516,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Champagne_Egly-Ouriet_Brut_Grand_Cru_2015_2000445_LB_BottleShot.jpg?v=1791909049",
+   "published_at": "2026-10-19T09:58:37-07:00",
    "tags": [
-    "freeship:6",
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-19T17:00:23Z"
+  },
+  {
+   "id": 10820831215900,
+   "title": "Isola del Cinghiale Brunello di Montalcino 2020",
+   "handle": "isola-del-cinghiale-brunello-di-montalcino-2020",
+   "url": "https://lastbottlewines.com/products/isola-del-cinghiale-brunello-di-montalcino-2020",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 32.0,
+   "retail": 80.0,
+   "discount": 60,
+   "free_ship": 4,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "ASSETING S.R.L.",
+   "sku": "1012490",
+   "variant_id": 54055823147292,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/IsoladelCinghialeBrunellodiMontalcino2020_1012490_LB_BottleShot.jpg?v=1792191579",
+   "published_at": "2026-10-19T09:56:02-07:00",
+   "tags": [
+    "freeship:4",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-18T17:00:18Z"
+   "first_seen": "2026-10-19T17:00:23Z"
   },
   {
    "id": 10837300773148,

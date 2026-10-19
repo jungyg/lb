@@ -1,6 +1,78 @@
 {
  "products": [
   {
+   "id": 15991332503921,
+   "title": "Champagne Anthony & Clemence Toullec Blanc de Blancs Extra Brut Premier Cru NV",
+   "handle": "champagne-anthony-clemence-toullec-blanc-de-blancs-extra-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-anthony-clemence-toullec-blanc-de-blancs-extra-brut-premier-cru-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 69.0,
+   "retail": 110.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1015251",
+   "variant_id": 64511115067761,
+   "image": null,
+   "published_at": "2026-10-19T09:55:37-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-19T17:00:23Z"
+  },
+  {
+   "id": 15991333257585,
+   "title": "Champagne Anthony & Clemence Toullec Rosé de Macération Extra Brut Premier Cru NV",
+   "handle": "champagne-anthony-clemence-toullec-rose-de-maceration-extra-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-anthony-clemence-toullec-rose-de-maceration-extra-brut-premier-cru-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 79.0,
+   "retail": 120.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1015252",
+   "variant_id": 64511117230449,
+   "image": null,
+   "published_at": "2026-10-19T09:53:19-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-19T17:00:23Z"
+  },
+  {
+   "id": 15991333126513,
+   "title": "Champagne Anthony & Clemence Toullec Blanc de Noirs Extra Brut Premier Cru NV",
+   "handle": "champagne-anthony-clemence-toullec-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-anthony-clemence-toullec-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
+   "status": "pdp",
+   "available": true,
+   "price": 69.0,
+   "retail": 110.0,
+   "discount": 37,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1011206-001",
+   "variant_id": 64511116968305,
+   "image": null,
+   "published_at": "2026-10-19T09:48:35-07:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-19T17:00:23Z"
+  },
+  {
    "id": 14935918510449,
    "title": "Champagne Marteaux Guillaume Blanc de Blancs Le Météque Extra Brut NV",
    "handle": "champagne-marteaux-guillaume-infusion-rose-brut-nv-disg-january-2024",
@@ -647,7 +719,7 @@
   },
   {
    "id": 15991332340081,
-   "title": "Champagne Anthony & Clemence Toullec Assemblage Brut Premier Cru NV (ND)",
+   "title": "Champagne Anthony & Clemence Toullec Assemblage Brut Premier Cru NV",
    "handle": "champagne-anthony-clemence-toullec-assemblage-brut-premier-cru-nv-nd",
    "url": "https://lastbubbles.com/products/champagne-anthony-clemence-toullec-assemblage-brut-premier-cru-nv-nd",
    "status": "pdp",
