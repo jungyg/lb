@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10964413710620,
+   "title": "We Know Jack! Zinfandel Riff Raff Jack Florence Sr. Vineyard Rockpile 2023",
+   "handle": "we-know-jack-zinfandel-riff-raff-jack-florence-sr-vineyard-rockpile-2023",
+   "url": "https://lastbottlewines.com/products/we-know-jack-zinfandel-riff-raff-jack-florence-sr-vineyard-rockpile-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 19.0,
+   "retail": 60.0,
+   "discount": 68,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000366",
+   "variant_id": 54497572913436,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/WeKnowJackZinfandelRiffRaffJackFlorenceSrVineyardRockpile2023_2000366_LB_BottleShot.jpg?v=1792426623",
+   "published_at": "2026-10-20T10:02:42-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-20T17:15:19Z"
+  },
+  {
    "id": 10936508088604,
    "title": "Château Rauzan-Gassies Margaux 2016",
    "handle": "chateau-rauzan-gassies-margaux-2016",
