@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10847014256924,
+   "title": "Clos Saint-Jean Vieilles Vignes Châteauneuf-du-Pape 2023",
+   "handle": "clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
+   "url": "https://lastbottlewines.com/products/clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014062",
+   "variant_id": 54137760416028,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ClosSaint-JeanVieillesVignes_1014062_LB_BottleShot_1.jpg?v=1784310308",
+   "published_at": "2026-10-20T09:56:02-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-20T16:57:47Z"
+  },
+  {
    "id": 10861550600476,
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
