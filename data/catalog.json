@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10936508088604,
+   "title": "Château Rauzan-Gassies Margaux 2016",
+   "handle": "chateau-rauzan-gassies-margaux-2016",
+   "url": "https://lastbottlewines.com/products/chateau-rauzan-gassies-margaux-2016",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 79.0,
+   "retail": 150.0,
+   "discount": 47,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013837",
+   "variant_id": 54413081903388,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rauzan-Gassies_Margaux_2016_1013837_LB_BottleShot.jpg?v=1791213027",
+   "published_at": "2026-10-20T10:00:11-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-20T17:00:22Z"
+  },
+  {
    "id": 10847014256924,
    "title": "Clos Saint-Jean Vieilles Vignes Châteauneuf-du-Pape 2023",
    "handle": "clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
@@ -48,30 +72,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-19T23:15:23Z"
-  },
-  {
-   "id": 10795566891292,
-   "title": "Tenuta Degli Dei Cavalli Toscana 2022",
-   "handle": "tenuta-degli-dei-cavalli-toscana-2022",
-   "url": "https://lastbottlewines.com/products/tenuta-degli-dei-cavalli-toscana-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 2,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Continent Wines Inc.",
-   "sku": "1013670",
-   "variant_id": 53987091349788,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013670_LB_BottleShot.jpg?v=1773851501",
-   "published_at": "2026-10-19T12:17:13-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-19T19:30:21Z"
   },
   {
    "id": 10941575266588,
