@@ -29,7 +29,7 @@
    "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant d'Alsace NV",
    "handle": "cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
    "url": "https://lastbubbles.com/products/cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 21.0,
    "retail": 30.0,
@@ -43,8 +43,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_9.jpg?v=1774023707",
    "published_at": "2026-10-20T09:21:31-07:00",
    "tags": [
-    "freeship:6",
-    "status:dailyoffer"
+    "freeship:6"
    ],
    "first_seen": "2026-10-20T16:30:19Z"
   },
