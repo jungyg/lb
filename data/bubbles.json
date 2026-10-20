@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 15944130560369,
+   "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant d'Alsace NV",
+   "handle": "cave-de-ribeauville-vol-enchante-chardonnay-cremant-de-alsace-nv-nd",
+   "url": "https://lastbubbles.com/products/cave-de-ribeauville-vol-enchante-chardonnay-cremant-de-alsace-nv-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 21.0,
+   "retail": 30.0,
+   "discount": 30,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010000-001",
+   "variant_id": 64304070885745,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_9.jpg?v=1774023707",
+   "published_at": "2026-10-20T09:21:59-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-20T16:30:19Z"
+  },
+  {
+   "id": 15381249130865,
+   "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant d'Alsace NV",
+   "handle": "cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
+   "url": "https://lastbubbles.com/products/cave-de-ribeauville-chardonnay-cremant-de-alsace-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 21.0,
+   "retail": 30.0,
+   "discount": 30,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010000",
+   "variant_id": 62889625715057,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_9.jpg?v=1774023707",
+   "published_at": "2026-10-20T09:21:31-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-20T16:30:19Z"
+  },
+  {
    "id": 15991332503921,
    "title": "Champagne Anthony & Clemence Toullec Blanc de Blancs Extra Brut Premier Cru NV",
    "handle": "champagne-anthony-clemence-toullec-blanc-de-blancs-extra-brut-premier-cru-nv",
@@ -71,102 +119,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-19T17:00:23Z"
-  },
-  {
-   "id": 14935918510449,
-   "title": "Champagne Marteaux Guillaume Blanc de Blancs Le Météque Extra Brut NV",
-   "handle": "champagne-marteaux-guillaume-infusion-rose-brut-nv-disg-january-2024",
-   "url": "https://lastbubbles.com/products/champagne-marteaux-guillaume-infusion-rose-brut-nv-disg-january-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 60.0,
-   "retail": 95.0,
-   "discount": 37,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000385-001",
-   "variant_id": 52107303125361,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Marteaux-Guillaume-Blanc-de-Blancs-Le-Mtque-Extra-Brut-NV-product-image-700-large.jpg?v=1717804591",
-   "published_at": "2026-10-19T09:21:23-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-19T16:29:35Z"
-  },
-  {
-   "id": 14930812141937,
-   "title": "Ca'Erto La Diva Bollicina Verona Garganega Frizzante IGT 2023",
-   "handle": "caerto-la-diva-bollicina-verona-garganega-frizzante-igt-2023",
-   "url": "https://lastbubbles.com/products/caerto-la-diva-bollicina-verona-garganega-frizzante-igt-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 25.0,
-   "discount": 44,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006536",
-   "variant_id": 52095776555377,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CaErtoLaDivaBollicinaVeronaGarganegaFrizzanteIGT2023_1006536_BUB_BottleShot.jpg?v=1792017394",
-   "published_at": "2026-10-18T09:38:44-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-18T16:45:15Z"
-  },
-  {
-   "id": 9627900772667,
-   "title": "Champagne Yves Ruffin Cuvée Racines Extra Brut Premier Cru NV",
-   "handle": "champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
-   "url": "https://lastbubbles.com/products/champagne-yves-ruffin-cuvee-racines-extra-brut-premier-cru-nv-disg-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006523",
-   "variant_id": 49071993585979,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/YvesRuffin_BYRCREBNV_BottleShot.jpg?v=1719604102",
-   "published_at": "2026-10-17T09:18:30-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-17T16:30:18Z"
-  },
-  {
-   "id": 15980497568113,
-   "title": "Domaine Jean-Marc Bernhard Crémant d'Alsace Brut Rosé NV",
-   "handle": "domaine-jean-marc-bernhard-cremant-d-alsace-brut-rose-nv-002",
-   "url": "https://lastbubbles.com/products/domaine-jean-marc-bernhard-cremant-d-alsace-brut-rose-nv-002",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 24.0,
-   "retail": 36.0,
-   "discount": 33,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000174-002",
-   "variant_id": 64456765178225,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomaineBernhardCremantdAlsaceBrutRoseNV_1000174-002_BUB_BottleShot.jpg?v=1792010180",
-   "published_at": "2026-10-16T09:25:43-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-16T16:30:20Z"
   },
   {
    "id": 15204897227121,
