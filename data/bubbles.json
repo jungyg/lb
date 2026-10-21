@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15928967004529,
+   "title": "Champagne Marc Hebrart Special Club Brut Premier Cru 2020",
+   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2020",
+   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2020",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 94.0,
+   "retail": 130.0,
+   "discount": 28,
+   "free_ship": 2,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012908",
+   "variant_id": 64259770712433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneMarcHebrartSpecialClubBrutPremierCru2020_1012908_BUB_BottleShot.jpg?v=1792516634",
+   "published_at": "2026-10-21T09:31:01-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-21T16:45:17Z"
+  },
+  {
    "id": 15944130560369,
    "title": "Cave de Ribeauville Vol Enchante Chardonnay Crémant d'Alsace NV",
    "handle": "cave-de-ribeauville-vol-enchante-chardonnay-cremant-de-alsace-nv-nd",
