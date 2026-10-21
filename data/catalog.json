@@ -877,7 +877,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1007721-657981.jpg?v=1763797795",
    "published_at": "2026-08-24T11:58:42-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "display:no-seo",
     "freeship:2",
@@ -941,7 +940,7 @@
    "title": "Sterling Vineyards Cabernet Sauvignon Reserve Napa Valley 2023",
    "handle": "sterling-vineyards-cabernet-sauvignon-reserve-napa-valley-2023",
    "url": "https://lastbottlewines.com/products/sterling-vineyards-cabernet-sauvignon-reserve-napa-valley-2023",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 24.0,
    "retail": 80.0,
@@ -957,6 +956,7 @@
    "tags": [
     "collection:growth",
     "freeship:3",
+    "status:dailyoffer",
     "status:pdp",
     "status:pdp_ad"
    ],
