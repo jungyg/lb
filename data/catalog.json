@@ -1,30 +1,6 @@
 {
  "products": [
   {
-   "id": 10989839483164,
-   "title": "DeLille Cellars Red Blend Red Willow Vineyard Yakima Valley 2022",
-   "handle": "delille-cellars-red-blend-red-willow-vineyard-yakima-valley-2022",
-   "url": "https://lastbottlewines.com/products/delille-cellars-red-blend-red-willow-vineyard-yakima-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 25.0,
-   "retail": 80.0,
-   "discount": 69,
-   "free_ship": 4,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000653",
-   "variant_id": 54628411769116,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DeLilleCellarsRedBlendRedWillowVineyardYakimaValley2022_2000653_LB_BottleShot.jpg?v=1792514913",
-   "published_at": "2026-10-21T10:00:17-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-21T17:00:23Z"
-  },
-  {
    "id": 10861550600476,
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
