@@ -25,54 +25,6 @@
    "first_seen": "2026-10-21T17:00:23Z"
   },
   {
-   "id": 10979766599964,
-   "title": "Lail Vineyards Cabernet Sauvignon Howell Mountain Napa Valley 2023",
-   "handle": "lail-vineyards-cabernet-sauvignon-howell-mountain-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/lail-vineyards-cabernet-sauvignon-howell-mountain-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 75.0,
-   "retail": 150.0,
-   "discount": 50,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015468",
-   "variant_id": 54574724841756,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Lail_CSV23_HowellMountain_NV_1015468_LB_BottleShot.jpg?v=1792513861",
-   "published_at": "2026-10-21T09:56:03-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-21T17:00:23Z"
-  },
-  {
-   "id": 10964413710620,
-   "title": "We Know Jack! Zinfandel Riff Raff Jack Florence Sr. Vineyard Rockpile 2023",
-   "handle": "we-know-jack-zinfandel-riff-raff-jack-florence-sr-vineyard-rockpile-2023",
-   "url": "https://lastbottlewines.com/products/we-know-jack-zinfandel-riff-raff-jack-florence-sr-vineyard-rockpile-2023",
-   "status": "pdp",
-   "available": false,
-   "price": 19.0,
-   "retail": 60.0,
-   "discount": 68,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000366",
-   "variant_id": 54497572913436,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/WeKnowJackZinfandelRiffRaffJackFlorenceSrVineyardRockpile2023_2000366_LB_BottleShot.jpg?v=1792426623",
-   "published_at": "2026-10-20T10:02:42-07:00",
-   "tags": [
-    "freeship:6",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-20T17:15:19Z"
-  },
-  {
    "id": 10861550600476,
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
