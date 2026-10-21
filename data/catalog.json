@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10989839483164,
+   "title": "DeLille Cellars Red Blend Red Willow Vineyard Yakima Valley 2022",
+   "handle": "delille-cellars-red-blend-red-willow-vineyard-yakima-valley-2022",
+   "url": "https://lastbottlewines.com/products/delille-cellars-red-blend-red-willow-vineyard-yakima-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 25.0,
+   "retail": 80.0,
+   "discount": 69,
+   "free_ship": 4,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000653",
+   "variant_id": 54628411769116,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DeLilleCellarsRedBlendRedWillowVineyardYakimaValley2022_2000653_LB_BottleShot.jpg?v=1792514913",
+   "published_at": "2026-10-21T10:00:17-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-21T17:00:23Z"
+  },
+  {
+   "id": 10979766599964,
+   "title": "Lail Vineyards Cabernet Sauvignon Howell Mountain Napa Valley 2023",
+   "handle": "lail-vineyards-cabernet-sauvignon-howell-mountain-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/lail-vineyards-cabernet-sauvignon-howell-mountain-napa-valley-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 75.0,
+   "retail": 150.0,
+   "discount": 50,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015468",
+   "variant_id": 54574724841756,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Lail_CSV23_HowellMountain_NV_1015468_LB_BottleShot.jpg?v=1792513861",
+   "published_at": "2026-10-21T09:56:03-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-21T17:00:23Z"
+  },
+  {
    "id": 10964413710620,
    "title": "We Know Jack! Zinfandel Riff Raff Jack Florence Sr. Vineyard Rockpile 2023",
    "handle": "we-know-jack-zinfandel-riff-raff-jack-florence-sr-vineyard-rockpile-2023",
@@ -23,54 +71,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-20T17:15:19Z"
-  },
-  {
-   "id": 10936508088604,
-   "title": "Château Rauzan-Gassies Margaux 2016",
-   "handle": "chateau-rauzan-gassies-margaux-2016",
-   "url": "https://lastbottlewines.com/products/chateau-rauzan-gassies-margaux-2016",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 79.0,
-   "retail": 150.0,
-   "discount": 47,
-   "free_ship": 1,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013837",
-   "variant_id": 54413081903388,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Chateau_Rauzan-Gassies_Margaux_2016_1013837_LB_BottleShot.jpg?v=1791213027",
-   "published_at": "2026-10-20T10:00:11-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-20T17:00:22Z"
-  },
-  {
-   "id": 10847014256924,
-   "title": "Clos Saint-Jean Vieilles Vignes Châteauneuf-du-Pape 2023",
-   "handle": "clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
-   "url": "https://lastbottlewines.com/products/clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014062",
-   "variant_id": 54137760416028,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ClosSaint-JeanVieillesVignes_1014062_LB_BottleShot_1.jpg?v=1784310308",
-   "published_at": "2026-10-20T09:56:02-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-20T16:57:47Z"
   },
   {
    "id": 10861550600476,
@@ -290,7 +290,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Une_Femme_Sparkling_The_Betty_California_NV_1000613_BottleShot.jpg?v=1768414445",
    "published_at": "2026-10-06T12:06:30-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "display:no-seo",
     "freeship:4",
@@ -317,7 +316,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012445_LB_BottleShot.jpg?v=1772732562",
    "published_at": "2026-10-06T12:05:18-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "display:no-seo",
     "freeship:1",
@@ -344,7 +342,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/seaboldolsonchardonnay.jpg?v=1791322578",
    "published_at": "2026-10-06T12:00:17-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "freeship:4",
     "status:pdp"
@@ -370,7 +367,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010221-550481.jpg?v=1763797829",
    "published_at": "2026-10-06T11:59:10-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "freeship:6",
     "status:pdp"
@@ -396,8 +392,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011297-698482.jpg?v=1763797880",
    "published_at": "2026-10-06T11:58:10-07:00",
    "tags": [
-    "collection:MnM",
-    "collection:MOH2026",
     "collection:WHAO",
     "freeship:4",
     "status:pdp"
@@ -757,7 +751,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RDWinery_1014023_LB_BottleShot.jpg?v=1780508565",
    "published_at": "2026-08-26T10:57:37-07:00",
    "tags": [
-    "collection:MnM",
     "collection:WHAO",
     "freeship:6",
     "status:pdp"
