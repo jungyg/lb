@@ -2135,7 +2135,7 @@
    "handle": "champagne-paul-dethune-blanc-de-noirs-brut-grand-cru-nv",
    "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-brut-grand-cru-nv",
    "status": "other",
-   "available": false,
+   "available": true,
    "price": 67.0,
    "retail": 95.0,
    "discount": 29,
