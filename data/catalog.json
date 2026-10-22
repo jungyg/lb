@@ -522,9 +522,9 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_1.jpg?v=1788883083",
    "published_at": "2026-09-24T10:52:09-07:00",
    "tags": [
+    "collection:WHAO",
     "freeship:1",
-    "status:pdp",
-    "status:pdp_ad"
+    "status:pdp"
    ],
    "first_seen": "2026-09-24T18:00:24Z"
   },
@@ -624,6 +624,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MassimoRivettiFroiBarbaresco2021_1008845_BottleShot_1.jpg?v=1769017367",
    "published_at": "2026-09-04T12:32:16-07:00",
    "tags": [
+    "collection:WHAO",
     "freeship:3",
     "status:pdp",
     "status:pdp_ad"
