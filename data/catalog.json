@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10976368951580,
+   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
+   "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 70.0,
+   "discount": 59,
+   "free_ship": 3,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000482",
+   "variant_id": 54564002726172,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
+   "published_at": "2026-10-22T10:42:23-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-22T17:45:15Z"
+  },
+  {
    "id": 10906711589148,
    "title": "Benoit Chauveau Premiers Pas Pouilly Fumé 2024",
    "handle": "benoit-chauveau-premiers-pas-pouilly-fume-2024",
