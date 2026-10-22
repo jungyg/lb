@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10980516135196,
+   "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
+   "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
+   "url": "https://lastbottlewines.com/products/prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 22.0,
+   "retail": 75.0,
+   "discount": 71,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000694",
+   "variant_id": 54577355784476,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/PrinceHillVineyardsPinotNoirDundeeHillsWillametteValley2022_2000694_LB_BottleShot.jpg?v=1792521390",
+   "published_at": "2026-10-22T09:56:02-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-22T17:00:21Z"
+  },
+  {
    "id": 10861550600476,
    "title": "Blackbird Vineyards Red Blend Contrarian Napa Valley 2017",
    "handle": "blackbird-vineyards-red-blend-contrarian-napa-valley-2017",
@@ -860,33 +884,6 @@
     "freeship:2",
     "product:welcome_flow",
     "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10867768819996,
-   "title": "Sterling Vineyards Cabernet Sauvignon Reserve Napa Valley 2023",
-   "handle": "sterling-vineyards-cabernet-sauvignon-reserve-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/sterling-vineyards-cabernet-sauvignon-reserve-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 24.0,
-   "retail": 80.0,
-   "discount": 70,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015611",
-   "variant_id": 54193994301724,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Sterling_1015611_LB_BottleShot.jpg?v=1782159279",
-   "published_at": "2026-08-20T10:43:46-07:00",
-   "tags": [
-    "collection:growth",
-    "freeship:3",
-    "status:dailyoffer",
-    "status:pdp",
-    "status:pdp_ad"
    ],
    "first_seen": null
   },
