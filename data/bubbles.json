@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 15980497633649,
+   "title": "Champagne Daniel Hulin et Fils Ambonnay Brut Tradition Grand Cru NV",
+   "handle": "champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 72.0,
+   "discount": 46,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000135-002",
+   "variant_id": 64456765243761,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Daniel_Hulin_et_Fils_Ambonnay_Brut_Tradition_Grand_Cru_NV_1000135-002_BUB_BottleShot.jpg?v=1792601389",
+   "published_at": "2026-10-22T09:31:46-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-22T16:38:23Z"
+  },
+  {
    "id": 15928967004529,
    "title": "Champagne Marc Hebrart Special Club Brut Premier Cru 2020",
    "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2020",
