@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 11018952802588,
+   "title": "Cornerstone Cellars Cabernet Sauvignon Benchlands Napa Valley 2022",
+   "handle": "cornerstone-cellars-cabernet-sauvignon-benchlands-rutherford-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/cornerstone-cellars-cabernet-sauvignon-benchlands-rutherford-napa-valley-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 30.0,
+   "retail": 95.0,
+   "discount": 68,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1008214",
+   "variant_id": 54740877115676,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CornerstoneCellarsCabernetSauvignonBenchlandsNapaValley2022_1008214_LB_BottleShot.jpg?v=1792530022",
+   "published_at": "2026-10-22T11:20:49-07:00",
+   "tags": [
+    "collection:WHAO",
+    "freeship:2",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-22T18:30:20Z"
+  },
+  {
    "id": 10976368951580,
    "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
    "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
@@ -274,32 +300,6 @@
    "first_seen": "2026-10-06T19:15:18Z"
   },
   {
-   "id": 10751096029468,
-   "title": "Castello Romitorio Brunello di Montalcino 2021",
-   "handle": "castello-di-romitorio-brunello-di-montalcino-2021",
-   "url": "https://lastbottlewines.com/products/castello-di-romitorio-brunello-di-montalcino-2021",
-   "status": "pdp",
-   "available": false,
-   "price": 59.0,
-   "retail": 125.0,
-   "discount": 53,
-   "free_ship": 1,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012445",
-   "variant_id": 53854472765724,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012445_LB_BottleShot.jpg?v=1772732562",
-   "published_at": "2026-10-06T12:05:18-07:00",
-   "tags": [
-    "collection:WHAO",
-    "display:no-seo",
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-06T19:15:18Z"
-  },
-  {
    "id": 10940401877276,
    "title": "Seabold Chardonnay Olson Vineyard Monterey 2023",
    "handle": "seabold-chardonnay-olson-vineyard-monterey-2023",
@@ -320,31 +320,6 @@
    "tags": [
     "collection:WHAO",
     "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-06T19:00:19Z"
-  },
-  {
-   "id": 10660910498076,
-   "title": "Armida Zinfandel Dry Creek Valley 2022",
-   "handle": "armida-zinfandel-dry-creek-valley-2022",
-   "url": "https://lastbottlewines.com/products/armida-zinfandel-dry-creek-valley-2022",
-   "status": "pdp",
-   "available": false,
-   "price": 12.0,
-   "retail": 25.0,
-   "discount": 52,
-   "free_ship": 6,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1010221",
-   "variant_id": 53345811562780,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010221-550481.jpg?v=1763797829",
-   "published_at": "2026-10-06T11:59:10-07:00",
-   "tags": [
-    "collection:WHAO",
-    "freeship:6",
     "status:pdp"
    ],
    "first_seen": "2026-10-06T19:00:19Z"
