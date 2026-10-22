@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10906711589148,
+   "title": "Benoit Chauveau Premiers Pas Pouilly Fumé 2024",
+   "handle": "benoit-chauveau-premiers-pas-pouilly-fume-2024",
+   "url": "https://lastbottlewines.com/products/benoit-chauveau-premiers-pas-pouilly-fume-2024",
+   "status": "pdp",
+   "available": true,
+   "price": 22.0,
+   "retail": 45.0,
+   "discount": 51,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013805",
+   "variant_id": 54326423585052,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Benoit_Chauveau_Les_Collines_de_Lise_Premier_Pas_Pouilly-Fume_1013805_LB_BottleShot.jpg?v=1786495981",
+   "published_at": "2026-10-22T10:01:47-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-22T17:04:52Z"
+  },
+  {
    "id": 10980516135196,
    "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
    "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
