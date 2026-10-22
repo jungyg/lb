@@ -1,6 +1,57 @@
 {
  "products": [
   {
+   "id": 10762702717212,
+   "title": "Champagne Sleeper Brut Grand Cru NV",
+   "handle": "champagne-sleeper-brut-grand-cru-nv",
+   "url": "https://lastbottlewines.com/products/champagne-sleeper-brut-grand-cru-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 120.0,
+   "discount": 59,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011249",
+   "variant_id": 53903250260252,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011249_LB_BottleShot.jpg?v=1771085618",
+   "published_at": "2026-10-22T11:53:43-07:00",
+   "tags": [
+    "collection:WHAO",
+    "display:no-seo",
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-22T19:00:22Z"
+  },
+  {
+   "id": 10660913381660,
+   "title": "San Filippo Brunello di Montalcino dei Comunali 2020",
+   "handle": "san-filippo-brunello-di-montalcino-dei-comunali-2020",
+   "url": "https://lastbottlewines.com/products/san-filippo-brunello-di-montalcino-dei-comunali-2020",
+   "status": "pdp",
+   "available": true,
+   "price": 45.0,
+   "retail": 100.0,
+   "discount": 55,
+   "free_ship": 3,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1010661",
+   "variant_id": 53345814446364,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010661-528278.jpg?v=1763797841",
+   "published_at": "2026-10-22T11:51:14-07:00",
+   "tags": [
+    "collection:WHAO",
+    "freeship:3",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-22T19:00:22Z"
+  },
+  {
    "id": 11018952802588,
    "title": "Cornerstone Cellars Cabernet Sauvignon Benchlands Napa Valley 2022",
    "handle": "cornerstone-cellars-cabernet-sauvignon-benchlands-rutherford-napa-valley-2022",
@@ -292,7 +343,6 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Une_Femme_Sparkling_The_Betty_California_NV_1000613_BottleShot.jpg?v=1768414445",
    "published_at": "2026-10-06T12:06:30-07:00",
    "tags": [
-    "collection:WHAO",
     "display:no-seo",
     "freeship:4",
     "status:pdp"
