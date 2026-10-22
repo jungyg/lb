@@ -810,32 +810,6 @@
    "first_seen": null
   },
   {
-   "id": 10661187748124,
-   "title": "Cornerstone Cellars Cabernet Sauvignon Benchlands Napa Valley 2019",
-   "handle": "cornerstone-cellars-cabernet-sauvignon-benchlands-napa-valley-2019",
-   "url": "https://lastbottlewines.com/products/cornerstone-cellars-cabernet-sauvignon-benchlands-napa-valley-2019",
-   "status": "pdp",
-   "available": false,
-   "price": 29.0,
-   "retail": 85.0,
-   "discount": 66,
-   "free_ship": 2,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1008212",
-   "variant_id": 53346633449756,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008212-778830.jpg?v=1766041489",
-   "published_at": "2026-08-24T22:54:52-07:00",
-   "tags": [
-    "collection:swirl",
-    "freeship:2",
-    "product:welcome_flow",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 10795670995228,
    "title": "Gary Farrell Pinot Noir Terra de Promissio Vineyard Petaluma Gap 2023",
    "handle": "gary-farrell-pinot-noir-terra-de-promissio-vineyard-petaluma-gap-2023",
