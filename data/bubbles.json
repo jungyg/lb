@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15565542982001,
+   "title": "Champagne Salon Blanc de Blancs Cuvée S Brut Le Mesnil Grand Cru 2015",
+   "handle": "champagne-salon-blanc-de-blancs-cuvee-s-brut-le-mesnil-grand-cru-2015",
+   "url": "https://lastbubbles.com/products/champagne-salon-blanc-de-blancs-cuvee-s-brut-le-mesnil-grand-cru-2015",
+   "status": "pdp",
+   "available": true,
+   "price": 1049.0,
+   "retail": 1500.0,
+   "discount": 30,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012486",
+   "variant_id": 63627730682225,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GlobalChampagneDayChampagneSalonBlancdeBlancsCuveeSBrutLeMesnilGrandCru2015_1012486_BUB_BottleShot.jpg?v=1792686901",
+   "published_at": "2026-10-23T13:40:46-07:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-23T20:45:16Z"
+  },
+  {
    "id": 14945363263857,
    "title": "Champagne Franck Pascal Fluence Brut Nature NV",
    "handle": "champagne-franck-pascal-fluence-brut-nature-nv-disg-june-2024",
