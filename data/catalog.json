@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10941445341468,
+   "title": "Alphonse Mellot La Moussière Sancerre 2025 (Half Bottle 375mL)",
+   "handle": "alphonse-mellot-la-moussiere-sancerre-2025-half-bottle-375ml",
+   "url": "https://lastbottlewines.com/products/alphonse-mellot-la-moussiere-sancerre-2025-half-bottle-375ml",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 21.0,
+   "retail": 35.0,
+   "discount": 40,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013876",
+   "variant_id": 54425023840540,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/LB_BottleShot.jpg?v=1791586554",
+   "published_at": "2026-10-23T09:56:03-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-23T17:00:22Z"
+  },
+  {
    "id": 10762702717212,
    "title": "Champagne Sleeper Brut Grand Cru NV",
    "handle": "champagne-sleeper-brut-grand-cru-nv",
@@ -82,7 +106,7 @@
    "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
    "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
    "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 29.0,
    "retail": 70.0,
@@ -96,8 +120,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
    "published_at": "2026-10-22T10:42:23-07:00",
    "tags": [
-    "freeship:3",
-    "status:dailyoffer"
+    "freeship:3"
    ],
    "first_seen": "2026-10-22T17:45:15Z"
   },
@@ -124,30 +147,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-22T17:04:52Z"
-  },
-  {
-   "id": 10980516135196,
-   "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
-   "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
-   "url": "https://lastbottlewines.com/products/prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 75.0,
-   "discount": 71,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000694",
-   "variant_id": 54577355784476,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/PrinceHillVineyardsPinotNoirDundeeHillsWillametteValley2022_2000694_LB_BottleShot.jpg?v=1792521390",
-   "published_at": "2026-10-22T09:56:02-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-22T17:00:21Z"
   },
   {
    "id": 10861550600476,
