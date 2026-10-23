@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10897439785244,
+   "title": "Champagne Maxime Blin Nos Moments Carte Blanche Extra Brut Trigny NV (Half Bottle 375mL)",
+   "handle": "champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-half-bottle-375ml",
+   "url": "https://lastbottlewines.com/products/champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-half-bottle-375ml",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 25.0,
+   "retail": 40.0,
+   "discount": 38,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013505",
+   "variant_id": 54298058031388,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Champagne_Maxime_Blin_Nos_Moments_Carte_Blanche_Extra_Brut_Trigny_NV_Half_Bottle_375mL__1013505_LB_BottleShot.jpg?v=1788212157",
+   "published_at": "2026-10-23T10:00:26-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-23T17:15:17Z"
+  },
+  {
    "id": 10941445341468,
    "title": "Alphonse Mellot La Moussière Sancerre 2025 (Half Bottle 375mL)",
    "handle": "alphonse-mellot-la-moussiere-sancerre-2025-half-bottle-375ml",
@@ -100,29 +124,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-22T18:30:20Z"
-  },
-  {
-   "id": 10976368951580,
-   "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
-   "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
-   "url": "https://lastbottlewines.com/products/rose-arrow-pinot-noir-red-label-willamette-valley-2024",
-   "status": "other",
-   "available": true,
-   "price": 29.0,
-   "retail": 70.0,
-   "discount": 59,
-   "free_ship": 3,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000482",
-   "variant_id": 54564002726172,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/RoseArrow_PNR24_RedLabelWillametteValley2024_2000482_LB_BottleShot.jpg?v=1790031315",
-   "published_at": "2026-10-22T10:42:23-07:00",
-   "tags": [
-    "freeship:3"
-   ],
-   "first_seen": "2026-10-22T17:45:15Z"
   },
   {
    "id": 10906711589148,
