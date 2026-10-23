@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14945363263857,
+   "title": "Champagne Franck Pascal Fluence Brut Nature NV",
+   "handle": "champagne-franck-pascal-fluence-brut-nature-nv-disg-june-2024",
+   "url": "https://lastbubbles.com/products/champagne-franck-pascal-fluence-brut-nature-nv-disg-june-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 55.0,
+   "retail": 80.0,
+   "discount": 31,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008768-001",
+   "variant_id": 52129152303473,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/FranckPascal_BRT_1008768-001_BottleShot_1e0f499d-e406-4781-9487-fab1d729fd32.jpg?v=1773688198",
+   "published_at": "2026-10-23T09:34:40-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-23T16:45:17Z"
+  },
+  {
    "id": 15980497633649,
    "title": "Champagne Daniel Hulin et Fils Ambonnay Brut Tradition Grand Cru NV",
    "handle": "champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-nd",
