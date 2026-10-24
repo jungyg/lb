@@ -25,30 +25,6 @@
    "first_seen": "2026-10-24T16:30:18Z"
   },
   {
-   "id": 15565542982001,
-   "title": "Champagne Salon Blanc de Blancs Cuvée S Brut Le Mesnil Grand Cru 2015",
-   "handle": "champagne-salon-blanc-de-blancs-cuvee-s-brut-le-mesnil-grand-cru-2015",
-   "url": "https://lastbubbles.com/products/champagne-salon-blanc-de-blancs-cuvee-s-brut-le-mesnil-grand-cru-2015",
-   "status": "pdp",
-   "available": false,
-   "price": 1049.0,
-   "retail": 1500.0,
-   "discount": 30,
-   "free_ship": 1,
-   "vintage": 2015,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012486",
-   "variant_id": 63627730682225,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GlobalChampagneDayChampagneSalonBlancdeBlancsCuveeSBrutLeMesnilGrandCru2015_1012486_BUB_BottleShot.jpg?v=1792686901",
-   "published_at": "2026-10-23T13:40:46-07:00",
-   "tags": [
-    "freeship:1",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-23T20:45:16Z"
-  },
-  {
    "id": 14945363263857,
    "title": "Champagne Franck Pascal Fluence Brut Nature NV",
    "handle": "champagne-franck-pascal-fluence-brut-nature-nv-disg-june-2024",
@@ -71,55 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-23T16:45:17Z"
-  },
-  {
-   "id": 15980497633649,
-   "title": "Champagne Daniel Hulin et Fils Ambonnay Brut Tradition Grand Cru NV",
-   "handle": "champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-daniel-hulin-et-fils-ambonnay-brut-tradition-grand-cru-nv-nd",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 72.0,
-   "discount": 46,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000135-002",
-   "variant_id": 64456765243761,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Daniel_Hulin_et_Fils_Ambonnay_Brut_Tradition_Grand_Cru_NV_1000135-002_BUB_BottleShot.jpg?v=1792601389",
-   "published_at": "2026-10-22T09:31:46-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-22T16:38:23Z"
-  },
-  {
-   "id": 15928967004529,
-   "title": "Champagne Marc Hebrart Special Club Brut Premier Cru 2020",
-   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2020",
-   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 94.0,
-   "retail": 130.0,
-   "discount": 28,
-   "free_ship": 2,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012908",
-   "variant_id": 64259770712433,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneMarcHebrartSpecialClubBrutPremierCru2020_1012908_BUB_BottleShot.jpg?v=1792516634",
-   "published_at": "2026-10-21T09:31:01-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-21T16:45:17Z"
   },
   {
    "id": 15381249130865,
