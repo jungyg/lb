@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15461615468913,
+   "title": "Champagne Gondé-Rousseaux Chapitre V Blanc de Fût Brut Premier Cru 2017",
+   "handle": "champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-new-disgorgement",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 94.0,
+   "retail": 145.0,
+   "discount": 35,
+   "free_ship": 2,
+   "vintage": 2017,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007153-001",
+   "variant_id": 63257098649969,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gonde-Rousseaux_Chapitre_V_Blanc_de_Fut_Brut_Premier_Cru_2017_1007153_BottleShot.jpg?v=1768952101",
+   "published_at": "2026-10-24T09:28:22-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-24T16:30:18Z"
+  },
+  {
    "id": 15565542982001,
    "title": "Champagne Salon Blanc de Blancs Cuvée S Brut Le Mesnil Grand Cru 2015",
    "handle": "champagne-salon-blanc-de-blancs-cuvee-s-brut-le-mesnil-grand-cru-2015",
