@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15363492675953,
+   "title": "Champagne Paul Berthelot Blanc de Noirs Extra Brut Premier Cru NV",
+   "handle": "champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007126-001",
+   "variant_id": 62817189953905,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Paul_Berthelot_1007126-001_BUB_BottleShot.jpg?v=1784049312",
+   "published_at": "2026-10-25T14:18:34-07:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-25T21:30:18Z"
+  },
+  {
    "id": 15363492643185,
    "title": "Champagne Paul Berthelot Cuvée Extra Brut NV",
    "handle": "champagne-paul-berthelot-cuvee-extra-brut-nv-nd",
