@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 16033308967281,
+   "title": "Les Riceys Pinot 3 Ways (6-pack)",
+   "handle": "pinot-3-ways-6-pack",
+   "url": "https://lastbubbles.com/products/pinot-3-ways-6-pack",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 229.0,
+   "retail": 360.0,
+   "discount": 36,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "2000738",
+   "variant_id": 67611814723953,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LesRiceysPinot3Ways_BUB_2000738_PackShot.jpg?v=1793032262",
+   "published_at": "2026-10-26T09:45:42-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-26T17:00:22Z"
+  },
+  {
    "id": 15363492675953,
    "title": "Champagne Paul Berthelot Blanc de Noirs Extra Brut Premier Cru NV",
    "handle": "champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv-nd",

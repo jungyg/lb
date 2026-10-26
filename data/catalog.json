@@ -1,28 +1,76 @@
 {
  "products": [
   {
-   "id": 10824217985308,
-   "title": "Colombera & Garella Melascone Rosso Piedmont 2023",
-   "handle": "colombera-garella-melascone-rosso-piedmont-2023",
-   "url": "https://lastbottlewines.com/products/colombera-garella-melascone-rosso-piedmont-2023",
+   "id": 10873372246300,
+   "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
+   "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
+   "url": "https://lastbottlewines.com/products/ovis-sauvignon-blanc-high-valley-lake-county-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 12.0,
-   "retail": 35.0,
-   "discount": 66,
+   "price": 21.0,
+   "retail": 45.0,
+   "discount": 53,
+   "free_ship": 4,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015605",
+   "variant_id": 54216133214492,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Ovis_SBL23_1015605_LB_BottleShot_1.jpg?v=1788213003",
+   "published_at": "2026-10-26T10:00:14-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-26T17:00:22Z"
+  },
+  {
+   "id": 10941575364892,
+   "title": "Domaine Philippe Livera Clos Village Gevrey-Chambertin 2023",
+   "handle": "domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
+   "url": "https://lastbottlewines.com/products/domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 79.0,
+   "retail": 120.0,
+   "discount": 34,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000444",
+   "variant_id": 54426763329820,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_Philippe_Livera_Clos_Village_Gevrey-Chambertin_2023_2000444_LB_BottleShot.jpg?v=1792773872",
+   "published_at": "2026-10-26T09:56:53-07:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-26T17:00:22Z"
+  },
+  {
+   "id": 11001836634396,
+   "title": "Thomas Fogarty Chardonnay Santa Cruz Mountains 2023",
+   "handle": "thomas-fogarty-chardonnay-santa-cruz-mountains-2023",
+   "url": "https://lastbottlewines.com/products/thomas-fogarty-chardonnay-santa-cruz-mountains-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 21.0,
+   "retail": 52.0,
+   "discount": 60,
    "free_ship": 6,
    "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1013976",
-   "variant_id": 54066828116252,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Colombera_Garella_Melascone_Rosso_Piedmont_2023_1013976_LB_BottleShot.jpg?v=1792624083",
-   "published_at": "2026-10-25T10:00:12-07:00",
+   "sku": "2000737",
+   "variant_id": 54669896614172,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ThomasFogartyChardonnaySantaCruzMountains2023_2000737_LB_BottleShot.jpg?v=1792624891",
+   "published_at": "2026-10-26T09:56:18-07:00",
    "tags": [
     "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-25T17:00:21Z"
+   "first_seen": "2026-10-26T17:00:22Z"
   },
   {
    "id": 10762702717212,
