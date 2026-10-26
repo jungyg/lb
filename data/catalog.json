@@ -99,31 +99,6 @@
    "first_seen": "2026-10-22T19:00:22Z"
   },
   {
-   "id": 10660913381660,
-   "title": "San Filippo Brunello di Montalcino dei Comunali 2020",
-   "handle": "san-filippo-brunello-di-montalcino-dei-comunali-2020",
-   "url": "https://lastbottlewines.com/products/san-filippo-brunello-di-montalcino-dei-comunali-2020",
-   "status": "pdp",
-   "available": false,
-   "price": 45.0,
-   "retail": 100.0,
-   "discount": 55,
-   "free_ship": 3,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1010661",
-   "variant_id": 53345814446364,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010661-528278.jpg?v=1763797841",
-   "published_at": "2026-10-22T11:51:14-07:00",
-   "tags": [
-    "collection:WHAO",
-    "freeship:3",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-22T19:00:22Z"
-  },
-  {
    "id": 11018952802588,
    "title": "Cornerstone Cellars Cabernet Sauvignon Benchlands Napa Valley 2022",
    "handle": "cornerstone-cellars-cabernet-sauvignon-benchlands-rutherford-napa-valley-2022",
@@ -348,31 +323,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-10-06T19:15:18Z"
-  },
-  {
-   "id": 10940401877276,
-   "title": "Seabold Chardonnay Olson Vineyard Monterey 2023",
-   "handle": "seabold-chardonnay-olson-vineyard-monterey-2023",
-   "url": "https://lastbottlewines.com/products/seabold-chardonnay-olson-vineyard-monterey-2023",
-   "status": "pdp",
-   "available": false,
-   "price": 15.0,
-   "retail": 40.0,
-   "discount": 62,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000115",
-   "variant_id": 54423195549980,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/seaboldolsonchardonnay.jpg?v=1791322578",
-   "published_at": "2026-10-06T12:00:17-07:00",
-   "tags": [
-    "collection:WHAO",
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-06T19:00:19Z"
   },
   {
    "id": 10660921409820,
