@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10942601658652,
+   "title": "Domaines Lupier Garnacha La Dama Navarra 2016 (Magnum 1.5L)",
+   "handle": "domaines-lupier-la-dama-navarra-2016-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/domaines-lupier-la-dama-navarra-2016-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 44.0,
+   "retail": 110.0,
+   "discount": 60,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000395",
+   "variant_id": 54428587589916,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-34.jpg?v=1791847346",
+   "published_at": "2026-10-27T14:30:15-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T21:30:18Z"
+  },
+  {
    "id": 10824218345756,
    "title": "Nellcôte Cabernet Sauvignon 500 Chevaux Napa Valley 2017 (Magnum 1.5L)",
    "handle": "nellcote-cabernet-sauvignon-500-chevaux-napa-valley-2017-magnum-1-5l",
@@ -95,31 +119,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-27T20:55:40Z"
-  },
-  {
-   "id": 10744257478940,
-   "title": "La Massa La Massa Toscana 2023 (Magnum 1.5L)",
-   "handle": "la-massa-la-massa-toscana-2023-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/la-massa-la-massa-toscana-2023-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 55.0,
-   "retail": 130.0,
-   "discount": 58,
-   "free_ship": 1,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012482",
-   "variant_id": 53796680663324,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/La_Massa_La_Massa_Toscana_2023_1012482_LB_BottleShot.jpg?v=1784310981",
-   "published_at": "2026-10-27T13:12:26-07:00",
-   "tags": [
-    "backup",
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T20:15:17Z"
   },
   {
    "id": 10980516135196,
@@ -789,7 +788,7 @@
    "handle": "rd-winery-cabernet-sauvignon-hundred-knot-napa-valley-2019",
    "url": "https://lastbottlewines.com/products/rd-winery-cabernet-sauvignon-hundred-knot-napa-valley-2019",
    "status": "pdp",
-   "available": false,
+   "available": true,
    "price": 29.0,
    "retail": 125.0,
    "discount": 77,
