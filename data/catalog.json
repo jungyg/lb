@@ -1,6 +1,103 @@
 {
  "products": [
   {
+   "id": 10744257478940,
+   "title": "La Massa La Massa Toscana 2023 (Magnum 1.5L)",
+   "handle": "la-massa-la-massa-toscana-2023-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/la-massa-la-massa-toscana-2023-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 55.0,
+   "retail": 130.0,
+   "discount": 58,
+   "free_ship": 1,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012482",
+   "variant_id": 53796680663324,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/La_Massa_La_Massa_Toscana_2023_1012482_LB_BottleShot.jpg?v=1784310981",
+   "published_at": "2026-10-27T13:12:26-07:00",
+   "tags": [
+    "backup",
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:15:17Z"
+  },
+  {
+   "id": 10660911743260,
+   "title": "Kapcsándy Cabernet Sauvignon Grand Vin State Lane Vineyard Yountville Napa Valley 2011 (Magnum 1.5L)",
+   "handle": "kapcsandy-cabernet-sauvignon-grand-vin-state-lane-vineyard-yountville-napa-valley-2011-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/kapcsandy-cabernet-sauvignon-grand-vin-state-lane-vineyard-yountville-napa-valley-2011-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 279.0,
+   "retail": 695.0,
+   "discount": 60,
+   "free_ship": 1,
+   "vintage": 2011,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1010542",
+   "variant_id": 53345812807964,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010542-232053.jpg?v=1763797833",
+   "published_at": "2026-10-27T13:11:02-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:15:17Z"
+  },
+  {
+   "id": 10979881156892,
+   "title": "Bernardus Pinot Noir Santa Lucia Highlands 2021 (Magnum 1.5L)",
+   "handle": "bernardus-pinot-noir-santa-lucia-highlands-2021-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/bernardus-pinot-noir-santa-lucia-highlands-2021-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 42.0,
+   "retail": 90.0,
+   "discount": 53,
+   "free_ship": 1,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015245",
+   "variant_id": 54575108194588,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BernardusPinotNoirSantaLuciaHighlands2021_Magnum1.5L__1015245_LB_BottleShot.jpg?v=1793035630",
+   "published_at": "2026-10-27T13:08:40-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:15:17Z"
+  },
+  {
+   "id": 10660934975772,
+   "title": "Cupano Sant' Antimo Ombrone Tuscany 2020 (Magnum 1.5L)",
+   "handle": "cupano-sant-antimo-ombrone-tuscany-2020-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/cupano-sant-antimo-ombrone-tuscany-2020-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 300.0,
+   "discount": 67,
+   "free_ship": 1,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1008918",
+   "variant_id": 53345845248284,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Cupano_Sant_Antimo_Ombrone_Tuscany_2020_Magnum_1.5L__1008918_LB_BottleShot.jpg?v=1793034739",
+   "published_at": "2026-10-27T13:06:23-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:15:17Z"
+  },
+  {
    "id": 10660897587484,
    "title": "Conn Creek Anthology Red Blend Napa Valley 2009 (Double Magnum 3L)",
    "handle": "conn-creek-anthology-red-blend-napa-valley-2009-double-magnum-3l",
@@ -25,83 +122,11 @@
    "first_seen": "2026-10-27T19:15:20Z"
   },
   {
-   "id": 10942602543388,
-   "title": "Heymann-Löwenstein Riesling Uhlen Laubach Mosel 2016 (Magnum 1.5L)",
-   "handle": "heymann-lowenstein-riesling-uhlen-laubach-mosel-2016-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/heymann-lowenstein-riesling-uhlen-laubach-mosel-2016-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 69.0,
-   "retail": 200.0,
-   "discount": 66,
-   "free_ship": 1,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000404",
-   "variant_id": 54428588671260,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-12_6ce797af-c765-4aef-9968-f85913ba385a.jpg?v=1793055789",
-   "published_at": "2026-10-27T11:46:38-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T19:00:25Z"
-  },
-  {
-   "id": 10807021797660,
-   "title": "La Massa Giorgio Primo Toscana 2018 (Magnum 1.5L)",
-   "handle": "la-massa-giorgio-primo-toscana-2018-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/la-massa-giorgio-primo-toscana-2018-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 159.0,
-   "retail": 300.0,
-   "discount": 47,
-   "free_ship": 1,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Viteoak",
-   "sku": "1013021",
-   "variant_id": 54017986756892,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/La_Massa_Giorgio_Primo_Toscana_2018_Magnum_1.5L__1013021_LB_BottleShot.jpg?v=1793033469",
-   "published_at": "2026-10-27T11:41:34-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T18:45:22Z"
-  },
-  {
-   "id": 10942601560348,
-   "title": "Domaines Lupier Garnacha La Dama Navarra 2015 (Magnum 1.5L)",
-   "handle": "domaines-lupier-la-dama-navarra-2015-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/domaines-lupier-la-dama-navarra-2015-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 44.0,
-   "retail": 110.0,
-   "discount": 60,
-   "free_ship": 1,
-   "vintage": 2015,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000394",
-   "variant_id": 54428587491612,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-35.jpg?v=1791844422",
-   "published_at": "2026-10-27T10:42:35-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T17:45:17Z"
-  },
-  {
    "id": 10941445210396,
    "title": "Alphonse Mellot La Moussière Sancerre 2025 (Magnum 1.5L)",
    "handle": "alphonse-mellot-la-moussiere-sancerre-2025-magnum-1-5l",
    "url": "https://lastbottlewines.com/products/alphonse-mellot-la-moussiere-sancerre-2025-magnum-1-5l",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 79.0,
    "retail": 125.0,
@@ -115,8 +140,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013877_LB_BottleShot.jpg?v=1791586888",
    "published_at": "2026-10-27T10:39:41-07:00",
    "tags": [
-    "freeship:1",
-    "status:dailyoffer"
+    "freeship:1"
    ],
    "first_seen": "2026-10-27T17:45:17Z"
   },
