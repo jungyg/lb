@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10807021797660,
+   "title": "La Massa Giorgio Primo Toscana 2018 (Magnum 1.5L)",
+   "handle": "la-massa-giorgio-primo-toscana-2018-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/la-massa-giorgio-primo-toscana-2018-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 159.0,
+   "retail": 300.0,
+   "discount": 47,
+   "free_ship": 1,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Viteoak",
+   "sku": "1013021",
+   "variant_id": 54017986756892,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/La_Massa_Giorgio_Primo_Toscana_2018_Magnum_1.5L__1013021_LB_BottleShot.jpg?v=1793033469",
+   "published_at": "2026-10-27T11:41:34-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T18:45:22Z"
+  },
+  {
    "id": 10942601560348,
    "title": "Domaines Lupier Garnacha La Dama Navarra 2015 (Magnum 1.5L)",
    "handle": "domaines-lupier-la-dama-navarra-2015-magnum-1-5l",
@@ -90,30 +114,6 @@
    "variant_id": 53955734470940,
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/San_Filippo_Le_Lucere_2019_SKU_LB_BottleShot.jpg?v=1787767311",
    "published_at": "2026-10-27T10:36:19-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T17:45:17Z"
-  },
-  {
-   "id": 10979881189660,
-   "title": "Bernardus Chardonnay Monterey County 2022 (Magnum 1.5L)",
-   "handle": "bernardus-chardonnay-monterey-county-2022-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/bernardus-chardonnay-monterey-county-2022-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 34.0,
-   "retail": 60.0,
-   "discount": 43,
-   "free_ship": 1,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015244",
-   "variant_id": 54575108227356,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BernardusChardonnayMontereyCounty2022_Magnum1.5L__10015244_LB_BottleShot.jpg?v=1793031371",
-   "published_at": "2026-10-27T10:34:35-07:00",
    "tags": [
     "freeship:1",
     "status:dailyoffer"
