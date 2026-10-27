@@ -1,6 +1,102 @@
 {
  "products": [
   {
+   "id": 10830746648860,
+   "title": "Meteor Vineyard Cabernet Sauvignon Perseid Napa Valley 2014 (Magnum 1.5L) (OWC)",
+   "handle": "meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2014-magnum-1-5l-owc",
+   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-2014-magnum-1-5l-owc",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 119.0,
+   "retail": 300.0,
+   "discount": 60,
+   "free_ship": 1,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Merchant 23",
+   "sku": "1012910",
+   "variant_id": 54084822991132,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Meteor_1012910_LB_BottleShot.jpg?v=1791844065",
+   "published_at": "2026-10-27T10:00:41-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:16:59Z"
+  },
+  {
+   "id": 10942601462044,
+   "title": "Domaines Lupier Garnacha La Dama Navarra 2014 (Magnum 1.5L)",
+   "handle": "domaines-lupier-garnacha-la-dama-navarra-2014-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/domaines-lupier-garnacha-la-dama-navarra-2014-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 42.0,
+   "retail": 95.0,
+   "discount": 56,
+   "free_ship": 1,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000430",
+   "variant_id": 54428587327772,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-33.jpg?v=1791843981",
+   "published_at": "2026-10-27T10:00:38-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:16:59Z"
+  },
+  {
+   "id": 10828863865116,
+   "title": "Emeritus Vineyards Pinot Noir Hallberg Ranch Vineyard Russian River Valley 2022 (Magnum 1.5L)",
+   "handle": "emeritus-vineyards-pinot-noir-hallberg-ranch-vineyard-russian-river-valley-2022-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/emeritus-vineyards-pinot-noir-hallberg-ranch-vineyard-russian-river-valley-2022-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 45.0,
+   "retail": 100.0,
+   "discount": 55,
+   "free_ship": 1,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014167",
+   "variant_id": 54079735103772,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1014167_LB_BottleShot-2.jpg?v=1787870327",
+   "published_at": "2026-10-27T10:00:37-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:16:59Z"
+  },
+  {
+   "id": 10942601822492,
+   "title": "Heymann-Löwenstein Riesling Uhlen Roth Lay Mosel 2016 (Magnum 1.5L)",
+   "handle": "heymann-lowenstein-riesling-uhlen-roth-lay-mosel-2016-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/heymann-lowenstein-riesling-uhlen-roth-lay-mosel-2016-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 160.0,
+   "discount": 63,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000407",
+   "variant_id": 54428587753756,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-82.jpg?v=1793049585",
+   "published_at": "2026-10-27T10:00:34-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:16:59Z"
+  },
+  {
    "id": 10978499002652,
    "title": "Poderi Luigi Einaudi Barolo Cannubi Riserva 2012 (Magnum 1.5L)",
    "handle": "poderi-luigi-einaudi-barolo-cannubi-riserva-2012-magnum-1-5l",
@@ -49,30 +145,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-27T14:30:22Z"
-  },
-  {
-   "id": 10873372246300,
-   "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
-   "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
-   "url": "https://lastbottlewines.com/products/ovis-sauvignon-blanc-high-valley-lake-county-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 21.0,
-   "retail": 45.0,
-   "discount": 53,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015605",
-   "variant_id": 54216133214492,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Ovis_SBL23_1015605_LB_BottleShot_1.jpg?v=1788213003",
-   "published_at": "2026-10-26T10:00:14-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-26T17:00:22Z"
   },
   {
    "id": 10941575364892,
@@ -398,7 +470,6 @@
     "collection:growth",
     "collection:swirl",
     "freeship:2",
-    "pdp",
     "status:pdp",
     "status:pdp_ad"
    ],
