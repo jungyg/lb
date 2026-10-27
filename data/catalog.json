@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10978499002652,
+   "title": "Poderi Luigi Einaudi Barolo Cannubi Riserva 2012 (Magnum 1.5L)",
+   "handle": "poderi-luigi-einaudi-barolo-cannubi-riserva-2012-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/poderi-luigi-einaudi-barolo-cannubi-riserva-2012-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 109.0,
+   "retail": 300.0,
+   "discount": 64,
+   "free_ship": 1,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014005",
+   "variant_id": 54571968889116,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-84.jpg?v=1793028621",
+   "published_at": "2026-10-27T09:56:04-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:00:23Z"
+  },
+  {
    "id": 10980516135196,
    "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
    "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
@@ -71,30 +95,6 @@
    "tags": [
     "freeship:2",
     "status:pdp"
-   ],
-   "first_seen": "2026-10-26T17:00:22Z"
-  },
-  {
-   "id": 11001836634396,
-   "title": "Thomas Fogarty Chardonnay Santa Cruz Mountains 2023",
-   "handle": "thomas-fogarty-chardonnay-santa-cruz-mountains-2023",
-   "url": "https://lastbottlewines.com/products/thomas-fogarty-chardonnay-santa-cruz-mountains-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 21.0,
-   "retail": 52.0,
-   "discount": 60,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000737",
-   "variant_id": 54669896614172,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ThomasFogartyChardonnaySantaCruzMountains2023_2000737_LB_BottleShot.jpg?v=1792624891",
-   "published_at": "2026-10-26T09:56:18-07:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-10-26T17:00:22Z"
   },

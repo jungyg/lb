@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15991405511025,
+   "title": "House of Arras Brut Elite 1601 Tasmania NV",
+   "handle": "house-of-arras-brut-elite-1601-tasmania-nv",
+   "url": "https://lastbubbles.com/products/house-of-arras-brut-elite-1601-tasmania-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 28.0,
+   "retail": 60.0,
+   "discount": 53,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "2000518",
+   "variant_id": 64511551537521,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/HouseofArrasBrutElite1601TasmaniaNV_BUB_2000518_BottleShot.jpg?v=1793042553",
+   "published_at": "2026-10-27T09:46:47-07:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T17:00:23Z"
+  },
+  {
    "id": 16033308967281,
    "title": "Les Riceys Pinot 3 Ways (6-pack)",
    "handle": "pinot-3-ways-6-pack",
