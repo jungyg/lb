@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10660897587484,
+   "title": "Conn Creek Anthology Red Blend Napa Valley 2009 (Double Magnum 3L)",
+   "handle": "conn-creek-anthology-red-blend-napa-valley-2009-double-magnum-3l",
+   "url": "https://lastbottlewines.com/products/conn-creek-anthology-red-blend-napa-valley-2009-double-magnum-3l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 229.0,
+   "retail": 540.0,
+   "discount": 58,
+   "free_ship": 1,
+   "vintage": 2009,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "LBCCKC5S0N",
+   "variant_id": 53345793147164,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CCK_Anthology_RED09_LB_BottleShot.jpg?v=1793034981",
+   "published_at": "2026-10-27T12:00:30-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T19:15:20Z"
+  },
+  {
    "id": 10942602543388,
    "title": "Heymann-Löwenstein Riesling Uhlen Laubach Mosel 2016 (Magnum 1.5L)",
    "handle": "heymann-lowenstein-riesling-uhlen-laubach-mosel-2016-magnum-1-5l",
@@ -93,29 +117,6 @@
    "tags": [
     "freeship:1",
     "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T17:45:17Z"
-  },
-  {
-   "id": 10824218116380,
-   "title": "Nellcôte Cabernet Sauvignon Rallye 76 Napa Valley 2017 (Magnum 1.5L)",
-   "handle": "nellcote-cabernet-sauvignon-rallye-76-napa-valley-2017-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/nellcote-cabernet-sauvignon-rallye-76-napa-valley-2017-magnum-1-5l",
-   "status": "other",
-   "available": true,
-   "price": 149.0,
-   "retail": 500.0,
-   "discount": 70,
-   "free_ship": 1,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014096",
-   "variant_id": 54066828247324,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Nellcote_Cabernet_Sauvignon_Rallye_76_Napa_Valley_2017_Magnum__1014096_LB_BottleShot.jpg?v=1791844219",
-   "published_at": "2026-10-27T10:38:51-07:00",
-   "tags": [
-    "freeship:1"
    ],
    "first_seen": "2026-10-27T17:45:17Z"
   },
