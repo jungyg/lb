@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10942602543388,
+   "title": "Heymann-Löwenstein Riesling Uhlen Laubach Mosel 2016 (Magnum 1.5L)",
+   "handle": "heymann-lowenstein-riesling-uhlen-laubach-mosel-2016-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/heymann-lowenstein-riesling-uhlen-laubach-mosel-2016-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 200.0,
+   "discount": 66,
+   "free_ship": 1,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000404",
+   "variant_id": 54428588671260,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-12_6ce797af-c765-4aef-9968-f85913ba385a.jpg?v=1793055789",
+   "published_at": "2026-10-27T11:46:38-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T19:00:25Z"
+  },
+  {
    "id": 10807021797660,
    "title": "La Massa Giorgio Primo Toscana 2018 (Magnum 1.5L)",
    "handle": "la-massa-giorgio-primo-toscana-2018-magnum-1-5l",
@@ -77,7 +101,7 @@
    "title": "Nellcôte Cabernet Sauvignon Rallye 76 Napa Valley 2017 (Magnum 1.5L)",
    "handle": "nellcote-cabernet-sauvignon-rallye-76-napa-valley-2017-magnum-1-5l",
    "url": "https://lastbottlewines.com/products/nellcote-cabernet-sauvignon-rallye-76-napa-valley-2017-magnum-1-5l",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 149.0,
    "retail": 500.0,
@@ -91,32 +115,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Nellcote_Cabernet_Sauvignon_Rallye_76_Napa_Valley_2017_Magnum__1014096_LB_BottleShot.jpg?v=1791844219",
    "published_at": "2026-10-27T10:38:51-07:00",
    "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T17:45:17Z"
-  },
-  {
-   "id": 10784470663452,
-   "title": "San Filippo Brunello di Montalcino Le Lucere 2019 (Magnum 1.5L)",
-   "handle": "san-filippo-brunello-di-montalcino-le-lucere-2019-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/san-filippo-brunello-di-montalcino-le-lucere-2019-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 169.0,
-   "retail": 325.0,
-   "discount": 48,
-   "free_ship": 1,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012475",
-   "variant_id": 53955734470940,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/San_Filippo_Le_Lucere_2019_SKU_LB_BottleShot.jpg?v=1787767311",
-   "published_at": "2026-10-27T10:36:19-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
+    "freeship:1"
    ],
    "first_seen": "2026-10-27T17:45:17Z"
   },
