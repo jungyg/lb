@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10824218345756,
+   "title": "Nellcôte Cabernet Sauvignon 500 Chevaux Napa Valley 2017 (Magnum 1.5L)",
+   "handle": "nellcote-cabernet-sauvignon-500-chevaux-napa-valley-2017-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/nellcote-cabernet-sauvignon-500-chevaux-napa-valley-2017-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 119.0,
+   "retail": 250.0,
+   "discount": 52,
+   "free_ship": 1,
+   "vintage": 2017,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014095",
+   "variant_id": 54066828476700,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Nellcote_Cabernet_Sauvignon_500_Chevaux_Napa_Valley_2017_101409_LB_BottleShot.jpg?v=1791847227",
+   "published_at": "2026-10-27T14:04:23-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T21:15:19Z"
+  },
+  {
+   "id": 10942601920796,
+   "title": "Heymann-Löwenstein Riesling Uhlen Blaufüsser Lay Mosel 2015 (Magnum 1.5L)",
+   "handle": "heymann-lowenstein-riesling-uhlen-blaufusser-lay-mosel-2015-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/heymann-lowenstein-riesling-uhlen-blaufusser-lay-mosel-2015-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 160.0,
+   "discount": 57,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000434",
+   "variant_id": 54428587917596,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Heymann_2000434_LB_BottleShot-7.jpg?v=1791913170",
+   "published_at": "2026-10-27T14:01:01-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T21:15:19Z"
+  },
+  {
    "id": 10784471351580,
    "title": "San Filippo Brunello di Montalcino Le Lucere 2020 (Magnum 1.5L)",
    "handle": "san-filippo-brunello-di-montalcino-le-lucere-2020-magnum-1-5l",
@@ -68,54 +116,6 @@
    "published_at": "2026-10-27T13:12:26-07:00",
    "tags": [
     "backup",
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T20:15:17Z"
-  },
-  {
-   "id": 10660911743260,
-   "title": "Kapcsándy Cabernet Sauvignon Grand Vin State Lane Vineyard Yountville Napa Valley 2011 (Magnum 1.5L)",
-   "handle": "kapcsandy-cabernet-sauvignon-grand-vin-state-lane-vineyard-yountville-napa-valley-2011-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/kapcsandy-cabernet-sauvignon-grand-vin-state-lane-vineyard-yountville-napa-valley-2011-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 279.0,
-   "retail": 695.0,
-   "discount": 60,
-   "free_ship": 1,
-   "vintage": 2011,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1010542",
-   "variant_id": 53345812807964,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010542-232053.jpg?v=1763797833",
-   "published_at": "2026-10-27T13:11:02-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T20:15:17Z"
-  },
-  {
-   "id": 10979881156892,
-   "title": "Bernardus Pinot Noir Santa Lucia Highlands 2021 (Magnum 1.5L)",
-   "handle": "bernardus-pinot-noir-santa-lucia-highlands-2021-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/bernardus-pinot-noir-santa-lucia-highlands-2021-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 42.0,
-   "retail": 90.0,
-   "discount": 53,
-   "free_ship": 1,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015245",
-   "variant_id": 54575108194588,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BernardusPinotNoirSantaLuciaHighlands2021_Magnum1.5L__1015245_LB_BottleShot.jpg?v=1793035630",
-   "published_at": "2026-10-27T13:08:40-07:00",
-   "tags": [
     "freeship:1",
     "status:dailyoffer"
    ],
