@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 10980516135196,
+   "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
+   "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
+   "url": "https://lastbottlewines.com/products/prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 22.0,
+   "retail": 75.0,
+   "discount": 71,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000694",
+   "variant_id": 54577355784476,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/PrinceHillVineyardsPinotNoirDundeeHillsWillametteValley2022_2000694_LB_BottleShot.jpg?v=1792521390",
+   "published_at": "2026-10-27T07:28:23-07:00",
+   "tags": [
+    "backup",
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-10-27T14:30:22Z"
+  },
+  {
    "id": 10873372246300,
    "title": "OVIS Sauvignon Blanc High Valley Lake County 2023",
    "handle": "ovis-sauvignon-blanc-high-valley-lake-county-2023",
