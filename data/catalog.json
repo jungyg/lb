@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10784471351580,
+   "title": "San Filippo Brunello di Montalcino Le Lucere 2020 (Magnum 1.5L)",
+   "handle": "san-filippo-brunello-di-montalcino-le-lucere-2020-magnum-1-5l",
+   "url": "https://lastbottlewines.com/products/san-filippo-brunello-di-montalcino-le-lucere-2020-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 169.0,
+   "retail": 325.0,
+   "discount": 48,
+   "free_ship": 1,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012476",
+   "variant_id": 53955735650588,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/San_Filippo_Le_Lucere_2020_SKU_LB_BottleShot.jpg?v=1787767355",
+   "published_at": "2026-10-27T13:50:20-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:55:40Z"
+  },
+  {
+   "id": 10912049266972,
+   "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Magum 1.5L)",
+   "handle": "champagne-louis-chalvon-grande-reserve-brut-nv-magum-1-5l",
+   "url": "https://lastbottlewines.com/products/champagne-louis-chalvon-grande-reserve-brut-nv-magum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 84.0,
+   "retail": 150.0,
+   "discount": 44,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1010019",
+   "variant_id": 54344073969948,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Champagne_Louis_Chalvon_Grande_Reserve_Brut_NV_Magum_1.5L__1010019_LB_BottleShot.jpg?v=1793060485",
+   "published_at": "2026-10-27T13:46:44-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-27T20:55:40Z"
+  },
+  {
    "id": 10744257478940,
    "title": "La Massa La Massa Toscana 2023 (Magnum 1.5L)",
    "handle": "la-massa-la-massa-toscana-2023-magnum-1-5l",
@@ -72,54 +120,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-27T20:15:17Z"
-  },
-  {
-   "id": 10660934975772,
-   "title": "Cupano Sant' Antimo Ombrone Tuscany 2020 (Magnum 1.5L)",
-   "handle": "cupano-sant-antimo-ombrone-tuscany-2020-magnum-1-5l",
-   "url": "https://lastbottlewines.com/products/cupano-sant-antimo-ombrone-tuscany-2020-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 300.0,
-   "discount": 67,
-   "free_ship": 1,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1008918",
-   "variant_id": 53345845248284,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Cupano_Sant_Antimo_Ombrone_Tuscany_2020_Magnum_1.5L__1008918_LB_BottleShot.jpg?v=1793034739",
-   "published_at": "2026-10-27T13:06:23-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T20:15:17Z"
-  },
-  {
-   "id": 10660897587484,
-   "title": "Conn Creek Anthology Red Blend Napa Valley 2009 (Double Magnum 3L)",
-   "handle": "conn-creek-anthology-red-blend-napa-valley-2009-double-magnum-3l",
-   "url": "https://lastbottlewines.com/products/conn-creek-anthology-red-blend-napa-valley-2009-double-magnum-3l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 229.0,
-   "retail": 540.0,
-   "discount": 58,
-   "free_ship": 1,
-   "vintage": 2009,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LBCCKC5S0N",
-   "variant_id": 53345793147164,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CCK_Anthology_RED09_LB_BottleShot.jpg?v=1793034981",
-   "published_at": "2026-10-27T12:00:30-07:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T19:15:20Z"
   },
   {
    "id": 10980516135196,
