@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10934917824796,
+   "title": "Château Gracia Saint-Émilion Grand Cru 2019",
+   "handle": "chateau-gracia-saint-emilion-grand-cru-2019",
+   "url": "https://lastbottlewines.com/products/chateau-gracia-saint-emilion-grand-cru-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 79.0,
+   "retail": 129.0,
+   "discount": 39,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013726",
+   "variant_id": 54410116792604,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauGraciaSaint-EmilionGrandCru2019_1013726_LB_BottleShot.jpg?v=1789152324",
+   "published_at": "2026-10-28T10:40:15-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-28T17:45:16Z"
+  },
+  {
    "id": 10612443971868,
    "title": "Gran Maestoso Primitivo Vendemmia 2019",
    "handle": "gran-maestoso-primitivo-vendemmia-2019",
