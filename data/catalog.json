@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10612443971868,
+   "title": "Gran Maestoso Primitivo Vendemmia 2019",
+   "handle": "gran-maestoso-primitivo-vendemmia-2019",
+   "url": "https://lastbottlewines.com/products/gran-maestoso-primitivo-vendemmia-2019",
+   "status": "pdp",
+   "available": true,
+   "price": 15.0,
+   "retail": 25.0,
+   "discount": 40,
+   "free_ship": 6,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "LB3R0SZD",
+   "variant_id": 53005854572828,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Gran_Maestoso_Primitivo_Vendemmia_2019_LB3R0SZD_LB_BottleShot.jpg?v=1793117893",
+   "published_at": "2026-10-28T10:06:12-07:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-10-28T17:15:17Z"
+  },
+  {
    "id": 10978471280924,
    "title": "Clos L'Eglise Pomerol 2010",
    "handle": "clos-l-eglise-pomerol-2010",
