@@ -123,32 +123,6 @@
    "first_seen": "2026-10-26T17:00:22Z"
   },
   {
-   "id": 10762702717212,
-   "title": "Champagne Sleeper Brut Grand Cru NV",
-   "handle": "champagne-sleeper-brut-grand-cru-nv",
-   "url": "https://lastbottlewines.com/products/champagne-sleeper-brut-grand-cru-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 120.0,
-   "discount": 59,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1011249",
-   "variant_id": 53903250260252,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011249_LB_BottleShot.jpg?v=1771085618",
-   "published_at": "2026-10-22T11:53:43-07:00",
-   "tags": [
-    "collection:WHAO",
-    "display:no-seo",
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-22T19:00:22Z"
-  },
-  {
    "id": 11018952802588,
    "title": "Cornerstone Cellars Cabernet Sauvignon Benchlands Napa Valley 2022",
    "handle": "cornerstone-cellars-cabernet-sauvignon-benchlands-rutherford-napa-valley-2022",
@@ -349,31 +323,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-09T20:15:15Z"
-  },
-  {
-   "id": 10729722970396,
-   "title": "Une Femme Sparkling The Betty California NV",
-   "handle": "une-femme-sparkling-the-betty-california-nv",
-   "url": "https://lastbottlewines.com/products/une-femme-sparkling-the-betty-california-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 12.0,
-   "retail": 29.0,
-   "discount": 59,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1000613",
-   "variant_id": 53681954062620,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Une_Femme_Sparkling_The_Betty_California_NV_1000613_BottleShot.jpg?v=1768414445",
-   "published_at": "2026-10-06T12:06:30-07:00",
-   "tags": [
-    "display:no-seo",
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-06T19:15:18Z"
   },
   {
    "id": 10660921409820,
