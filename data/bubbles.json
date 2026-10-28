@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15565542883697,
+   "title": "Champagne Pol Roger Brut 2018",
+   "handle": "champagne-pol-roger-brut-2018",
+   "url": "https://lastbubbles.com/products/champagne-pol-roger-brut-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 145.0,
+   "discount": 32,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012189",
+   "variant_id": 63627730551153,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5-2.jpg?v=1779817697",
+   "published_at": "2026-10-28T09:24:52-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-28T16:30:44Z"
+  },
+  {
    "id": 15991405511025,
    "title": "House of Arras Brut Elite 1601 Tasmania NV",
    "handle": "house-of-arras-brut-elite-1601-tasmania-nv",
@@ -49,30 +73,6 @@
    "first_seen": "2026-10-26T17:00:22Z"
   },
   {
-   "id": 15363492675953,
-   "title": "Champagne Paul Berthelot Blanc de Noirs Extra Brut Premier Cru NV",
-   "handle": "champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
-   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-blanc-de-noirs-extra-brut-premier-cru-nv-nd",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007126-001",
-   "variant_id": 62817189953905,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Paul_Berthelot_1007126-001_BUB_BottleShot.jpg?v=1784049312",
-   "published_at": "2026-10-25T14:18:34-07:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-25T21:30:18Z"
-  },
-  {
    "id": 15363492643185,
    "title": "Champagne Paul Berthelot Cuvée Extra Brut NV",
    "handle": "champagne-paul-berthelot-cuvee-extra-brut-nv-nd",
@@ -95,30 +95,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-25T16:45:16Z"
-  },
-  {
-   "id": 15461615468913,
-   "title": "Champagne Gondé-Rousseaux Chapitre V Blanc de Fût Brut Premier Cru 2017",
-   "handle": "champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-v-blanc-de-fut-brut-premier-cru-2017-new-disgorgement",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 94.0,
-   "retail": 145.0,
-   "discount": 35,
-   "free_ship": 2,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007153-001",
-   "variant_id": 63257098649969,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gonde-Rousseaux_Chapitre_V_Blanc_de_Fut_Brut_Premier_Cru_2017_1007153_BottleShot.jpg?v=1768952101",
-   "published_at": "2026-10-24T09:28:22-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-24T16:30:18Z"
   },
   {
    "id": 15381249130865,
