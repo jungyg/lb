@@ -54,7 +54,7 @@
    "handle": "champagne-pol-roger-brut-2018",
    "url": "https://lastbubbles.com/products/champagne-pol-roger-brut-2018",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 99.0,
    "retail": 145.0,
    "discount": 32,
@@ -68,6 +68,7 @@
    "published_at": "2026-10-28T09:24:52-07:00",
    "tags": [
     "freeship:2",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-28T16:30:44Z"
