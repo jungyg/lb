@@ -1611,7 +1611,7 @@
    "handle": "ginglinger-fix-cremant-dalsace-brut-2020",
    "url": "https://lastbubbles.com/products/ginglinger-fix-cremant-dalsace-brut-2020",
    "status": "other",
-   "available": false,
+   "available": true,
    "price": 22.0,
    "retail": 32.0,
    "discount": 31,
