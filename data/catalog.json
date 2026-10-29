@@ -30,7 +30,7 @@
    "handle": "gran-maestoso-primitivo-vendemmia-2019",
    "url": "https://lastbottlewines.com/products/gran-maestoso-primitivo-vendemmia-2019",
    "status": "pdp",
-   "available": true,
+   "available": false,
    "price": 15.0,
    "retail": 25.0,
    "discount": 40,
@@ -44,6 +44,7 @@
    "published_at": "2026-10-28T10:06:12-07:00",
    "tags": [
     "freeship:6",
+    "last-bottle-credit-awarded",
     "status:pdp"
    ],
    "first_seen": "2026-10-28T17:15:17Z"
