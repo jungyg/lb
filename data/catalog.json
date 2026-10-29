@@ -848,7 +848,7 @@
    "price": 35.0,
    "retail": 90.0,
    "discount": 61,
-   "free_ship": 2,
+   "free_ship": 3,
    "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
@@ -859,7 +859,7 @@
    "tags": [
     "collection:growth",
     "collection:pour",
-    "freeship:2",
+    "freeship:3",
     "status:pdp"
    ],
    "first_seen": null
