@@ -842,12 +842,12 @@
    "title": "Champagne Piollot Cuvée de Reserve Brut NV",
    "handle": "champagne-piollot-cuvee-de-reserve-brut-nv",
    "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-de-reserve-brut-nv",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 59.0,
    "retail": 80.0,
    "discount": 26,
-   "free_ship": null,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -855,7 +855,10 @@
    "variant_id": 55681457029489,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Piollot_Cuvee_de_Reserve_Brut_NV_1008825.jpg?v=1759162754",
    "published_at": "2026-09-16T16:03:41-07:00",
-   "tags": [],
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
    "first_seen": null
   },
   {
