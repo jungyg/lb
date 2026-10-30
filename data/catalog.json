@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 11020209029404,
+   "title": "Halloween 12-bottle Mystery Case",
+   "handle": "halloween-12-bottle-mystery-case",
+   "url": "https://lastbottlewines.com/products/halloween-12-bottle-mystery-case",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 199.0,
+   "retail": 836.0,
+   "discount": 76,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000835",
+   "variant_id": 54746653360412,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/6ee7d297-12e3-448b-a2b4-77da20de6cc3.jpg?v=1793379306",
+   "published_at": "2026-10-30T09:57:18-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-30T17:00:22Z"
+  },
+  {
    "id": 10612443971868,
    "title": "Gran Maestoso Primitivo Vendemmia 2019",
    "handle": "gran-maestoso-primitivo-vendemmia-2019",
@@ -811,33 +835,6 @@
     "freeship:2",
     "pdp",
     "product:welcome_flow",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 10883558277404,
-   "title": "Beaulieu Vineyard Cabernet Sauvignon Bonded Winery No. 71 Napa Valley 2023",
-   "handle": "beaulieu-vineyard-cabernet-sauvignon-bonded-winery-no-71-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/beaulieu-vineyard-cabernet-sauvignon-bonded-winery-no-71-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 35.0,
-   "retail": 90.0,
-   "discount": 61,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015613",
-   "variant_id": 54254068695324,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BeaulieuVineyard_1015613_LB_BottleShot.jpg?v=1783370889",
-   "published_at": "2026-07-14T14:52:04-07:00",
-   "tags": [
-    "collection:growth",
-    "collection:pour",
-    "freeship:3",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
