@@ -715,7 +715,7 @@
    "handle": "rd-winery-cabernet-sauvignon-hundred-knot-napa-valley-2019",
    "url": "https://lastbottlewines.com/products/rd-winery-cabernet-sauvignon-hundred-knot-napa-valley-2019",
    "status": "pdp",
-   "available": false,
+   "available": true,
    "price": 29.0,
    "retail": 125.0,
    "discount": 77,
