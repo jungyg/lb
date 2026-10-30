@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15581223715185,
+   "title": "Sapiddu Catarratto Frizzante Terre Siciliane 2024",
+   "handle": "sapiddu-catarratto-frizzante-terre-siciliane-2024",
+   "url": "https://lastbubbles.com/products/sapiddu-catarratto-frizzante-terre-siciliane-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 18.0,
+   "retail": 28.0,
+   "discount": 36,
+   "free_ship": 6,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013513",
+   "variant_id": 63680419103089,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Sapiddu_Catarratto_Frizzante_Terre_Siciliane_2024_BUB_1013513_BottleShot.jpg?v=1793302228",
+   "published_at": "2026-10-30T09:42:11-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-30T16:45:17Z"
+  },
+  {
    "id": 14996330316145,
    "title": "Champagne LeClerc Briant Blanc de Blancs Extra Brut 2018",
    "handle": "champagne-leclerc-briant-blanc-de-blancs-extra-brut-2018",
