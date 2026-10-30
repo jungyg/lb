@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10830746485020,
+   "title": "Mystery Red Blend Spring Mountain District Napa Valley 2014",
+   "handle": "mystery-red-blend-spring-mountain-district-napa-valley-2014",
+   "url": "https://lastbottlewines.com/products/mystery-red-blend-spring-mountain-district-napa-valley-2014",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 160.0,
+   "discount": 76,
+   "free_ship": 2,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015440",
+   "variant_id": 54084822794524,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064.jpg?v=1781283637",
+   "published_at": "2026-10-30T10:08:25-07:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-30T17:15:39Z"
+  },
+  {
+   "id": 10855658488092,
+   "title": "Mystery Cabernet Sauvignon Single Vineyard Yountville Napa Valley 2021",
+   "handle": "mystery-cabernet-sauvignon-single-vineyard-yountville-napa-valley-2021",
+   "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-single-vineyard-yountville-napa-valley-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 229.0,
+   "retail": 375.0,
+   "discount": 39,
+   "free_ship": 1,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015584",
+   "variant_id": 54158403731740,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle.jpg?v=1780011337",
+   "published_at": "2026-10-30T10:08:16-07:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-30T17:15:39Z"
+  },
+  {
    "id": 11020209029404,
    "title": "Halloween 12-bottle Mystery Case",
    "handle": "halloween-12-bottle-mystery-case",
