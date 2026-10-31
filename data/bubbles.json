@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15386232619377,
+   "title": "Champagne Camille Jacquet Tradition Brut NV",
+   "handle": "champagne-camille-jacquet-tradition-brut-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-camille-jacquet-tradition-brut-nv-new-disgorgement",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007115-001",
+   "variant_id": 62906506248561,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/CamilleJacquet_1007115_BottleShot_2_8e6441f2-ecfd-4b11-ad6c-18aaa50fafba.jpg?v=1777395849",
+   "published_at": "2026-10-31T09:48:23-07:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-10-31T17:00:20Z"
+  },
+  {
    "id": 15581223715185,
    "title": "Sapiddu Catarratto Frizzante Terre Siciliane 2024",
    "handle": "sapiddu-catarratto-frizzante-terre-siciliane-2024",
@@ -23,54 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-30T16:45:17Z"
-  },
-  {
-   "id": 14996330316145,
-   "title": "Champagne LeClerc Briant Blanc de Blancs Extra Brut 2018",
-   "handle": "champagne-leclerc-briant-blanc-de-blancs-extra-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-blanc-de-blancs-extra-brut-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 150.0,
-   "discount": 34,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008011",
-   "variant_id": 55173377884529,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LeClerc_Briant_BDB18_BottleShot.jpg?v=1747244138",
-   "published_at": "2026-10-28T10:26:59-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-28T17:30:22Z"
-  },
-  {
-   "id": 9777225957691,
-   "title": "Champagne Delamotte Blanc de Blancs Brut 2018",
-   "handle": "champagne-delamotte-blanc-de-blancs-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-delamotte-blanc-de-blancs-brut-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 170.0,
-   "discount": 42,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006942",
-   "variant_id": 49385988358459,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3.jpg?v=1779817500",
-   "published_at": "2026-10-28T10:24:25-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-28T17:30:22Z"
   },
   {
    "id": 15565542883697,
@@ -96,30 +72,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-28T16:30:44Z"
-  },
-  {
-   "id": 15991405511025,
-   "title": "House of Arras Brut Elite 1601 Tasmania NV",
-   "handle": "house-of-arras-brut-elite-1601-tasmania-nv",
-   "url": "https://lastbubbles.com/products/house-of-arras-brut-elite-1601-tasmania-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 28.0,
-   "retail": 60.0,
-   "discount": 53,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "2000518",
-   "variant_id": 64511551537521,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/HouseofArrasBrutElite1601TasmaniaNV_BUB_2000518_BottleShot.jpg?v=1793042553",
-   "published_at": "2026-10-27T09:46:47-07:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-10-27T17:00:23Z"
   },
   {
    "id": 15363492643185,
@@ -857,30 +809,6 @@
    "published_at": "2026-09-17T09:23:51-07:00",
    "tags": [
     "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15204897489265,
-   "title": "Champagne Piollot Cuvée de Reserve Brut NV",
-   "handle": "champagne-piollot-cuvee-de-reserve-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-piollot-cuvee-de-reserve-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 80.0,
-   "discount": 26,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008825",
-   "variant_id": 55681457029489,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Piollot_Cuvee_de_Reserve_Brut_NV_1008825.jpg?v=1759162754",
-   "published_at": "2026-09-16T16:03:41-07:00",
-   "tags": [
-    "freeship:3",
     "status:dailyoffer"
    ],
    "first_seen": null
