@@ -1,28 +1,52 @@
 {
  "products": [
   {
-   "id": 10979884990748,
-   "title": "Mystery Zinfandel Napa Valley 2019",
-   "handle": "mystery-zinfandel-napa-valley-2019",
-   "url": "https://lastbottlewines.com/products/mystery-zinfandel-napa-valley-2019",
+   "id": 10898897305884,
+   "title": "Gómez de Segura Rioja Reserva 2021",
+   "handle": "gomez-de-segura-rioja-reserva-2021",
+   "url": "https://lastbottlewines.com/products/gomez-de-segura-rioja-reserva-2021",
    "status": "dailyoffer",
    "available": true,
-   "price": 14.0,
-   "retail": 45.0,
-   "discount": 69,
-   "free_ship": 4,
+   "price": 19.0,
+   "retail": 48.0,
+   "discount": 60,
+   "free_ship": 6,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1014143",
+   "variant_id": 54303838273820,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/GomezdeSeguraRiojaReserva2021_1014143_LB_BottleShot.jpg?v=1786373801",
+   "published_at": "2026-11-01T10:00:08-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-01T18:00:20Z"
+  },
+  {
+   "id": 10978471248156,
+   "title": "Ausàs Interpretación Ribera del Duero 2019",
+   "handle": "ausas-interpretacion-ribera-del-duero-2019",
+   "url": "https://lastbottlewines.com/products/ausas-interpretacion-ribera-del-duero-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 100.0,
+   "discount": 51,
+   "free_ship": 3,
    "vintage": 2019,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "2000686",
-   "variant_id": 54575120253212,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2d3cc57b-64f8-4f1d-9238-3461adae0ed8.jpg?v=1793463949",
-   "published_at": "2026-11-01T09:00:04-08:00",
+   "sku": "1013834",
+   "variant_id": 54571728699676,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/AusasInterpretacionRiberadelDuero2019_1013834_LB_BottleShot.jpg?v=1793227731",
+   "published_at": "2026-11-01T09:56:18-08:00",
    "tags": [
-    "freeship:4",
+    "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-10-31T17:00:20Z"
+   "first_seen": "2026-11-01T18:00:20Z"
   },
   {
    "id": 10980516135196,
