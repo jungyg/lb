@@ -25,56 +25,6 @@
    "first_seen": "2026-10-31T17:00:20Z"
   },
   {
-   "id": 10828863734044,
-   "title": "Dylan's Ghost Cabernet Sauvignon Napa Valley 2023",
-   "handle": "dylans-ghost-cabernet-sauvignon-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/dylans-ghost-cabernet-sauvignon-napa-valley-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 35.0,
-   "retail": 98.0,
-   "discount": 64,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015240",
-   "variant_id": 54079735071004,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Dylans_Ghost_1015240_LB_BottleShot_1.jpg?v=1781028351",
-   "published_at": "2026-10-31T09:59:35-07:00",
-   "tags": [
-    "freeship:4",
-    "last-bottle-credit-awarded",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-31T17:00:20Z"
-  },
-  {
-   "id": 10612443971868,
-   "title": "Gran Maestoso Primitivo Vendemmia 2019",
-   "handle": "gran-maestoso-primitivo-vendemmia-2019",
-   "url": "https://lastbottlewines.com/products/gran-maestoso-primitivo-vendemmia-2019",
-   "status": "pdp",
-   "available": false,
-   "price": 15.0,
-   "retail": 25.0,
-   "discount": 40,
-   "free_ship": 6,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "LB3R0SZD",
-   "variant_id": 53005854572828,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Gran_Maestoso_Primitivo_Vendemmia_2019_LB3R0SZD_LB_BottleShot.jpg?v=1793117893",
-   "published_at": "2026-10-28T10:06:12-07:00",
-   "tags": [
-    "freeship:6",
-    "last-bottle-credit-awarded",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-28T17:15:17Z"
-  },
-  {
    "id": 10980516135196,
    "title": "Prince Hill Vineyards Pinot Noir Dundee Hills Willamette Valley 2022",
    "handle": "prince-hill-vineyards-pinot-noir-dundee-hills-willamette-valley-2022",
@@ -99,30 +49,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-10-27T14:30:22Z"
-  },
-  {
-   "id": 10941575364892,
-   "title": "Domaine Philippe Livera Clos Village Gevrey-Chambertin 2023",
-   "handle": "domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
-   "url": "https://lastbottlewines.com/products/domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 79.0,
-   "retail": 120.0,
-   "discount": 34,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000444",
-   "variant_id": 54426763329820,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_Philippe_Livera_Clos_Village_Gevrey-Chambertin_2023_2000444_LB_BottleShot.jpg?v=1792773872",
-   "published_at": "2026-10-26T09:56:53-07:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-26T17:00:22Z"
   },
   {
    "id": 11018952802588,
