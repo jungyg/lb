@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10612575863068,
+   "title": "Ca'Erto Soave Classico 2023",
+   "handle": "caerto-soave-classico-2023",
+   "url": "https://lastbottlewines.com/products/caerto-soave-classico-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 15.0,
+   "retail": 28.0,
+   "discount": 46,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1007679",
+   "variant_id": 53006027948316,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1007679-820474.jpg?v=1758318702",
+   "published_at": "2026-11-01T10:01:07-08:00",
+   "tags": [
+    "freeship:6",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-01T18:15:19Z"
+  },
+  {
    "id": 10898897305884,
    "title": "Gómez de Segura Rioja Reserva 2021",
    "handle": "gomez-de-segura-rioja-reserva-2021",
