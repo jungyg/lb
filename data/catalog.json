@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10705891918108,
+   "title": "Eisele Vineyard Cabernet Sauvignon Altagracia Napa Valley 2022",
+   "handle": "eisele-vineyard-cabernet-sauvignon-altagracia-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/eisele-vineyard-cabernet-sauvignon-altagracia-napa-valley-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 119.0,
+   "retail": 180.0,
+   "discount": 34,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1010957",
+   "variant_id": 53556262797596,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1010957_LB_BottleShot.jpg?v=1779952681",
+   "published_at": "2026-11-02T10:01:54-08:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-02T18:15:20Z"
+  },
+  {
+   "id": 10660934320412,
+   "title": "On Q Cabernet Sauvignon Appassionata Oakville Napa Valley 2022",
+   "handle": "on-q-cabernet-sauvignon-appassionata-oakville-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/on-q-cabernet-sauvignon-appassionata-oakville-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 215.0,
+   "discount": 77,
+   "free_ship": 1,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012522",
+   "variant_id": 53345844592924,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012522-123698.jpg?v=1763797959",
+   "published_at": "2026-11-02T10:00:28-08:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-02T18:15:20Z"
+  },
+  {
    "id": 10931066175772,
    "title": "Pope Valley Winery Red Blend Proprietors Napa Valley 2023",
    "handle": "pope-valley-winery-proprietary-blend-proprietor-s-blend-napa-valley-2023",
