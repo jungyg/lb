@@ -1,6 +1,33 @@
 {
  "products": [
   {
+   "id": 10846355554588,
+   "title": "Cornerstone Cellars Cabernet Sauvignon Calistoga Napa Valley 2021",
+   "handle": "cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
+   "url": "https://lastbottlewines.com/products/cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
+   "status": "pdp",
+   "available": true,
+   "price": 32.0,
+   "retail": 105.0,
+   "discount": 70,
+   "free_ship": 2,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1008224",
+   "variant_id": 54134637855004,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1008224_LB_BottleShot.jpg?v=1779957360",
+   "published_at": "2026-11-02T09:25:06-08:00",
+   "tags": [
+    "collection:swirl",
+    "freeship:2",
+    "NCD",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-11-02T17:30:20Z"
+  },
+  {
    "id": 10807002628380,
    "title": "Champagne J.M. Goulard Special Club Brut 2018",
    "handle": "champagne-j-m-goulard-special-club-brut-2018",
