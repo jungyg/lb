@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15491207266673,
+   "title": "Domaine Petit Frère Prat Albert Extra Brut Crémant de Limoux NV",
+   "handle": "domaine-petit-frere-prat-albert-extra-brut-cremant-de-limoux-nv",
+   "url": "https://lastbubbles.com/products/domaine-petit-frere-prat-albert-extra-brut-cremant-de-limoux-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 24.0,
+   "retail": 40.0,
+   "discount": 40,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012896",
+   "variant_id": 63378447991153,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomainePetitFrerePratAlbertExtraBrutCremantdeLimouxNV_BUB_1012896_BottleShot.jpg?v=1793399785",
+   "published_at": "2026-11-02T09:35:57-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-02T17:45:17Z"
+  },
+  {
    "id": 14996330381681,
    "title": "Champagne Carole Haudot Blanc de Blancs Selection Parcellaire La Cul Crut Extra Brut NV",
    "handle": "champagne-carol-haudot-blanc-de-blancs-selection-parcellaire-la-cul-crut-extra-brut-nv-disg-2020",
