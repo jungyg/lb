@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10931066175772,
+   "title": "Pope Valley Winery Red Blend Proprietors Napa Valley 2023",
+   "handle": "pope-valley-winery-proprietary-blend-proprietor-s-blend-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/pope-valley-winery-proprietary-blend-proprietor-s-blend-napa-valley-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 15.0,
+   "retail": 64.0,
+   "discount": 77,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000070",
+   "variant_id": 54400514916636,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000070.jpg?v=1788377494",
+   "published_at": "2026-11-02T09:56:17-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-02T18:00:22Z"
+  },
+  {
    "id": 10846355554588,
    "title": "Cornerstone Cellars Cabernet Sauvignon Calistoga Napa Valley 2021",
    "handle": "cornerstone-cellars-cabernet-sauvignon-calistoga-napa-valley-2021",
@@ -75,30 +99,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-11-01T18:15:19Z"
-  },
-  {
-   "id": 10898897305884,
-   "title": "Gómez de Segura Rioja Reserva 2021",
-   "handle": "gomez-de-segura-rioja-reserva-2021",
-   "url": "https://lastbottlewines.com/products/gomez-de-segura-rioja-reserva-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 48.0,
-   "discount": 60,
-   "free_ship": 6,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014143",
-   "variant_id": 54303838273820,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/GomezdeSeguraRiojaReserva2021_1014143_LB_BottleShot.jpg?v=1786373801",
-   "published_at": "2026-11-01T10:00:08-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-01T18:00:20Z"
   },
   {
    "id": 10980516135196,
