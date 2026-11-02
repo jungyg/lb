@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15491207692657,
+   "title": "Trione Vineyards Sparkling Brut River Road Ranch Russian River Valley 2019",
+   "handle": "trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
+   "url": "https://lastbubbles.com/products/trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 24.0,
+   "retail": 40.0,
+   "discount": 40,
+   "free_ship": 6,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013828",
+   "variant_id": 63378448777585,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013828_BUB_BottleShot.jpg?v=1779295726",
+   "published_at": "2026-11-02T10:29:07-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-02T18:30:20Z"
+  },
+  {
    "id": 15491207266673,
    "title": "Domaine Petit Frère Prat Albert Extra Brut Crémant de Limoux NV",
    "handle": "domaine-petit-frere-prat-albert-extra-brut-cremant-de-limoux-nv",
