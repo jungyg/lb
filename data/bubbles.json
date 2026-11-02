@@ -242,30 +242,6 @@
    "first_seen": "2026-10-10T16:15:17Z"
   },
   {
-   "id": 15804633678193,
-   "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
-   "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "status": "pdp",
-   "available": true,
-   "price": 109.0,
-   "retail": 149.0,
-   "discount": 27,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007730-001",
-   "variant_id": 63988090470769,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007730.jpg?v=1762301110",
-   "published_at": "2026-10-06T10:40:01-07:00",
-   "tags": [
-    "LGF",
-    "status:pdp"
-   ],
-   "first_seen": "2026-10-06T17:45:17Z"
-  },
-  {
    "id": 15975665500529,
    "title": "Château la Minière Rouge Créative x Inattendu Brut France 2021",
    "handle": "chateau-la-miniere-rouge-creative-x-inattendu-brut-france-2021",
@@ -2125,27 +2101,6 @@
     "limit-upsell:1",
     "status:upsell"
    ],
-   "first_seen": null
-  },
-  {
-   "id": 9564298215739,
-   "title": "Champagne Petit & Bajan Blanc de Blancs Nuit Blanche Grand Cru NV (Magnum 1.5L)",
-   "handle": "champagne-petit-and-bajan-blanc-de-blancs-nuit-blanche-grand-cru-nv-magnum-15l",
-   "url": "https://lastbubbles.com/products/champagne-petit-and-bajan-blanc-de-blancs-nuit-blanche-grand-cru-nv-magnum-15l",
-   "status": "other",
-   "available": true,
-   "price": 156.0,
-   "retail": 200.0,
-   "discount": 22,
-   "free_ship": null,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000697-002",
-   "variant_id": 48908071371067,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Domaine-Petit--Bajan-Blanc-de-Blancs-Nuit-Blanche-Grand-Cru-NV-_Magnum-1.5L_-product-image-446-large.jpg?v=1717804567",
-   "published_at": "2024-06-03T19:19:15-07:00",
-   "tags": [],
    "first_seen": null
   },
   {
