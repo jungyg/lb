@@ -1,27 +1,6 @@
 {
  "products": [
   {
-   "id": 10989839188252,
-   "title": "DeLille Cellars White Blend Chaleur Blanc Columbia Valley 2024",
-   "handle": "delille-cellars-white-blend-chaleur-blanc-columbia-valley-2024",
-   "url": "https://lastbottlewines.com/products/delille-cellars-white-blend-chaleur-blanc-columbia-valley-2024",
-   "status": "other",
-   "available": true,
-   "price": 17.0,
-   "retail": 75.0,
-   "discount": 77,
-   "free_ship": null,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000658",
-   "variant_id": 54628411146524,
-   "image": null,
-   "published_at": "2026-11-03T08:00:25-08:00",
-   "tags": [],
-   "first_seen": "2026-11-03T16:00:28Z"
-  },
-  {
    "id": 10705891918108,
    "title": "Eisele Vineyard Cabernet Sauvignon Altagracia Napa Valley 2022",
    "handle": "eisele-vineyard-cabernet-sauvignon-altagracia-napa-valley-2022",
