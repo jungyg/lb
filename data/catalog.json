@@ -638,7 +638,7 @@
    "title": "Massimo Rivetti Froi Barbaresco 2021",
    "handle": "massimo-rivetti-froi-barbaresco-2021",
    "url": "https://lastbottlewines.com/products/massimo-rivetti-froi-barbaresco-2021",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 32.0,
    "retail": 70.0,
@@ -654,6 +654,7 @@
    "tags": [
     "collection:WHAO",
     "freeship:3",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
