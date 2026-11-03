@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 15491207692657,
-   "title": "Trione Vineyards Sparkling Brut River Road Ranch Russian River Valley 2019",
-   "handle": "trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
-   "url": "https://lastbubbles.com/products/trione-vineyards-sparkling-brut-river-road-ranch-russian-river-valley-2019",
+   "id": 15565542916465,
+   "title": "Champagne Louis Roederer Cristal Brut 2016",
+   "handle": "champagne-louis-roederer-cristal-brut-2016",
+   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2016",
    "status": "dailyoffer",
    "available": true,
-   "price": 24.0,
-   "retail": 40.0,
-   "discount": 40,
-   "free_ship": 6,
-   "vintage": 2019,
+   "price": 279.0,
+   "retail": 419.0,
+   "discount": 33,
+   "free_ship": 1,
+   "vintage": 2016,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1013828",
-   "variant_id": 63378448777585,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013828_BUB_BottleShot.jpg?v=1779295726",
-   "published_at": "2026-11-02T10:29:07-08:00",
+   "sku": "1013373",
+   "variant_id": 63627730583921,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneLouisRoedererCristalBrut2016_BUB_1013373_BottleShot.jpg?v=1793727495",
+   "published_at": "2026-11-03T09:39:55-08:00",
    "tags": [
-    "freeship:6",
+    "freeship:1",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-02T18:30:20Z"
+   "first_seen": "2026-11-03T17:45:19Z"
   },
   {
    "id": 15491207266673,
@@ -47,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-02T17:45:17Z"
-  },
-  {
-   "id": 14996330381681,
-   "title": "Champagne Carole Haudot Blanc de Blancs Selection Parcellaire La Cul Crut Extra Brut NV",
-   "handle": "champagne-carol-haudot-blanc-de-blancs-selection-parcellaire-la-cul-crut-extra-brut-nv-disg-2020",
-   "url": "https://lastbubbles.com/products/champagne-carol-haudot-blanc-de-blancs-selection-parcellaire-la-cul-crut-extra-brut-nv-disg-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 65.0,
-   "retail": 120.0,
-   "discount": 46,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007991",
-   "variant_id": 55173377982833,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_54.jpg?v=1752854898",
-   "published_at": "2026-11-01T11:22:56-08:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-01T19:30:19Z"
   },
   {
    "id": 15565542883697,
