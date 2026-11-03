@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10978029371676,
+   "title": "Jolie-Laide Gamay Noir Sonoma County 2025",
+   "handle": "jolie-laide-gamay-noir-sonoma-county-2025",
+   "url": "https://lastbottlewines.com/products/jolie-laide-gamay-noir-sonoma-county-2025",
+   "status": "pdp",
+   "available": true,
+   "price": 17.0,
+   "retail": 38.0,
+   "discount": 55,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000624",
+   "variant_id": 54569445818652,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Jolie-LaideGamayNoirSonomaCounty2025_2000624_LB_BottleShot.jpg?v=1793657906",
+   "published_at": "2026-11-03T10:03:31-08:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-03T18:15:18Z"
+  },
+  {
    "id": 10981330190620,
    "title": "Broccardo Tre Pais Barolo 2022",
    "handle": "broccardo-tre-pais-barolo-2022",
@@ -47,54 +71,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-11-02T18:15:20Z"
-  },
-  {
-   "id": 10660934320412,
-   "title": "On Q Cabernet Sauvignon Appassionata Oakville Napa Valley 2022",
-   "handle": "on-q-cabernet-sauvignon-appassionata-oakville-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/on-q-cabernet-sauvignon-appassionata-oakville-napa-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 49.0,
-   "retail": 215.0,
-   "discount": 77,
-   "free_ship": 1,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1012522",
-   "variant_id": 53345844592924,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1012522-123698.jpg?v=1763797959",
-   "published_at": "2026-11-02T10:00:28-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-02T18:15:20Z"
-  },
-  {
-   "id": 10931066175772,
-   "title": "Pope Valley Winery Red Blend Proprietors Napa Valley 2023",
-   "handle": "pope-valley-winery-proprietary-blend-proprietor-s-blend-napa-valley-2023",
-   "url": "https://lastbottlewines.com/products/pope-valley-winery-proprietary-blend-proprietor-s-blend-napa-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 15.0,
-   "retail": 64.0,
-   "discount": 77,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000070",
-   "variant_id": 54400514916636,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/2000070.jpg?v=1788377494",
-   "published_at": "2026-11-02T09:56:17-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-02T18:00:22Z"
   },
   {
    "id": 10846355554588,
@@ -678,8 +654,7 @@
    "tags": [
     "collection:WHAO",
     "freeship:3",
-    "status:pdp",
-    "status:pdp_ad"
+    "status:pdp"
    ],
    "first_seen": null
   },
