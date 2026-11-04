@@ -25,54 +25,6 @@
    "first_seen": "2026-11-04T17:44:29Z"
   },
   {
-   "id": 15565542916465,
-   "title": "Champagne Louis Roederer Cristal Brut 2016",
-   "handle": "champagne-louis-roederer-cristal-brut-2016",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2016",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 279.0,
-   "retail": 419.0,
-   "discount": 33,
-   "free_ship": 1,
-   "vintage": 2016,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013373",
-   "variant_id": 63627730583921,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneLouisRoedererCristalBrut2016_BUB_1013373_BottleShot.jpg?v=1793727495",
-   "published_at": "2026-11-03T09:39:55-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-03T17:45:19Z"
-  },
-  {
-   "id": 15491207266673,
-   "title": "Domaine Petit Frère Prat Albert Extra Brut Crémant de Limoux NV",
-   "handle": "domaine-petit-frere-prat-albert-extra-brut-cremant-de-limoux-nv",
-   "url": "https://lastbubbles.com/products/domaine-petit-frere-prat-albert-extra-brut-cremant-de-limoux-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 24.0,
-   "retail": 40.0,
-   "discount": 40,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012896",
-   "variant_id": 63378447991153,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/DomainePetitFrerePratAlbertExtraBrutCremantdeLimouxNV_BUB_1012896_BottleShot.jpg?v=1793399785",
-   "published_at": "2026-11-02T09:35:57-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-02T17:45:17Z"
-  },
-  {
    "id": 15565542883697,
    "title": "Champagne Pol Roger Brut 2018",
    "handle": "champagne-pol-roger-brut-2018",
