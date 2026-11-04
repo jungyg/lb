@@ -237,6 +237,7 @@
    "published_at": "2026-10-04T09:47:46-07:00",
    "tags": [
     "freeship:6",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-10-04T17:00:18Z"
@@ -740,30 +741,6 @@
    "published_at": "2026-09-21T13:05:41-07:00",
    "tags": [
     "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15581223584113,
-   "title": "Champagne M. Marcoult Roseline Rosé Brut NV",
-   "handle": "champagne-m-marcoult-roseline-rose-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-m-marcoult-roseline-rose-brut-nv",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 80.0,
-   "discount": 39,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013449",
-   "variant_id": 63680418939249,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneMMarcoultRoselineRoseBrutNV_1013449_BUB_BottleShot.jpg?v=1788300068",
-   "published_at": "2026-09-18T11:37:53-07:00",
-   "tags": [
-    "freeship:3",
     "status:pdp"
    ],
    "first_seen": null
