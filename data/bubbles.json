@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15804634169713,
+   "title": "Champagne Casters Liébart Selection de 3 Cepages Brut NV",
+   "handle": "champagne-casters-leibart-selection-de-3-cepages-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-casters-leibart-selection-de-3-cepages-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 38.0,
+   "retail": 70.0,
+   "discount": 46,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013475",
+   "variant_id": 63988091060593,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Casters_Leibart_Selection_de_3_Cepages_Brut_NV_1013475_BUB_BottleShot.jpg?v=1793729948",
+   "published_at": "2026-11-04T09:41:19-08:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-04T17:44:29Z"
+  },
+  {
    "id": 15565542916465,
    "title": "Champagne Louis Roederer Cristal Brut 2016",
    "handle": "champagne-louis-roederer-cristal-brut-2016",
