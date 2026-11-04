@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10983025574172,
+   "title": "Tony Bish Chardonnay The Family Hawkes Bay 2025",
+   "handle": "tony-bish-chardonnay-the-family-hawkes-bay-2025",
+   "url": "https://lastbottlewines.com/products/tony-bish-chardonnay-the-family-hawkes-bay-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 19.0,
+   "retail": 50.0,
+   "discount": 62,
+   "free_ship": 4,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015706",
+   "variant_id": 54600070365468,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/TonyBishChardonnayTheFamilyHawkesBay2025_1015706_LB_BottleShot.jpg?v=1793727221",
+   "published_at": "2026-11-04T09:56:02-08:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-04T18:00:23Z"
+  },
+  {
    "id": 10979884990748,
    "title": "Mystery Zinfandel Napa Valley 2019",
    "handle": "mystery-zinfandel-napa-valley-2019",
@@ -48,30 +72,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-11-03T18:15:18Z"
-  },
-  {
-   "id": 10981330190620,
-   "title": "Broccardo Tre Pais Barolo 2022",
-   "handle": "broccardo-tre-pais-barolo-2022",
-   "url": "https://lastbottlewines.com/products/broccardo-tre-pais-barolo-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 29.0,
-   "retail": 55.0,
-   "discount": 47,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015261",
-   "variant_id": 54581337030940,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BroccardoTrePaisBarolo2022_1015264_LB_BottleShot.jpg?v=1793637687",
-   "published_at": "2026-11-03T09:56:03-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-03T18:00:23Z"
   },
   {
    "id": 10705891918108,
@@ -663,7 +663,7 @@
    "title": "Massimo Rivetti Froi Barbaresco 2021",
    "handle": "massimo-rivetti-froi-barbaresco-2021",
    "url": "https://lastbottlewines.com/products/massimo-rivetti-froi-barbaresco-2021",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 32.0,
    "retail": 70.0,
@@ -679,7 +679,6 @@
    "tags": [
     "collection:WHAO",
     "freeship:3",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
