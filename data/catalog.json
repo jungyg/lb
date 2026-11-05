@@ -1,29 +1,55 @@
 {
  "products": [
   {
-   "id": 10744256987420,
-   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
-   "handle": "cupano-ombrone-santantimo-tuscany-2019",
-   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "id": 10978424095004,
+   "title": "Sojourn Pinot Noir Sonoma Coast 2023",
+   "handle": "sojourn-pinot-noir-sonoma-coast-2023",
+   "url": "https://lastbottlewines.com/products/sojourn-pinot-noir-sonoma-coast-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 69.0,
-   "retail": 150.0,
-   "discount": 54,
-   "free_ship": 2,
-   "vintage": 2019,
+   "price": 15.0,
+   "retail": 48.0,
+   "discount": 69,
+   "free_ship": 6,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1011490",
-   "variant_id": 53796680171804,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
-   "published_at": "2026-11-05T08:45:11-08:00",
+   "sku": "2000489",
+   "variant_id": 54571201855772,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SojournPinotNoirSonomaCoast2023_2000489_LB_BottleShot.jpg?v=1793813289",
+   "published_at": "2026-11-05T09:56:02-08:00",
    "tags": [
-    "backup",
-    "freeship:2",
+    "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-05T16:45:21Z"
+   "first_seen": "2026-11-05T18:00:23Z"
+  },
+  {
+   "id": 10883558277404,
+   "title": "Beaulieu Vineyard Cabernet Sauvignon Bonded Winery No. 71 Napa Valley 2023",
+   "handle": "beaulieu-vineyard-cabernet-sauvignon-bonded-winery-no-71-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/beaulieu-vineyard-cabernet-sauvignon-bonded-winery-no-71-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 35.0,
+   "retail": 90.0,
+   "discount": 61,
+   "free_ship": 3,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015613",
+   "variant_id": 54254068695324,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BeaulieuVineyard_1015613_LB_BottleShot.jpg?v=1783370889",
+   "published_at": "2026-11-05T09:54:59-08:00",
+   "tags": [
+    "collection:growth",
+    "collection:pour",
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-11-05T18:00:23Z"
   },
   {
    "id": 11001836634396,
@@ -280,32 +306,6 @@
    "first_seen": "2026-11-04T19:15:17Z"
   },
   {
-   "id": 10906711589148,
-   "title": "Benoit Chauveau Premiers Pas Pouilly Fumé 2024",
-   "handle": "benoit-chauveau-premiers-pas-pouilly-fume-2024",
-   "url": "https://lastbottlewines.com/products/benoit-chauveau-premiers-pas-pouilly-fume-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 45.0,
-   "discount": 51,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013805",
-   "variant_id": 54326423585052,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Benoit_Chauveau_Les_Collines_de_Lise_Premier_Pas_Pouilly-Fume_1013805_LB_BottleShot.jpg?v=1786495981",
-   "published_at": "2026-11-04T10:00:28-08:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer",
-    "status:pdp"
-   ],
-   "first_seen": "2026-11-04T18:15:20Z"
-  },
-  {
    "id": 10979884990748,
    "title": "Mystery Zinfandel Napa Valley 2019",
    "handle": "mystery-zinfandel-napa-valley-2019",
@@ -450,6 +450,7 @@
    "published_at": "2026-10-27T07:28:23-07:00",
    "tags": [
     "backup",
+    "collection:growth",
     "freeship:3",
     "status:pdp",
     "status:pdp_ad"
@@ -761,31 +762,6 @@
    "first_seen": "2026-09-30T19:00:25Z"
   },
   {
-   "id": 10978025275676,
-   "title": "KHK Cabernet Sauvignon Napa Valley 2024",
-   "handle": "khk-cabernet-sauvignon-napa-valley-2024",
-   "url": "https://lastbottlewines.com/products/khk-cabernet-sauvignon-napa-valley-2024",
-   "status": "pdp",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 3,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000511",
-   "variant_id": 54569441526044,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/KHK_CSV24_NV_2000511_BottleShot_e983935e-11ba-4f71-8b2a-658e863fa79e.jpg?v=1789752496",
-   "published_at": "2026-09-28T10:49:23-07:00",
-   "tags": [
-    "freeship:3",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": "2026-09-28T18:00:26Z"
-  },
-  {
    "id": 10796522602780,
    "title": "Grape Culture Cabernet Sauvignon GC22 Napa Valley 2022",
    "handle": "grape-culture-cabernet-sauvignon-reserve-napa-valley-2022",
@@ -829,8 +805,6 @@
    "published_at": "2026-09-25T15:25:50-07:00",
    "tags": [
     "backup",
-    "collection:growth",
-    "collection:swirl",
     "freeship:3",
     "status:pdp",
     "status:pdp_ad"
