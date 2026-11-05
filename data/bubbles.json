@@ -1,6 +1,27 @@
 {
  "products": [
   {
+   "id": 15363492708721,
+   "title": "Champagne Paul Berthelot Eminence Brut Premier Cru NV",
+   "handle": "champagne-paul-berthelot-eminence-brut-premier-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-paul-berthelot-eminence-brut-premier-cru-nv-nd",
+   "status": "other",
+   "available": true,
+   "price": 38.0,
+   "retail": 65.0,
+   "discount": 42,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000691-002",
+   "variant_id": 62817189921137,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/0L1A7319.jpg?v=1770927027",
+   "published_at": "2026-11-05T14:42:18-08:00",
+   "tags": [],
+   "first_seen": "2026-11-05T22:45:16Z"
+  },
+  {
    "id": 15581223747953,
    "title": "Champagne Monmarthe Le Moulin à Vent Extra Brut Premier Cru 2019",
    "handle": "champagne-monmarthe-le-moulin-a-vent-extra-brut-premier-cru-2019",
