@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10744256987420,
+   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
+   "handle": "cupano-ombrone-santantimo-tuscany-2019",
+   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 150.0,
+   "discount": 54,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011490",
+   "variant_id": 53796680171804,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
+   "published_at": "2026-11-05T08:45:11-08:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-05T16:45:21Z"
+  },
+  {
    "id": 11001836634396,
    "title": "Thomas Fogarty Chardonnay Santa Cruz Mountains 2023",
    "handle": "thomas-fogarty-chardonnay-santa-cruz-mountains-2023",
@@ -279,30 +304,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-11-04T18:15:20Z"
-  },
-  {
-   "id": 10983025574172,
-   "title": "Tony Bish Chardonnay The Family Hawkes Bay 2025",
-   "handle": "tony-bish-chardonnay-the-family-hawkes-bay-2025",
-   "url": "https://lastbottlewines.com/products/tony-bish-chardonnay-the-family-hawkes-bay-2025",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 50.0,
-   "discount": 62,
-   "free_ship": 4,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015706",
-   "variant_id": 54600070365468,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/TonyBishChardonnayTheFamilyHawkesBay2025_1015706_LB_BottleShot.jpg?v=1793727221",
-   "published_at": "2026-11-04T09:56:02-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-04T18:00:23Z"
   },
   {
    "id": 10979884990748,
