@@ -1,6 +1,131 @@
 {
  "products": [
   {
+   "id": 15439515746673,
+   "title": "Champagne Louis Roederer Cristal Brut 2005 (Magnum 1.5L)",
+   "handle": "champagne-louis-roederer-cristal-brut-2005-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2005-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 999.0,
+   "retail": 1999.0,
+   "discount": 50,
+   "free_ship": 1,
+   "vintage": 2005,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1004651",
+   "variant_id": 63209318777201,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LoisRoedererCristal_1004651_BUB_BottleShot.jpg?v=1781714509",
+   "published_at": "2026-11-06T08:29:32-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T16:30:21Z"
+  },
+  {
+   "id": 15335901823345,
+   "title": "Champagne Gardet Brut Réserve Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-gardet-brut-reserve-premier-cru-nv-magnum-1-5l-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-gardet-brut-reserve-premier-cru-nv-magnum-1-5l-new-disgorgement",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 150.0,
+   "discount": 34,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000233-001",
+   "variant_id": 62708816478577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Gardet-Brut-Reserve-Premier-Cru-NV-_Magnum_-product-image-68-large.jpg?v=1717559194",
+   "published_at": "2026-11-06T08:28:37-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T16:30:21Z"
+  },
+  {
+   "id": 15204897784177,
+   "title": "Champagne J. Lassalle Special Club Brut Premier Cru 2014 (Magnum 1.5L)",
+   "handle": "champagne-j-lassalle-special-club-brut-premier-cru-2014-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-j-lassalle-special-club-brut-premier-cru-2014-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 209.0,
+   "retail": 300.0,
+   "discount": 30,
+   "free_ship": 1,
+   "vintage": 2014,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008800",
+   "variant_id": 55681457357169,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008800.jpg?v=1762301762",
+   "published_at": "2026-11-06T08:27:40-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T16:30:21Z"
+  },
+  {
+   "id": 15539512770929,
+   "title": "Champagne Gounel Lassalle Le Haut Belai Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L) (nd)",
+   "handle": "champagne-gounel-lassalle-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l-nd",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 149.0,
+   "retail": 225.0,
+   "discount": 34,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008034-001",
+   "variant_id": 63553133412721,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008034.jpg?v=1762301589",
+   "published_at": "2026-11-06T08:26:16-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T16:30:21Z"
+  },
+  {
+   "id": 15971339436401,
+   "title": "Champagne Bonnet-Gilmert Blanc de Blancs La Réserve Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-bonnet-gilmert-blanc-de-blancs-la-reserve-brut-grand-cru-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-blanc-de-blancs-la-reserve-brut-grand-cru-nv-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 119.0,
+   "retail": 175.0,
+   "discount": 32,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1014040",
+   "variant_id": 64413177151857,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-18.jpg?v=1793744513",
+   "published_at": "2026-11-06T08:24:53-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T16:30:21Z"
+  },
+  {
    "id": 15363492708721,
    "title": "Champagne Paul Berthelot Eminence Brut Premier Cru NV",
    "handle": "champagne-paul-berthelot-eminence-brut-premier-cru-nv-nd",
@@ -44,30 +169,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-05T18:00:23Z"
-  },
-  {
-   "id": 15804634169713,
-   "title": "Champagne Casters Liébart Selection de 3 Cepages Brut NV",
-   "handle": "champagne-casters-leibart-selection-de-3-cepages-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-casters-leibart-selection-de-3-cepages-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 38.0,
-   "retail": 70.0,
-   "discount": 46,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013475",
-   "variant_id": 63988091060593,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Casters_Leibart_Selection_de_3_Cepages_Brut_NV_1013475_BUB_BottleShot.jpg?v=1793729948",
-   "published_at": "2026-11-04T09:41:19-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-04T17:44:29Z"
   },
   {
    "id": 15565542883697,
@@ -626,12 +727,12 @@
    "title": "Champagne Gallimard Père et Fils Blanc de Noirs Cuvée de Reserve Les Riceys Brut NV (Magnum 1.5L)(ND)",
    "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
    "url": "https://lastbubbles.com/products/champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 84.0,
    "retail": 150.0,
    "discount": 44,
-   "free_ship": null,
+   "free_ship": 1,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -640,8 +741,10 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Gallimard-Cuvee-de-Reserve-Blanc-de-Noirs-A-Les-Riceys-NV-_Magnum_-product-image-67-large.jpg?v=1717559193",
    "published_at": "2026-09-28T12:44:39-07:00",
    "tags": [
+    "freeship:1",
     "LGF",
     "shop-collection",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-09-28T19:45:18Z"
