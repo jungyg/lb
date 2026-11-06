@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 15539512508785,
+   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Alphaël Extra Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-alphael-extra-brut-grand-cru-nv-magnum-1-5l-nd",
+   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-d-alphael-extra-brut-grand-cru-nv-magnum-1-5l-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 170.0,
+   "discount": 42,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007171-001",
+   "variant_id": 63553133183345,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007171.jpg?v=1762992264",
+   "published_at": "2026-11-06T14:39:09-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T22:45:16Z"
+  },
+  {
    "id": 15501117784433,
    "title": "Champagne Fluteau Coeur de Cuvée Extra Brut NV (Magnum 1.5L)",
    "handle": "champagne-fluteau-coeur-de-cuvee-extra-brut-nv-magnum-1-5l-nd",
@@ -1638,12 +1663,12 @@
    "title": "Champagne Bollinger La Grand Année Brut 2014 (Magnum 1.5L)",
    "handle": "champagne-bollinger-la-grand-annee-brut-2014-magnum-1-5l",
    "url": "https://lastbubbles.com/products/champagne-bollinger-la-grand-annee-brut-2014-magnum-1-5l",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 309.0,
    "retail": 425.0,
    "discount": 27,
-   "free_ship": null,
+   "free_ship": 1,
    "vintage": 2014,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -1652,7 +1677,9 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008392.jpg?v=1762301658",
    "published_at": "2026-08-14T11:36:55-07:00",
    "tags": [
-    "LGF"
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
    ],
    "first_seen": null
   },
