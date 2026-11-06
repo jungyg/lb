@@ -1,11 +1,36 @@
 {
  "products": [
   {
+   "id": 15991331094897,
+   "title": "Champagne Roland Boulard & Filles Les Racines de Roland Brut NV (3L)",
+   "handle": "champagne-roland-boulard-filles-les-racines-de-roland-brut-nv-3l",
+   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-les-racines-de-roland-brut-nv-3l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 179.0,
+   "retail": 300.0,
+   "discount": 40,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013847",
+   "variant_id": 64511109726577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-19_1.jpg?v=1793995479",
+   "published_at": "2026-11-06T12:02:56-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T20:15:17Z"
+  },
+  {
    "id": 15804633678193,
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
    "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "status": "dailyoffer",
+   "status": "other",
    "available": true,
    "price": 109.0,
    "retail": 149.0,
@@ -20,8 +45,7 @@
    "published_at": "2026-11-06T11:50:29-08:00",
    "tags": [
     "freeship:1",
-    "LGF",
-    "status:dailyoffer"
+    "LGF"
    ],
    "first_seen": "2026-11-06T20:00:21Z"
   },
