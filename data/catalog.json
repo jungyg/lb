@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10828863537436,
+   "title": "Edoardo Sobrino Barolo di Verduno 2021",
+   "handle": "edoardo-sobrino-barolo-di-verduno-2021",
+   "url": "https://lastbottlewines.com/products/edoardo-sobrino-barolo-di-verduno-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": 2,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Viteoak - E&M Importing LLC",
+   "sku": "1012478",
+   "variant_id": 54079734808860,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/EdoardoSobrino_1012478_LB_BottleShot.jpg?v=1783789487",
+   "published_at": "2026-11-06T10:07:15-08:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T18:15:16Z"
+  },
+  {
    "id": 10796523127068,
    "title": "Villa Poggio Salvi Pomona Brunello di Montalcino 2020",
    "handle": "villa-poggio-salvi-pomona-brunello-di-montalcino-2020",
