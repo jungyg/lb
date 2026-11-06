@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 10744256987420,
+   "title": "Cupano Sant'Antimo Ombrone Tuscany 2019",
+   "handle": "cupano-ombrone-santantimo-tuscany-2019",
+   "url": "https://lastbottlewines.com/products/cupano-ombrone-santantimo-tuscany-2019",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 69.0,
+   "retail": 150.0,
+   "discount": 54,
+   "free_ship": 2,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1011490",
+   "variant_id": 53796680171804,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1011490_LB_BottleShot.jpg?v=1771174459",
+   "published_at": "2026-11-06T09:07:08-08:00",
+   "tags": [
+    "backup",
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T17:15:17Z"
+  },
+  {
    "id": 10976368951580,
    "title": "Rose & Arrow Pinot Noir Red Label Willamette Valley 2024",
    "handle": "rose-arrow-pinot-noir-red-label-willamette-valley-2024",
@@ -23,30 +48,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-05T19:45:17Z"
-  },
-  {
-   "id": 10978424095004,
-   "title": "Sojourn Pinot Noir Sonoma Coast 2023",
-   "handle": "sojourn-pinot-noir-sonoma-coast-2023",
-   "url": "https://lastbottlewines.com/products/sojourn-pinot-noir-sonoma-coast-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 15.0,
-   "retail": 48.0,
-   "discount": 69,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000489",
-   "variant_id": 54571201855772,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SojournPinotNoirSonomaCoast2023_2000489_LB_BottleShot.jpg?v=1793813289",
-   "published_at": "2026-11-05T09:56:02-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-05T18:00:23Z"
   },
   {
    "id": 10883558277404,
