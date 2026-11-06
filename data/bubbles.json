@@ -1,6 +1,56 @@
 {
  "products": [
   {
+   "id": 15461615436145,
+   "title": "Champagne Gondé-Rousseaux Chapitre II Blanc de Noirs Brut 2018 (Magnum 1.5L)",
+   "handle": "champagne-gonde-rousseaux-chapitre-ii-blanc-de-noirs-brut-2018-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-gonde-rousseaux-chapitre-ii-blanc-de-noirs-brut-2018-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 174.0,
+   "retail": 275.0,
+   "discount": 37,
+   "free_ship": 1,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012824",
+   "variant_id": 63257098584433,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-5_ce1032ff-e717-41f2-b7cb-41f8e2b7e72e.jpg?v=1793743700",
+   "published_at": "2026-11-06T09:35:53-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T17:45:17Z"
+  },
+  {
+   "id": 15876252696945,
+   "title": "Champagne Maxime Blin Nos Moments Carte Blanche Extra Brut Trigny NV (Magnum 1.5L)",
+   "handle": "champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-magnums-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-magnums-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 150.0,
+   "discount": 34,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013399",
+   "variant_id": 64111701492081,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3_ecb1ee4e-c822-4cae-b3a8-cad2039055ef.jpg?v=1793743596",
+   "published_at": "2026-11-06T09:34:28-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T17:45:17Z"
+  },
+  {
    "id": 15439515746673,
    "title": "Champagne Louis Roederer Cristal Brut 2005 (Magnum 1.5L)",
    "handle": "champagne-louis-roederer-cristal-brut-2005-magnum-1-5l",
@@ -43,31 +93,6 @@
    "variant_id": 62708816478577,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Gardet-Brut-Reserve-Premier-Cru-NV-_Magnum_-product-image-68-large.jpg?v=1717559194",
    "published_at": "2026-11-06T08:28:37-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T16:30:21Z"
-  },
-  {
-   "id": 15204897784177,
-   "title": "Champagne J. Lassalle Special Club Brut Premier Cru 2014 (Magnum 1.5L)",
-   "handle": "champagne-j-lassalle-special-club-brut-premier-cru-2014-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-j-lassalle-special-club-brut-premier-cru-2014-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 209.0,
-   "retail": 300.0,
-   "discount": 30,
-   "free_ship": 1,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008800",
-   "variant_id": 55681457357169,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008800.jpg?v=1762301762",
-   "published_at": "2026-11-06T08:27:40-08:00",
    "tags": [
     "freeship:1",
     "LGF",
@@ -656,7 +681,7 @@
    "title": "Champagne Gallimard Père et Fils Blanc de Noirs Cuvée de Reserve Les Riceys Brut NV (Magnum 1.5L)",
    "handle": "champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
    "url": "https://lastbubbles.com/products/champagne-gallimard-pere-et-fils-blanc-de-noirs-cuvee-de-reserve-les-riceys-brut-nv-magnum-1-5l-nd",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 84.0,
    "retail": 150.0,
@@ -673,7 +698,6 @@
     "freeship:1",
     "LGF",
     "shop-collection",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-09-28T19:45:18Z"
