@@ -1,6 +1,56 @@
 {
  "products": [
   {
+   "id": 15581223551345,
+   "title": "Champagne Monmarthe Privilège Brut Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-monmarthe-privilege-brut-premier-cru-nv-magnum-1-5l-nd",
+   "url": "https://lastbubbles.com/products/champagne-monmarthe-privilege-brut-premier-cru-nv-magnum-1-5l-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 89.0,
+   "retail": 150.0,
+   "discount": 41,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007205-002",
+   "variant_id": 63680418906481,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneMonmarthePrivlegeBrutPremierCruNV_Magnum1.5L_1007205.jpg?v=1748189935",
+   "published_at": "2026-11-06T13:59:20-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T22:00:21Z"
+  },
+  {
+   "id": 9564299329851,
+   "title": "Champagne Paul Déthune Blanc de Noirs Les Crayères Extra Brut Grand Cru 2015 (Magnum 1.5L)",
+   "handle": "champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2015-magnum-15l",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2015-magnum-15l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 349.0,
+   "retail": 600.0,
+   "discount": 42,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000440",
+   "variant_id": 48908075106619,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000440_BottleShot.jpg?v=1730768107",
+   "published_at": "2026-11-06T13:57:34-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T22:00:21Z"
+  },
+  {
    "id": 9564298215739,
    "title": "Champagne Petit & Bajan Blanc de Blancs Nuit Blanche Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-petit-and-bajan-blanc-de-blancs-nuit-blanche-grand-cru-nv-magnum-15l",
@@ -49,31 +99,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T21:15:17Z"
-  },
-  {
-   "id": 16033074413937,
-   "title": "Champagne Billecart-Salmon Le Réserve Brut NV (Magnum 1.5L)",
-   "handle": "champagne-billecart-salmon-le-reserve-brut-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-le-reserve-brut-nv-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 139.0,
-   "retail": 200.0,
-   "discount": 31,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "2000728",
-   "variant_id": 67611002732913,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-11.jpg?v=1793744146",
-   "published_at": "2026-11-06T12:26:47-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T20:30:20Z"
   },
   {
    "id": 15386232881521,
