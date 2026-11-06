@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 15523470508401,
+   "title": "Champagne Ayala Brut Rosé Majeur NV (Magnum 1.5L)",
+   "handle": "champagne-ayala-brut-rose-majeur-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-ayala-brut-rose-majeur-nv-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 129.0,
+   "retail": 190.0,
+   "discount": 32,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013993",
+   "variant_id": 63504760209777,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-8.jpg?v=1793743883",
+   "published_at": "2026-11-06T15:08:25-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T23:15:19Z"
+  },
+  {
    "id": 15539512508785,
    "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Alphaël Extra Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-alphael-extra-brut-grand-cru-nv-magnum-1-5l-nd",
@@ -49,31 +74,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T22:30:19Z"
-  },
-  {
-   "id": 15004196438385,
-   "title": "Champagne Gounel Lassalle Terre d'Ancetres Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": false,
-   "price": 149.0,
-   "retail": 199.0,
-   "discount": 25,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008041",
-   "variant_id": 55202941010289,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bubbles_SKU_BottleShot-26.jpg?v=1762302132",
-   "published_at": "2026-11-06T14:03:05-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T22:15:15Z"
   },
   {
    "id": 9564312764731,
