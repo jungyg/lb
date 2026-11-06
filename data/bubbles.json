@@ -1,6 +1,56 @@
 {
  "products": [
   {
+   "id": 15004196438385,
+   "title": "Champagne Gounel Lassalle Terre d'Ancetres Brut Nature Chigny Les Rosés Premier Cru NV (Magnum 1.5L)",
+   "handle": "champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-terre-dancetres-brut-nature-chigny-les-roses-premier-cru-nv-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 149.0,
+   "retail": 199.0,
+   "discount": 25,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008041",
+   "variant_id": 55202941010289,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bubbles_SKU_BottleShot-26.jpg?v=1762302132",
+   "published_at": "2026-11-06T14:03:05-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T22:15:15Z"
+  },
+  {
+   "id": 9564312764731,
+   "title": "Champagne Taittinger Comtes De Champagne Rosé Brut 2007 (6L)",
+   "handle": "champagne-taittinger-comtes-de-champagne-rose-brut-2007-6l",
+   "url": "https://lastbubbles.com/products/champagne-taittinger-comtes-de-champagne-rose-brut-2007-6l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 2300.0,
+   "retail": 5000.0,
+   "discount": 54,
+   "free_ship": 1,
+   "vintage": 2007,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000577",
+   "variant_id": 48908094964027,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Taittinger-Comtes-De-Champagne-Rose-2007-_6-Liter_-product-image-74-large.jpg?v=1717457689",
+   "published_at": "2026-11-06T14:02:09-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T22:15:15Z"
+  },
+  {
    "id": 15581223551345,
    "title": "Champagne Monmarthe Privilège Brut Premier Cru NV (Magnum 1.5L)",
    "handle": "champagne-monmarthe-privilege-brut-premier-cru-nv-magnum-1-5l-nd",
