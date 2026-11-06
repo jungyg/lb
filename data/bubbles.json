@@ -1,6 +1,81 @@
 {
  "products": [
   {
+   "id": 9564298215739,
+   "title": "Champagne Petit & Bajan Blanc de Blancs Nuit Blanche Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-petit-and-bajan-blanc-de-blancs-nuit-blanche-grand-cru-nv-magnum-15l",
+   "url": "https://lastbubbles.com/products/champagne-petit-and-bajan-blanc-de-blancs-nuit-blanche-grand-cru-nv-magnum-15l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 156.0,
+   "retail": 200.0,
+   "discount": 22,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000697-002",
+   "variant_id": 48908071371067,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Domaine-Petit--Bajan-Blanc-de-Blancs-Nuit-Blanche-Grand-Cru-NV-_Magnum-1.5L_-product-image-446-large.jpg?v=1717804567",
+   "published_at": "2026-11-06T13:14:39-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T21:15:17Z"
+  },
+  {
+   "id": 15386232717681,
+   "title": "Ginglinger-Fix Crémant d'Alsace Extra Brut 2023 (Magnum 1.5L)",
+   "handle": "ginglinger-fix-cremant-dalsace-extra-brut-2023-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/ginglinger-fix-cremant-dalsace-extra-brut-2023-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 75.0,
+   "discount": 21,
+   "free_ship": 1,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008999",
+   "variant_id": 62906506412401,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ginglinger-Fix_Cremant_d_Alsace_Extra_Brut_2023_Magnum_1.5L__1008999_BUB_BottleShot.jpg?v=1788539162",
+   "published_at": "2026-11-06T13:13:55-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T21:15:17Z"
+  },
+  {
+   "id": 15029018591601,
+   "title": "Champagne Marc Hébrart Special Club Brut Premier Cru 2019 (Magnum 1.5L)",
+   "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2019-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 199.0,
+   "retail": 260.0,
+   "discount": 23,
+   "free_ship": 1,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007154",
+   "variant_id": 55274111271281,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_65.jpg?v=1753717663",
+   "published_at": "2026-11-06T13:13:05-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-06T21:15:17Z"
+  },
+  {
    "id": 16033074413937,
    "title": "Champagne Billecart-Salmon Le Réserve Brut NV (Magnum 1.5L)",
    "handle": "champagne-billecart-salmon-le-reserve-brut-nv-magnum-1-5l",
