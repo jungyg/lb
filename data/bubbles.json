@@ -401,31 +401,6 @@
    "first_seen": "2026-11-06T18:45:16Z"
   },
   {
-   "id": 15928966971761,
-   "title": "Champagne Pierre Gimonnet et Fils Rosé de Blancs Brut Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-pierre-gimonnet-et-fils-rose-de-blancs-brut-premier-cru-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-pierre-gimonnet-et-fils-rose-de-blancs-brut-premier-cru-nv-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 139.0,
-   "retail": 200.0,
-   "discount": 31,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012834",
-   "variant_id": 64259770679665,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-12.jpg?v=1793744183",
-   "published_at": "2026-11-06T10:04:58-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T18:15:16Z"
-  },
-  {
    "id": 15928967201137,
    "title": "Champagne Diebolt-Vallois Blanc de Blancs Fleur de Passion Cramant Brut Grand Cru 2015 (Magnum 1.5L)",
    "handle": "champagne-diebolt-vallois-blanc-de-blancs-fleur-de-passion-cramant-brut-grand-cru-2015-magnum-1-5l",
@@ -474,31 +449,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T17:45:17Z"
-  },
-  {
-   "id": 15439515746673,
-   "title": "Champagne Louis Roederer Cristal Brut 2005 (Magnum 1.5L)",
-   "handle": "champagne-louis-roederer-cristal-brut-2005-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-louis-roederer-cristal-brut-2005-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 999.0,
-   "retail": 1999.0,
-   "discount": 50,
-   "free_ship": 1,
-   "vintage": 2005,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1004651",
-   "variant_id": 63209318777201,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LoisRoedererCristal_1004651_BUB_BottleShot.jpg?v=1781714509",
-   "published_at": "2026-11-06T08:29:32-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T16:30:21Z"
   },
   {
    "id": 15335901823345,
