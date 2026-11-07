@@ -1,6 +1,81 @@
 {
  "products": [
   {
+   "id": 15064703893873,
+   "title": "Champagne Egly-Ouriet V.P. Vieillissement Prolongé Extra Brut Grand Cru NV (Magnum 1.5L)",
+   "handle": "champagne-egly-ouriet-v-p-vieillissement-prolonge-extra-brut-grand-cru-nv-magnum-1-5l-new-disg",
+   "url": "https://lastbubbles.com/products/champagne-egly-ouriet-v-p-vieillissement-prolonge-extra-brut-grand-cru-nv-magnum-1-5l-new-disg",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 429.0,
+   "retail": 550.0,
+   "discount": 22,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008628-001",
+   "variant_id": 55616547455345,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/EglyOuriet_1008628_BottleShot_ba5d8bc9-90ed-45f9-b75f-13134fb1018d.jpg?v=1757717433",
+   "published_at": "2026-11-06T16:05:12-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-07T00:15:15Z"
+  },
+  {
+   "id": 15386232783217,
+   "title": "Champagne Antoine Derigny Rosé Brut NV (Magnum 1.5L)",
+   "handle": "champagne-antoine-derigny-rose-brut-nv-magum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-antoine-derigny-rose-brut-nv-magum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 94.0,
+   "retail": 150.0,
+   "discount": 37,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010020",
+   "variant_id": 62906506379633,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_7_11ffd2d3-cc47-47e0-befb-dddec0d45deb.jpg?v=1773850752",
+   "published_at": "2026-11-06T16:03:26-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-07T00:15:15Z"
+  },
+  {
+   "id": 9777225990459,
+   "title": "Champagne Laurent-Perrier Grand Siècle Iteration #23 Brut NV (Magnum 1.5L)",
+   "handle": "champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "url": "https://lastbubbles.com/products/champagne-laurent-perrier-grand-siecle-iteration-23-brut-nv-magnum-1-5l",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 429.0,
+   "retail": 600.0,
+   "discount": 29,
+   "free_ship": 1,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007196",
+   "variant_id": 49385988391227,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/LaurentPerrier_1007196_BottleShot.jpg?v=1726145620",
+   "published_at": "2026-11-06T16:01:58-08:00",
+   "tags": [
+    "freeship:1",
+    "LGF",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-07T00:15:15Z"
+  },
+  {
    "id": 15523470508401,
    "title": "Champagne Ayala Brut Rosé Majeur NV (Magnum 1.5L)",
    "handle": "champagne-ayala-brut-rose-majeur-nv-magnum-1-5l",
@@ -280,7 +355,7 @@
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
    "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 109.0,
    "retail": 149.0,
@@ -295,7 +370,8 @@
    "published_at": "2026-11-06T11:50:29-08:00",
    "tags": [
     "freeship:1",
-    "LGF"
+    "LGF",
+    "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T20:00:21Z"
   },
