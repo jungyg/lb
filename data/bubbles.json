@@ -1,31 +1,6 @@
 {
  "products": [
   {
-   "id": 15386232783217,
-   "title": "Champagne Antoine Derigny Rosé Brut NV (Magnum 1.5L)",
-   "handle": "champagne-antoine-derigny-rose-brut-nv-magum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-antoine-derigny-rose-brut-nv-magum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 94.0,
-   "retail": 150.0,
-   "discount": 37,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010020",
-   "variant_id": 62906506379633,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_7_11ffd2d3-cc47-47e0-befb-dddec0d45deb.jpg?v=1773850752",
-   "published_at": "2026-11-06T16:03:26-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-07T00:15:15Z"
-  },
-  {
    "id": 15539512508785,
    "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Alphaël Extra Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-alphael-extra-brut-grand-cru-nv-magnum-1-5l-nd",
@@ -49,56 +24,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T22:45:16Z"
-  },
-  {
-   "id": 15501117784433,
-   "title": "Champagne Fluteau Coeur de Cuvée Extra Brut NV (Magnum 1.5L)",
-   "handle": "champagne-fluteau-coeur-de-cuvee-extra-brut-nv-magnum-1-5l-nd",
-   "url": "https://lastbubbles.com/products/champagne-fluteau-coeur-de-cuvee-extra-brut-nv-magnum-1-5l-nd",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 89.0,
-   "retail": 150.0,
-   "discount": 41,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007212-001",
-   "variant_id": 63414963536241,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Fluteau_1007212_BottleShot.jpg?v=1728310575",
-   "published_at": "2026-11-06T14:24:12-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T22:30:19Z"
-  },
-  {
-   "id": 9564312764731,
-   "title": "Champagne Taittinger Comtes De Champagne Rosé Brut 2007 (6L)",
-   "handle": "champagne-taittinger-comtes-de-champagne-rose-brut-2007-6l",
-   "url": "https://lastbubbles.com/products/champagne-taittinger-comtes-de-champagne-rose-brut-2007-6l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 2300.0,
-   "retail": 5000.0,
-   "discount": 54,
-   "free_ship": 1,
-   "vintage": 2007,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000577",
-   "variant_id": 48908094964027,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Taittinger-Comtes-De-Champagne-Rose-2007-_6-Liter_-product-image-74-large.jpg?v=1717457689",
-   "published_at": "2026-11-06T14:02:09-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T22:15:15Z"
   },
   {
    "id": 15991331094897,
@@ -174,31 +99,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T19:30:20Z"
-  },
-  {
-   "id": 15876252696945,
-   "title": "Champagne Maxime Blin Nos Moments Carte Blanche Extra Brut Trigny NV (Magnum 1.5L)",
-   "handle": "champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-magnums-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-maxime-blin-nos-moments-carte-blanche-extra-brut-trigny-nv-magnums-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 150.0,
-   "discount": 34,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013399",
-   "variant_id": 64111701492081,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/SKU_BUB_BottleShot-3_ecb1ee4e-c822-4cae-b3a8-cad2039055ef.jpg?v=1793743596",
-   "published_at": "2026-11-06T09:34:28-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T17:45:17Z"
   },
   {
    "id": 15335901823345,
@@ -1310,31 +1210,6 @@
    "first_seen": null
   },
   {
-   "id": 15064703992177,
-   "title": "Champagne Bollinger La Grand Année Brut 2014 (Magnum 1.5L)",
-   "handle": "champagne-bollinger-la-grand-annee-brut-2014-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-bollinger-la-grand-annee-brut-2014-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 309.0,
-   "retail": 425.0,
-   "discount": 27,
-   "free_ship": 1,
-   "vintage": 2014,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008392",
-   "variant_id": 55616547520881,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008392.jpg?v=1762301658",
-   "published_at": "2026-08-14T11:36:55-07:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15040784793969,
    "title": "Champagne Piper-Heidsieck Rosé Cuvée Rare Brut 2014",
    "handle": "champagne-piper-heidsieck-rose-cuvee-rare-brut-2014",
@@ -2020,7 +1895,7 @@
   },
   {
    "id": 9564572385595,
-   "title": "Cool-Pack (Add to your First Order Only!)",
+   "title": "Cool-Pack",
    "handle": "ice-pack-shipping",
    "url": "https://lastbubbles.com/products/ice-pack-shipping",
    "status": "upsell",
