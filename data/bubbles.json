@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14584560779633,
+   "title": "Champagne André Robert Blanc de Blancs Terre du Mesnil Brut Grand Cru 2018",
+   "handle": "champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
+   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 119.0,
+   "retail": 140.0,
+   "discount": 15,
+   "free_ship": 1,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007263",
+   "variant_id": 51568289644913,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_48_94e5f199-27e2-4394-8717-f926f02f8676.jpg?v=1774287275",
+   "published_at": "2026-11-07T09:31:23-08:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-07T17:45:14Z"
+  },
+  {
    "id": 15539512508785,
    "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d’Alphaël Extra Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-d-alphael-extra-brut-grand-cru-nv-magnum-1-5l-nd",
@@ -74,31 +98,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-06T19:30:20Z"
-  },
-  {
-   "id": 15335901823345,
-   "title": "Champagne Gardet Brut Réserve Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-gardet-brut-reserve-premier-cru-nv-magnum-1-5l-new-disgorgement",
-   "url": "https://lastbubbles.com/products/champagne-gardet-brut-reserve-premier-cru-nv-magnum-1-5l-new-disgorgement",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 99.0,
-   "retail": 150.0,
-   "discount": 34,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000233-001",
-   "variant_id": 62708816478577,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Gardet-Brut-Reserve-Premier-Cru-NV-_Magnum_-product-image-68-large.jpg?v=1717559194",
-   "published_at": "2026-11-06T08:28:37-08:00",
-   "tags": [
-    "freeship:1",
-    "LGF",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-06T16:30:21Z"
   },
   {
    "id": 15363492708721,
