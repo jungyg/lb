@@ -1,29 +1,28 @@
 {
  "products": [
   {
-   "id": 10828863537436,
-   "title": "Edoardo Sobrino Barolo di Verduno 2021",
-   "handle": "edoardo-sobrino-barolo-di-verduno-2021",
-   "url": "https://lastbottlewines.com/products/edoardo-sobrino-barolo-di-verduno-2021",
+   "id": 10988667175196,
+   "title": "Château Haut de la Bécade Pauillac 2022",
+   "handle": "chateau-haut-de-la-becade-pauillac-2022",
+   "url": "https://lastbottlewines.com/products/chateau-haut-de-la-becade-pauillac-2022",
    "status": "dailyoffer",
    "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 2,
-   "vintage": 2021,
+   "price": 34.0,
+   "retail": 60.0,
+   "discount": 43,
+   "free_ship": 4,
+   "vintage": 2022,
    "is_wine": true,
-   "vendor": "Viteoak - E&M Importing LLC",
-   "sku": "1012478",
-   "variant_id": 54079734808860,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/EdoardoSobrino_1012478_LB_BottleShot.jpg?v=1783789487",
-   "published_at": "2026-11-06T10:07:15-08:00",
+   "vendor": "Last Bottle Wines",
+   "sku": "1015270",
+   "variant_id": 54623598969116,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChateauHautdelaBecadePauillac2022_1015270_LB_BottleShot.jpg?v=1793910916",
+   "published_at": "2026-11-07T09:56:02-08:00",
    "tags": [
-    "backup",
-    "freeship:2",
+    "freeship:4",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-06T18:15:16Z"
+   "first_seen": "2026-11-07T18:00:21Z"
   },
   {
    "id": 10883558277404,
