@@ -1,6 +1,27 @@
 {
  "products": [
   {
+   "id": 16122498974065,
+   "title": "Champagne Paul Launois Blanc de Noirs Contrast #2 Extra Brut NV",
+   "handle": "champagne-paul-launois-blanc-de-noirs-contrast-2-extra-brut-nv-1",
+   "url": "https://lastbubbles.com/products/champagne-paul-launois-blanc-de-noirs-contrast-2-extra-brut-nv-1",
+   "status": "other",
+   "available": true,
+   "price": 59.0,
+   "retail": 80.0,
+   "discount": 26,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000452-00N",
+   "variant_id": 68128770851185,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Paul-Launois-Blanc-de-Noirs-Contrast-2-Extra-Brut-NV-product-image-672-large_9a4c6c5d-2bef-4296-accf-18c242179089.jpg?v=1793824450",
+   "published_at": "2026-11-07T17:14:47-08:00",
+   "tags": [],
+   "first_seen": "2026-11-08T01:15:15Z"
+  },
+  {
    "id": 14584560779633,
    "title": "Champagne André Robert Blanc de Blancs Terre du Mesnil Brut Grand Cru 2018",
    "handle": "champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
