@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15381248934257,
+   "title": "Champagne Vincent Testulat Carte d’Or Blanc de Noirs Brut NV",
+   "handle": "champagne-vincent-testulat-carte-d-or-blanc-de-noirs-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-vincent-testulat-carte-d-or-blanc-de-noirs-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 50.0,
+   "discount": 22,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010003",
+   "variant_id": 62889625518449,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_15.jpg?v=1775226171",
+   "published_at": "2026-11-08T09:38:50-08:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-08T17:45:16Z"
+  },
+  {
    "id": 14584560779633,
    "title": "Champagne André Robert Blanc de Blancs Terre du Mesnil Brut Grand Cru 2018",
    "handle": "champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
