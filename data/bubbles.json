@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 14887259406705,
-   "title": "Champagne Testulat Cuvée Prestige Brut Premier Cru NV",
-   "handle": "champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
+   "id": 15064704057713,
+   "title": "Tenuta Pederzana Lambrusco Grasparossa Castelvetro Cantolibero Secco 2020",
+   "handle": "tenuta-pederanza-lambrusco-grassparossa-castelvetro-cantolibero-secco-2020",
+   "url": "https://lastbubbles.com/products/tenuta-pederanza-lambrusco-grassparossa-castelvetro-cantolibero-secco-2020",
    "status": "dailyoffer",
    "available": true,
-   "price": 42.0,
-   "retail": 65.0,
-   "discount": 35,
-   "free_ship": 3,
-   "vintage": null,
+   "price": 24.0,
+   "retail": 30.0,
+   "discount": 20,
+   "free_ship": 6,
+   "vintage": 2020,
    "is_wine": true,
    "vendor": "Last Bubbles",
-   "sku": "1007141",
-   "variant_id": 52012155765105,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Testulat_1007141_BottleShot.jpg?v=1736373175",
-   "published_at": "2026-11-08T16:43:08-08:00",
+   "sku": "1007065",
+   "variant_id": 55616547619185,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_46.jpg?v=1756310389",
+   "published_at": "2026-11-09T09:23:34-08:00",
    "tags": [
-    "freeship:3",
+    "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-09T00:45:15Z"
+   "first_seen": "2026-11-09T17:30:23Z"
   },
   {
    "id": 15381248934257,
@@ -47,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-08T17:45:16Z"
-  },
-  {
-   "id": 14584560779633,
-   "title": "Champagne André Robert Blanc de Blancs Terre du Mesnil Brut Grand Cru 2018",
-   "handle": "champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
-   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-terre-du-mesnil-brut-grand-cru-2017-copy",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 119.0,
-   "retail": 140.0,
-   "discount": 15,
-   "free_ship": 1,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007263",
-   "variant_id": 51568289644913,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_48_94e5f199-27e2-4394-8717-f926f02f8676.jpg?v=1774287275",
-   "published_at": "2026-11-07T09:31:23-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-07T17:45:14Z"
   },
   {
    "id": 15539512508785,
