@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14887259406705,
+   "title": "Champagne Testulat Cuvée Prestige Brut Premier Cru NV",
+   "handle": "champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-testulat-cuvee-prestige-brut-premier-cru-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 42.0,
+   "retail": 65.0,
+   "discount": 35,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007141",
+   "variant_id": 52012155765105,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Testulat_1007141_BottleShot.jpg?v=1736373175",
+   "published_at": "2026-11-08T16:43:08-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-09T00:45:15Z"
+  },
+  {
    "id": 15381248934257,
    "title": "Champagne Vincent Testulat Carte d’Or Blanc de Noirs Brut NV",
    "handle": "champagne-vincent-testulat-carte-d-or-blanc-de-noirs-brut-nv",
