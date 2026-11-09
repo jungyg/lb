@@ -73,30 +73,6 @@
    "first_seen": "2026-11-09T18:00:31Z"
   },
   {
-   "id": 10824219722012,
-   "title": "Nellcôte Cabernet Sauvignon 500 Chevaux Napa Valley 2017",
-   "handle": "nellcote-cabernet-sauvignon-500-chevaux-napa-valley-2017-750ml",
-   "url": "https://lastbottlewines.com/products/nellcote-cabernet-sauvignon-500-chevaux-napa-valley-2017-750ml",
-   "status": "pdp",
-   "available": true,
-   "price": 49.0,
-   "retail": 125.0,
-   "discount": 61,
-   "free_ship": 2,
-   "vintage": 2017,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1014094",
-   "variant_id": 54066832769308,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Nellcote_Cabernet_Sauvignon_500_Chevaux_Napa_Valley_2017_101409_LB_BottleShot_1.jpg?v=1793914735",
-   "published_at": "2026-11-07T10:04:18-08:00",
-   "tags": [
-    "freeship:2",
-    "status:pdp"
-   ],
-   "first_seen": "2026-11-07T18:15:16Z"
-  },
-  {
    "id": 10883558277404,
    "title": "Beaulieu Vineyard Cabernet Sauvignon Bonded Winery No. 71 Napa Valley 2023",
    "handle": "beaulieu-vineyard-cabernet-sauvignon-bonded-winery-no-71-napa-valley-2023",
@@ -401,30 +377,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-11-04T00:30:25Z"
-  },
-  {
-   "id": 10978029371676,
-   "title": "Jolie-Laide Gamay Noir Sonoma County 2025",
-   "handle": "jolie-laide-gamay-noir-sonoma-county-2025",
-   "url": "https://lastbottlewines.com/products/jolie-laide-gamay-noir-sonoma-county-2025",
-   "status": "pdp",
-   "available": true,
-   "price": 17.0,
-   "retail": 38.0,
-   "discount": 55,
-   "free_ship": 4,
-   "vintage": 2025,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000624",
-   "variant_id": 54569445818652,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Jolie-LaideGamayNoirSonomaCounty2025_2000624_LB_BottleShot.jpg?v=1793657906",
-   "published_at": "2026-11-03T10:03:31-08:00",
-   "tags": [
-    "freeship:4",
-    "status:pdp"
-   ],
-   "first_seen": "2026-11-03T18:15:18Z"
   },
   {
    "id": 10705891918108,
