@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15539512672625,
+   "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
+   "handle": "champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
+   "url": "https://lastbubbles.com/products/champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 129.0,
+   "retail": 165.0,
+   "discount": 22,
+   "free_ship": 2,
+   "vintage": 2016,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008093-001",
+   "variant_id": 63553133281649,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_69.jpg?v=1754066996",
+   "published_at": "2026-11-11T14:37:21-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-11T22:45:16Z"
+  },
+  {
    "id": 15539512967537,
    "title": "Champagne Régis Poissinet Terre de Rosé Extra Brut NV",
    "handle": "champagne-regis-poissinet-terre-de-rose-extra-brut-nv",
