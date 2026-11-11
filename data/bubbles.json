@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15539512967537,
+   "title": "Champagne Régis Poissinet Terre de Rosé Extra Brut NV",
+   "handle": "champagne-regis-poissinet-terre-de-rose-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-regis-poissinet-terre-de-rose-extra-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 79.0,
+   "retail": 120.0,
+   "discount": 34,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013317",
+   "variant_id": 63553133642097,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Regis_Poissinet_Terre_de_Rose_Extra_Brut_NV_1013317_BottleShot.jpg?v=1794418174",
+   "published_at": "2026-11-11T09:32:02-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-11T17:45:18Z"
+  },
+  {
    "id": 15523470606705,
    "title": "Champagne Billecart-Salmon 250th Anniversary Cuvée Brut 2018",
    "handle": "champagne-billecart-salmon-250th-anniversary-cuvee-brut-2018",
