@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 10962176540956,
-   "title": "Stéphane Ogier Mon Village Côte-Rôtie 2023",
-   "handle": "stephane-ogier-mon-village-cote-rotie-2023",
-   "url": "https://lastbottlewines.com/products/stephane-ogier-mon-village-cote-rotie-2023",
+   "id": 10916675551516,
+   "title": "Furthermore Pinot Noir Russian River Valley 2023",
+   "handle": "furthermore-pinot-noir-russian-river-valley-2023",
+   "url": "https://lastbottlewines.com/products/furthermore-pinot-noir-russian-river-valley-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 69.0,
-   "retail": 100.0,
-   "discount": 31,
-   "free_ship": 2,
+   "price": 19.0,
+   "retail": 55.0,
+   "discount": 65,
+   "free_ship": 4,
    "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1013894",
-   "variant_id": 54486307995932,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/StephaneOgierMonVillageCote-Rotie2023_1013894_LB_BottleShot.jpg?v=1794244920",
-   "published_at": "2026-11-10T09:56:02-08:00",
+   "sku": "2000265",
+   "variant_id": 54355902300444,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FurthermorePinotNoirRussianRiverValley2023_2000265_LB_BottleShot.jpg?v=1794270433",
+   "published_at": "2026-11-11T09:56:18-08:00",
    "tags": [
-    "freeship:2",
+    "freeship:4",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-10T18:00:23Z"
+   "first_seen": "2026-11-11T18:00:27Z"
   },
   {
    "id": 10940402499868,
@@ -230,7 +230,7 @@
    "title": "Clos Saint-Jean Vieilles Vignes Châteauneuf-du-Pape 2023",
    "handle": "clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
    "url": "https://lastbottlewines.com/products/clos-saint-jean-vieilles-vignes-chateauneuf-du-pape-2023",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 49.0,
    "retail": 80.0,
@@ -246,7 +246,6 @@
    "tags": [
     "collection:MnM",
     "freeship:3",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
