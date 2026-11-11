@@ -307,7 +307,7 @@
    "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
    "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
    "url": "https://lastbottlewines.com/products/hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 22.0,
    "retail": 64.0,
@@ -324,6 +324,7 @@
     "backup",
     "collection:MnM",
     "freeship:6",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
