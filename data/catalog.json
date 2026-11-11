@@ -1,29 +1,6 @@
 {
  "products": [
   {
-   "id": 10941575364892,
-   "title": "Domaine Philippe Livera Clos Village Gevrey-Chambertin 2023",
-   "handle": "domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
-   "url": "https://lastbottlewines.com/products/domaine-philippe-livera-clos-village-gevrey-chambertin-2023",
-   "status": "other",
-   "available": true,
-   "price": 79.0,
-   "retail": 120.0,
-   "discount": 34,
-   "free_ship": 2,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000444",
-   "variant_id": 54426763329820,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Domaine_Philippe_Livera_Clos_Village_Gevrey-Chambertin_2023_2000444_LB_BottleShot.jpg?v=1792773872",
-   "published_at": "2026-11-11T11:45:16-08:00",
-   "tags": [
-    "freeship:2"
-   ],
-   "first_seen": "2026-11-11T19:45:18Z"
-  },
-  {
    "id": 10916675551516,
    "title": "Furthermore Pinot Noir Russian River Valley 2023",
    "handle": "furthermore-pinot-noir-russian-river-valley-2023",
