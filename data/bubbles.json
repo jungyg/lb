@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15991330472305,
+   "title": "Champagne Roland Boulard & Filles Le Elegance de Julie Brut NV",
+   "handle": "champagne-roland-boulard-filles-le-elegance-de-julie-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-le-elegance-de-julie-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 47.0,
+   "retail": 80.0,
+   "discount": 41,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013843",
+   "variant_id": 64511107236209,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneRolandBoulardFillesLeElegancedeJulieBrutNV_1013317_BottleShot.jpg?v=1794417063",
+   "published_at": "2026-11-12T09:22:11-08:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-12T17:30:20Z"
+  },
+  {
    "id": 15539512672625,
    "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
    "handle": "champagne-regis-poissinet-meunier-cuvee-irizee-extra-brut-2016-nd",
@@ -48,30 +72,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-11T17:45:18Z"
-  },
-  {
-   "id": 15523470606705,
-   "title": "Champagne Billecart-Salmon 250th Anniversary Cuvée Brut 2018",
-   "handle": "champagne-billecart-salmon-250th-anniversary-cuvee-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-250th-anniversary-cuvee-brut-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 119.0,
-   "retail": 150.0,
-   "discount": 21,
-   "free_ship": 3,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1014039",
-   "variant_id": 63504760340849,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1014039_BUB_BottleShot.jpg?v=1780246171",
-   "published_at": "2026-11-10T09:31:35-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-10T17:45:21Z"
   },
   {
    "id": 15539512508785,
