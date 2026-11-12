@@ -1,30 +1,6 @@
 {
  "products": [
   {
-   "id": 10887329644828,
-   "title": "Stuhlmuller Vineyards Cabernet Sauvignon Reserve Alexander Valley 2023",
-   "handle": "stuhlmuller-vineyards-cabernet-sauvignon-reserve-alexander-valley-2023",
-   "url": "https://lastbottlewines.com/products/stuhlmuller-vineyards-cabernet-sauvignon-reserve-alexander-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 125.0,
-   "discount": 69,
-   "free_ship": 3,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000020",
-   "variant_id": 54268624142620,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Stuhlmuller_CSV23_Reserve_Alexander_Valley_2000020_LB_BottleShot.jpg?v=1787590333",
-   "published_at": "2026-11-12T10:37:32-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-12T18:45:17Z"
-  },
-  {
    "id": 10751179260188,
    "title": "Kapcsándy Merlot Roberta's Reserve Yountville Napa Valley 2021",
    "handle": "kapcsandy-merlot-robertas-reserve-yountville-napa-valley-2021",
@@ -921,8 +897,7 @@
    "tags": [
     "freeship:4",
     "product:welcome_flow",
-    "status:pdp",
-    "status:pdp_ad"
+    "status:pdp"
    ],
    "first_seen": null
   },
