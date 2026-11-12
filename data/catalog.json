@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10744257020188,
+   "title": "Meteor Vineyard Cabernet Sauvignon Special Family Reserve Napa Valley 2010",
+   "handle": "meteor-vineyard-cabernet-sauvignon-special-family-reserve-napa-valley-2010",
+   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-special-family-reserve-napa-valley-2010",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 109.0,
+   "retail": 365.0,
+   "discount": 70,
+   "free_ship": 6,
+   "vintage": 2010,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1012988",
+   "variant_id": 53796680204572,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Marathon-81.jpg?v=1786171909",
+   "published_at": "2026-11-12T10:02:05-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-12T18:15:19Z"
+  },
+  {
    "id": 11023576957212,
    "title": "Meteor Vineyard Cabernet Sauvignon Perseid Napa Valley Multi-Vintage 3-Pack",
    "handle": "meteor-vineyard-cabernet-sauvignon-perseid-napa-valley-multi-vintage-3-pack",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-12T18:00:24Z"
-  },
-  {
-   "id": 10916675551516,
-   "title": "Furthermore Pinot Noir Russian River Valley 2023",
-   "handle": "furthermore-pinot-noir-russian-river-valley-2023",
-   "url": "https://lastbottlewines.com/products/furthermore-pinot-noir-russian-river-valley-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 55.0,
-   "discount": 65,
-   "free_ship": 4,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000265",
-   "variant_id": 54355902300444,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FurthermorePinotNoirRussianRiverValley2023_2000265_LB_BottleShot.jpg?v=1794270433",
-   "published_at": "2026-11-11T09:56:18-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-11T18:00:27Z"
   },
   {
    "id": 10751179260188,
@@ -291,31 +291,6 @@
     "backup",
     "freeship:3",
     "status:pdp"
-   ],
-   "first_seen": "2026-11-04T19:15:17Z"
-  },
-  {
-   "id": 10958487421212,
-   "title": "Hyland Estates Pinot Noir Coury Clone McMinnville 2022",
-   "handle": "hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
-   "url": "https://lastbottlewines.com/products/hyland-estates-pinot-noir-coury-clone-mcminnville-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 64.0,
-   "discount": 66,
-   "free_ship": 6,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015631",
-   "variant_id": 54475251745052,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/HylandEstates_PNR22_CouryClone_McMinnville_1015631_LB_BottleShot-16.jpg?v=1789752125",
-   "published_at": "2026-11-04T11:05:36-08:00",
-   "tags": [
-    "backup",
-    "freeship:6",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
   },
