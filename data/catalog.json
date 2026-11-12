@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 10744257020188,
-   "title": "Meteor Vineyard Cabernet Sauvignon Special Family Reserve Napa Valley 2010",
-   "handle": "meteor-vineyard-cabernet-sauvignon-special-family-reserve-napa-valley-2010",
-   "url": "https://lastbottlewines.com/products/meteor-vineyard-cabernet-sauvignon-special-family-reserve-napa-valley-2010",
+   "id": 10887329644828,
+   "title": "Stuhlmuller Vineyards Cabernet Sauvignon Reserve Alexander Valley 2023",
+   "handle": "stuhlmuller-vineyards-cabernet-sauvignon-reserve-alexander-valley-2023",
+   "url": "https://lastbottlewines.com/products/stuhlmuller-vineyards-cabernet-sauvignon-reserve-alexander-valley-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 109.0,
-   "retail": 365.0,
-   "discount": 70,
-   "free_ship": 6,
-   "vintage": 2010,
+   "price": 39.0,
+   "retail": 125.0,
+   "discount": 69,
+   "free_ship": 3,
+   "vintage": 2023,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1012988",
-   "variant_id": 53796680204572,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Marathon-81.jpg?v=1786171909",
-   "published_at": "2026-11-12T10:02:05-08:00",
+   "sku": "2000020",
+   "variant_id": 54268624142620,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Stuhlmuller_CSV23_Reserve_Alexander_Valley_2000020_LB_BottleShot.jpg?v=1787590333",
+   "published_at": "2026-11-12T10:37:32-08:00",
    "tags": [
-    "freeship:6",
+    "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-12T18:15:19Z"
+   "first_seen": "2026-11-12T18:45:17Z"
   },
   {
    "id": 11023576957212,
