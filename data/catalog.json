@@ -1,6 +1,34 @@
 {
  "products": [
   {
+   "id": 10868975436060,
+   "title": "Beringer Vineyards Cabernet Sauvignon Rhine House Cuvée Napa Valley 2023",
+   "handle": "beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
+   "url": "https://lastbottlewines.com/products/beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 29.0,
+   "retail": 80.0,
+   "discount": 64,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015612",
+   "variant_id": 54200027119900,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Beringer_1015612_LB_BottleShot_2.jpg?v=1782929340",
+   "published_at": "2026-11-13T15:17:27-08:00",
+   "tags": [
+    "collection:growth",
+    "collection:swirl",
+    "freeship:2",
+    "pdp",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-11-13T23:30:22Z"
+  },
+  {
    "id": 10962871189788,
    "title": "La Fortuna Brunello di Montalcino 2021",
    "handle": "la-fortuna-brunello-di-montalcino-2021",
