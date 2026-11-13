@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 16119202808177,
+   "title": "Champagne Bonnet-Gilmert Secrets of 2015 Trio",
+   "handle": "champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "status": "pdp",
+   "available": true,
+   "price": 274.0,
+   "retail": 500.0,
+   "discount": 45,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "2000925",
+   "variant_id": 68104956510577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneBonnet-GilmertSecretsof2015Trio_2000925_GroupShot.jpg?v=1794515972",
+   "published_at": "2026-11-13T10:46:48-08:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-13T19:00:24Z"
+  },
+  {
    "id": 15952935747953,
    "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
    "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-13T18:45:16Z"
-  },
-  {
-   "id": 15064703762801,
-   "title": "Aquilini Cabernet Sauvignon Sparkling Rosé Gia Bella Brut Red Mountain 2021",
-   "handle": "aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
-   "url": "https://lastbubbles.com/products/aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 40.0,
-   "discount": 65,
-   "free_ship": 6,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1011505",
-   "variant_id": 55616547324273,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_74.jpg?v=1754257147",
-   "published_at": "2026-11-13T09:41:36-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-13T17:45:20Z"
   },
   {
    "id": 15991330472305,
