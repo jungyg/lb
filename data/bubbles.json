@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15952935747953,
+   "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
+   "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
+   "url": "https://lastbubbles.com/products/giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 16.0,
+   "retail": 25.0,
+   "discount": 36,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000255-002",
+   "variant_id": 64328794440049,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Giusti_Prosecco_Asolo_Prosecco_Superiore_Brut_NV_1000255-002_BUB_BottleShot.jpg?v=1788299344",
+   "published_at": "2026-11-13T10:31:36-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-13T18:45:16Z"
+  },
+  {
    "id": 15064703762801,
    "title": "Aquilini Cabernet Sauvignon Sparkling Rosé Gia Bella Brut Red Mountain 2021",
    "handle": "aquilini-cabernet-sauvignon-sparkling-rose-gia-bella-brut-red-mountain-2021",
