@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 16119202808177,
+   "title": "Champagne Bonnet-Gilmert Secrets of 2015 Trio",
+   "handle": "champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "status": "pdp",
+   "available": true,
+   "price": 274.0,
+   "retail": 500.0,
+   "discount": 45,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "2000925",
+   "variant_id": 68104956510577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneBonnet-GilmertSecretsof2015Trio_2000925_GroupShot.jpg?v=1794515972",
+   "published_at": "2026-11-13T12:14:57-08:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-13T20:15:17Z"
+  },
+  {
    "id": 15952935747953,
    "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
    "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
