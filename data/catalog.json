@@ -10,7 +10,7 @@
    "price": 39.0,
    "retail": 80.0,
    "discount": 51,
-   "free_ship": null,
+   "free_ship": 4,
    "vintage": 2021,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
@@ -19,6 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013761_1.jpg?v=1788377609",
    "published_at": "2026-11-13T11:35:26-08:00",
    "tags": [
+    "freeship:4",
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-13T19:45:26Z"
