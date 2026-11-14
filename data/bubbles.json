@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15386232553841,
+   "title": "Champagne Philippe Clerget Cuvée Ancestral Extra Brut NV",
+   "handle": "champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 59.0,
+   "retail": 100.0,
+   "discount": 41,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1008790",
+   "variant_id": 62906506183025,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008790_BUB_BottleShot.jpg?v=1774281792",
+   "published_at": "2026-11-14T09:30:27-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-14T17:45:16Z"
+  },
+  {
    "id": 15952935747953,
    "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
    "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-13T18:45:16Z"
-  },
-  {
-   "id": 15991330472305,
-   "title": "Champagne Roland Boulard & Filles Le Elegance de Julie Brut NV",
-   "handle": "champagne-roland-boulard-filles-le-elegance-de-julie-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-roland-boulard-filles-le-elegance-de-julie-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 47.0,
-   "retail": 80.0,
-   "discount": 41,
-   "free_ship": 4,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1013843",
-   "variant_id": 64511107236209,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneRolandBoulardFillesLeElegancedeJulieBrutNV_1013317_BottleShot.jpg?v=1794417063",
-   "published_at": "2026-11-12T09:22:11-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-12T17:30:20Z"
   },
   {
    "id": 15539512967537,
