@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10802253758748,
+   "title": "Mystery Red Blend Napa Valley NV13",
+   "handle": "mystery-red-blend-napa-valley-2013",
+   "url": "https://lastbottlewines.com/products/mystery-red-blend-napa-valley-2013",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 18.0,
+   "retail": 50.0,
+   "discount": 64,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Mystery",
+   "sku": "1014020",
+   "variant_id": 54003871351068,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064_1.jpg?v=1790886230",
+   "published_at": "2026-11-14T10:00:29-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-14T18:15:17Z"
+  },
+  {
    "id": 11027369918748,
    "title": "Mystery Cabernet Sauvignon \"CAD\" Napa Valley 2022",
    "handle": "mystery-cabernet-sauvignon-cad-napa-valley-2022",
