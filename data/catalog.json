@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 11027369918748,
+   "title": "Mystery Cabernet Sauvignon \"CAD\" Napa Valley 2022",
+   "handle": "mystery-cabernet-sauvignon-cad-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-cad-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 95.0,
+   "discount": 59,
+   "free_ship": 2,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000887",
+   "variant_id": 54779814084892,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064_1.jpg?v=1790886230",
+   "published_at": "2026-11-14T09:56:03-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-14T18:00:24Z"
+  },
+  {
    "id": 10868975436060,
    "title": "Beringer Vineyards Cabernet Sauvignon Rhine House Cuvée Napa Valley 2023",
    "handle": "beringer-vineyards-cabernet-sauvignon-rhinehouse-cuvee-napa-valley-2023",
@@ -27,54 +51,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-11-13T23:30:22Z"
-  },
-  {
-   "id": 10962871189788,
-   "title": "La Fortuna Brunello di Montalcino 2021",
-   "handle": "la-fortuna-brunello-di-montalcino-2021",
-   "url": "https://lastbottlewines.com/products/la-fortuna-brunello-di-montalcino-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 4,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013761",
-   "variant_id": 54490396557596,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013761_1.jpg?v=1788377609",
-   "published_at": "2026-11-13T11:35:26-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-13T19:45:26Z"
-  },
-  {
-   "id": 10820831215900,
-   "title": "Isola del Cinghiale Brunello di Montalcino 2020",
-   "handle": "isola-del-cinghiale-brunello-di-montalcino-2020",
-   "url": "https://lastbottlewines.com/products/isola-del-cinghiale-brunello-di-montalcino-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 32.0,
-   "retail": 80.0,
-   "discount": 60,
-   "free_ship": 4,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "ASSETING S.R.L.",
-   "sku": "1012490",
-   "variant_id": 54055823147292,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/IsoladelCinghialeBrunellodiMontalcino2020_1012490_LB_BottleShot.jpg?v=1792191579",
-   "published_at": "2026-11-13T10:00:11-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-13T18:00:25Z"
   },
   {
    "id": 10751179260188,
