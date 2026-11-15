@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10998177202460,
+   "title": "Fleuriet Frères Blanc Les Belles Vignes Touraine 2025",
+   "handle": "fleuriet-freres-blanc-touraine-2025",
+   "url": "https://lastbottlewines.com/products/fleuriet-freres-blanc-touraine-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 16.0,
+   "retail": 32.0,
+   "discount": 50,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015269",
+   "variant_id": 54657871249692,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FleurietFreresBlancTouraine2025_1015269_LB_BottleShot.jpg?v=1794600993",
+   "published_at": "2026-11-15T09:56:04-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-15T18:00:21Z"
+  },
+  {
+   "id": 10950060278044,
+   "title": "Adversity Cellars Cabernet Sauvignon Rockpile Sonoma County 2023",
+   "handle": "adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
+   "url": "https://lastbottlewines.com/products/adversity-cellars-cabernet-sauvignon-rockpile-sonoma-county-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 89.0,
+   "retail": 225.0,
+   "discount": 60,
+   "free_ship": 2,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000052",
+   "variant_id": 54452850589980,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Adversity_Rockpile_CSV23_SonomaCounty_2000052_LB_BottleShot_1.jpg?v=1788883083",
+   "published_at": "2026-11-15T09:53:07-08:00",
+   "tags": [
+    "freeship:2",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-15T18:00:21Z"
+  },
+  {
    "id": 10802253758748,
    "title": "Mystery Red Blend Napa Valley NV13",
    "handle": "mystery-red-blend-napa-valley-2013",
@@ -23,30 +71,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-14T18:15:17Z"
-  },
-  {
-   "id": 11027369918748,
-   "title": "Mystery Cabernet Sauvignon \"CAD\" Napa Valley 2022",
-   "handle": "mystery-cabernet-sauvignon-cad-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/mystery-cabernet-sauvignon-cad-napa-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 95.0,
-   "discount": 59,
-   "free_ship": 2,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000887",
-   "variant_id": 54779814084892,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle_cb985ff3-9c13-4f9b-9bb4-faabbbdc2064_1.jpg?v=1790886230",
-   "published_at": "2026-11-14T09:56:03-08:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-14T18:00:24Z"
   },
   {
    "id": 10868975436060,
