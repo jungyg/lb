@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 9564320366907,
+   "title": "Champagne Paul Déthune Millésime Extra Brut Grand Cru 2012",
+   "handle": "champagne-paul-dethune-millesime-extra-brut-grand-cru-2012",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-millesime-extra-brut-grand-cru-2012",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 129.0,
+   "retail": 200.0,
+   "discount": 36,
+   "free_ship": 2,
+   "vintage": 2012,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000444",
+   "variant_id": 48908106629435,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Paul-Dthune-Millsime-Extra-Brut-Grand-Cru-2012-product-image-9-large.jpg?v=1717804615",
+   "published_at": "2026-11-15T09:28:07-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-15T17:30:23Z"
+  },
+  {
    "id": 15386232553841,
    "title": "Champagne Philippe Clerget Cuvée Ancestral Extra Brut NV",
    "handle": "champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
