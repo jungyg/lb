@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15539512476017,
+   "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d'Alphaël Brut Nature Grand Cru NV",
+   "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-brut-nature-grand-cru-nv-nd",
+   "url": "https://lastbubbles.com/products/champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-brut-nature-grand-cru-nv-nd",
+   "status": "pdp",
+   "available": true,
+   "price": 55.0,
+   "retail": 80.0,
+   "discount": 31,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007174-001",
+   "variant_id": 63553133150577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_cb3fea9b-b8ef-4ddd-ade5-db44791c682c.jpg?v=1765816797",
+   "published_at": "2026-11-16T11:30:03-08:00",
+   "tags": [
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-16T19:30:24Z"
+  },
+  {
    "id": 9564320366907,
    "title": "Champagne Paul Déthune Millésime Extra Brut Grand Cru 2012",
    "handle": "champagne-paul-dethune-millesime-extra-brut-grand-cru-2012",
@@ -526,30 +550,6 @@
    "variant_id": 48908070748475,
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Fluteau-Rtrospective-Extra-Brut-NV-product-image-443-large.jpg?v=1717804566",
    "published_at": "2026-09-28T12:54:37-07:00",
-   "tags": [
-    "shop-collection",
-    "status:pdp"
-   ],
-   "first_seen": "2026-09-28T20:00:23Z"
-  },
-  {
-   "id": 15581223682417,
-   "title": "Perelada Centenaria Brut Reserva Cava 2023",
-   "handle": "perelada-centaria-brut-reserva-cava-2023",
-   "url": "https://lastbubbles.com/products/perelada-centaria-brut-reserva-cava-2023",
-   "status": "pdp",
-   "available": true,
-   "price": 16.0,
-   "retail": 25.0,
-   "discount": 36,
-   "free_ship": null,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012770",
-   "variant_id": 63680419070321,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PereladaCentariaBrutReservaCava2023_1012770_BUB_BottleShot.jpg?v=1786034631",
-   "published_at": "2026-09-28T12:53:03-07:00",
    "tags": [
     "shop-collection",
     "status:pdp"
