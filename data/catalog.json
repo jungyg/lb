@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10660893131036,
+   "title": "Dugat-Py Mazis-Chambertin Vieilles Vignes Grand Cru 2013",
+   "handle": "dugat-py-mazis-chambertin-vieilles-vignes-grand-cru-2013",
+   "url": "https://lastbottlewines.com/products/dugat-py-mazis-chambertin-vieilles-vignes-grand-cru-2013",
+   "status": "pdp",
+   "available": true,
+   "price": 649.0,
+   "retail": 1250.0,
+   "discount": 48,
+   "free_ship": 1,
+   "vintage": 2013,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "WBKBH81W",
+   "variant_id": 53345788690716,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/WBKBH81W-583496_fb4894c2-b34b-421f-8212-746cbea057f9.jpg?v=1763797736",
+   "published_at": "2026-11-16T10:06:21-08:00",
+   "tags": [
+    "freeship:1",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-16T18:15:15Z"
+  },
+  {
    "id": 10660913840412,
    "title": "Château Romefort Villa Romefort Les Sables Noir Haut-Médoc 2019",
    "handle": "chateau-romefort-villa-romefort-les-sables-noir-haut-medoc-2019",
