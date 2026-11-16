@@ -1524,7 +1524,7 @@
    "title": "Champagne Gounel Lassalle Le Haut Belai Brut Nature Chigny Les Rosés Premier Cru NV",
    "handle": "champagne-gounel-lassalle-wine-rider-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv",
    "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 59.0,
    "retail": 125.0,
@@ -1540,6 +1540,7 @@
    "tags": [
     "freeship:3",
     "shop-collection",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
