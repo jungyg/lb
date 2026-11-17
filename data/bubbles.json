@@ -30,7 +30,7 @@
    "handle": "ginglinger-fix-rose-cremant-dalsace-brut-nv",
    "url": "https://lastbubbles.com/products/ginglinger-fix-rose-cremant-dalsace-brut-nv",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 22.0,
    "retail": 34.0,
    "discount": 35,
@@ -44,6 +44,7 @@
    "published_at": "2026-11-17T09:33:31-08:00",
    "tags": [
     "freeship:6",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-17T17:45:16Z"
