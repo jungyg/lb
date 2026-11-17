@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 15386232750449,
+   "title": "Ginglinger-Fix Crémant d'Alsace Extra Brut 2023",
+   "handle": "ginglinger-fix-cremant-dalsace-extra-brut-2023",
+   "url": "https://lastbubbles.com/products/ginglinger-fix-cremant-dalsace-extra-brut-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 22.0,
+   "retail": 30.0,
+   "discount": 27,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010192",
+   "variant_id": 62906506346865,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ginglinger-FixCremantdAlsaceExtraBrut2023_SKU_1010192_BottleShot.jpg?v=1788538718",
+   "published_at": "2026-11-17T09:38:26-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-17T17:45:16Z"
+  },
+  {
+   "id": 9564282880315,
+   "title": "Ginglinger-Fix Rosé Crémant d'Alsace Brut NV",
+   "handle": "ginglinger-fix-rose-cremant-dalsace-brut-nv",
+   "url": "https://lastbubbles.com/products/ginglinger-fix-rose-cremant-dalsace-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 22.0,
+   "retail": 34.0,
+   "discount": 35,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010533",
+   "variant_id": 48908045058363,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Gingliner-Fix_1010533_BUB_BottleShot.jpg?v=1781280931",
+   "published_at": "2026-11-17T09:33:31-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-17T17:45:16Z"
+  },
+  {
    "id": 15539512476017,
    "title": "Champagne Philippe Glavier Blanc de Blancs La Grâce d'Alphaël Brut Nature Grand Cru NV",
    "handle": "champagne-philippe-glavier-blanc-de-blancs-la-grace-dalphael-brut-nature-grand-cru-nv-nd",
@@ -48,54 +96,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-15T17:30:23Z"
-  },
-  {
-   "id": 15386232553841,
-   "title": "Champagne Philippe Clerget Cuvée Ancestral Extra Brut NV",
-   "handle": "champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-phillippe-clerget-cuvee-ancestral-extra-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 100.0,
-   "discount": 41,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1008790",
-   "variant_id": 62906506183025,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1008790_BUB_BottleShot.jpg?v=1774281792",
-   "published_at": "2026-11-14T09:30:27-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-14T17:45:16Z"
-  },
-  {
-   "id": 15952935747953,
-   "title": "Giusti Prosecco Asolo Prosecco Superiore Brut NV",
-   "handle": "giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
-   "url": "https://lastbubbles.com/products/giusti-prosecco-asolo-prosecco-superiore-brut-nv-1",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 16.0,
-   "retail": 25.0,
-   "discount": 36,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000255-002",
-   "variant_id": 64328794440049,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Giusti_Prosecco_Asolo_Prosecco_Superiore_Brut_NV_1000255-002_BUB_BottleShot.jpg?v=1788299344",
-   "published_at": "2026-11-13T10:31:36-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-13T18:45:16Z"
   },
   {
    "id": 15539512967537,
@@ -1519,7 +1519,7 @@
    "title": "Champagne Gounel Lassalle Le Haut Belai Brut Nature Chigny Les Rosés Premier Cru NV",
    "handle": "champagne-gounel-lassalle-wine-rider-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv",
    "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-wine-rider-le-haut-belai-brut-nature-chigny-les-roses-premier-cru-nv",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 59.0,
    "retail": 125.0,
@@ -1535,7 +1535,6 @@
    "tags": [
     "freeship:3",
     "shop-collection",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
