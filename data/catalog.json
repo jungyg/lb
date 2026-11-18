@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10981330190620,
+   "title": "Broccardo Tre Pais Barolo 2022",
+   "handle": "broccardo-tre-pais-barolo-2022",
+   "url": "https://lastbottlewines.com/products/broccardo-tre-pais-barolo-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 55.0,
+   "discount": 47,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015261",
+   "variant_id": 54581337030940,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BroccardoTrePaisBarolo2022_1015264_LB_BottleShot.jpg?v=1793637687",
+   "published_at": "2026-11-18T10:00:10-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-18T18:00:26Z"
+  },
+  {
    "id": 10982367265052,
    "title": "Famiglia Bruno Barolo 2021",
    "handle": "famiglia-bruno-barolo-2021",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-18T17:00:25Z"
-  },
-  {
-   "id": 10980502798620,
-   "title": "Benmar Pinot Noir Reflections Chehalem Mountains Willamette Valley 2024",
-   "handle": "benmar-pinot-noir-reflections-chehalem-mountains-willamette-valley-2024",
-   "url": "https://lastbottlewines.com/products/benmar-pinot-noir-reflections-chehalem-mountains-willamette-valley-2024",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 90.0,
-   "discount": 76,
-   "free_ship": 6,
-   "vintage": 2024,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000641",
-   "variant_id": 54577295196444,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BenmarPinotNoirReflectionsChehalemMountainsWillametteValley2024_2000641_SKU_LB_BottleShot.jpg?v=1794857434",
-   "published_at": "2026-11-17T09:56:03-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-17T18:00:24Z"
   },
   {
    "id": 10660893131036,
