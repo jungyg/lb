@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14624223789425,
+   "title": "Champagne Francis Orban Chardonnay Cuvée Parcellaire Les Malaquais Brut 2018",
+   "handle": "champagne-francis-orban-chardonnay-cuvee-parcellaire-les-malaquais-brut-2018",
+   "url": "https://lastbubbles.com/products/champagne-francis-orban-chardonnay-cuvee-parcellaire-les-malaquais-brut-2018",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 114.0,
+   "retail": 180.0,
+   "discount": 37,
+   "free_ship": 2,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007381",
+   "variant_id": 51641485590897,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_2_46b5b847-9d59-41e7-a7a2-98cd7a3c4654.jpg?v=1766183778",
+   "published_at": "2026-11-18T09:34:02-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-18T17:45:17Z"
+  },
+  {
    "id": 15386232750449,
    "title": "Ginglinger-Fix Crémant d'Alsace Extra Brut 2023",
    "handle": "ginglinger-fix-cremant-dalsace-extra-brut-2023",
