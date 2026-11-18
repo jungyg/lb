@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10982367265052,
+   "title": "Famiglia Bruno Barolo 2021",
+   "handle": "famiglia-bruno-barolo-2021",
+   "url": "https://lastbottlewines.com/products/famiglia-bruno-barolo-2021",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 28.0,
+   "retail": 55.0,
+   "discount": 49,
+   "free_ship": 4,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015374",
+   "variant_id": 54597686198556,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FamigliaBrunoBarolo2021_1015374_LB_BottleShot.jpg?v=1794861919",
+   "published_at": "2026-11-18T08:55:09-08:00",
+   "tags": [
+    "freeship:4",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-18T17:00:25Z"
+  },
+  {
    "id": 10980502798620,
    "title": "Benmar Pinot Noir Reflections Chehalem Mountains Willamette Valley 2024",
    "handle": "benmar-pinot-noir-reflections-chehalem-mountains-willamette-valley-2024",
