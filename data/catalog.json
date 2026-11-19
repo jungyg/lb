@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 10958674166044,
+   "title": "Domaine Jean-Marc Bernhard Pinot Noir Hinterburg Alsace 2022",
+   "handle": "domaine-jean-marc-bernhard-pinot-noir-hinterburg-alsace-2022",
+   "url": "https://lastbottlewines.com/products/domaine-jean-marc-bernhard-pinot-noir-hinterburg-alsace-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 35.0,
+   "retail": 68.0,
+   "discount": 49,
+   "free_ship": 4,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1015260",
+   "variant_id": 54475794252060,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/DomaineJean-MarcBernhardPinotNoirHinterburgAlsace2022_1015260_LB_BottleShot.jpg?v=1794937782",
+   "published_at": "2026-11-19T09:57:19-08:00",
+   "tags": [
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-19T18:00:32Z"
+  },
+  {
+   "id": 10980374806812,
+   "title": "Cedar Knoll Vineyard Cabernet Sauvignon Napa Valley 2022",
+   "handle": "cedar-knoll-vineyard-cabernet-sauvignon-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/cedar-knoll-vineyard-cabernet-sauvignon-napa-valley-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 75.0,
+   "discount": 61,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000462",
+   "variant_id": 54576897032476,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CedarKnollVineyardCabernetSauvignonNapaValley2022_2000462_LB_BottleShot.jpg?v=1794961827",
+   "published_at": "2026-11-19T09:56:03-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-19T18:00:32Z"
+  },
+  {
    "id": 10967846748444,
    "title": "Blackbird Vineyard Red Blend Paramour Napa Valley 2017",
    "handle": "blackbird-vineyard-red-blend-paramour-napa-valley-2017-1",
