@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15335899103601,
+   "title": "Hiller Grüner Veltliner Methode Traditional Reserve Brut 2022",
+   "handle": "hiller-gruner-veltliner-methode-traditional-reserve-brut-2022",
+   "url": "https://lastbubbles.com/products/hiller-gruner-veltliner-methode-traditional-reserve-brut-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 60.0,
+   "discount": 52,
+   "free_ship": 6,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010004",
+   "variant_id": 62708805042545,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1007112_BottleShot_1.jpg?v=1768955621",
+   "published_at": "2026-11-19T09:40:08-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-19T17:45:17Z"
+  },
+  {
    "id": 14624223789425,
    "title": "Champagne Francis Orban Chardonnay Cuvée Parcellaire Les Malaquais Brut 2018",
    "handle": "champagne-francis-orban-chardonnay-cuvee-parcellaire-les-malaquais-brut-2018",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-18T17:45:17Z"
-  },
-  {
-   "id": 15386232750449,
-   "title": "Ginglinger-Fix Crémant d'Alsace Extra Brut 2023",
-   "handle": "ginglinger-fix-cremant-dalsace-extra-brut-2023",
-   "url": "https://lastbubbles.com/products/ginglinger-fix-cremant-dalsace-extra-brut-2023",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 30.0,
-   "discount": 27,
-   "free_ship": 6,
-   "vintage": 2023,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010192",
-   "variant_id": 62906506346865,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Ginglinger-FixCremantdAlsaceExtraBrut2023_SKU_1010192_BottleShot.jpg?v=1788538718",
-   "published_at": "2026-11-17T09:38:26-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-17T17:45:16Z"
   },
   {
    "id": 9564282880315,
@@ -1304,30 +1304,6 @@
    "first_seen": null
   },
   {
-   "id": 15928966938993,
-   "title": "Champagne Pierre Gimonnet et Fils Blanc de Blancs Brut Cuis Premier Cru NV (Magnum 1.5L)",
-   "handle": "champagne-pierre-gimonnet-et-fils-blanc-de-blancs-brut-cuis-premier-cru-nv-magnum-1-5l",
-   "url": "https://lastbubbles.com/products/champagne-pierre-gimonnet-et-fils-blanc-de-blancs-brut-cuis-premier-cru-nv-magnum-1-5l",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 119.0,
-   "retail": 160.0,
-   "discount": 26,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012833",
-   "variant_id": 64259770646897,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PierreGimonnetetFilsBlancdeBlancsBrutCuisPremierCruNVMagnum_1012833_BUB_BottleShot.jpg?v=1786408348",
-   "published_at": "2026-08-11T09:25:55-07:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
    "id": 15004195488113,
    "title": "Champagne Regis Poissinet Meunier Cuvée Irizee Extra Brut 2016",
    "handle": "champagne-regis-poissinet-cuvee-irizee-extra-brut-2016",
@@ -1347,31 +1323,6 @@
    "published_at": "2026-08-07T09:43:29-07:00",
    "tags": [
     "freeship:2",
-    "last-bottle-credit-awarded",
-    "status:dailyoffer"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15491207725425,
-   "title": "Champagne William Saintot Blanc de Blancs Extra Brut Premier Cru NV",
-   "handle": "champagne-william-saintot-blanc-de-blancs-extra-brut-premier-cru-nv",
-   "url": "https://lastbubbles.com/products/champagne-william-saintot-blanc-de-blancs-extra-brut-premier-cru-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 59.0,
-   "retail": 80.0,
-   "discount": 26,
-   "free_ship": 3,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012866",
-   "variant_id": 63378448810353,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/WilliamSaintotBDB_1012866_BUB_BottleShot.jpg?v=1785948547",
-   "published_at": "2026-08-05T09:50:11-07:00",
-   "tags": [
-    "freeship:3",
     "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
