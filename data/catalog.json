@@ -73,54 +73,6 @@
    "first_seen": "2026-11-19T06:00:22Z"
   },
   {
-   "id": 10981330190620,
-   "title": "Broccardo Tre Pais Barolo 2022",
-   "handle": "broccardo-tre-pais-barolo-2022",
-   "url": "https://lastbottlewines.com/products/broccardo-tre-pais-barolo-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 29.0,
-   "retail": 55.0,
-   "discount": 47,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015261",
-   "variant_id": 54581337030940,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BroccardoTrePaisBarolo2022_1015264_LB_BottleShot.jpg?v=1793637687",
-   "published_at": "2026-11-18T10:00:10-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-18T18:00:26Z"
-  },
-  {
-   "id": 10982367265052,
-   "title": "Famiglia Bruno Barolo 2021",
-   "handle": "famiglia-bruno-barolo-2021",
-   "url": "https://lastbottlewines.com/products/famiglia-bruno-barolo-2021",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 28.0,
-   "retail": 55.0,
-   "discount": 49,
-   "free_ship": 4,
-   "vintage": 2021,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1015374",
-   "variant_id": 54597686198556,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/FamigliaBrunoBarolo2021_1015374_LB_BottleShot.jpg?v=1794861919",
-   "published_at": "2026-11-18T08:55:09-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-18T17:00:25Z"
-  },
-  {
    "id": 10660893131036,
    "title": "Dugat-Py Mazis-Chambertin Vieilles Vignes Grand Cru 2013",
    "handle": "dugat-py-mazis-chambertin-vieilles-vignes-grand-cru-2013",
