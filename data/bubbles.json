@@ -849,12 +849,12 @@
    "title": "Champagne Gallimard Pere & Fils Cuvée Quintessence Extra Brut NV",
    "handle": "champagne-gallimard-pere-fils-cuvee-quintessence-extra-brut-nv-nd",
    "url": "https://lastbubbles.com/products/champagne-gallimard-pere-fils-cuvee-quintessence-extra-brut-nv-nd",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
-   "price": 55.0,
+   "price": 54.0,
    "retail": 80.0,
-   "discount": 31,
-   "free_ship": null,
+   "discount": 32,
+   "free_ship": 3,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -863,7 +863,9 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneGallimardPereFilsCuveeQuintessenceExtraBrutNV_1006695-001_BUB_BottleShot.jpg?v=1795108293",
    "published_at": "2026-09-10T13:32:49-07:00",
    "tags": [
+    "freeship:3",
     "shop-collection",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null

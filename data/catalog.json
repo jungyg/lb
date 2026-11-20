@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10956457083164,
+   "title": "Chateau Haut-Maillet Pomerol 2022",
+   "handle": "chateau-haut-maillet-pomerol-2022",
+   "url": "https://lastbottlewines.com/products/chateau-haut-maillet-pomerol-2022",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 38.0,
+   "retail": 80.0,
+   "discount": 52,
+   "free_ship": 3,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013832",
+   "variant_id": 54468800512284,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013832_ChateauHaut-MailletPomerol2022_LB_BottleShot.jpg?v=1795141100",
+   "published_at": "2026-11-20T09:56:02-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-20T18:00:26Z"
+  },
+  {
    "id": 10958674166044,
    "title": "Domaine Jean-Marc Bernhard Pinot Noir Hinterburg Alsace 2022",
    "handle": "domaine-jean-marc-bernhard-pinot-noir-hinterburg-alsace-2022",
@@ -21,30 +45,6 @@
    "tags": [
     "freeship:4",
     "status:pdp"
-   ],
-   "first_seen": "2026-11-19T18:00:32Z"
-  },
-  {
-   "id": 10980374806812,
-   "title": "Cedar Knoll Vineyard Cabernet Sauvignon Napa Valley 2022",
-   "handle": "cedar-knoll-vineyard-cabernet-sauvignon-napa-valley-2022",
-   "url": "https://lastbottlewines.com/products/cedar-knoll-vineyard-cabernet-sauvignon-napa-valley-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 29.0,
-   "retail": 75.0,
-   "discount": 61,
-   "free_ship": 3,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000462",
-   "variant_id": 54576897032476,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/CedarKnollVineyardCabernetSauvignonNapaValley2022_2000462_LB_BottleShot.jpg?v=1794961827",
-   "published_at": "2026-11-19T09:56:03-08:00",
-   "tags": [
-    "freeship:3",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-11-19T18:00:32Z"
   },
