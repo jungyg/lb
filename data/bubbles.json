@@ -1,6 +1,98 @@
 {
  "products": [
   {
+   "id": 14932095140209,
+   "title": "Tenuta Carretta Blanc de Blanc Airali Alta Langa Extra Brut 2021",
+   "handle": "tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
+   "url": "https://lastbubbles.com/products/tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
+   "status": "upsell",
+   "available": true,
+   "price": 32.0,
+   "retail": 50.0,
+   "discount": 36,
+   "free_ship": null,
+   "vintage": 2021,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007139",
+   "variant_id": 52099051127153,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/TenutaCarretta_1007139_BottleShot.jpg?v=1742327697",
+   "published_at": "2026-11-20T11:29:32-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:30:23Z"
+  },
+  {
+   "id": 15335901888881,
+   "title": "Champagne Gardet Brut Zero Dosage NV",
+   "handle": "champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-gardet-brut-zero-dosage-nv-new-disgorgement",
+   "status": "upsell",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000235-001",
+   "variant_id": 62708816576881,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1000235-001_BUB_BottleShot.jpg?v=1777135185",
+   "published_at": "2026-11-20T11:28:36-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:30:23Z"
+  },
+  {
+   "id": 9564297331003,
+   "title": "Champagne Paul Déthune Princesse des Thunes Prestige Extra Brut Grand Cru NV",
+   "handle": "champagne-paul-dethune-princesse-des-thunes-prestige-extra-brut-grand-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-paul-dethune-princesse-des-thunes-prestige-extra-brut-grand-cru-nv",
+   "status": "upsell",
+   "available": true,
+   "price": 78.0,
+   "retail": 115.0,
+   "discount": 32,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": false,
+   "vendor": "Last Bubbles",
+   "sku": "1000434",
+   "variant_id": 48908069699899,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000445_BottleShot.jpg?v=1724172563",
+   "published_at": "2026-11-20T11:27:59-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:30:23Z"
+  },
+  {
+   "id": 15491207397745,
+   "title": "Champagne Christophe Dechannes Rosé Brut Les Riceys NV",
+   "handle": "champagne-christophe-dechannes-rose-brut-les-riceys-nv",
+   "url": "https://lastbubbles.com/products/champagne-christophe-dechannes-rose-brut-les-riceys-nv",
+   "status": "upsell",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": null,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012884",
+   "variant_id": 63378448449905,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChristopheDechannesRose_1012884_BUB_BottleShot.jpg?v=1787767810",
+   "published_at": "2026-11-20T11:26:19-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:30:23Z"
+  },
+  {
    "id": 15335899103601,
    "title": "Hiller Grüner Veltliner Methode Traditional Reserve Brut 2022",
    "handle": "hiller-gruner-veltliner-methode-traditional-reserve-brut-2022",
