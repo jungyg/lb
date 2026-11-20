@@ -1,6 +1,52 @@
 {
  "products": [
   {
+   "id": 15335901856113,
+   "title": "Hiller Rosé Blanc de Noirs Reserve Brut 2022",
+   "handle": "hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "url": "https://lastbubbles.com/products/hiller-rose-blanc-de-noirs-reserve-brut-2022",
+   "status": "upsell",
+   "available": true,
+   "price": 36.0,
+   "retail": 60.0,
+   "discount": 40,
+   "free_ship": null,
+   "vintage": 2022,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1010005",
+   "variant_id": 62708816544113,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1010005_BUB_BottleShot.jpg?v=1781540616",
+   "published_at": "2026-11-20T11:31:51-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:45:18Z"
+  },
+  {
+   "id": 15439516041585,
+   "title": "Champagne Laherte Frères Pinot Meunier Extra Brut Les Vignes d'Autrefois 2019",
+   "handle": "champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
+   "url": "https://lastbubbles.com/products/champagne-laherte-freres-pinot-meunier-extra-brut-les-vignes-dautrefois-2019",
+   "status": "upsell",
+   "available": true,
+   "price": 89.0,
+   "retail": 135.0,
+   "discount": 34,
+   "free_ship": null,
+   "vintage": 2019,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1013497",
+   "variant_id": 63209319072113,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1013497_BUB_BottleShot.jpg?v=1774973627",
+   "published_at": "2026-11-20T11:30:47-08:00",
+   "tags": [
+    "status:upsell"
+   ],
+   "first_seen": "2026-11-20T19:45:18Z"
+  },
+  {
    "id": 14932095140209,
    "title": "Tenuta Carretta Blanc de Blanc Airali Alta Langa Extra Brut 2021",
    "handle": "tenuta-carretta-blanc-de-blanc-airali-alta-langa-extra-brut-2021",
