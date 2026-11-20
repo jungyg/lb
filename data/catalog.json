@@ -978,7 +978,7 @@
    "title": "Château Durfort-Vivens Le Hameau Margaux 2022",
    "handle": "chateau-durfort-vivens-le-hameau-margaux-2022",
    "url": "https://lastbottlewines.com/products/chateau-durfort-vivens-le-hameau-margaux-2022",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 40.0,
    "retail": 85.0,
@@ -993,6 +993,7 @@
    "published_at": "2026-08-24T22:55:30-07:00",
    "tags": [
     "freeship:2",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
