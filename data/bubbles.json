@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 16119202808177,
+   "title": "Champagne Bonnet-Gilmert Secrets of 2015 Trio",
+   "handle": "champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-secrets-of-2015-trio",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 274.0,
+   "retail": 500.0,
+   "discount": 45,
+   "free_ship": 1,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "2000925",
+   "variant_id": 68104956510577,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneBonnet-GilmertSecretsof2015Trio_2000925_GroupShot.jpg?v=1794515972",
+   "published_at": "2026-11-21T09:49:48-08:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-21T18:00:25Z"
+  },
+  {
    "id": 14969703825777,
    "title": "Women Making Bubbles! (6 Pack)",
    "handle": "women-in-wine-day-6-pack",
@@ -187,54 +211,6 @@
     "status:upsell"
    ],
    "first_seen": "2026-11-20T19:30:23Z"
-  },
-  {
-   "id": 15335899103601,
-   "title": "Hiller Grüner Veltliner Methode Traditional Reserve Brut 2022",
-   "handle": "hiller-gruner-veltliner-methode-traditional-reserve-brut-2022",
-   "url": "https://lastbubbles.com/products/hiller-gruner-veltliner-methode-traditional-reserve-brut-2022",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 29.0,
-   "retail": 60.0,
-   "discount": 52,
-   "free_ship": 6,
-   "vintage": 2022,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010004",
-   "variant_id": 62708805042545,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Hiller_1007112_BottleShot_1.jpg?v=1768955621",
-   "published_at": "2026-11-19T09:40:08-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-19T17:45:17Z"
-  },
-  {
-   "id": 14624223789425,
-   "title": "Champagne Francis Orban Chardonnay Cuvée Parcellaire Les Malaquais Brut 2018",
-   "handle": "champagne-francis-orban-chardonnay-cuvee-parcellaire-les-malaquais-brut-2018",
-   "url": "https://lastbubbles.com/products/champagne-francis-orban-chardonnay-cuvee-parcellaire-les-malaquais-brut-2018",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 114.0,
-   "retail": 180.0,
-   "discount": 37,
-   "free_ship": 2,
-   "vintage": 2018,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007381",
-   "variant_id": 51641485590897,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_2_46b5b847-9d59-41e7-a7a2-98cd7a3c4654.jpg?v=1766183778",
-   "published_at": "2026-11-18T09:34:02-08:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-18T17:45:17Z"
   },
   {
    "id": 9564282880315,
@@ -1037,7 +1013,7 @@
    "title": "Champagne Gallimard Pere & Fils Cuvée Quintessence Extra Brut NV",
    "handle": "champagne-gallimard-pere-fils-cuvee-quintessence-extra-brut-nv-nd",
    "url": "https://lastbubbles.com/products/champagne-gallimard-pere-fils-cuvee-quintessence-extra-brut-nv-nd",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 54.0,
    "retail": 80.0,
@@ -1053,7 +1029,6 @@
    "tags": [
     "freeship:3",
     "shop-collection",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null

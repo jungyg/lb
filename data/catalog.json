@@ -1,28 +1,77 @@
 {
  "products": [
   {
-   "id": 10956457083164,
-   "title": "Chateau Haut-Maillet Pomerol 2022",
-   "handle": "chateau-haut-maillet-pomerol-2022",
-   "url": "https://lastbottlewines.com/products/chateau-haut-maillet-pomerol-2022",
+   "id": 10828336267548,
+   "title": "Montetondo Luigi Vino Rosso Italia 2025",
+   "handle": "montetondo-luigi-vino-rosso-italia-2023",
+   "url": "https://lastbottlewines.com/products/montetondo-luigi-vino-rosso-italia-2023",
    "status": "dailyoffer",
    "available": true,
-   "price": 38.0,
-   "retail": 80.0,
-   "discount": 52,
-   "free_ship": 3,
+   "price": 13.0,
+   "retail": 25.0,
+   "discount": 48,
+   "free_ship": 6,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Montetondo",
+   "sku": "1013376",
+   "variant_id": 54078041850140,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MontetondoLuigi_1013376_LB_BottleShot_2.jpg?v=1782507901",
+   "published_at": "2026-11-21T10:00:09-08:00",
+   "tags": [
+    "backup",
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-21T18:00:25Z"
+  },
+  {
+   "id": 10979820306716,
+   "title": "Bouchaine Chardonnay Estate Carneros Napa Valley 2022",
+   "handle": "bouchaine-chardonnay-estate-carneros-napa-valley-2022",
+   "url": "https://lastbottlewines.com/products/bouchaine-chardonnay-estate-carneros-napa-valley-2022",
+   "status": "pdp",
+   "available": true,
+   "price": 17.0,
+   "retail": 45.0,
+   "discount": 62,
+   "free_ship": 4,
    "vintage": 2022,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1013832",
-   "variant_id": 54468800512284,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013832_ChateauHaut-MailletPomerol2022_LB_BottleShot.jpg?v=1795141100",
-   "published_at": "2026-11-20T09:56:02-08:00",
+   "sku": "2000510",
+   "variant_id": 54574859976988,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/BouchaineChardonnayEstateCarnerosNapaValley2022_2000510_LB_BottleShot.jpg?v=1795032967",
+   "published_at": "2026-11-21T09:56:05-08:00",
    "tags": [
-    "freeship:3",
+    "freeship:4",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-21T18:00:25Z"
+  },
+  {
+   "id": 10979819487516,
+   "title": "Chakana Malbec Ayni Vineyard Paraje Altamira 2020",
+   "handle": "chakana-malbec-ayni-vineyard-paraje-altamira-2020",
+   "url": "https://lastbottlewines.com/products/chakana-malbec-ayni-vineyard-paraje-altamira-2020",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 19.0,
+   "retail": 47.0,
+   "discount": 60,
+   "free_ship": 6,
+   "vintage": 2020,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013992",
+   "variant_id": 54574858109212,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChakanaMalbecAyniVineyardParajeAltamira2020_1013992_LB_BottleShot_d1c18348-c89e-45f7-805f-b74e3867ef70.jpg?v=1795031947",
+   "published_at": "2026-11-21T09:56:02-08:00",
+   "tags": [
+    "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-20T18:00:26Z"
+   "first_seen": "2026-11-21T18:00:25Z"
   },
   {
    "id": 10958674166044,
@@ -978,7 +1027,7 @@
    "title": "Château Durfort-Vivens Le Hameau Margaux 2022",
    "handle": "chateau-durfort-vivens-le-hameau-margaux-2022",
    "url": "https://lastbottlewines.com/products/chateau-durfort-vivens-le-hameau-margaux-2022",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 40.0,
    "retail": 85.0,
@@ -993,7 +1042,6 @@
    "published_at": "2026-08-24T22:55:30-07:00",
    "tags": [
     "freeship:2",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
