@@ -1,6 +1,32 @@
 {
  "products": [
   {
+   "id": 15804632498545,
+   "title": "Champagne Alexandra Sainz Héritage Brut Bouzy Grand Cru NV",
+   "handle": "champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
+   "url": "https://lastbubbles.com/products/champagne-alexandra-sainz-heritage-brut-bouzy-grand-cru-nv-1",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007774-003",
+   "variant_id": 63988089389425,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Alexandra_Sainz_Heritage_Brut_Bouzy_Grand_Cru_NV_Regen__1007774-003_BUB_BottleShot.jpg?v=1791303138",
+   "published_at": "2026-11-20T16:05:13-08:00",
+   "tags": [
+    "freeship:3",
+    "status:draftorder",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-11-21T00:15:16Z"
+  },
+  {
    "id": 15335901856113,
    "title": "Hiller Rosé Blanc de Noirs Reserve Brut 2022",
    "handle": "hiller-rose-blanc-de-noirs-reserve-brut-2022",
