@@ -1,6 +1,54 @@
 {
  "products": [
   {
+   "id": 15251852722545,
+   "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
+   "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
+   "url": "https://lastbubbles.com/products/champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 89.0,
+   "retail": 103.0,
+   "discount": 14,
+   "free_ship": 2,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012181",
+   "variant_id": 62370715369841,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Jerome_Blin_Meuniers_Sur_Sable_Brut_Nature_NV_1012181_BUB_BottleShot.jpg?v=1790267675",
+   "published_at": "2026-11-22T09:43:03-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-22T17:45:17Z"
+  },
+  {
+   "id": 9564304277819,
+   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
+   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
+   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 3485.0,
+   "retail": 5500.0,
+   "discount": 37,
+   "free_ship": 1,
+   "vintage": 2008,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000286",
+   "variant_id": 48908080808251,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
+   "published_at": "2026-11-22T09:42:56-08:00",
+   "tags": [
+    "freeship:1",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-22T17:45:17Z"
+  },
+  {
    "id": 15886746386801,
    "title": "Champagne Gounel Lassalle Single Plot Study (3-pack)",
    "handle": "champagne-gounel-lassalle-single-plot-study-3-pack",
