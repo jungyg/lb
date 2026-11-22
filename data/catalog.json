@@ -1,29 +1,53 @@
 {
  "products": [
   {
-   "id": 10828336267548,
-   "title": "Montetondo Luigi Vino Rosso Italia 2025",
-   "handle": "montetondo-luigi-vino-rosso-italia-2023",
-   "url": "https://lastbottlewines.com/products/montetondo-luigi-vino-rosso-italia-2023",
+   "id": 10792362639644,
+   "title": "Skinner Vineyards Grenache El Dorado 2020",
+   "handle": "skinner-vineyards-grenache-el-dorado-2020",
+   "url": "https://lastbottlewines.com/products/skinner-vineyards-grenache-el-dorado-2020",
    "status": "dailyoffer",
    "available": true,
-   "price": 13.0,
-   "retail": 25.0,
-   "discount": 48,
+   "price": 14.0,
+   "retail": 38.0,
+   "discount": 63,
    "free_ship": 6,
-   "vintage": 2025,
+   "vintage": 2020,
    "is_wine": true,
-   "vendor": "Montetondo",
-   "sku": "1013376",
-   "variant_id": 54078041850140,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MontetondoLuigi_1013376_LB_BottleShot_2.jpg?v=1782507901",
-   "published_at": "2026-11-21T10:00:09-08:00",
+   "vendor": "Skinner Vineyards",
+   "sku": "1013510",
+   "variant_id": 53976244355356,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/Skinner_1013510_LB_BottleShot.jpg?v=1781456884",
+   "published_at": "2026-11-22T10:00:09-08:00",
    "tags": [
     "backup",
     "freeship:6",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-21T18:00:25Z"
+   "first_seen": "2026-11-22T18:00:21Z"
+  },
+  {
+   "id": 10979796779292,
+   "title": "Sculpterra Grenache Paso Robles 2023",
+   "handle": "sculpterra-grenache-paso-robles-2023",
+   "url": "https://lastbottlewines.com/products/sculpterra-grenache-paso-robles-2023",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 18.0,
+   "retail": 42.0,
+   "discount": 57,
+   "free_ship": 6,
+   "vintage": 2023,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000273",
+   "variant_id": 54574782054684,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SculpterraGrenachePasoRobles2023_2000273_LB_BottleShot.jpg?v=1795044705",
+   "published_at": "2026-11-22T09:56:02-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-22T18:00:21Z"
   },
   {
    "id": 10979820306716,
@@ -46,30 +70,6 @@
    "tags": [
     "freeship:4",
     "status:pdp"
-   ],
-   "first_seen": "2026-11-21T18:00:25Z"
-  },
-  {
-   "id": 10979819487516,
-   "title": "Chakana Malbec Ayni Vineyard Paraje Altamira 2020",
-   "handle": "chakana-malbec-ayni-vineyard-paraje-altamira-2020",
-   "url": "https://lastbottlewines.com/products/chakana-malbec-ayni-vineyard-paraje-altamira-2020",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 19.0,
-   "retail": 47.0,
-   "discount": 60,
-   "free_ship": 6,
-   "vintage": 2020,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "1013992",
-   "variant_id": 54574858109212,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/ChakanaMalbecAyniVineyardParajeAltamira2020_1013992_LB_BottleShot_d1c18348-c89e-45f7-805f-b74e3867ef70.jpg?v=1795031947",
-   "published_at": "2026-11-21T09:56:02-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
    ],
    "first_seen": "2026-11-21T18:00:25Z"
   },
