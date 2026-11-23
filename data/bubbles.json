@@ -5,7 +5,7 @@
    "title": "Champagne Marc Hebrart Special Club Brut Premier Cru 2020",
    "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2020",
    "url": "https://lastbubbles.com/products/champagne-marc-hebrart-special-club-brut-premier-cru-2020",
-   "status": "other",
+   "status": "pdp",
    "available": true,
    "price": 94.0,
    "retail": 130.0,
@@ -20,7 +20,8 @@
    "published_at": "2026-11-23T15:30:10-08:00",
    "tags": [
     "freeship:2",
-    "status:draftorder"
+    "status:pdp",
+    "status:pdp_ad"
    ],
    "first_seen": "2026-11-23T23:30:21Z"
   },
