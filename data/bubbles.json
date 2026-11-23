@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 14622655316337,
+   "title": "Champagne Copin-Cautel Les Jeunes Pousses Brut NV",
+   "handle": "champagne-copin-cautel-les-jeunes-pousses-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-copin-cautel-les-jeunes-pousses-brut-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 39.0,
+   "retail": 80.0,
+   "discount": 51,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006526-001",
+   "variant_id": 51639828873585,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Copin-Cautel_Les_Jeunes_Pousses_Brut_NV_1006526-001_BUB_BottleShot.jpg?v=1795216779",
+   "published_at": "2026-11-23T09:45:36-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-23T18:00:36Z"
+  },
+  {
    "id": 15251852722545,
    "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
    "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
@@ -23,78 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-22T17:45:17Z"
-  },
-  {
-   "id": 9564304277819,
-   "title": "Champagne Jacques Selosse Millésime Extra Brut 2008",
-   "handle": "champagne-jacques-selosse-millesime-extra-brut-2008",
-   "url": "https://lastbubbles.com/products/champagne-jacques-selosse-millesime-extra-brut-2008",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 3485.0,
-   "retail": 5500.0,
-   "discount": 37,
-   "free_ship": 1,
-   "vintage": 2008,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1000286",
-   "variant_id": 48908080808251,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Last-Bubbles-Champagne-Jacques-Selosse-Millsime-Extra-Brut-2008-product-image-631-large.jpg?v=1717804588",
-   "published_at": "2026-11-22T09:42:56-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-22T17:45:17Z"
-  },
-  {
-   "id": 15886746386801,
-   "title": "Champagne Gounel Lassalle Single Plot Study (3-pack)",
-   "handle": "champagne-gounel-lassalle-single-plot-study-3-pack",
-   "url": "https://lastbubbles.com/products/champagne-gounel-lassalle-single-plot-study-3-pack",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 219.0,
-   "retail": 300.0,
-   "discount": 27,
-   "free_ship": 1,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "2000060",
-   "variant_id": 64151568089457,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/GounelLassalleSinglePlotStudy_3-pack__2000060_BUB_GroupShot-2.jpg?v=1783987741",
-   "published_at": "2026-11-21T15:27:59-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-21T23:30:19Z"
-  },
-  {
-   "id": 16119202808177,
-   "title": "Champagne Bonnet-Gilmert Secrets of 2015 Trio",
-   "handle": "champagne-bonnet-gilmert-secrets-of-2015-trio",
-   "url": "https://lastbubbles.com/products/champagne-bonnet-gilmert-secrets-of-2015-trio",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 274.0,
-   "retail": 500.0,
-   "discount": 45,
-   "free_ship": 1,
-   "vintage": 2015,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "2000925",
-   "variant_id": 68104956510577,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneBonnet-GilmertSecretsof2015Trio_2000925_GroupShot.jpg?v=1794515972",
-   "published_at": "2026-11-21T09:49:48-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-21T18:00:25Z"
   },
   {
    "id": 14969703825777,
