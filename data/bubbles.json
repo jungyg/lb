@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15491207594353,
+   "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Half Bottle 375mL)",
+   "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-half-bottle-375ml-new-disgorgement",
+   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-half-bottle-375ml-new-disgorgement",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 29.0,
+   "retail": 45.0,
+   "discount": 36,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007729-001",
+   "variant_id": 63378448679281,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Odyssee319_BDB_NV_HalfBottle375mL__1007729_BottleShot_442c9389-a62f-4186-8a46-ea0209e80574.jpg?v=1793905501",
+   "published_at": "2026-11-24T09:40:53-08:00",
+   "tags": [
+    "freeship:6",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-24T17:45:17Z"
+  },
+  {
    "id": 15928967004529,
    "title": "Champagne Marc Hebrart Special Club Brut Premier Cru 2020",
    "handle": "champagne-marc-hebrart-special-club-brut-premier-cru-2020",
@@ -48,30 +72,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-23T18:00:36Z"
-  },
-  {
-   "id": 15251852722545,
-   "title": "Champagne Jérôme Blin Meuniers Sur Sable Brut Nature NV",
-   "handle": "champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
-   "url": "https://lastbubbles.com/products/champagne-jerome-blin-meuniers-sur-sable-brut-nature-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 89.0,
-   "retail": 103.0,
-   "discount": 14,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1012181",
-   "variant_id": 62370715369841,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Jerome_Blin_Meuniers_Sur_Sable_Brut_Nature_NV_1012181_BUB_BottleShot.jpg?v=1790267675",
-   "published_at": "2026-11-22T09:43:03-08:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-22T17:45:17Z"
   },
   {
    "id": 14969703825777,
@@ -1287,31 +1287,6 @@
    "tags": [
     "freeship:6",
     "status:pdp"
-   ],
-   "first_seen": null
-  },
-  {
-   "id": 15386232684913,
-   "title": "Champagne Louis Chalvon Grande Reserve Brut NV (Half Bottle 375mL)",
-   "handle": "champagne-louis-chalvon-carte-blanche-nv-half-bottle-375ml",
-   "url": "https://lastbubbles.com/products/champagne-louis-chalvon-carte-blanche-nv-half-bottle-375ml",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 22.0,
-   "retail": 35.0,
-   "discount": 37,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1010017",
-   "variant_id": 62906506314097,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Louis_Chalvon_Grande_Reserve_Brut_NV_Half_Bottle_375mL__1010017_BUB_BottleShot.jpg?v=1788026537",
-   "published_at": "2026-08-30T09:12:18-07:00",
-   "tags": [
-    "freeship:6",
-    "last-bottle-credit-awarded",
-    "status:dailyoffer"
    ],
    "first_seen": null
   },
