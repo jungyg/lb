@@ -1,6 +1,31 @@
 {
  "products": [
   {
+   "id": 14998460858737,
+   "title": "Champagne Briaux Lenique Cuvée Les Semons NV",
+   "handle": "champagne-briaux-lenique-cuvee-les-semons-nv",
+   "url": "https://lastbubbles.com/products/champagne-briaux-lenique-cuvee-les-semons-nv",
+   "status": "pdp",
+   "available": true,
+   "price": 49.0,
+   "retail": 90.0,
+   "discount": 46,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1007469",
+   "variant_id": 55177178218865,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BriauxLeniqueCuveeLesSemonsNV_1007469_BottleShot.jpg?v=1767285390",
+   "published_at": "2026-11-24T13:29:25-08:00",
+   "tags": [
+    "freeship:3",
+    "status:pdp",
+    "status:pdp_ad"
+   ],
+   "first_seen": "2026-11-24T21:30:21Z"
+  },
+  {
    "id": 15804633678193,
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
