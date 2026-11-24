@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 10951570522396,
+   "title": "Adversity Cellars Red Blend Taylor’s Napa Valley 2024",
+   "handle": "adversity-cellars-red-blend-taylors-napa-valley-2024",
+   "url": "https://lastbottlewines.com/products/adversity-cellars-red-blend-taylors-napa-valley-2024",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 99.0,
+   "retail": 225.0,
+   "discount": 56,
+   "free_ship": 2,
+   "vintage": 2024,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "2000053",
+   "variant_id": 54456926044444,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/AdversityCellarsRedBlendTaylor_sNapaValley2024_2000053_LB_BottleShot.jpg?v=1795118607",
+   "published_at": "2026-11-24T09:56:02-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-24T18:00:32Z"
+  },
+  {
    "id": 10958667350300,
    "title": "Clos Saint-Jean Deus-Ex Machina Châteauneuf-du-Pape 2023",
    "handle": "clos-saint-jean-deus-ex-machina-chateauneuf-du-pape-2023",
@@ -369,32 +393,6 @@
     "status:pdp"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
-  },
-  {
-   "id": 10979884990748,
-   "title": "Mystery Zinfandel Napa Valley 2019",
-   "handle": "mystery-zinfandel-napa-valley-2019",
-   "url": "https://lastbottlewines.com/products/mystery-zinfandel-napa-valley-2019",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 14.0,
-   "retail": 45.0,
-   "discount": 69,
-   "free_ship": 4,
-   "vintage": 2019,
-   "is_wine": true,
-   "vendor": "Last Bottle Wines",
-   "sku": "2000686",
-   "variant_id": 54575120253212,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/MysteryBottle.jpg?v=1780011337",
-   "published_at": "2026-11-03T16:19:46-08:00",
-   "tags": [
-    "freeship:4",
-    "status:dailyoffer",
-    "status:pdp",
-    "status:pdp_ad"
-   ],
-   "first_seen": "2026-11-04T00:30:25Z"
   },
   {
    "id": 10705891918108,
