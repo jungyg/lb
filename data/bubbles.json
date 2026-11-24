@@ -30,7 +30,7 @@
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-half-bottle-375ml-new-disgorgement",
    "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-half-bottle-375ml-new-disgorgement",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 29.0,
    "retail": 45.0,
    "discount": 36,
@@ -44,6 +44,7 @@
    "published_at": "2026-11-24T09:40:53-08:00",
    "tags": [
     "freeship:6",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-24T17:45:17Z"
