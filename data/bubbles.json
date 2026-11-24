@@ -10,7 +10,7 @@
    "price": 49.0,
    "retail": 90.0,
    "discount": 46,
-   "free_ship": 3,
+   "free_ship": 2,
    "vintage": null,
    "is_wine": true,
    "vendor": "Last Bubbles",
@@ -19,7 +19,7 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/BriauxLeniqueCuveeLesSemonsNV_1007469_BottleShot.jpg?v=1767285390",
    "published_at": "2026-11-24T13:29:25-08:00",
    "tags": [
-    "freeship:3",
+    "freeship:2",
     "status:pdp",
     "status:pdp_ad"
    ],
