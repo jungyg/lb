@@ -1,6 +1,29 @@
 {
  "products": [
   {
+   "id": 15491207102833,
+   "title": "Champagne Veuve Doussot Sélection Brut NV",
+   "handle": "champagne-veuve-doussot-selection-brut-nv",
+   "url": "https://lastbubbles.com/products/champagne-veuve-doussot-selection-brut-nv",
+   "status": "other",
+   "available": true,
+   "price": 35.0,
+   "retail": 55.0,
+   "discount": 36,
+   "free_ship": 6,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1000616-001",
+   "variant_id": 63378447597937,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/VeuveDoussot_1000616-001_BUB_BottleShot.jpg?v=1781831275",
+   "published_at": "2026-11-25T15:41:22-08:00",
+   "tags": [
+    "freeship:6"
+   ],
+   "first_seen": "2026-11-25T23:45:17Z"
+  },
+  {
    "id": 15570297913713,
    "title": "Champagne Leclerc-Briant Château d'Avize Blanc de Blancs Brut Zero Grand Cru 2013",
    "handle": "champagne-leclerc-briant-chateau-davize-blanc-de-blancs-brut-zero-grand-cru-2013",
