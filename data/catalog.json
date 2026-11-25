@@ -375,7 +375,7 @@
    "title": "Beringer Cabernet Sauvignon Pauli Vineyard Howell Mountain Napa Valley 2018",
    "handle": "beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2018",
    "url": "https://lastbottlewines.com/products/beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2018",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 79.0,
    "retail": 150.0,
@@ -390,6 +390,7 @@
    "published_at": "2026-11-04T11:04:55-08:00",
    "tags": [
     "display:no-seo",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
