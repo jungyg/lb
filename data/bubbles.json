@@ -1,6 +1,56 @@
 {
  "products": [
   {
+   "id": 15523470606705,
+   "title": "Champagne Billecart-Salmon 250th Anniversary Cuvée Brut 2018",
+   "handle": "champagne-billecart-salmon-250th-anniversary-cuvee-brut-2018",
+   "url": "https://lastbubbles.com/products/champagne-billecart-salmon-250th-anniversary-cuvee-brut-2018",
+   "status": "pdp",
+   "available": true,
+   "price": 119.0,
+   "retail": 150.0,
+   "discount": 21,
+   "free_ship": 3,
+   "vintage": 2018,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1014039",
+   "variant_id": 63504760340849,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1014039_BUB_BottleShot.jpg?v=1780246171",
+   "published_at": "2026-11-24T16:26:04-08:00",
+   "tags": [
+    "freeship:3",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-25T00:30:27Z"
+  },
+  {
+   "id": 9627901002043,
+   "title": "Champagne André Robert Blanc de Blancs Les Horizons Extra Brut NV",
+   "handle": "champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "url": "https://lastbubbles.com/products/champagne-andre-robert-blanc-de-blancs-les-horizons-grand-cru-extra-brut-nv-disg-10-2023",
+   "status": "pdp",
+   "available": true,
+   "price": 64.0,
+   "retail": 90.0,
+   "discount": 29,
+   "free_ship": 4,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006519-001",
+   "variant_id": 49071993815355,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Andre_Robert_BDB_Les_Horizons_Grand_Cru_Extra_Brut_NV_1006519-001.jpg?v=1759338997",
+   "published_at": "2026-11-24T16:20:22-08:00",
+   "tags": [
+    "freeship:4",
+    "shop-collection",
+    "status:pdp"
+   ],
+   "first_seen": "2026-11-25T00:30:27Z"
+  },
+  {
    "id": 15461615337841,
    "title": "Artesa Sparkling Grand Reserve Baricca Brut Carneros Napa Valley 2016",
    "handle": "artesa-sparkling-grand-reserve-baricca-brut-carneros-napa-valley-2016",
