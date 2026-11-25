@@ -1,28 +1,28 @@
 {
  "products": [
   {
-   "id": 10861550534940,
-   "title": "Blackbird Vineyard Red Blend Paramour Napa Valley 2017",
-   "handle": "blackbird-vineyard-red-blend-paramour-napa-valley-2017",
-   "url": "https://lastbottlewines.com/products/blackbird-vineyard-red-blend-paramour-napa-valley-2017",
+   "id": 11026476695836,
+   "title": "Château Marojallia Margaux 2022",
+   "handle": "chateau-marojallia-margaux-2022",
+   "url": "https://lastbottlewines.com/products/chateau-marojallia-margaux-2022",
    "status": "dailyoffer",
    "available": true,
-   "price": 69.0,
-   "retail": 215.0,
-   "discount": 68,
-   "free_ship": 2,
-   "vintage": 2017,
+   "price": 38.0,
+   "retail": 70.0,
+   "discount": 46,
+   "free_ship": 3,
+   "vintage": 2022,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1015453",
-   "variant_id": 54174540464412,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1015453-34.jpg?v=1788304401",
-   "published_at": "2026-11-24T12:06:15-08:00",
+   "sku": "1013838",
+   "variant_id": 54775884972316,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-5.jpg?v=1795131138",
+   "published_at": "2026-11-25T09:56:03-08:00",
    "tags": [
-    "freeship:2",
+    "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-24T20:00:23Z"
+   "first_seen": "2026-11-25T18:00:28Z"
   },
   {
    "id": 10958667350300,
@@ -375,7 +375,7 @@
    "title": "Beringer Cabernet Sauvignon Pauli Vineyard Howell Mountain Napa Valley 2018",
    "handle": "beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2018",
    "url": "https://lastbottlewines.com/products/beringer-cabernet-sauvignon-pauli-vineyard-howell-mountain-napa-valley-2018",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 79.0,
    "retail": 150.0,
@@ -390,7 +390,6 @@
    "published_at": "2026-11-04T11:04:55-08:00",
    "tags": [
     "display:no-seo",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": "2026-11-04T19:15:17Z"
@@ -1002,7 +1001,7 @@
    "title": "Château Durfort-Vivens Le Hameau Margaux 2022",
    "handle": "chateau-durfort-vivens-le-hameau-margaux-2022",
    "url": "https://lastbottlewines.com/products/chateau-durfort-vivens-le-hameau-margaux-2022",
-   "status": "pdp",
+   "status": "dailyoffer",
    "available": true,
    "price": 40.0,
    "retail": 85.0,
@@ -1017,6 +1016,7 @@
    "published_at": "2026-08-24T22:55:30-07:00",
    "tags": [
     "freeship:2",
+    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null
