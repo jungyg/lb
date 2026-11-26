@@ -1,28 +1,52 @@
 {
  "products": [
   {
-   "id": 11026476695836,
-   "title": "Château Marojallia Margaux 2022",
-   "handle": "chateau-marojallia-margaux-2022",
-   "url": "https://lastbottlewines.com/products/chateau-marojallia-margaux-2022",
+   "id": 10941444849948,
+   "title": "Alphonse Mellot Pouilly-Fumé 2024",
+   "handle": "alphonse-mellot-pouilly-fume-2024",
+   "url": "https://lastbottlewines.com/products/alphonse-mellot-pouilly-fume-2024",
    "status": "dailyoffer",
    "available": true,
-   "price": 38.0,
-   "retail": 70.0,
-   "discount": 46,
+   "price": 35.0,
+   "retail": 60.0,
+   "discount": 42,
    "free_ship": 3,
-   "vintage": 2022,
+   "vintage": 2024,
    "is_wine": true,
    "vendor": "Last Bottle Wines",
-   "sku": "1013838",
-   "variant_id": 54775884972316,
-   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/SKU_LB_BottleShot-5.jpg?v=1795131138",
-   "published_at": "2026-11-25T09:56:03-08:00",
+   "sku": "1013882",
+   "variant_id": 54425023349020,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013882_LB_BottleShot.jpg?v=1791586410",
+   "published_at": "2026-11-26T10:00:10-08:00",
    "tags": [
     "freeship:3",
     "status:dailyoffer"
    ],
-   "first_seen": "2026-11-25T18:00:28Z"
+   "first_seen": "2026-11-26T18:00:23Z"
+  },
+  {
+   "id": 10941445177628,
+   "title": "Alphonse Mellot La Demoiselle Sancerre 2025",
+   "handle": "alphonse-mellot-la-demoiselle-sancerre-2025",
+   "url": "https://lastbottlewines.com/products/alphonse-mellot-la-demoiselle-sancerre-2025",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": 2025,
+   "is_wine": true,
+   "vendor": "Last Bottle Wines",
+   "sku": "1013879",
+   "variant_id": 54425023676700,
+   "image": "https://cdn.shopify.com/s/files/1/0763/5091/4844/files/1013879_BottleShot.jpg?v=1791586645",
+   "published_at": "2026-11-26T09:56:02-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-26T18:00:23Z"
   },
   {
    "id": 10958667350300,
@@ -1001,7 +1025,7 @@
    "title": "Château Durfort-Vivens Le Hameau Margaux 2022",
    "handle": "chateau-durfort-vivens-le-hameau-margaux-2022",
    "url": "https://lastbottlewines.com/products/chateau-durfort-vivens-le-hameau-margaux-2022",
-   "status": "dailyoffer",
+   "status": "pdp",
    "available": true,
    "price": 40.0,
    "retail": 85.0,
@@ -1016,7 +1040,6 @@
    "published_at": "2026-08-24T22:55:30-07:00",
    "tags": [
     "freeship:2",
-    "status:dailyoffer",
     "status:pdp"
    ],
    "first_seen": null

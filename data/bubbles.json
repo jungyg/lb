@@ -321,30 +321,6 @@
    "first_seen": "2026-11-24T21:30:21Z"
   },
   {
-   "id": 15804633678193,
-   "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Magnum 1.5L)",
-   "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "url": "https://lastbubbles.com/products/champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-magnum-1-5l-1",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 109.0,
-   "retail": 149.0,
-   "discount": 27,
-   "free_ship": 2,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1007730-001",
-   "variant_id": 63988090470769,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/1007730.jpg?v=1762301110",
-   "published_at": "2026-11-24T10:59:59-08:00",
-   "tags": [
-    "freeship:2",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-24T19:00:24Z"
-  },
-  {
    "id": 15491207594353,
    "title": "Champagne Odyssée 319 Blanc de Blancs Brut Grand Cru NV (Half Bottle 375mL)",
    "handle": "champagne-odyssee-319-blanc-de-blancs-brut-grand-cru-nv-half-bottle-375ml-new-disgorgement",
@@ -393,30 +369,6 @@
     "status:pdp_ad"
    ],
    "first_seen": "2026-11-23T23:30:21Z"
-  },
-  {
-   "id": 14622655316337,
-   "title": "Champagne Copin-Cautel Les Jeunes Pousses Brut NV",
-   "handle": "champagne-copin-cautel-les-jeunes-pousses-brut-nv",
-   "url": "https://lastbubbles.com/products/champagne-copin-cautel-les-jeunes-pousses-brut-nv",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 39.0,
-   "retail": 80.0,
-   "discount": 51,
-   "free_ship": 6,
-   "vintage": null,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1006526-001",
-   "variant_id": 51639828873585,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Champagne_Copin-Cautel_Les_Jeunes_Pousses_Brut_NV_1006526-001_BUB_BottleShot.jpg?v=1795216779",
-   "published_at": "2026-11-23T09:45:36-08:00",
-   "tags": [
-    "freeship:6",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-23T18:00:36Z"
   },
   {
    "id": 14969703825777,
