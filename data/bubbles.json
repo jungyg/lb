@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15804631679345,
+   "title": "Champagne Alexandra Sainz Brut Rosé Bouzy Grand Cru NV",
+   "handle": "champagne-alexandra-sainz-brut-rose-bouzy-grand-cru-nv",
+   "url": "https://lastbubbles.com/products/champagne-alexandra-sainz-brut-rose-bouzy-grand-cru-nv",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 49.0,
+   "retail": 80.0,
+   "discount": 39,
+   "free_ship": 3,
+   "vintage": null,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1012077-001",
+   "variant_id": 63988088275313,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/unnamed_5_dc14c15b-195a-4f5f-9469-0f04734e33ed.jpg?v=1793902771",
+   "published_at": "2026-11-26T09:41:06-08:00",
+   "tags": [
+    "freeship:3",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-26T17:45:17Z"
+  },
+  {
    "id": 15570297913713,
    "title": "Champagne Leclerc-Briant Château d'Avize Blanc de Blancs Brut Zero Grand Cru 2013",
    "handle": "champagne-leclerc-briant-chateau-davize-blanc-de-blancs-brut-zero-grand-cru-2013",
