@@ -1,6 +1,30 @@
 {
  "products": [
   {
+   "id": 15928967332209,
+   "title": "Champagne Bollinger La Grande Année Brut 2015",
+   "handle": "champagne-bollinger-la-grande-annee-brut-2015",
+   "url": "https://lastbubbles.com/products/champagne-bollinger-la-grande-annee-brut-2015",
+   "status": "dailyoffer",
+   "available": true,
+   "price": 149.0,
+   "retail": 275.0,
+   "discount": 46,
+   "free_ship": 2,
+   "vintage": 2015,
+   "is_wine": true,
+   "vendor": "Last Bubbles",
+   "sku": "1006545-002",
+   "variant_id": 64259771335025,
+   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/Bollinger_1006545_BottleShot_da457f58-8c62-422c-9f35-b6140627f2bf.jpg?v=1795793165",
+   "published_at": "2026-11-27T09:39:50-08:00",
+   "tags": [
+    "freeship:2",
+    "status:dailyoffer"
+   ],
+   "first_seen": "2026-11-27T17:45:17Z"
+  },
+  {
    "id": 15804631679345,
    "title": "Champagne Alexandra Sainz Brut Rosé Bouzy Grand Cru NV",
    "handle": "champagne-alexandra-sainz-brut-rose-bouzy-grand-cru-nv",
@@ -23,30 +47,6 @@
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-26T17:45:17Z"
-  },
-  {
-   "id": 15570297913713,
-   "title": "Champagne Leclerc-Briant Château d'Avize Blanc de Blancs Brut Zero Grand Cru 2013",
-   "handle": "champagne-leclerc-briant-chateau-davize-blanc-de-blancs-brut-zero-grand-cru-2013",
-   "url": "https://lastbubbles.com/products/champagne-leclerc-briant-chateau-davize-blanc-de-blancs-brut-zero-grand-cru-2013",
-   "status": "dailyoffer",
-   "available": true,
-   "price": 174.0,
-   "retail": 225.0,
-   "discount": 23,
-   "free_ship": 1,
-   "vintage": 2013,
-   "is_wine": true,
-   "vendor": "Last Bubbles",
-   "sku": "1015554",
-   "variant_id": 63645176627569,
-   "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/ChampagneLeclerc-BriantChateaudAvizeBlancdeBlancsBrutZeroGrandCru2013_1015554_BUB_BottleShot.jpg?v=1795544465",
-   "published_at": "2026-11-25T09:46:43-08:00",
-   "tags": [
-    "freeship:1",
-    "status:dailyoffer"
-   ],
-   "first_seen": "2026-11-25T18:00:28Z"
   },
   {
    "id": 14996330283377,
