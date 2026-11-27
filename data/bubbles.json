@@ -5,7 +5,7 @@
    "title": "Champagne Paul Déthune Blanc de Noirs Les Crayères Extra Brut Grand Cru 2016",
    "handle": "champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2016",
    "url": "https://lastbubbles.com/products/champagne-paul-dethune-blanc-de-noirs-les-crayeres-extra-brut-grand-cru-2016",
-   "status": "other",
+   "status": "dailyoffer",
    "available": true,
    "price": 119.0,
    "retail": 199.0,
@@ -19,7 +19,8 @@
    "image": "https://cdn.shopify.com/s/files/1/0796/1211/7307/files/PaulDethune_1000441_BottleShot_74ed0bf3-54bc-49da-8457-4ff55a6abe53.jpg?v=1733510471",
    "published_at": "2026-11-27T11:15:11-08:00",
    "tags": [
-    "freeship:2"
+    "freeship:2",
+    "status:dailyoffer"
    ],
    "first_seen": "2026-11-27T19:15:18Z"
   },
