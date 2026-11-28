@@ -30,7 +30,7 @@
    "handle": "champagne-bollinger-la-grande-annee-brut-2015",
    "url": "https://lastbubbles.com/products/champagne-bollinger-la-grande-annee-brut-2015",
    "status": "dailyoffer",
-   "available": true,
+   "available": false,
    "price": 149.0,
    "retail": 275.0,
    "discount": 46,
@@ -44,6 +44,7 @@
    "published_at": "2026-11-27T09:39:50-08:00",
    "tags": [
     "freeship:2",
+    "last-bottle-credit-awarded",
     "status:dailyoffer"
    ],
    "first_seen": "2026-11-27T17:45:17Z"
